@@ -1,0 +1,78 @@
+{
+ "title": "Git Commands",
+ "description": "What each command does.",
+ "cards": [
+  {
+   "front": "git init",
+   "back": "Create a new repository"
+  },
+  {
+   "front": "git clone",
+   "back": "Copy a remote repository"
+  },
+  {
+   "front": "git status",
+   "back": "Show changed files"
+  },
+  {
+   "front": "git add",
+   "back": "Stage changes"
+  },
+  {
+   "front": "git commit",
+   "back": "Save staged changes"
+  },
+  {
+   "front": "git push",
+   "back": "Send commits to a remote"
+  },
+  {
+   "front": "git pull",
+   "back": "Fetch and merge remote changes"
+  },
+  {
+   "front": "git branch",
+   "back": "List or create branches"
+  },
+  {
+   "front": "git checkout / git switch",
+   "back": "Change branch"
+  },
+  {
+   "front": "git merge",
+   "back": "Combine branches"
+  },
+  {
+   "front": "git rebase",
+   "back": "Replay commits on a new base"
+  },
+  {
+   "front": "git stash",
+   "back": "Shelve uncommitted changes"
+  },
+  {
+   "front": "git log",
+   "back": "Show commit history"
+  },
+  {
+   "front": "git diff",
+   "back": "Show changes between versions"
+  },
+  {
+   "front": "git reset",
+   "back": "Move HEAD and undo commits"
+  },
+  {
+   "front": "git revert",
+   "back": "Make a commit that undoes another"
+  },
+  {
+   "front": "git remote -v",
+   "back": "List remote URLs"
+  },
+  {
+   "front": "git cherry-pick",
+   "back": "Apply a single commit elsewhere"
+  }
+ ]
+}

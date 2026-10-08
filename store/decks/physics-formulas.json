@@ -1,0 +1,54 @@
+{
+ "title": "Physics Formulas",
+ "description": "Key equations.",
+ "cards": [
+  {
+   "front": "Newton's second law",
+   "back": "F = ma"
+  },
+  {
+   "front": "Mass-energy equivalence",
+   "back": "E = mc²"
+  },
+  {
+   "front": "Ohm's law",
+   "back": "V = IR"
+  },
+  {
+   "front": "Speed",
+   "back": "distance ÷ time"
+  },
+  {
+   "front": "Density",
+   "back": "mass ÷ volume"
+  },
+  {
+   "front": "Electric power",
+   "back": "P = IV"
+  },
+  {
+   "front": "Kinetic energy",
+   "back": "½mv²"
+  },
+  {
+   "front": "Momentum",
+   "back": "p = mv"
+  },
+  {
+   "front": "Work",
+   "back": "W = F × d"
+  },
+  {
+   "front": "Ideal gas law",
+   "back": "PV = nRT"
+  },
+  {
+   "front": "Weight",
+   "back": "W = mg"
+  },
+  {
+   "front": "Pressure",
+   "back": "force ÷ area"
+  }
+ ]
+}

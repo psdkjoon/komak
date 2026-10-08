@@ -1,0 +1,46 @@
+{
+ "title": "Famous Architects",
+ "description": "Architect and work.",
+ "cards": [
+  {
+   "front": "Antoni Gaudí",
+   "back": "Sagrada Família"
+  },
+  {
+   "front": "Frank Lloyd Wright",
+   "back": "Fallingwater"
+  },
+  {
+   "front": "Le Corbusier",
+   "back": "Villa Savoye"
+  },
+  {
+   "front": "Zaha Hadid",
+   "back": "Heydar Aliyev Center"
+  },
+  {
+   "front": "I. M. Pei",
+   "back": "Louvre Pyramid"
+  },
+  {
+   "front": "Norman Foster",
+   "back": "The Gherkin, London"
+  },
+  {
+   "front": "Filippo Brunelleschi",
+   "back": "Dome of Florence Cathedral"
+  },
+  {
+   "front": "Gustave Eiffel",
+   "back": "Eiffel Tower"
+  },
+  {
+   "front": "Jørn Utzon",
+   "back": "Sydney Opera House"
+  },
+  {
+   "front": "Mimar Sinan",
+   "back": "Süleymaniye Mosque"
+  }
+ ]
+}

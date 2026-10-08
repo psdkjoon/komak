@@ -1,0 +1,74 @@
+{
+ "title": "French Numbers",
+ "description": "Count in French.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "un"
+  },
+  {
+   "front": "2",
+   "back": "deux"
+  },
+  {
+   "front": "3",
+   "back": "trois"
+  },
+  {
+   "front": "4",
+   "back": "quatre"
+  },
+  {
+   "front": "5",
+   "back": "cinq"
+  },
+  {
+   "front": "6",
+   "back": "six"
+  },
+  {
+   "front": "7",
+   "back": "sept"
+  },
+  {
+   "front": "8",
+   "back": "huit"
+  },
+  {
+   "front": "9",
+   "back": "neuf"
+  },
+  {
+   "front": "10",
+   "back": "dix"
+  },
+  {
+   "front": "11",
+   "back": "onze"
+  },
+  {
+   "front": "12",
+   "back": "douze"
+  },
+  {
+   "front": "20",
+   "back": "vingt"
+  },
+  {
+   "front": "30",
+   "back": "trente"
+  },
+  {
+   "front": "70",
+   "back": "soixante-dix"
+  },
+  {
+   "front": "80",
+   "back": "quatre-vingts"
+  },
+  {
+   "front": "100",
+   "back": "cent"
+  }
+ ]
+}

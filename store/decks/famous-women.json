@@ -1,0 +1,54 @@
+{
+ "title": "Remarkable Women",
+ "description": "Person and achievement.",
+ "cards": [
+  {
+   "front": "Marie Curie",
+   "back": "Won Nobel Prizes in physics and chemistry"
+  },
+  {
+   "front": "Rosa Parks",
+   "back": "Sparked the Montgomery bus boycott"
+  },
+  {
+   "front": "Malala Yousafzai",
+   "back": "Youngest Nobel Peace Prize laureate"
+  },
+  {
+   "front": "Ada Lovelace",
+   "back": "Early computing pioneer"
+  },
+  {
+   "front": "Florence Nightingale",
+   "back": "Founder of modern nursing"
+  },
+  {
+   "front": "Amelia Earhart",
+   "back": "Aviation pioneer"
+  },
+  {
+   "front": "Harriet Tubman",
+   "back": "Led enslaved people to freedom"
+  },
+  {
+   "front": "Wangari Maathai",
+   "back": "Founded the Green Belt Movement"
+  },
+  {
+   "front": "Jane Goodall",
+   "back": "Studied chimpanzees"
+  },
+  {
+   "front": "Maryam Mirzakhani",
+   "back": "First woman to win the Fields Medal"
+  },
+  {
+   "front": "Frida Kahlo",
+   "back": "Mexican painter"
+  },
+  {
+   "front": "Valentina Tereshkova",
+   "back": "First woman in space"
+  }
+ ]
+}

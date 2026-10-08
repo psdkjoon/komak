@@ -1,0 +1,41 @@
+{
+ "title": "Electromagnetic Spectrum",
+ "description": "From longest to shortest wavelength.",
+ "cards": [
+  {
+   "front": "Band 1",
+   "back": "Radio waves",
+   "orderIndex": 1
+  },
+  {
+   "front": "Band 2",
+   "back": "Microwaves",
+   "orderIndex": 2
+  },
+  {
+   "front": "Band 3",
+   "back": "Infrared",
+   "orderIndex": 3
+  },
+  {
+   "front": "Band 4",
+   "back": "Visible light",
+   "orderIndex": 4
+  },
+  {
+   "front": "Band 5",
+   "back": "Ultraviolet",
+   "orderIndex": 5
+  },
+  {
+   "front": "Band 6",
+   "back": "X-rays",
+   "orderIndex": 6
+  },
+  {
+   "front": "Band 7",
+   "back": "Gamma rays",
+   "orderIndex": 7
+  }
+ ]
+}

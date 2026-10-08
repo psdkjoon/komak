@@ -1,0 +1,46 @@
+{
+ "title": "Docker Commands",
+ "description": "Command and effect.",
+ "cards": [
+  {
+   "front": "docker run",
+   "back": "Create and start a container"
+  },
+  {
+   "front": "docker ps",
+   "back": "List running containers"
+  },
+  {
+   "front": "docker images",
+   "back": "List images"
+  },
+  {
+   "front": "docker build",
+   "back": "Build an image from a Dockerfile"
+  },
+  {
+   "front": "docker stop",
+   "back": "Stop a container"
+  },
+  {
+   "front": "docker rm",
+   "back": "Remove a container"
+  },
+  {
+   "front": "docker exec",
+   "back": "Run a command in a running container"
+  },
+  {
+   "front": "docker pull",
+   "back": "Download an image"
+  },
+  {
+   "front": "docker logs",
+   "back": "Show container logs"
+  },
+  {
+   "front": "docker compose up",
+   "back": "Start services from compose file"
+  }
+ ]
+}

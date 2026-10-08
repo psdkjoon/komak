@@ -1,0 +1,86 @@
+{
+ "title": "FIFA World Cup Winners",
+ "description": "Winners by tournament year.",
+ "cards": [
+  {
+   "front": "2022",
+   "back": "Argentina"
+  },
+  {
+   "front": "2018",
+   "back": "France"
+  },
+  {
+   "front": "2014",
+   "back": "Germany"
+  },
+  {
+   "front": "2010",
+   "back": "Spain"
+  },
+  {
+   "front": "2006",
+   "back": "Italy"
+  },
+  {
+   "front": "2002",
+   "back": "Brazil"
+  },
+  {
+   "front": "1998",
+   "back": "France"
+  },
+  {
+   "front": "1994",
+   "back": "Brazil"
+  },
+  {
+   "front": "1990",
+   "back": "West Germany"
+  },
+  {
+   "front": "1986",
+   "back": "Argentina"
+  },
+  {
+   "front": "1982",
+   "back": "Italy"
+  },
+  {
+   "front": "1978",
+   "back": "Argentina"
+  },
+  {
+   "front": "1974",
+   "back": "West Germany"
+  },
+  {
+   "front": "1970",
+   "back": "Brazil"
+  },
+  {
+   "front": "1966",
+   "back": "England"
+  },
+  {
+   "front": "1962",
+   "back": "Brazil"
+  },
+  {
+   "front": "1958",
+   "back": "Brazil"
+  },
+  {
+   "front": "1954",
+   "back": "West Germany"
+  },
+  {
+   "front": "1950",
+   "back": "Uruguay"
+  },
+  {
+   "front": "1930",
+   "back": "Uruguay"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Common Misconceptions",
+ "description": "The claim and the truth.",
+ "cards": [
+  {
+   "front": "Great Wall visible from space?",
+   "back": "Not with the naked eye"
+  },
+  {
+   "front": "Humans use 10% of the brain?",
+   "back": "No, we use all of it"
+  },
+  {
+   "front": "Lightning never strikes twice?",
+   "back": "It often does"
+  },
+  {
+   "front": "Goldfish have 3-second memory?",
+   "back": "No, they remember for months"
+  },
+  {
+   "front": "Bats are blind?",
+   "back": "No, they can see"
+  },
+  {
+   "front": "Tongue has a taste map?",
+   "back": "No, all areas sense all tastes"
+  },
+  {
+   "front": "Cracking knuckles causes arthritis?",
+   "back": "No evidence it does"
+  },
+  {
+   "front": "Sugar makes kids hyperactive?",
+   "back": "Studies find no link"
+  },
+  {
+   "front": "Shaving makes hair grow thicker?",
+   "back": "No"
+  },
+  {
+   "front": "We swallow 8 spiders a year?",
+   "back": "No, it is a myth"
+  }
+ ]
+}

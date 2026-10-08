@@ -1,0 +1,46 @@
+{
+ "title": "Boolean Logic",
+ "description": "Gate and rule.",
+ "cards": [
+  {
+   "front": "AND",
+   "back": "True only if both are true"
+  },
+  {
+   "front": "OR",
+   "back": "True if at least one is true"
+  },
+  {
+   "front": "NOT",
+   "back": "Flips true and false"
+  },
+  {
+   "front": "XOR",
+   "back": "True if exactly one is true"
+  },
+  {
+   "front": "NAND",
+   "back": "NOT AND"
+  },
+  {
+   "front": "NOR",
+   "back": "NOT OR"
+  },
+  {
+   "front": "true AND false",
+   "back": "false"
+  },
+  {
+   "front": "true OR false",
+   "back": "true"
+  },
+  {
+   "front": "NOT true",
+   "back": "false"
+  },
+  {
+   "front": "true XOR true",
+   "back": "false"
+  }
+ ]
+}

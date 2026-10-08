@@ -1,0 +1,66 @@
+{
+ "title": "Famous Rivers",
+ "description": "River and where it flows.",
+ "cards": [
+  {
+   "front": "Nile",
+   "back": "Egypt"
+  },
+  {
+   "front": "Amazon",
+   "back": "Brazil"
+  },
+  {
+   "front": "Danube",
+   "back": "Central and Eastern Europe"
+  },
+  {
+   "front": "Rhine",
+   "back": "Germany and the Netherlands"
+  },
+  {
+   "front": "Thames",
+   "back": "London"
+  },
+  {
+   "front": "Seine",
+   "back": "Paris"
+  },
+  {
+   "front": "Tiber",
+   "back": "Rome"
+  },
+  {
+   "front": "Ganges",
+   "back": "India"
+  },
+  {
+   "front": "Yangtze",
+   "back": "China"
+  },
+  {
+   "front": "Mississippi",
+   "back": "United States"
+  },
+  {
+   "front": "Volga",
+   "back": "Russia"
+  },
+  {
+   "front": "Tigris",
+   "back": "Baghdad"
+  },
+  {
+   "front": "Mekong",
+   "back": "Southeast Asia"
+  },
+  {
+   "front": "Murray",
+   "back": "Australia"
+  },
+  {
+   "front": "Congo",
+   "back": "Central Africa"
+  }
+ ]
+}

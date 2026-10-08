@@ -1,0 +1,54 @@
+{
+ "title": "Spanish Body Parts",
+ "description": "Body parts in Spanish.",
+ "cards": [
+  {
+   "front": "Head",
+   "back": "Cabeza"
+  },
+  {
+   "front": "Hand",
+   "back": "Mano"
+  },
+  {
+   "front": "Foot",
+   "back": "Pie"
+  },
+  {
+   "front": "Eye",
+   "back": "Ojo"
+  },
+  {
+   "front": "Ear",
+   "back": "Oreja"
+  },
+  {
+   "front": "Nose",
+   "back": "Nariz"
+  },
+  {
+   "front": "Mouth",
+   "back": "Boca"
+  },
+  {
+   "front": "Arm",
+   "back": "Brazo"
+  },
+  {
+   "front": "Leg",
+   "back": "Pierna"
+  },
+  {
+   "front": "Heart",
+   "back": "Corazón"
+  },
+  {
+   "front": "Hair",
+   "back": "Pelo"
+  },
+  {
+   "front": "Finger",
+   "back": "Dedo"
+  }
+ ]
+}

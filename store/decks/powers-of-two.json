@@ -1,0 +1,62 @@
+{
+ "title": "Powers Of Two",
+ "description": "Useful for computing and memory sizes.",
+ "cards": [
+  {
+   "front": "2⁰",
+   "back": "1"
+  },
+  {
+   "front": "2¹",
+   "back": "2"
+  },
+  {
+   "front": "2²",
+   "back": "4"
+  },
+  {
+   "front": "2³",
+   "back": "8"
+  },
+  {
+   "front": "2⁴",
+   "back": "16"
+  },
+  {
+   "front": "2⁵",
+   "back": "32"
+  },
+  {
+   "front": "2⁶",
+   "back": "64"
+  },
+  {
+   "front": "2⁷",
+   "back": "128"
+  },
+  {
+   "front": "2⁸",
+   "back": "256"
+  },
+  {
+   "front": "2⁹",
+   "back": "512"
+  },
+  {
+   "front": "2¹⁰",
+   "back": "1024"
+  },
+  {
+   "front": "2¹¹",
+   "back": "2048"
+  },
+  {
+   "front": "2¹²",
+   "back": "4096"
+  },
+  {
+   "front": "2¹⁶",
+   "back": "65536"
+  }
+ ]
+}

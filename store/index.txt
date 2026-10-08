@@ -1,0 +1,325 @@
+# komak store index
+# format:  Title | Description | path-to-deck-file
+
+Planets In Order | The eight planets by distance from the Sun. | decks/planets.json
+Roman Numerals | Read and write Roman numerals. | decks/roman-numerals.json
+Greek Alphabet | Letter names and their symbols. | decks/greek-alphabet.json
+NATO Phonetic Alphabet | Spelling words clearly over the radio. | decks/nato-alphabet.json
+Chemical Element Symbols | Element names and their symbols. | decks/element-symbols.json
+Atomic Numbers | Which element has which atomic number. | decks/element-numbers.json
+US State Capitals | All 50 US states and their capitals, by region. | decks/us-state-capitals.json
+World Currencies | The currency used in each country. | decks/currencies.json
+Highest Peak On Each Continent | The Seven Summits. | decks/highest-peaks.json
+Geography Superlatives | Biggest, longest and deepest on Earth. | decks/geography-superlatives.json
+Seven Wonders Of The Ancient World | Where each wonder stood. | decks/ancient-wonders.json
+Spanish Basics | Everyday Spanish words. | decks/spanish-basics.json
+French Basics | Everyday French words. | decks/french-basics.json
+German Basics | Everyday German words. | decks/german-basics.json
+Italian Basics | Everyday Italian words. | decks/italian-basics.json
+Persian Basics | Everyday Persian words with pronunciation. | decks/persian-basics.json
+Hiragana | The basic hiragana characters and their sounds. | decks/hiragana.json
+Katakana | The basic katakana characters and their sounds. | decks/katakana.json
+Perfect Squares | Squares of 1 to 20. | decks/squares.json
+Powers Of Two | Useful for computing and memory sizes. | decks/powers-of-two.json
+First 25 Prime Numbers | Primes in order. | decks/primes.json
+Geometry Formulas | Area, volume and angles. | decks/geometry-formulas.json
+SI Prefixes | Metric prefixes and their powers of ten. | decks/si-prefixes.json
+SI Units | Quantities and their units. | decks/si-units.json
+Physics Constants | Common values worth knowing. | decks/physics-constants.json
+Cell Organelles | What each part of the cell does. | decks/cell-organelles.json
+Taxonomic Ranks | From broadest to narrowest. | decks/taxonomy.json
+Human Body Facts | Organs, bones and systems. | decks/human-body.json
+Baby Animals | What each young animal is called. | decks/animal-babies.json
+Animal Group Names | Collective nouns for animals. | decks/collective-nouns.json
+Geologic Periods | From oldest to youngest. | decks/geologic-periods.json
+HTTP Status Codes | What each response code means. | decks/http-codes.json
+Common Network Ports | Default ports for popular services. | decks/common-ports.json
+OSI Model Layers | From the bottom layer up. | decks/osi-layers.json
+Git Commands | What each command does. | decks/git-commands.json
+Linux Commands | Everyday shell commands. | decks/linux-commands.json
+Arch Linux pacman | Package management on Arch. | decks/pacman-commands.json
+Vim Commands | Essential normal-mode commands. | decks/vim-commands.json
+Dart Concepts | Core Dart language ideas. | decks/dart-keywords.json
+Big-O Complexities | Typical time complexities. | decks/big-o.json
+Computer Acronyms | What the letters stand for. | decks/cs-acronyms.json
+SQL Keywords | What each clause does. | decks/sql-keywords.json
+Greek And Roman Gods | Greek names and Roman equivalents. | decks/greek-roman-gods.json
+Shakespeare Plays | Tragedy, comedy or history. | decks/shakespeare.json
+Classic Books And Authors | Who wrote what. | decks/books-authors.json
+Famous Paintings | Painting and painter. | decks/famous-paintings.json
+Inventions And Inventors | Who is credited with what. | decks/inventions.json
+First Ten US Presidents | In order of office. | decks/us-presidents.json
+Key Dates In History | Events and their years. | decks/history-dates.json
+FIFA World Cup Winners | Winners by tournament year. | decks/world-cup.json
+Musical Intervals | Number of semitones. | decks/music-intervals.json
+Major Key Signatures | Sharps and flats per key. | decks/key-signatures.json
+Latin Phrases | Common phrases and meanings. | decks/latin-phrases.json
+English Idioms | What common idioms really mean. | decks/idioms.json
+Greek And Latin Roots | Roots that build English words. | decks/word-roots.json
+Colours Of The Rainbow | In order from the outside of the arc. | decks/rainbow-colors.json
+Chess Basics | Pieces, values and moves. | decks/chess-pieces.json
+Cooking Conversions | Kitchen measurements. | decks/cooking-conversions.json
+Computing Pioneers | People and their contributions. | decks/computer-history.json
+Brain Lobes | Where the brain does what. | decks/human-senses-brain.json
+Official Languages | Main official language per country. | decks/countries-languages.json
+Spanish Numbers | Count in Spanish. | decks/spanish-numbers.json
+Spanish Colours | Colours in Spanish. | decks/spanish-colors.json
+Spanish Family Words | Family members in Spanish. | decks/spanish-family.json
+French Numbers | Count in French. | decks/french-numbers.json
+French Food Words | Food vocabulary in French. | decks/french-food.json
+German Numbers | Count in German. | decks/german-numbers.json
+Italian Food Words | Food vocabulary in Italian. | decks/italian-food.json
+Japanese Numbers | Count in Japanese. | decks/japanese-numbers.json
+Japanese Greetings | Everyday phrases. | decks/japanese-greetings.json
+Korean Hangul Basics | Core consonants and vowels. | decks/korean-hangul.json
+Arabic Alphabet | Letters and their names. | decks/arabic-alphabet.json
+Russian Cyrillic | Letters and their sounds. | decks/russian-cyrillic.json
+Hebrew Alphabet | Letters and their names. | decks/hebrew-alphabet.json
+Persian Alphabet | Letters and their names. | decks/persian-alphabet.json
+Persian Numbers | Count in Persian. | decks/persian-numbers.json
+Mandarin Basics | Common words with pinyin. | decks/mandarin-basics.json
+Turkish Basics | Everyday Turkish words. | decks/turkish-basics.json
+Portuguese Basics | Everyday Portuguese words. | decks/portuguese-basics.json
+Moons Of The Solar System | Moons and their planets. | decks/moons.json
+Space Firsts | Milestones of space exploration. | decks/space-firsts.json
+Constellations | Names and what they represent. | decks/constellations.json
+Types Of Rock | Igneous, sedimentary or metamorphic. | decks/rock-types.json
+Mohs Hardness Scale | From softest to hardest. | decks/mohs-scale.json
+Layers Of The Earth | From the surface down. | decks/earth-layers.json
+Layers Of The Atmosphere | From the ground up. | decks/atmosphere-layers.json
+Cloud Types | Names and looks. | decks/cloud-types.json
+Solar System Facts | Quick planetary superlatives. | decks/solar-system-facts.json
+Vitamins And Sources | Where each vitamin comes from. | decks/vitamins.json
+Bone Names | Common names and scientific names. | decks/bones.json
+Digestive Path | Food from mouth to exit. | decks/digestive-path.json
+Glands And Hormones | What each hormone does. | decks/glands-hormones.json
+Branches Of Science | What each -ology studies. | decks/branches-of-science.json
+Common Phobias | Fear and its name. | decks/phobias.json
+Animal Classes | Mammal, bird, reptile, amphibian or fish. | decks/animal-classes.json
+Dinosaurs | Which dinosaur is which. | decks/dinosaurs.json
+Animal Records | The fastest, biggest, tallest. | decks/animal-records.json
+Medical Word Parts | Roots used in medical terms. | decks/medical-roots.json
+Medical Abbreviations | What the letters stand for. | decks/medical-abbrev.json
+Food Chain Terms | Roles in an ecosystem. | decks/food-chain.json
+Element Groups | Alkali metals, halogens or noble gases. | decks/element-groups.json
+Chemical Formulas | Common compounds. | decks/compound-formulas.json
+pH Scale | Where common things sit. | decks/ph-scale.json
+Simple Machines | The six classical machines. | decks/simple-machines.json
+Electromagnetic Spectrum | From longest to shortest wavelength. | decks/em-spectrum.json
+Physics Formulas | Key equations. | decks/physics-formulas.json
+Lab Equipment | What each tool is for. | decks/lab-equipment.json
+Fractions To Decimals | Common conversions. | decks/fractions-decimals.json
+Trigonometry Values | Common sine and cosine values. | decks/trig-values.json
+Math Symbols | Names of common symbols. | decks/math-symbols.json
+Polygons | Name and number of sides. | decks/polygons.json
+Large Numbers | Names and powers of ten. | decks/large-numbers.json
+Derivative Rules | Basic calculus. | decks/derivatives.json
+Fibonacci Sequence | First 15 terms. | decks/fibonacci.json
+Factorials | n! for 0 to 10. | decks/factorials.json
+Perfect Cubes | Cubes of 1 to 12. | decks/cubes.json
+Binary Numbers | Decimal to binary. | decks/binary-numbers.json
+Hexadecimal | Decimal to hex. | decks/hex-digits.json
+Angles And Triangles | Types and definitions. | decks/angles-triangles.json
+Hard Multiplication Facts | The ones people forget. | decks/multiplication-hard.json
+Famous Rivers | River and where it flows. | decks/rivers.json
+Mountain Ranges | Range and where it is. | decks/mountain-ranges.json
+Famous Deserts | Desert and location. | decks/deserts.json
+Seas And Water Bodies | Sea and bordering region. | decks/seas.json
+Largest Islands | Rank by area. | decks/islands-by-size.json
+Famous Landmarks | Landmark and country. | decks/landmarks.json
+City Nicknames | Nickname and city. | decks/city-nicknames.json
+South America Capitals | Country and capital. | decks/south-america-capitals.json
+Asia Capitals | Country and capital. | decks/asia-capitals.json
+Europe Capitals | Country and capital. | decks/europe-capitals.json
+Canadian Provinces | Province and capital. | decks/canada-provinces.json
+Australian States | State and capital. | decks/australia-states.json
+Time Zones | City and UTC offset (standard time). | decks/time-zones.json
+The Tudor Monarchs | In order of reign. | decks/tudors.json
+First Roman Emperors | In order. | decks/roman-emperors.json
+Wars And Their Years | War and dates. | decks/wars-years.json
+Great Explorers | Explorer and achievement. | decks/explorers.json
+Renaissance Figures | Person and known for. | decks/renaissance-figures.json
+Philosophers | Thinker and key idea. | decks/philosophers.json
+Persian Heritage | Figures of Iranian history and literature. | decks/persian-heritage.json
+Islamic Golden Age Scholars | Scholar and contribution. | decks/islamic-golden-age.json
+World Religions And Texts | Religion and its main text. | decks/holy-books.json
+Norse Gods | God and domain. | decks/norse-gods.json
+Egyptian Gods | God and domain. | decks/egyptian-gods.json
+Mythical Creatures | Creature and culture. | decks/myth-creatures.json
+Ancient Egypt | People, places and facts. | decks/ancient-egypt.json
+UN And World Bodies | Acronym and meaning. | decks/security-council.json
+US Constitution Amendments | Number and meaning. | decks/us-amendments.json
+Art Movements | Movement and a key artist. | decks/art-movements.json
+Classical Composers | Composer and famous work. | decks/composers.json
+Instrument Families | Strings, woodwind, brass or percussion. | decks/instrument-families.json
+Italian Music Terms | Tempo and dynamics. | decks/music-terms.json
+Note Values | Beats in common time. | decks/note-values.json
+Guitar Standard Tuning | Strings from lowest to highest. | decks/guitar-tuning.json
+Treble Clef Notes | Reading the staff. | decks/treble-staff.json
+Famous Architects | Architect and work. | decks/architects.json
+Literary Devices | Device and meaning. | decks/literary-devices.json
+Parts Of Speech | Name and function. | decks/parts-of-speech.json
+Punctuation Marks | Name and use. | decks/punctuation.json
+Commonly Confused Words | Pick the right one. | decks/confused-words.json
+Commonly Misspelled Words | Clue to correct spelling. | decks/misspelled-words.json
+Advanced Vocabulary | Word and meaning. | decks/advanced-vocab.json
+Phrasal Verbs | Phrase and meaning. | decks/phrasal-verbs.json
+British Vs American English | British word and American word. | decks/british-american.json
+Irregular Verbs | Base verb and its past forms. | decks/irregular-verbs.json
+Python Basics | Syntax and concepts. | decks/python-basics.json
+JavaScript Basics | Syntax and concepts. | decks/javascript-basics.json
+HTML Tags | Tag and purpose. | decks/html-tags.json
+CSS Properties | Property and effect. | decks/css-properties.json
+Regex Symbols | Symbol and meaning. | decks/regex-symbols.json
+Terminal Shortcuts | Key and effect. | decks/bash-shortcuts.json
+Docker Commands | Command and effect. | decks/docker-commands.json
+Data Structures | Name and key trait. | decks/data-structures.json
+Design Patterns | Pattern and idea. | decks/design-patterns.json
+SOLID Principles | Letter and principle. | decks/solid-principles.json
+Algorithms | Algorithm and use. | decks/algorithms.json
+ASCII Codes | Character and decimal code. | decks/ascii-codes.json
+Keyboard Shortcuts | Shortcut and action. | decks/keyboard-shortcuts.json
+Linux Directories | Directory and purpose. | decks/linux-directories.json
+systemctl Commands | Command and effect. | decks/systemctl-commands.json
+Flutter Widgets | Widget and purpose. | decks/flutter-widgets.json
+Cybersecurity Terms | Term and meaning. | decks/cybersecurity.json
+Networking Terms | Term and meaning. | decks/networking-terms.json
+File Extensions | Extension and type. | decks/file-extensions.json
+AI And Machine Learning Terms | Term and meaning. | decks/ai-terms.json
+Personal Finance Terms | Term and meaning. | decks/personal-finance.json
+Economics Terms | Term and meaning. | decks/economics-terms.json
+Business Terms | Term and meaning. | decks/business-terms.json
+Macronutrients | Calories per gram. | decks/macronutrients.json
+Cheese Origins | Cheese and country. | decks/cheese-origins.json
+Dishes By Country | Dish and country. | decks/dishes-by-country.json
+Coffee Drinks | Drink and what is in it. | decks/coffee-types.json
+Tea Types | Type and trait. | decks/tea-types.json
+Spices And Where They Come From | Spice and source. | decks/spices.json
+Cooking Terms | Term and meaning. | decks/cooking-terms.json
+Players Per Team | Sport and team size on the field. | decks/sports-players.json
+Sports Terms | Term and sport or meaning. | decks/sports-terms.json
+Summer Olympic Hosts | Year and host city. | decks/olympic-hosts.json
+Tennis Grand Slams | Tournament and place. | decks/tennis-slams.json
+Martial Arts Origins | Art and country. | decks/martial-arts.json
+Logical Fallacies | Fallacy and meaning. | decks/logical-fallacies.json
+Cognitive Biases | Bias and meaning. | decks/cognitive-biases.json
+Maslow's Hierarchy | From the base to the top. | decks/maslow.json
+Big Five Personality Traits | The OCEAN model. | decks/big-five.json
+Study Techniques | Technique and idea. | decks/study-techniques.json
+Greenhouse Gases | Main gases and sources. | decks/greenhouse-gases.json
+Biomes | Biome and trait. | decks/biomes.json
+Birthstones | Month and stone. | decks/birthstones.json
+Chinese Zodiac | Animals in order. | decks/chinese-zodiac.json
+Wedding Anniversaries | Year and traditional gift. | decks/anniversaries.json
+Currency Symbols | Symbol and currency. | decks/currency-symbols.json
+Unit Conversions | Common conversions. | decks/unit-conversions.json
+Data Units | Sizes of digital data. | decks/data-units.json
+Time Facts | Handy time numbers. | decks/time-facts.json
+Photography Terms | Term and meaning. | decks/photography.json
+Morse Code | Letter and code. | decks/morse-code.json
+Colour Theory | Mixing and opposites. | decks/color-theory.json
+Hex Colours | Colour and hex code. | decks/hex-colors.json
+Hindi Basics | Everyday Hindi words. | decks/hindi-basics.json
+Urdu Basics | Everyday Urdu words. | decks/urdu-basics.json
+Indonesian Basics | Everyday Indonesian words. | decks/indonesian-basics.json
+Swahili Basics | Everyday Swahili words. | decks/swahili-basics.json
+Vietnamese Basics | Everyday Vietnamese words. | decks/vietnamese-basics.json
+Greek Basics | Everyday Greek words. | decks/greek-basics.json
+Polish Basics | Everyday Polish words. | decks/polish-basics.json
+Dutch Basics | Everyday Dutch words. | decks/dutch-basics.json
+Swedish Basics | Everyday Swedish words. | decks/swedish-basics.json
+Thai Basics | Everyday Thai words. | decks/thai-basics.json
+Tagalog Basics | Everyday Tagalog words. | decks/tagalog-basics.json
+Arabic Basics | Everyday Arabic words. | decks/arabic-basics.json
+Korean Basics | Everyday Korean words. | decks/korean-basics.json
+Russian Basics | Everyday Russian words. | decks/russian-basics.json
+Travel Phrases: Spanish | Handy phrases for travelling. | decks/phrases-spanish.json
+Travel Phrases: French | Handy phrases for travelling. | decks/phrases-french.json
+Travel Phrases: German | Handy phrases for travelling. | decks/phrases-german.json
+Travel Phrases: Italian | Handy phrases for travelling. | decks/phrases-italian.json
+Travel Phrases: Portuguese | Handy phrases for travelling. | decks/phrases-portuguese.json
+Travel Phrases: Turkish | Handy phrases for travelling. | decks/phrases-turkish.json
+Travel Phrases: Persian | Handy phrases for travelling. | decks/phrases-persian.json
+Travel Phrases: Arabic | Handy phrases for travelling. | decks/phrases-arabic.json
+Travel Phrases: Hindi | Handy phrases for travelling. | decks/phrases-hindi.json
+Travel Phrases: Japanese | Handy phrases for travelling. | decks/phrases-japanese.json
+Travel Phrases: Mandarin | Handy phrases for travelling. | decks/phrases-mandarin.json
+Travel Phrases: Korean | Handy phrases for travelling. | decks/phrases-korean.json
+Travel Phrases: Russian | Handy phrases for travelling. | decks/phrases-russian.json
+Hello In Many Languages | Greetings around the world. | decks/hello-world.json
+Thank You In Many Languages | Gratitude around the world. | decks/thank-you-world.json
+I Love You In Many Languages | Say it around the world. | decks/love-world.json
+Goodbye In Many Languages | Farewells around the world. | decks/goodbye-world.json
+Numbers In English | Digits and their spelling. | decks/number-words.json
+Ordinal Numbers | First, second, third… | decks/ordinal-numbers.json
+Days Of The Week | In order, Monday first. | decks/days-of-week.json
+Seasons | In order from spring. | decks/seasons.json
+In, On, At | Prepositions of time. | decks/preposition-time.json
+Irregular Plurals | Singular and plural. | decks/irregular-plurals.json
+Homophones | Choose the right word. | decks/homophones.json
+Contractions | Short and full forms. | decks/contractions.json
+Opposites | Word and its opposite. | decks/antonyms.json
+Telling Time | Clock phrases. | decks/telling-time.json
+Email And Text Abbreviations | Abbreviation and meaning. | decks/email-abbrev.json
+Jobs And Professions | Job and what they do. | decks/professions.json
+Compass Directions | Directions and abbreviations. | decks/compass-directions.json
+Alphabet Words | Letter and a word that starts with it. | decks/abc-phonics.json
+Animal Sounds | Animal and its sound. | decks/animal-sounds.json
+Shapes | Shape and description. | decks/shapes.json
+Fruit And Vegetable Colours | What colour is it? | decks/fruit-colors.json
+The Five Senses | Sense and organ. | decks/five-senses.json
+Parts Of A Plant | Part and job. | decks/plant-parts.json
+Life Cycles | Stages in order. | decks/life-cycles.json
+Frog Life Cycle | Stages in order. | decks/frog-cycle.json
+States Of Matter | State and example. | decks/states-of-matter.json
+Water Cycle | Stages in order. | decks/water-cycle.json
+What Goes Where | Item and bin. | decks/recycling.json
+Food Groups | Food and its group. | decks/food-groups.json
+US Coins | Coin and value. | decks/us-coins.json
+Weather Words | Word and meaning. | decks/weather-words.json
+Transport Types | Land, water or air. | decks/transport-types.json
+Kitchen Utensils | Tool and use. | decks/kitchen-utensils.json
+Common Tools | Tool and use. | decks/tools.json
+Road Signs | Sign and meaning. | decks/road-signs.json
+Emergency Numbers | Country and number. | decks/emergency-numbers.json
+Health Basics | Everyday health facts. | decks/health-basics.json
+Money Rules Of Thumb | Quick financial rules. | decks/money-rules.json
+Divisibility Rules | Rule for each number. | decks/divisibility.json
+Order Of Operations | PEMDAS. | decks/order-of-operations.json
+Mental Percent Tricks | Fast percentages. | decks/percent-tricks.json
+Everyday Digital Terms | Term and meaning. | decks/digital-terms.json
+Online Safety | Good habits. | decks/online-safety.json
+Common Misconceptions | The claim and the truth. | decks/misconceptions.json
+Everyday Science: Why? | Simple explanations. | decks/everyday-science.json
+Parts Of A Car | Part and job. | decks/car-parts.json
+Parts Of A Computer | Part and job. | decks/computer-parts.json
+Rooms In A House | Room and use. | decks/rooms-house.json
+Family Words | Relation and meaning. | decks/family-english.json
+Persian Colours | Colour words in Persian. | decks/persian-colors.json
+Arabic Colours | Colour words in Arabic. | decks/arabic-colors.json
+Persian Days Of The Week | Starting Saturday. | decks/persian-days.json
+Persian Calendar Months | In order from spring. | decks/persian-months.json
+Spanish Days Of The Week | Monday to Sunday. | decks/spanish-days.json
+French Days Of The Week | Monday to Sunday. | decks/french-days.json
+German Days Of The Week | Monday to Sunday. | decks/german-days.json
+Spanish Body Parts | Body parts in Spanish. | decks/spanish-body.json
+Festivals Around The World | Festival and where or what. | decks/festivals.json
+Traditional Clothing | Garment and country. | decks/traditional-clothing.json
+Instruments By Country | Instrument and origin. | decks/world-instruments.json
+National Symbols | Symbol and country. | decks/national-symbols.json
+Famous Scientists | Scientist and discovery. | decks/famous-scientists.json
+Remarkable Women | Person and achievement. | decks/famous-women.json
+Peace And Rights Leaders | Person and cause. | decks/peace-figures.json
+World Facts | Basic facts everyone should know. | decks/world-facts.json
+Natural Wonders | Wonder and location. | decks/natural-wonders.json
+Poets Of The World | Poet and country. | decks/poets-world.json
+Playing Card Suits | Suit and colour. | decks/card-suits.json
+Poker Hands | From strongest to weakest. | decks/poker-hands.json
+Yoga Poses | English and Sanskrit names. | decks/yoga-poses.json
+Dog Breeds | Breed and origin. | decks/dog-breeds.json
+Cat Breeds | Breed and origin. | decks/cat-breeds.json
+Scrabble Letter Values | Letter and points. | decks/scrabble-values.json
+Markdown Syntax | Syntax and result. | decks/markdown-syntax.json
+tmux Shortcuts | After the Ctrl+b prefix. | decks/tmux-shortcuts.json
+SSH And Network Commands | Command and use. | decks/network-commands.json
+Boolean Logic | Gate and rule. | decks/boolean-logic.json

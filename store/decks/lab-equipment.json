@@ -1,0 +1,46 @@
+{
+ "title": "Lab Equipment",
+ "description": "What each tool is for.",
+ "cards": [
+  {
+   "front": "Beaker",
+   "back": "Holds and mixes liquids"
+  },
+  {
+   "front": "Bunsen burner",
+   "back": "Provides a flame for heating"
+  },
+  {
+   "front": "Pipette",
+   "back": "Transfers small liquid amounts"
+  },
+  {
+   "front": "Test tube",
+   "back": "Holds small samples"
+  },
+  {
+   "front": "Erlenmeyer flask",
+   "back": "Mixes and heats without spilling"
+  },
+  {
+   "front": "Burette",
+   "back": "Dispenses precise liquid in titration"
+  },
+  {
+   "front": "Graduated cylinder",
+   "back": "Measures liquid volume"
+  },
+  {
+   "front": "Microscope",
+   "back": "Magnifies small things"
+  },
+  {
+   "front": "Tongs",
+   "back": "Hold hot objects"
+  },
+  {
+   "front": "Centrifuge",
+   "back": "Spins to separate mixtures"
+  }
+ ]
+}

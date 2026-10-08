@@ -1,0 +1,46 @@
+{
+ "title": "Data Structures",
+ "description": "Name and key trait.",
+ "cards": [
+  {
+   "front": "Stack",
+   "back": "Last in, first out (LIFO)"
+  },
+  {
+   "front": "Queue",
+   "back": "First in, first out (FIFO)"
+  },
+  {
+   "front": "Linked list",
+   "back": "Nodes pointing to the next node"
+  },
+  {
+   "front": "Hash table",
+   "back": "Key lookup via hashing"
+  },
+  {
+   "front": "Binary tree",
+   "back": "Each node has at most two children"
+  },
+  {
+   "front": "Heap",
+   "back": "Tree giving fast access to min or max"
+  },
+  {
+   "front": "Graph",
+   "back": "Nodes connected by edges"
+  },
+  {
+   "front": "Trie",
+   "back": "Tree for prefix-based string lookup"
+  },
+  {
+   "front": "Array",
+   "back": "Contiguous items accessed by index"
+  },
+  {
+   "front": "Set",
+   "back": "Collection of unique items"
+  }
+ ]
+}

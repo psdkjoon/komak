@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Portuguese",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "Onde fica o banheiro?"
+  },
+  {
+   "front": "How much is this?",
+   "back": "Quanto custa?"
+  },
+  {
+   "front": "I don't understand",
+   "back": "Não entendo"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "Você fala inglês?"
+  },
+  {
+   "front": "Help!",
+   "back": "Socorro!"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Com licença"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Desculpe"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Prazer"
+  },
+  {
+   "front": "Cheers!",
+   "back": "Saúde!"
+  },
+  {
+   "front": "The bill, please",
+   "back": "A conta, por favor"
+  },
+  {
+   "front": "Good night",
+   "back": "Boa noite"
+  }
+ ]
+}

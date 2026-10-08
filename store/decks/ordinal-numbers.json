@@ -1,0 +1,50 @@
+{
+ "title": "Ordinal Numbers",
+ "description": "First, second, third…",
+ "cards": [
+  {
+   "front": "1",
+   "back": "first"
+  },
+  {
+   "front": "2",
+   "back": "second"
+  },
+  {
+   "front": "3",
+   "back": "third"
+  },
+  {
+   "front": "4",
+   "back": "fourth"
+  },
+  {
+   "front": "5",
+   "back": "fifth"
+  },
+  {
+   "front": "8",
+   "back": "eighth"
+  },
+  {
+   "front": "9",
+   "back": "ninth"
+  },
+  {
+   "front": "12",
+   "back": "twelfth"
+  },
+  {
+   "front": "20",
+   "back": "twentieth"
+  },
+  {
+   "front": "21",
+   "back": "twenty-first"
+  },
+  {
+   "front": "100",
+   "back": "hundredth"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Poets Of The World",
+ "description": "Poet and country.",
+ "cards": [
+  {
+   "front": "Rumi",
+   "back": "Persia (Iran, Afghanistan)"
+  },
+  {
+   "front": "Hafez",
+   "back": "Iran"
+  },
+  {
+   "front": "Dante Alighieri",
+   "back": "Italy"
+  },
+  {
+   "front": "Goethe",
+   "back": "Germany"
+  },
+  {
+   "front": "Alexander Pushkin",
+   "back": "Russia"
+  },
+  {
+   "front": "Rabindranath Tagore",
+   "back": "India (Bengal)"
+  },
+  {
+   "front": "Pablo Neruda",
+   "back": "Chile"
+  },
+  {
+   "front": "Homer",
+   "back": "Ancient Greece"
+  },
+  {
+   "front": "Matsuo Bashō",
+   "back": "Japan"
+  },
+  {
+   "front": "Li Bai",
+   "back": "China"
+  },
+  {
+   "front": "Khalil Gibran",
+   "back": "Lebanon"
+  },
+  {
+   "front": "William Shakespeare",
+   "back": "England"
+  }
+ ]
+}

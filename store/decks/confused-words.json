@@ -1,0 +1,54 @@
+{
+ "title": "Commonly Confused Words",
+ "description": "Pick the right one.",
+ "cards": [
+  {
+   "front": "Affect or effect: to influence",
+   "back": "Affect"
+  },
+  {
+   "front": "Affect or effect: a result",
+   "back": "Effect"
+  },
+  {
+   "front": "Their, there, they're: belonging to them",
+   "back": "Their"
+  },
+  {
+   "front": "Its or it's: it is",
+   "back": "It's"
+  },
+  {
+   "front": "Lose or loose: not tight",
+   "back": "Loose"
+  },
+  {
+   "front": "Than or then: comparison",
+   "back": "Than"
+  },
+  {
+   "front": "Principal or principle: a rule",
+   "back": "Principle"
+  },
+  {
+   "front": "Accept or except: to receive",
+   "back": "Accept"
+  },
+  {
+   "front": "Complement or compliment: praise",
+   "back": "Compliment"
+  },
+  {
+   "front": "Stationary or stationery: paper and pens",
+   "back": "Stationery"
+  },
+  {
+   "front": "Whose or who's: who is",
+   "back": "Who's"
+  },
+  {
+   "front": "Your or you're: you are",
+   "back": "You're"
+  }
+ ]
+}

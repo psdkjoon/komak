@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Japanese",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "トイレはどこですか？ (toire wa doko desu ka?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "いくらですか？ (ikura desu ka?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "わかりません (wakarimasen)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "英語を話せますか？ (eigo o hanasemasu ka?)"
+  },
+  {
+   "front": "Help!",
+   "back": "助けて！ (tasukete!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "すみません (sumimasen)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "ごめんなさい (gomen nasai)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "はじめまして (hajimemashite)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "乾杯！ (kanpai!)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "お会計をお願いします (okaikei o onegaishimasu)"
+  },
+  {
+   "front": "Good night",
+   "back": "おやすみなさい (oyasuminasai)"
+  }
+ ]
+}

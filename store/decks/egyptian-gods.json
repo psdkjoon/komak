@@ -1,0 +1,42 @@
+{
+ "title": "Egyptian Gods",
+ "description": "God and domain.",
+ "cards": [
+  {
+   "front": "Ra",
+   "back": "Sun god"
+  },
+  {
+   "front": "Osiris",
+   "back": "Afterlife and the underworld"
+  },
+  {
+   "front": "Isis",
+   "back": "Magic and motherhood"
+  },
+  {
+   "front": "Anubis",
+   "back": "Mummification and the dead"
+  },
+  {
+   "front": "Horus",
+   "back": "Sky and kingship"
+  },
+  {
+   "front": "Thoth",
+   "back": "Wisdom and writing"
+  },
+  {
+   "front": "Hathor",
+   "back": "Love, music and joy"
+  },
+  {
+   "front": "Set",
+   "back": "Chaos and storms"
+  },
+  {
+   "front": "Bastet",
+   "back": "Protection, depicted as a cat"
+  }
+ ]
+}

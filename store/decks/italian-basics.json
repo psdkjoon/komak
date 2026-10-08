@@ -1,0 +1,86 @@
+{
+ "title": "Italian Basics",
+ "description": "Everyday Italian words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Ciao"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Arrivederci"
+  },
+  {
+   "front": "Please",
+   "back": "Per favore"
+  },
+  {
+   "front": "Thank you",
+   "back": "Grazie"
+  },
+  {
+   "front": "Yes",
+   "back": "Sì"
+  },
+  {
+   "front": "No",
+   "back": "No"
+  },
+  {
+   "front": "Water",
+   "back": "Acqua"
+  },
+  {
+   "front": "Bread",
+   "back": "Pane"
+  },
+  {
+   "front": "House",
+   "back": "Casa"
+  },
+  {
+   "front": "Friend",
+   "back": "Amico"
+  },
+  {
+   "front": "Book",
+   "back": "Libro"
+  },
+  {
+   "front": "Cat",
+   "back": "Gatto"
+  },
+  {
+   "front": "Dog",
+   "back": "Cane"
+  },
+  {
+   "front": "Today",
+   "back": "Oggi"
+  },
+  {
+   "front": "Tomorrow",
+   "back": "Domani"
+  },
+  {
+   "front": "Good morning",
+   "back": "Buongiorno"
+  },
+  {
+   "front": "Good evening",
+   "back": "Buonasera"
+  },
+  {
+   "front": "Milk",
+   "back": "Latte"
+  },
+  {
+   "front": "Cheese",
+   "back": "Formaggio"
+  },
+  {
+   "front": "You're welcome",
+   "back": "Prego"
+  }
+ ]
+}

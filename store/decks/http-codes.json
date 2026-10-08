@@ -1,0 +1,78 @@
+{
+ "title": "HTTP Status Codes",
+ "description": "What each response code means.",
+ "cards": [
+  {
+   "front": "200",
+   "back": "OK"
+  },
+  {
+   "front": "201",
+   "back": "Created"
+  },
+  {
+   "front": "204",
+   "back": "No Content"
+  },
+  {
+   "front": "301",
+   "back": "Moved Permanently"
+  },
+  {
+   "front": "302",
+   "back": "Found (temporary redirect)"
+  },
+  {
+   "front": "304",
+   "back": "Not Modified"
+  },
+  {
+   "front": "400",
+   "back": "Bad Request"
+  },
+  {
+   "front": "401",
+   "back": "Unauthorized"
+  },
+  {
+   "front": "403",
+   "back": "Forbidden"
+  },
+  {
+   "front": "404",
+   "back": "Not Found"
+  },
+  {
+   "front": "405",
+   "back": "Method Not Allowed"
+  },
+  {
+   "front": "409",
+   "back": "Conflict"
+  },
+  {
+   "front": "418",
+   "back": "I'm a teapot"
+  },
+  {
+   "front": "429",
+   "back": "Too Many Requests"
+  },
+  {
+   "front": "500",
+   "back": "Internal Server Error"
+  },
+  {
+   "front": "502",
+   "back": "Bad Gateway"
+  },
+  {
+   "front": "503",
+   "back": "Service Unavailable"
+  },
+  {
+   "front": "504",
+   "back": "Gateway Timeout"
+  }
+ ]
+}

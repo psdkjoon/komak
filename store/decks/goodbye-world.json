@@ -1,0 +1,62 @@
+{
+ "title": "Goodbye In Many Languages",
+ "description": "Farewells around the world.",
+ "cards": [
+  {
+   "front": "Spanish",
+   "back": "Adiós"
+  },
+  {
+   "front": "French",
+   "back": "Au revoir"
+  },
+  {
+   "front": "German",
+   "back": "Auf Wiedersehen"
+  },
+  {
+   "front": "Italian",
+   "back": "Arrivederci"
+  },
+  {
+   "front": "Arabic",
+   "back": "Ma'a as-salama"
+  },
+  {
+   "front": "Persian",
+   "back": "Khodâhâfez"
+  },
+  {
+   "front": "Japanese",
+   "back": "Sayounara"
+  },
+  {
+   "front": "Korean",
+   "back": "Annyeong"
+  },
+  {
+   "front": "Mandarin",
+   "back": "Zàijiàn"
+  },
+  {
+   "front": "Turkish",
+   "back": "Hoşça kal"
+  },
+  {
+   "front": "Russian",
+   "back": "Do svidaniya"
+  },
+  {
+   "front": "Swahili",
+   "back": "Kwaheri"
+  },
+  {
+   "front": "Hindi",
+   "back": "Alvida"
+  },
+  {
+   "front": "Portuguese",
+   "back": "Tchau"
+  }
+ ]
+}

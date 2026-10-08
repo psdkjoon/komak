@@ -1,0 +1,22 @@
+{
+ "title": "Tennis Grand Slams",
+ "description": "Tournament and place.",
+ "cards": [
+  {
+   "front": "Australian Open",
+   "back": "Melbourne"
+  },
+  {
+   "front": "French Open",
+   "back": "Paris (clay)"
+  },
+  {
+   "front": "Wimbledon",
+   "back": "London (grass)"
+  },
+  {
+   "front": "US Open",
+   "back": "New York"
+  }
+ ]
+}

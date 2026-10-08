@@ -1,0 +1,34 @@
+{
+ "title": "Data Units",
+ "description": "Sizes of digital data.",
+ "cards": [
+  {
+   "front": "1 byte",
+   "back": "8 bits"
+  },
+  {
+   "front": "1 kilobyte (KB)",
+   "back": "1,000 bytes"
+  },
+  {
+   "front": "1 megabyte (MB)",
+   "back": "1,000 KB"
+  },
+  {
+   "front": "1 gigabyte (GB)",
+   "back": "1,000 MB"
+  },
+  {
+   "front": "1 terabyte (TB)",
+   "back": "1,000 GB"
+  },
+  {
+   "front": "1 kibibyte (KiB)",
+   "back": "1,024 bytes"
+  },
+  {
+   "front": "1 mebibyte (MiB)",
+   "back": "1,024 KiB"
+  }
+ ]
+}

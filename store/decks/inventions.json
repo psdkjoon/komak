@@ -1,0 +1,66 @@
+{
+ "title": "Inventions And Inventors",
+ "description": "Who is credited with what.",
+ "cards": [
+  {
+   "front": "Telephone",
+   "back": "Alexander Graham Bell"
+  },
+  {
+   "front": "Practical light bulb",
+   "back": "Thomas Edison"
+  },
+  {
+   "front": "World Wide Web",
+   "back": "Tim Berners-Lee"
+  },
+  {
+   "front": "Printing press (Europe)",
+   "back": "Johannes Gutenberg"
+  },
+  {
+   "front": "Theory of general relativity",
+   "back": "Albert Einstein"
+  },
+  {
+   "front": "Penicillin",
+   "back": "Alexander Fleming"
+  },
+  {
+   "front": "Dynamite",
+   "back": "Alfred Nobel"
+  },
+  {
+   "front": "Radio (early pioneer)",
+   "back": "Guglielmo Marconi"
+  },
+  {
+   "front": "Powered airplane",
+   "back": "Wright brothers"
+  },
+  {
+   "front": "Steam engine improvements",
+   "back": "James Watt"
+  },
+  {
+   "front": "Vaccination (smallpox)",
+   "back": "Edward Jenner"
+  },
+  {
+   "front": "Periodic table",
+   "back": "Dmitri Mendeleev"
+  },
+  {
+   "front": "Laws of motion",
+   "back": "Isaac Newton"
+  },
+  {
+   "front": "Radioactivity research",
+   "back": "Marie Curie"
+  },
+  {
+   "front": "Analytical engine",
+   "back": "Charles Babbage"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "CSS Properties",
+ "description": "Property and effect.",
+ "cards": [
+  {
+   "front": "color",
+   "back": "Text colour"
+  },
+  {
+   "front": "background-color",
+   "back": "Background colour"
+  },
+  {
+   "front": "margin",
+   "back": "Space outside an element"
+  },
+  {
+   "front": "padding",
+   "back": "Space inside an element"
+  },
+  {
+   "front": "display: flex",
+   "back": "Flexible row or column layout"
+  },
+  {
+   "front": "position: absolute",
+   "back": "Position relative to nearest positioned parent"
+  },
+  {
+   "front": "z-index",
+   "back": "Stacking order"
+  },
+  {
+   "front": "font-size",
+   "back": "Text size"
+  },
+  {
+   "front": "border-radius",
+   "back": "Rounded corners"
+  },
+  {
+   "front": "opacity",
+   "back": "Transparency"
+  },
+  {
+   "front": "overflow",
+   "back": "How overflowing content is handled"
+  },
+  {
+   "front": "gap",
+   "back": "Space between flex or grid items"
+  }
+ ]
+}

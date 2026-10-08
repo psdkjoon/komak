@@ -1,0 +1,26 @@
+{
+ "title": "US Coins",
+ "description": "Coin and value.",
+ "cards": [
+  {
+   "front": "Penny",
+   "back": "1 cent"
+  },
+  {
+   "front": "Nickel",
+   "back": "5 cents"
+  },
+  {
+   "front": "Dime",
+   "back": "10 cents"
+  },
+  {
+   "front": "Quarter",
+   "back": "25 cents"
+  },
+  {
+   "front": "Half dollar",
+   "back": "50 cents"
+  }
+ ]
+}

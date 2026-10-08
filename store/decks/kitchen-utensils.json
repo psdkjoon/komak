@@ -1,0 +1,42 @@
+{
+ "title": "Kitchen Utensils",
+ "description": "Tool and use.",
+ "cards": [
+  {
+   "front": "Whisk",
+   "back": "Beats eggs and mixes"
+  },
+  {
+   "front": "Ladle",
+   "back": "Serves soup"
+  },
+  {
+   "front": "Spatula",
+   "back": "Flips and scrapes"
+  },
+  {
+   "front": "Colander",
+   "back": "Drains pasta"
+  },
+  {
+   "front": "Grater",
+   "back": "Shreds cheese or vegetables"
+  },
+  {
+   "front": "Tongs",
+   "back": "Grips food"
+  },
+  {
+   "front": "Peeler",
+   "back": "Removes skin from vegetables"
+  },
+  {
+   "front": "Rolling pin",
+   "back": "Flattens dough"
+  },
+  {
+   "front": "Cutting board",
+   "back": "Surface for chopping"
+  }
+ ]
+}

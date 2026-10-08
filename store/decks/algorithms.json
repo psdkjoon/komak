@@ -1,0 +1,42 @@
+{
+ "title": "Algorithms",
+ "description": "Algorithm and use.",
+ "cards": [
+  {
+   "front": "Binary search",
+   "back": "Find an item in a sorted list"
+  },
+  {
+   "front": "Merge sort",
+   "back": "Divide, sort and merge halves"
+  },
+  {
+   "front": "Quick sort",
+   "back": "Partition around a pivot"
+  },
+  {
+   "front": "Dijkstra",
+   "back": "Shortest path in a weighted graph"
+  },
+  {
+   "front": "BFS",
+   "back": "Explore a graph level by level"
+  },
+  {
+   "front": "DFS",
+   "back": "Explore a graph as deep as possible first"
+  },
+  {
+   "front": "A*",
+   "back": "Pathfinding using a heuristic"
+  },
+  {
+   "front": "Kruskal",
+   "back": "Minimum spanning tree"
+  },
+  {
+   "front": "Dynamic programming",
+   "back": "Reuse solutions to overlapping subproblems"
+  }
+ ]
+}

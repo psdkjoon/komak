@@ -1,0 +1,66 @@
+{
+ "title": "Latin Phrases",
+ "description": "Common phrases and meanings.",
+ "cards": [
+  {
+   "front": "Carpe diem",
+   "back": "Seize the day"
+  },
+  {
+   "front": "Veni, vidi, vici",
+   "back": "I came, I saw, I conquered"
+  },
+  {
+   "front": "Et cetera",
+   "back": "And the rest"
+  },
+  {
+   "front": "Ad hoc",
+   "back": "For this purpose"
+  },
+  {
+   "front": "Per se",
+   "back": "By itself"
+  },
+  {
+   "front": "Status quo",
+   "back": "The existing state of affairs"
+  },
+  {
+   "front": "Bona fide",
+   "back": "In good faith, genuine"
+  },
+  {
+   "front": "Alma mater",
+   "back": "Nourishing mother (one's school)"
+  },
+  {
+   "front": "In vitro",
+   "back": "In glass (in a lab)"
+  },
+  {
+   "front": "Quid pro quo",
+   "back": "Something for something"
+  },
+  {
+   "front": "Cogito, ergo sum",
+   "back": "I think, therefore I am"
+  },
+  {
+   "front": "Habeas corpus",
+   "back": "You shall have the body"
+  },
+  {
+   "front": "Tempus fugit",
+   "back": "Time flies"
+  },
+  {
+   "front": "De facto",
+   "back": "In fact"
+  },
+  {
+   "front": "Memento mori",
+   "back": "Remember you will die"
+  }
+ ]
+}

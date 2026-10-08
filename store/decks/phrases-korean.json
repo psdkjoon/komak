@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Korean",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "화장실이 어디예요? (hwajangsiri eodiyeyo?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "얼마예요? (eolmayeyo?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "이해 못 해요 (ihae mot haeyo)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "영어 하세요? (yeongeo haseyo?)"
+  },
+  {
+   "front": "Help!",
+   "back": "도와주세요! (dowajuseyo!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "실례합니다 (sillyehamnida)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "죄송합니다 (joesonghamnida)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "만나서 반갑습니다 (mannaseo bangapseumnida)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "건배! (geonbae!)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "계산서 주세요 (gyesanseo juseyo)"
+  },
+  {
+   "front": "Good night",
+   "back": "안녕히 주무세요 (annyeonghi jumuseyo)"
+  }
+ ]
+}

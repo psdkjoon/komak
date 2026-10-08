@@ -1,0 +1,34 @@
+{
+ "title": "Note Values",
+ "description": "Beats in common time.",
+ "cards": [
+  {
+   "front": "Whole note",
+   "back": "4 beats"
+  },
+  {
+   "front": "Half note",
+   "back": "2 beats"
+  },
+  {
+   "front": "Quarter note",
+   "back": "1 beat"
+  },
+  {
+   "front": "Eighth note",
+   "back": "½ beat"
+  },
+  {
+   "front": "Sixteenth note",
+   "back": "¼ beat"
+  },
+  {
+   "front": "Dotted half note",
+   "back": "3 beats"
+  },
+  {
+   "front": "Dotted quarter note",
+   "back": "1½ beats"
+  }
+ ]
+}

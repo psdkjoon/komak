@@ -1,0 +1,54 @@
+{
+ "title": "Keyboard Shortcuts",
+ "description": "Shortcut and action.",
+ "cards": [
+  {
+   "front": "Ctrl+C",
+   "back": "Copy"
+  },
+  {
+   "front": "Ctrl+V",
+   "back": "Paste"
+  },
+  {
+   "front": "Ctrl+X",
+   "back": "Cut"
+  },
+  {
+   "front": "Ctrl+Z",
+   "back": "Undo"
+  },
+  {
+   "front": "Ctrl+Y",
+   "back": "Redo"
+  },
+  {
+   "front": "Ctrl+A",
+   "back": "Select all"
+  },
+  {
+   "front": "Ctrl+F",
+   "back": "Find"
+  },
+  {
+   "front": "Ctrl+S",
+   "back": "Save"
+  },
+  {
+   "front": "Alt+Tab",
+   "back": "Switch window"
+  },
+  {
+   "front": "Ctrl+Shift+T",
+   "back": "Reopen closed tab"
+  },
+  {
+   "front": "Ctrl+T",
+   "back": "New tab"
+  },
+  {
+   "front": "Ctrl+W",
+   "back": "Close tab"
+  }
+ ]
+}

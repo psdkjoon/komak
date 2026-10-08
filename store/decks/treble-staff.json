@@ -1,0 +1,30 @@
+{
+ "title": "Treble Clef Notes",
+ "description": "Reading the staff.",
+ "cards": [
+  {
+   "front": "Lines, bottom to top",
+   "back": "E G B D F"
+  },
+  {
+   "front": "Spaces, bottom to top",
+   "back": "F A C E"
+  },
+  {
+   "front": "Mnemonic for the lines",
+   "back": "Every Good Boy Does Fine"
+  },
+  {
+   "front": "Mnemonic for the spaces",
+   "back": "FACE"
+  },
+  {
+   "front": "Treble clef is also called",
+   "back": "G clef"
+  },
+  {
+   "front": "Bass clef is also called",
+   "back": "F clef"
+  }
+ ]
+}

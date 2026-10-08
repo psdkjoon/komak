@@ -1,0 +1,30 @@
+{
+ "title": "Parts Of A Plant",
+ "description": "Part and job.",
+ "cards": [
+  {
+   "front": "Roots",
+   "back": "Absorb water and anchor the plant"
+  },
+  {
+   "front": "Stem",
+   "back": "Supports the plant and carries water"
+  },
+  {
+   "front": "Leaves",
+   "back": "Make food by photosynthesis"
+  },
+  {
+   "front": "Flower",
+   "back": "Helps the plant reproduce"
+  },
+  {
+   "front": "Seed",
+   "back": "Grows into a new plant"
+  },
+  {
+   "front": "Fruit",
+   "back": "Protects and spreads seeds"
+  }
+ ]
+}

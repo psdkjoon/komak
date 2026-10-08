@@ -1,0 +1,86 @@
+{
+ "title": "German Basics",
+ "description": "Everyday German words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Hallo"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Auf Wiedersehen"
+  },
+  {
+   "front": "Please",
+   "back": "Bitte"
+  },
+  {
+   "front": "Thank you",
+   "back": "Danke"
+  },
+  {
+   "front": "Yes",
+   "back": "Ja"
+  },
+  {
+   "front": "No",
+   "back": "Nein"
+  },
+  {
+   "front": "Water",
+   "back": "Wasser"
+  },
+  {
+   "front": "Bread",
+   "back": "Brot"
+  },
+  {
+   "front": "House",
+   "back": "Haus"
+  },
+  {
+   "front": "Friend",
+   "back": "Freund"
+  },
+  {
+   "front": "Book",
+   "back": "Buch"
+  },
+  {
+   "front": "Cat",
+   "back": "Katze"
+  },
+  {
+   "front": "Dog",
+   "back": "Hund"
+  },
+  {
+   "front": "Today",
+   "back": "Heute"
+  },
+  {
+   "front": "Tomorrow",
+   "back": "Morgen"
+  },
+  {
+   "front": "Good morning",
+   "back": "Guten Morgen"
+  },
+  {
+   "front": "How are you?",
+   "back": "Wie geht's?"
+  },
+  {
+   "front": "Milk",
+   "back": "Milch"
+  },
+  {
+   "front": "Cheese",
+   "back": "Käse"
+  },
+  {
+   "front": "Sorry",
+   "back": "Entschuldigung"
+  }
+ ]
+}

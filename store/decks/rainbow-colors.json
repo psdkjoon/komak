@@ -1,0 +1,41 @@
+{
+ "title": "Colours Of The Rainbow",
+ "description": "In order from the outside of the arc.",
+ "cards": [
+  {
+   "front": "Colour 1",
+   "back": "Red",
+   "orderIndex": 1
+  },
+  {
+   "front": "Colour 2",
+   "back": "Orange",
+   "orderIndex": 2
+  },
+  {
+   "front": "Colour 3",
+   "back": "Yellow",
+   "orderIndex": 3
+  },
+  {
+   "front": "Colour 4",
+   "back": "Green",
+   "orderIndex": 4
+  },
+  {
+   "front": "Colour 5",
+   "back": "Blue",
+   "orderIndex": 5
+  },
+  {
+   "front": "Colour 6",
+   "back": "Indigo",
+   "orderIndex": 6
+  },
+  {
+   "front": "Colour 7",
+   "back": "Violet",
+   "orderIndex": 7
+  }
+ ]
+}

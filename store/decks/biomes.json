@@ -1,0 +1,38 @@
+{
+ "title": "Biomes",
+ "description": "Biome and trait.",
+ "cards": [
+  {
+   "front": "Tundra",
+   "back": "Cold, treeless, frozen soil"
+  },
+  {
+   "front": "Taiga",
+   "back": "Cold coniferous forest"
+  },
+  {
+   "front": "Temperate forest",
+   "back": "Four seasons, deciduous trees"
+  },
+  {
+   "front": "Tropical rainforest",
+   "back": "Hot, wet, very diverse"
+  },
+  {
+   "front": "Savanna",
+   "back": "Grassland with scattered trees"
+  },
+  {
+   "front": "Desert",
+   "back": "Very little rainfall"
+  },
+  {
+   "front": "Grassland",
+   "back": "Grasses, few trees"
+  },
+  {
+   "front": "Coral reef",
+   "back": "Warm shallow marine ecosystem"
+  }
+ ]
+}

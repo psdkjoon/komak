@@ -1,0 +1,62 @@
+{
+ "title": "I Love You In Many Languages",
+ "description": "Say it around the world.",
+ "cards": [
+  {
+   "front": "Spanish",
+   "back": "Te quiero / Te amo"
+  },
+  {
+   "front": "French",
+   "back": "Je t'aime"
+  },
+  {
+   "front": "German",
+   "back": "Ich liebe dich"
+  },
+  {
+   "front": "Italian",
+   "back": "Ti amo"
+  },
+  {
+   "front": "Portuguese",
+   "back": "Eu te amo"
+  },
+  {
+   "front": "Arabic",
+   "back": "Uhibbuka / Uhibbuki"
+  },
+  {
+   "front": "Persian",
+   "back": "Dustat dâram"
+  },
+  {
+   "front": "Japanese",
+   "back": "Aishiteru"
+  },
+  {
+   "front": "Korean",
+   "back": "Saranghae"
+  },
+  {
+   "front": "Mandarin",
+   "back": "Wǒ ài nǐ"
+  },
+  {
+   "front": "Turkish",
+   "back": "Seni seviyorum"
+  },
+  {
+   "front": "Russian",
+   "back": "Ya tebya lyublyu"
+  },
+  {
+   "front": "Hindi",
+   "back": "Main tumse pyaar karta/karti hoon"
+  },
+  {
+   "front": "Swahili",
+   "back": "Nakupenda"
+  }
+ ]
+}

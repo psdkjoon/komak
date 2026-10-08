@@ -1,0 +1,86 @@
+{
+ "title": "Vim Commands",
+ "description": "Essential normal-mode commands.",
+ "cards": [
+  {
+   "front": "i",
+   "back": "Insert before the cursor"
+  },
+  {
+   "front": "a",
+   "back": "Insert after the cursor"
+  },
+  {
+   "front": "o",
+   "back": "Open a new line below"
+  },
+  {
+   "front": "dd",
+   "back": "Delete the current line"
+  },
+  {
+   "front": "yy",
+   "back": "Copy the current line"
+  },
+  {
+   "front": "p",
+   "back": "Paste after the cursor"
+  },
+  {
+   "front": "u",
+   "back": "Undo"
+  },
+  {
+   "front": "Ctrl+r",
+   "back": "Redo"
+  },
+  {
+   "front": ":w",
+   "back": "Save"
+  },
+  {
+   "front": ":q",
+   "back": "Quit"
+  },
+  {
+   "front": ":wq",
+   "back": "Save and quit"
+  },
+  {
+   "front": ":q!",
+   "back": "Quit without saving"
+  },
+  {
+   "front": "/text",
+   "back": "Search forward"
+  },
+  {
+   "front": "gg",
+   "back": "Go to first line"
+  },
+  {
+   "front": "G",
+   "back": "Go to last line"
+  },
+  {
+   "front": "0",
+   "back": "Go to start of line"
+  },
+  {
+   "front": "$",
+   "back": "Go to end of line"
+  },
+  {
+   "front": "w",
+   "back": "Jump to next word"
+  },
+  {
+   "front": "dw",
+   "back": "Delete a word"
+  },
+  {
+   "front": "ciw",
+   "back": "Change the word under the cursor"
+  }
+ ]
+}

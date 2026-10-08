@@ -1,0 +1,50 @@
+{
+ "title": "Hexadecimal",
+ "description": "Decimal to hex.",
+ "cards": [
+  {
+   "front": "10",
+   "back": "A"
+  },
+  {
+   "front": "11",
+   "back": "B"
+  },
+  {
+   "front": "12",
+   "back": "C"
+  },
+  {
+   "front": "13",
+   "back": "D"
+  },
+  {
+   "front": "14",
+   "back": "E"
+  },
+  {
+   "front": "15",
+   "back": "F"
+  },
+  {
+   "front": "16",
+   "back": "10"
+  },
+  {
+   "front": "32",
+   "back": "20"
+  },
+  {
+   "front": "100",
+   "back": "64"
+  },
+  {
+   "front": "255",
+   "back": "FF"
+  },
+  {
+   "front": "256",
+   "back": "100"
+  }
+ ]
+}

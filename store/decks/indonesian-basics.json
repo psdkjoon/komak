@@ -1,0 +1,54 @@
+{
+ "title": "Indonesian Basics",
+ "description": "Everyday Indonesian words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Halo"
+  },
+  {
+   "front": "Thank you",
+   "back": "Terima kasih"
+  },
+  {
+   "front": "Yes",
+   "back": "Ya"
+  },
+  {
+   "front": "No",
+   "back": "Tidak"
+  },
+  {
+   "front": "Water",
+   "back": "Air"
+  },
+  {
+   "front": "Rice",
+   "back": "Nasi"
+  },
+  {
+   "front": "House",
+   "back": "Rumah"
+  },
+  {
+   "front": "Friend",
+   "back": "Teman"
+  },
+  {
+   "front": "Please",
+   "back": "Tolong"
+  },
+  {
+   "front": "Sorry",
+   "back": "Maaf"
+  },
+  {
+   "front": "Good morning",
+   "back": "Selamat pagi"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Selamat tinggal"
+  }
+ ]
+}

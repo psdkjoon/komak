@@ -1,0 +1,41 @@
+{
+ "title": "German Days Of The Week",
+ "description": "Monday to Sunday.",
+ "cards": [
+  {
+   "front": "Day 1",
+   "back": "Montag",
+   "orderIndex": 1
+  },
+  {
+   "front": "Day 2",
+   "back": "Dienstag",
+   "orderIndex": 2
+  },
+  {
+   "front": "Day 3",
+   "back": "Mittwoch",
+   "orderIndex": 3
+  },
+  {
+   "front": "Day 4",
+   "back": "Donnerstag",
+   "orderIndex": 4
+  },
+  {
+   "front": "Day 5",
+   "back": "Freitag",
+   "orderIndex": 5
+  },
+  {
+   "front": "Day 6",
+   "back": "Samstag",
+   "orderIndex": 6
+  },
+  {
+   "front": "Day 7",
+   "back": "Sonntag",
+   "orderIndex": 7
+  }
+ ]
+}

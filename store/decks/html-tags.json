@@ -1,0 +1,62 @@
+{
+ "title": "HTML Tags",
+ "description": "Tag and purpose.",
+ "cards": [
+  {
+   "front": "<a>",
+   "back": "Link"
+  },
+  {
+   "front": "<img>",
+   "back": "Image"
+  },
+  {
+   "front": "<p>",
+   "back": "Paragraph"
+  },
+  {
+   "front": "<h1>",
+   "back": "Top-level heading"
+  },
+  {
+   "front": "<ul>",
+   "back": "Unordered list"
+  },
+  {
+   "front": "<li>",
+   "back": "List item"
+  },
+  {
+   "front": "<div>",
+   "back": "Generic block container"
+  },
+  {
+   "front": "<span>",
+   "back": "Generic inline container"
+  },
+  {
+   "front": "<table>",
+   "back": "Table"
+  },
+  {
+   "front": "<form>",
+   "back": "Form"
+  },
+  {
+   "front": "<input>",
+   "back": "Form field"
+  },
+  {
+   "front": "<button>",
+   "back": "Button"
+  },
+  {
+   "front": "<br>",
+   "back": "Line break"
+  },
+  {
+   "front": "<nav>",
+   "back": "Navigation section"
+  }
+ ]
+}

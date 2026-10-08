@@ -1,0 +1,46 @@
+{
+ "title": "Russian Basics",
+ "description": "Everyday Russian words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Привет (privet)"
+  },
+  {
+   "front": "Thank you",
+   "back": "Спасибо (spasibo)"
+  },
+  {
+   "front": "Yes",
+   "back": "Да (da)"
+  },
+  {
+   "front": "No",
+   "back": "Нет (nyet)"
+  },
+  {
+   "front": "Water",
+   "back": "Вода (voda)"
+  },
+  {
+   "front": "Bread",
+   "back": "Хлеб (khleb)"
+  },
+  {
+   "front": "House",
+   "back": "Дом (dom)"
+  },
+  {
+   "front": "Friend",
+   "back": "Друг (drug)"
+  },
+  {
+   "front": "Please",
+   "back": "Пожалуйста (pozhaluysta)"
+  },
+  {
+   "front": "Good morning",
+   "back": "Доброе утро (dobroye utro)"
+  }
+ ]
+}

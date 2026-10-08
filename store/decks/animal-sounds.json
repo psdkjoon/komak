@@ -1,0 +1,62 @@
+{
+ "title": "Animal Sounds",
+ "description": "Animal and its sound.",
+ "cards": [
+  {
+   "front": "Dog",
+   "back": "Woof / bark"
+  },
+  {
+   "front": "Cat",
+   "back": "Meow"
+  },
+  {
+   "front": "Cow",
+   "back": "Moo"
+  },
+  {
+   "front": "Duck",
+   "back": "Quack"
+  },
+  {
+   "front": "Sheep",
+   "back": "Baa"
+  },
+  {
+   "front": "Pig",
+   "back": "Oink"
+  },
+  {
+   "front": "Horse",
+   "back": "Neigh"
+  },
+  {
+   "front": "Lion",
+   "back": "Roar"
+  },
+  {
+   "front": "Owl",
+   "back": "Hoot"
+  },
+  {
+   "front": "Snake",
+   "back": "Hiss"
+  },
+  {
+   "front": "Bee",
+   "back": "Buzz"
+  },
+  {
+   "front": "Frog",
+   "back": "Ribbit / croak"
+  },
+  {
+   "front": "Rooster",
+   "back": "Cock-a-doodle-doo"
+  },
+  {
+   "front": "Mouse",
+   "back": "Squeak"
+  }
+ ]
+}

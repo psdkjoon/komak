@@ -1,0 +1,62 @@
+{
+ "title": "Binary Numbers",
+ "description": "Decimal to binary.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "1"
+  },
+  {
+   "front": "2",
+   "back": "10"
+  },
+  {
+   "front": "3",
+   "back": "11"
+  },
+  {
+   "front": "4",
+   "back": "100"
+  },
+  {
+   "front": "5",
+   "back": "101"
+  },
+  {
+   "front": "6",
+   "back": "110"
+  },
+  {
+   "front": "7",
+   "back": "111"
+  },
+  {
+   "front": "8",
+   "back": "1000"
+  },
+  {
+   "front": "9",
+   "back": "1001"
+  },
+  {
+   "front": "10",
+   "back": "1010"
+  },
+  {
+   "front": "12",
+   "back": "1100"
+  },
+  {
+   "front": "15",
+   "back": "1111"
+  },
+  {
+   "front": "16",
+   "back": "10000"
+  },
+  {
+   "front": "255",
+   "back": "11111111"
+  }
+ ]
+}

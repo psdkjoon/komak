@@ -1,0 +1,38 @@
+{
+ "title": "What Goes Where",
+ "description": "Item and bin.",
+ "cards": [
+  {
+   "front": "Newspaper",
+   "back": "Paper recycling"
+  },
+  {
+   "front": "Glass bottle",
+   "back": "Glass recycling"
+  },
+  {
+   "front": "Plastic bottle",
+   "back": "Plastic recycling"
+  },
+  {
+   "front": "Banana peel",
+   "back": "Compost"
+  },
+  {
+   "front": "Aluminium can",
+   "back": "Metal recycling"
+  },
+  {
+   "front": "Battery",
+   "back": "Special collection (hazardous)"
+  },
+  {
+   "front": "Cardboard box",
+   "back": "Paper recycling"
+  },
+  {
+   "front": "Food scraps",
+   "back": "Compost"
+  }
+ ]
+}

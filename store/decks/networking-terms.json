@@ -1,0 +1,46 @@
+{
+ "title": "Networking Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Router",
+   "back": "Forwards traffic between networks"
+  },
+  {
+   "front": "Switch",
+   "back": "Connects devices on one network"
+  },
+  {
+   "front": "DHCP",
+   "back": "Automatically assigns IP addresses"
+  },
+  {
+   "front": "NAT",
+   "back": "Translates private to public addresses"
+  },
+  {
+   "front": "MAC address",
+   "back": "Hardware address of a network card"
+  },
+  {
+   "front": "Subnet mask",
+   "back": "Splits an IP into network and host"
+  },
+  {
+   "front": "Ping",
+   "back": "Tests reachability and latency"
+  },
+  {
+   "front": "Latency",
+   "back": "Delay in communication"
+  },
+  {
+   "front": "Bandwidth",
+   "back": "Maximum data rate"
+  },
+  {
+   "front": "Gateway",
+   "back": "Exit point to another network"
+  }
+ ]
+}

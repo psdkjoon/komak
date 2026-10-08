@@ -1,0 +1,46 @@
+{
+ "title": "Colour Theory",
+ "description": "Mixing and opposites.",
+ "cards": [
+  {
+   "front": "Primary colours (paint)",
+   "back": "Red, yellow, blue"
+  },
+  {
+   "front": "Red + yellow",
+   "back": "Orange"
+  },
+  {
+   "front": "Blue + yellow",
+   "back": "Green"
+  },
+  {
+   "front": "Red + blue",
+   "back": "Purple"
+  },
+  {
+   "front": "Complement of red",
+   "back": "Green"
+  },
+  {
+   "front": "Complement of blue",
+   "back": "Orange"
+  },
+  {
+   "front": "Complement of yellow",
+   "back": "Purple"
+  },
+  {
+   "front": "Primary colours (light)",
+   "back": "Red, green, blue"
+  },
+  {
+   "front": "Red light + green light",
+   "back": "Yellow"
+  },
+  {
+   "front": "Cyan, magenta, yellow, black",
+   "back": "CMYK printing colours"
+  }
+ ]
+}

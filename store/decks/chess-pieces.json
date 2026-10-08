@@ -1,0 +1,58 @@
+{
+ "title": "Chess Basics",
+ "description": "Pieces, values and moves.",
+ "cards": [
+  {
+   "front": "Pawn value",
+   "back": "1 point"
+  },
+  {
+   "front": "Knight value",
+   "back": "3 points"
+  },
+  {
+   "front": "Bishop value",
+   "back": "3 points"
+  },
+  {
+   "front": "Rook value",
+   "back": "5 points"
+  },
+  {
+   "front": "Queen value",
+   "back": "9 points"
+  },
+  {
+   "front": "Piece that moves in an L shape",
+   "back": "Knight"
+  },
+  {
+   "front": "Piece that moves diagonally",
+   "back": "Bishop"
+  },
+  {
+   "front": "Piece that moves in straight lines",
+   "back": "Rook"
+  },
+  {
+   "front": "Piece that can jump over others",
+   "back": "Knight"
+  },
+  {
+   "front": "Move that swaps king and rook",
+   "back": "Castling"
+  },
+  {
+   "front": "Special pawn capture",
+   "back": "En passant"
+  },
+  {
+   "front": "Checkmate means",
+   "back": "The king is attacked and cannot escape"
+  },
+  {
+   "front": "Number of squares on the board",
+   "back": "64"
+  }
+ ]
+}

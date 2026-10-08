@@ -1,0 +1,42 @@
+{
+ "title": "Rooms In A House",
+ "description": "Room and use.",
+ "cards": [
+  {
+   "front": "Kitchen",
+   "back": "Cooking"
+  },
+  {
+   "front": "Bedroom",
+   "back": "Sleeping"
+  },
+  {
+   "front": "Bathroom",
+   "back": "Washing"
+  },
+  {
+   "front": "Living room",
+   "back": "Relaxing and guests"
+  },
+  {
+   "front": "Dining room",
+   "back": "Eating meals"
+  },
+  {
+   "front": "Garage",
+   "back": "Parking and storage"
+  },
+  {
+   "front": "Attic",
+   "back": "Space under the roof"
+  },
+  {
+   "front": "Basement",
+   "back": "Space below ground"
+  },
+  {
+   "front": "Hallway",
+   "back": "Passage between rooms"
+  }
+ ]
+}

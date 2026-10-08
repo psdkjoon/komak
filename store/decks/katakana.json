@@ -1,0 +1,206 @@
+{
+ "title": "Katakana",
+ "description": "The basic katakana characters and their sounds.",
+ "cards": [
+  {
+   "front": "ア",
+   "back": "a",
+   "groupId": "Vowels"
+  },
+  {
+   "front": "イ",
+   "back": "i",
+   "groupId": "Vowels"
+  },
+  {
+   "front": "ウ",
+   "back": "u",
+   "groupId": "Vowels"
+  },
+  {
+   "front": "エ",
+   "back": "e",
+   "groupId": "Vowels"
+  },
+  {
+   "front": "オ",
+   "back": "o",
+   "groupId": "Vowels"
+  },
+  {
+   "front": "カ",
+   "back": "ka",
+   "groupId": "K row"
+  },
+  {
+   "front": "キ",
+   "back": "ki",
+   "groupId": "K row"
+  },
+  {
+   "front": "ク",
+   "back": "ku",
+   "groupId": "K row"
+  },
+  {
+   "front": "ケ",
+   "back": "ke",
+   "groupId": "K row"
+  },
+  {
+   "front": "コ",
+   "back": "ko",
+   "groupId": "K row"
+  },
+  {
+   "front": "サ",
+   "back": "sa",
+   "groupId": "S row"
+  },
+  {
+   "front": "シ",
+   "back": "shi",
+   "groupId": "S row"
+  },
+  {
+   "front": "ス",
+   "back": "su",
+   "groupId": "S row"
+  },
+  {
+   "front": "セ",
+   "back": "se",
+   "groupId": "S row"
+  },
+  {
+   "front": "ソ",
+   "back": "so",
+   "groupId": "S row"
+  },
+  {
+   "front": "タ",
+   "back": "ta",
+   "groupId": "T row"
+  },
+  {
+   "front": "チ",
+   "back": "chi",
+   "groupId": "T row"
+  },
+  {
+   "front": "ツ",
+   "back": "tsu",
+   "groupId": "T row"
+  },
+  {
+   "front": "テ",
+   "back": "te",
+   "groupId": "T row"
+  },
+  {
+   "front": "ト",
+   "back": "to",
+   "groupId": "T row"
+  },
+  {
+   "front": "ナ",
+   "back": "na",
+   "groupId": "N row"
+  },
+  {
+   "front": "ニ",
+   "back": "ni",
+   "groupId": "N row"
+  },
+  {
+   "front": "ヌ",
+   "back": "nu",
+   "groupId": "N row"
+  },
+  {
+   "front": "ネ",
+   "back": "ne",
+   "groupId": "N row"
+  },
+  {
+   "front": "ノ",
+   "back": "no",
+   "groupId": "N row"
+  },
+  {
+   "front": "ハ",
+   "back": "ha",
+   "groupId": "H row"
+  },
+  {
+   "front": "ヒ",
+   "back": "hi",
+   "groupId": "H row"
+  },
+  {
+   "front": "フ",
+   "back": "fu",
+   "groupId": "H row"
+  },
+  {
+   "front": "ヘ",
+   "back": "he",
+   "groupId": "H row"
+  },
+  {
+   "front": "ホ",
+   "back": "ho",
+   "groupId": "H row"
+  },
+  {
+   "front": "マ",
+   "back": "ma",
+   "groupId": "M row"
+  },
+  {
+   "front": "ミ",
+   "back": "mi",
+   "groupId": "M row"
+  },
+  {
+   "front": "ム",
+   "back": "mu",
+   "groupId": "M row"
+  },
+  {
+   "front": "メ",
+   "back": "me",
+   "groupId": "M row"
+  },
+  {
+   "front": "モ",
+   "back": "mo",
+   "groupId": "M row"
+  },
+  {
+   "front": "ラ",
+   "back": "ra",
+   "groupId": "R row"
+  },
+  {
+   "front": "リ",
+   "back": "ri",
+   "groupId": "R row"
+  },
+  {
+   "front": "ル",
+   "back": "ru",
+   "groupId": "R row"
+  },
+  {
+   "front": "レ",
+   "back": "re",
+   "groupId": "R row"
+  },
+  {
+   "front": "ロ",
+   "back": "ro",
+   "groupId": "R row"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Spanish Colours",
+ "description": "Colours in Spanish.",
+ "cards": [
+  {
+   "front": "Red",
+   "back": "Rojo"
+  },
+  {
+   "front": "Blue",
+   "back": "Azul"
+  },
+  {
+   "front": "Green",
+   "back": "Verde"
+  },
+  {
+   "front": "Yellow",
+   "back": "Amarillo"
+  },
+  {
+   "front": "Black",
+   "back": "Negro"
+  },
+  {
+   "front": "White",
+   "back": "Blanco"
+  },
+  {
+   "front": "Orange",
+   "back": "Naranja"
+  },
+  {
+   "front": "Purple",
+   "back": "Morado"
+  },
+  {
+   "front": "Pink",
+   "back": "Rosa"
+  },
+  {
+   "front": "Brown",
+   "back": "Marrón"
+  },
+  {
+   "front": "Grey",
+   "back": "Gris"
+  }
+ ]
+}

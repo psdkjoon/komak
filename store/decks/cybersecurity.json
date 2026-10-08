@@ -1,0 +1,50 @@
+{
+ "title": "Cybersecurity Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Phishing",
+   "back": "Fake messages that trick you into giving data"
+  },
+  {
+   "front": "Malware",
+   "back": "Malicious software"
+  },
+  {
+   "front": "Ransomware",
+   "back": "Encrypts files and demands payment"
+  },
+  {
+   "front": "Two-factor authentication",
+   "back": "Second proof of identity"
+  },
+  {
+   "front": "Firewall",
+   "back": "Filters network traffic"
+  },
+  {
+   "front": "Encryption",
+   "back": "Scrambles data so only key holders can read it"
+  },
+  {
+   "front": "Hashing",
+   "back": "One-way fingerprint of data"
+  },
+  {
+   "front": "SQL injection",
+   "back": "Inserting malicious SQL into inputs"
+  },
+  {
+   "front": "XSS",
+   "back": "Injecting scripts into web pages"
+  },
+  {
+   "front": "DDoS",
+   "back": "Flooding a service with traffic"
+  },
+  {
+   "front": "Social engineering",
+   "back": "Manipulating people to get access"
+  }
+ ]
+}

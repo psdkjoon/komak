@@ -1,0 +1,46 @@
+{
+ "title": "Great Explorers",
+ "description": "Explorer and achievement.",
+ "cards": [
+  {
+   "front": "Christopher Columbus",
+   "back": "Reached the Americas in 1492"
+  },
+  {
+   "front": "Ferdinand Magellan",
+   "back": "Led first expedition to circle the globe"
+  },
+  {
+   "front": "Vasco da Gama",
+   "back": "Sea route from Europe to India"
+  },
+  {
+   "front": "Marco Polo",
+   "back": "Travelled the Silk Road to China"
+  },
+  {
+   "front": "Ibn Battuta",
+   "back": "Travelled across the Islamic world for decades"
+  },
+  {
+   "front": "Zheng He",
+   "back": "Led Chinese treasure voyages"
+  },
+  {
+   "front": "Roald Amundsen",
+   "back": "First to reach the South Pole (1911)"
+  },
+  {
+   "front": "Edmund Hillary and Tenzing Norgay",
+   "back": "First to summit Everest (1953)"
+  },
+  {
+   "front": "James Cook",
+   "back": "Charted Australia's east coast and the Pacific"
+  },
+  {
+   "front": "Leif Erikson",
+   "back": "Norse explorer who reached North America"
+  }
+ ]
+}

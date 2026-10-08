@@ -1,0 +1,42 @@
+{
+ "title": "Weather Words",
+ "description": "Word and meaning.",
+ "cards": [
+  {
+   "front": "Drizzle",
+   "back": "Light rain"
+  },
+  {
+   "front": "Gale",
+   "back": "Very strong wind"
+  },
+  {
+   "front": "Fog",
+   "back": "Thick cloud at ground level"
+  },
+  {
+   "front": "Hail",
+   "back": "Frozen raindrops"
+  },
+  {
+   "front": "Thunder",
+   "back": "Sound after lightning"
+  },
+  {
+   "front": "Humid",
+   "back": "Damp and sticky air"
+  },
+  {
+   "front": "Blizzard",
+   "back": "Heavy snow with strong wind"
+  },
+  {
+   "front": "Overcast",
+   "back": "Sky fully covered by cloud"
+  },
+  {
+   "front": "Heatwave",
+   "back": "Long period of very hot weather"
+  }
+ ]
+}

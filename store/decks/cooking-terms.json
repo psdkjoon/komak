@@ -1,0 +1,50 @@
+{
+ "title": "Cooking Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Sauté",
+   "back": "Cook quickly in a little fat"
+  },
+  {
+   "front": "Simmer",
+   "back": "Cook just below boiling"
+  },
+  {
+   "front": "Blanch",
+   "back": "Briefly boil then chill"
+  },
+  {
+   "front": "Braise",
+   "back": "Brown then slow-cook in liquid"
+  },
+  {
+   "front": "Julienne",
+   "back": "Cut into thin strips"
+  },
+  {
+   "front": "Dice",
+   "back": "Cut into small cubes"
+  },
+  {
+   "front": "Fold",
+   "back": "Gently combine without losing air"
+  },
+  {
+   "front": "Zest",
+   "back": "Grated outer peel of citrus"
+  },
+  {
+   "front": "Deglaze",
+   "back": "Add liquid to lift browned bits from a pan"
+  },
+  {
+   "front": "Poach",
+   "back": "Cook gently in barely simmering liquid"
+  },
+  {
+   "front": "Sear",
+   "back": "Brown quickly at high heat"
+  }
+ ]
+}

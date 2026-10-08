@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Mandarin",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "厕所在哪里？ (cèsuǒ zài nǎlǐ?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "多少钱？ (duōshao qián?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "我不明白 (wǒ bù míngbai)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "你会说英语吗？ (nǐ huì shuō yīngyǔ ma?)"
+  },
+  {
+   "front": "Help!",
+   "back": "救命！ (jiùmìng!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "不好意思 (bù hǎoyìsi)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "对不起 (duìbuqǐ)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "很高兴认识你 (hěn gāoxìng rènshi nǐ)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "干杯！ (gānbēi!)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "买单 (mǎidān)"
+  },
+  {
+   "front": "Good night",
+   "back": "晚安 (wǎn'ān)"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "title": "Dart Concepts",
+ "description": "Core Dart language ideas.",
+ "cards": [
+  {
+   "front": "final",
+   "back": "Variable set once at runtime"
+  },
+  {
+   "front": "const",
+   "back": "Compile-time constant"
+  },
+  {
+   "front": "late",
+   "back": "Initialised after declaration"
+  },
+  {
+   "front": "var",
+   "back": "Type inferred by the compiler"
+  },
+  {
+   "front": "dynamic",
+   "back": "Type checked at runtime"
+  },
+  {
+   "front": "async / await",
+   "back": "Work with Futures"
+  },
+  {
+   "front": "Future",
+   "back": "A value available later"
+  },
+  {
+   "front": "Stream",
+   "back": "A sequence of async events"
+  },
+  {
+   "front": "mixin",
+   "back": "Reusable class behaviour"
+  },
+  {
+   "front": "extension",
+   "back": "Add methods to existing types"
+  },
+  {
+   "front": "sealed class",
+   "back": "Restricts subtypes to one library"
+  },
+  {
+   "front": "required",
+   "back": "Named parameter that must be passed"
+  },
+  {
+   "front": "?.",
+   "back": "Null-aware access"
+  },
+  {
+   "front": "??",
+   "back": "Fallback if null"
+  },
+  {
+   "front": "!",
+   "back": "Null assertion operator"
+  },
+  {
+   "front": "=>",
+   "back": "Short function body"
+  },
+  {
+   "front": "typedef",
+   "back": "Alias for a type"
+  },
+  {
+   "front": "factory",
+   "back": "Constructor that may return an existing instance"
+  }
+ ]
+}

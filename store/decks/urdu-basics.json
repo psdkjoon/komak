@@ -1,0 +1,46 @@
+{
+ "title": "Urdu Basics",
+ "description": "Everyday Urdu words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "سلام (salaam)"
+  },
+  {
+   "front": "Thank you",
+   "back": "شکریہ (shukriya)"
+  },
+  {
+   "front": "Yes",
+   "back": "ہاں (haan)"
+  },
+  {
+   "front": "No",
+   "back": "نہیں (nahin)"
+  },
+  {
+   "front": "Water",
+   "back": "پانی (paani)"
+  },
+  {
+   "front": "Bread",
+   "back": "روٹی (roti)"
+  },
+  {
+   "front": "House",
+   "back": "گھر (ghar)"
+  },
+  {
+   "front": "Friend",
+   "back": "دوست (dost)"
+  },
+  {
+   "front": "Goodbye",
+   "back": "خدا حافظ (khuda hafiz)"
+  },
+  {
+   "front": "Please",
+   "back": "مہربانی (meherbani)"
+  }
+ ]
+}

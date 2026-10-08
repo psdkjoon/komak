@@ -1,0 +1,78 @@
+{
+ "title": "Persian Basics",
+ "description": "Everyday Persian words with pronunciation.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "سلام (salâm)"
+  },
+  {
+   "front": "Goodbye",
+   "back": "خداحافظ (khodâhâfez)"
+  },
+  {
+   "front": "Thank you",
+   "back": "ممنون (mamnun)"
+  },
+  {
+   "front": "Please",
+   "back": "لطفاً (lotfan)"
+  },
+  {
+   "front": "Yes",
+   "back": "بله (bale)"
+  },
+  {
+   "front": "No",
+   "back": "نه (na)"
+  },
+  {
+   "front": "Water",
+   "back": "آب (âb)"
+  },
+  {
+   "front": "Bread",
+   "back": "نان (nân)"
+  },
+  {
+   "front": "House",
+   "back": "خانه (khâne)"
+  },
+  {
+   "front": "Book",
+   "back": "کتاب (ketâb)"
+  },
+  {
+   "front": "Friend",
+   "back": "دوست (dust)"
+  },
+  {
+   "front": "Mother",
+   "back": "مادر (mâdar)"
+  },
+  {
+   "front": "Father",
+   "back": "پدر (pedar)"
+  },
+  {
+   "front": "Tea",
+   "back": "چای (châi)"
+  },
+  {
+   "front": "Today",
+   "back": "امروز (emruz)"
+  },
+  {
+   "front": "Tomorrow",
+   "back": "فردا (fardâ)"
+  },
+  {
+   "front": "Good morning",
+   "back": "صبح بخیر (sobh bekheyr)"
+  },
+  {
+   "front": "How are you?",
+   "back": "حالتان چطور است؟ (hâletân chetor ast)"
+  }
+ ]
+}

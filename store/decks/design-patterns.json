@@ -1,0 +1,38 @@
+{
+ "title": "Design Patterns",
+ "description": "Pattern and idea.",
+ "cards": [
+  {
+   "front": "Singleton",
+   "back": "Only one instance exists"
+  },
+  {
+   "front": "Factory",
+   "back": "Creates objects without exposing creation logic"
+  },
+  {
+   "front": "Observer",
+   "back": "Subscribers are notified of changes"
+  },
+  {
+   "front": "Strategy",
+   "back": "Swap algorithms at runtime"
+  },
+  {
+   "front": "Decorator",
+   "back": "Add behaviour by wrapping an object"
+  },
+  {
+   "front": "Adapter",
+   "back": "Makes incompatible interfaces work together"
+  },
+  {
+   "front": "Builder",
+   "back": "Constructs complex objects step by step"
+  },
+  {
+   "front": "Facade",
+   "back": "Simple interface to a complex system"
+  }
+ ]
+}

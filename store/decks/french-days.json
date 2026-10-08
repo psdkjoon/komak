@@ -1,0 +1,41 @@
+{
+ "title": "French Days Of The Week",
+ "description": "Monday to Sunday.",
+ "cards": [
+  {
+   "front": "Day 1",
+   "back": "lundi",
+   "orderIndex": 1
+  },
+  {
+   "front": "Day 2",
+   "back": "mardi",
+   "orderIndex": 2
+  },
+  {
+   "front": "Day 3",
+   "back": "mercredi",
+   "orderIndex": 3
+  },
+  {
+   "front": "Day 4",
+   "back": "jeudi",
+   "orderIndex": 4
+  },
+  {
+   "front": "Day 5",
+   "back": "vendredi",
+   "orderIndex": 5
+  },
+  {
+   "front": "Day 6",
+   "back": "samedi",
+   "orderIndex": 6
+  },
+  {
+   "front": "Day 7",
+   "back": "dimanche",
+   "orderIndex": 7
+  }
+ ]
+}

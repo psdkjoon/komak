@@ -1,0 +1,56 @@
+{
+ "title": "Poker Hands",
+ "description": "From strongest to weakest.",
+ "cards": [
+  {
+   "front": "Rank 1",
+   "back": "Royal flush",
+   "orderIndex": 1
+  },
+  {
+   "front": "Rank 2",
+   "back": "Straight flush",
+   "orderIndex": 2
+  },
+  {
+   "front": "Rank 3",
+   "back": "Four of a kind",
+   "orderIndex": 3
+  },
+  {
+   "front": "Rank 4",
+   "back": "Full house",
+   "orderIndex": 4
+  },
+  {
+   "front": "Rank 5",
+   "back": "Flush",
+   "orderIndex": 5
+  },
+  {
+   "front": "Rank 6",
+   "back": "Straight",
+   "orderIndex": 6
+  },
+  {
+   "front": "Rank 7",
+   "back": "Three of a kind",
+   "orderIndex": 7
+  },
+  {
+   "front": "Rank 8",
+   "back": "Two pair",
+   "orderIndex": 8
+  },
+  {
+   "front": "Rank 9",
+   "back": "One pair",
+   "orderIndex": 9
+  },
+  {
+   "front": "Rank 10",
+   "back": "High card",
+   "orderIndex": 10
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Jobs And Professions",
+ "description": "Job and what they do.",
+ "cards": [
+  {
+   "front": "Doctor",
+   "back": "Treats sick people"
+  },
+  {
+   "front": "Teacher",
+   "back": "Helps students learn"
+  },
+  {
+   "front": "Chef",
+   "back": "Cooks in a restaurant"
+  },
+  {
+   "front": "Pilot",
+   "back": "Flies aircraft"
+  },
+  {
+   "front": "Architect",
+   "back": "Designs buildings"
+  },
+  {
+   "front": "Plumber",
+   "back": "Fixes pipes"
+  },
+  {
+   "front": "Electrician",
+   "back": "Installs and fixes wiring"
+  },
+  {
+   "front": "Lawyer",
+   "back": "Gives legal advice"
+  },
+  {
+   "front": "Farmer",
+   "back": "Grows crops and raises animals"
+  },
+  {
+   "front": "Nurse",
+   "back": "Cares for patients"
+  },
+  {
+   "front": "Mechanic",
+   "back": "Repairs machines and cars"
+  },
+  {
+   "front": "Journalist",
+   "back": "Reports the news"
+  },
+  {
+   "front": "Dentist",
+   "back": "Looks after teeth"
+  },
+  {
+   "front": "Pharmacist",
+   "back": "Prepares medicines"
+  },
+  {
+   "front": "Engineer",
+   "back": "Designs and builds systems"
+  }
+ ]
+}

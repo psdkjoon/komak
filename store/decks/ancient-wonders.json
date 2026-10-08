@@ -1,0 +1,34 @@
+{
+ "title": "Seven Wonders Of The Ancient World",
+ "description": "Where each wonder stood.",
+ "cards": [
+  {
+   "front": "Great Pyramid",
+   "back": "Giza, Egypt"
+  },
+  {
+   "front": "Hanging Gardens",
+   "back": "Babylon"
+  },
+  {
+   "front": "Statue of Zeus",
+   "back": "Olympia, Greece"
+  },
+  {
+   "front": "Temple of Artemis",
+   "back": "Ephesus"
+  },
+  {
+   "front": "Mausoleum",
+   "back": "Halicarnassus"
+  },
+  {
+   "front": "Colossus",
+   "back": "Rhodes"
+  },
+  {
+   "front": "Lighthouse",
+   "back": "Alexandria, Egypt"
+  }
+ ]
+}

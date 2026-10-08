@@ -1,0 +1,46 @@
+{
+ "title": "Economics Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "GDP",
+   "back": "Total value of goods and services in a country"
+  },
+  {
+   "front": "Supply and demand",
+   "back": "Price depends on availability and desire"
+  },
+  {
+   "front": "Opportunity cost",
+   "back": "Value of the next best alternative"
+  },
+  {
+   "front": "Monopoly",
+   "back": "One seller dominates a market"
+  },
+  {
+   "front": "Recession",
+   "back": "Prolonged economic decline"
+  },
+  {
+   "front": "Inflation",
+   "back": "Rising price level"
+  },
+  {
+   "front": "Fiscal policy",
+   "back": "Government taxing and spending"
+  },
+  {
+   "front": "Monetary policy",
+   "back": "Central bank control of money and interest"
+  },
+  {
+   "front": "Trade deficit",
+   "back": "Imports exceed exports"
+  },
+  {
+   "front": "Scarcity",
+   "back": "Limited resources against wants"
+  }
+ ]
+}

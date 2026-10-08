@@ -1,0 +1,58 @@
+{
+ "title": "Constellations",
+ "description": "Names and what they represent.",
+ "cards": [
+  {
+   "front": "Orion",
+   "back": "The Hunter"
+  },
+  {
+   "front": "Ursa Major",
+   "back": "The Great Bear"
+  },
+  {
+   "front": "Ursa Minor",
+   "back": "The Little Bear"
+  },
+  {
+   "front": "Cassiopeia",
+   "back": "The Queen"
+  },
+  {
+   "front": "Scorpius",
+   "back": "The Scorpion"
+  },
+  {
+   "front": "Leo",
+   "back": "The Lion"
+  },
+  {
+   "front": "Taurus",
+   "back": "The Bull"
+  },
+  {
+   "front": "Gemini",
+   "back": "The Twins"
+  },
+  {
+   "front": "Cygnus",
+   "back": "The Swan"
+  },
+  {
+   "front": "Lyra",
+   "back": "The Lyre"
+  },
+  {
+   "front": "Canis Major",
+   "back": "The Greater Dog"
+  },
+  {
+   "front": "Pegasus",
+   "back": "The Winged Horse"
+  },
+  {
+   "front": "Crux",
+   "back": "The Southern Cross"
+  }
+ ]
+}

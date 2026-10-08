@@ -1,0 +1,54 @@
+{
+ "title": "Persian Heritage",
+ "description": "Figures of Iranian history and literature.",
+ "cards": [
+  {
+   "front": "Cyrus the Great",
+   "back": "Founder of the Achaemenid Empire"
+  },
+  {
+   "front": "Darius I",
+   "back": "Achaemenid king, expanded the empire"
+  },
+  {
+   "front": "Persepolis",
+   "back": "Ceremonial capital of the Achaemenids"
+  },
+  {
+   "front": "Ferdowsi",
+   "back": "Poet of the Shahnameh"
+  },
+  {
+   "front": "Hafez",
+   "back": "Poet of Shiraz, the Divan"
+  },
+  {
+   "front": "Saadi",
+   "back": "Author of Golestan and Bustan"
+  },
+  {
+   "front": "Rumi",
+   "back": "Poet of the Masnavi"
+  },
+  {
+   "front": "Omar Khayyam",
+   "back": "Poet, mathematician and astronomer"
+  },
+  {
+   "front": "Avicenna (Ibn Sina)",
+   "back": "The Canon of Medicine"
+  },
+  {
+   "front": "Zoroaster",
+   "back": "Prophet of Zoroastrianism"
+  },
+  {
+   "front": "Nowruz",
+   "back": "Persian new year at the spring equinox"
+  },
+  {
+   "front": "Yalda",
+   "back": "Winter solstice night celebration"
+  }
+ ]
+}

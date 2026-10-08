@@ -1,0 +1,46 @@
+{
+ "title": "tmux Shortcuts",
+ "description": "After the Ctrl+b prefix.",
+ "cards": [
+  {
+   "front": "c",
+   "back": "New window"
+  },
+  {
+   "front": "n",
+   "back": "Next window"
+  },
+  {
+   "front": "p",
+   "back": "Previous window"
+  },
+  {
+   "front": "%",
+   "back": "Split pane left/right"
+  },
+  {
+   "front": "\"",
+   "back": "Split pane top/bottom"
+  },
+  {
+   "front": "d",
+   "back": "Detach session"
+  },
+  {
+   "front": "x",
+   "back": "Close pane"
+  },
+  {
+   "front": "[",
+   "back": "Scroll (copy) mode"
+  },
+  {
+   "front": ",",
+   "back": "Rename window"
+  },
+  {
+   "front": "o",
+   "back": "Next pane"
+  }
+ ]
+}

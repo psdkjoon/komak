@@ -1,0 +1,114 @@
+{
+ "title": "Morse Code",
+ "description": "Letter and code.",
+ "cards": [
+  {
+   "front": "A",
+   "back": ".-"
+  },
+  {
+   "front": "B",
+   "back": "-..."
+  },
+  {
+   "front": "C",
+   "back": "-.-."
+  },
+  {
+   "front": "D",
+   "back": "-.."
+  },
+  {
+   "front": "E",
+   "back": "."
+  },
+  {
+   "front": "F",
+   "back": "..-."
+  },
+  {
+   "front": "G",
+   "back": "--."
+  },
+  {
+   "front": "H",
+   "back": "...."
+  },
+  {
+   "front": "I",
+   "back": ".."
+  },
+  {
+   "front": "J",
+   "back": ".---"
+  },
+  {
+   "front": "K",
+   "back": "-.-"
+  },
+  {
+   "front": "L",
+   "back": ".-.."
+  },
+  {
+   "front": "M",
+   "back": "--"
+  },
+  {
+   "front": "N",
+   "back": "-."
+  },
+  {
+   "front": "O",
+   "back": "---"
+  },
+  {
+   "front": "P",
+   "back": ".--."
+  },
+  {
+   "front": "Q",
+   "back": "--.-"
+  },
+  {
+   "front": "R",
+   "back": ".-."
+  },
+  {
+   "front": "S",
+   "back": "..."
+  },
+  {
+   "front": "T",
+   "back": "-"
+  },
+  {
+   "front": "U",
+   "back": "..-"
+  },
+  {
+   "front": "V",
+   "back": "...-"
+  },
+  {
+   "front": "W",
+   "back": ".--"
+  },
+  {
+   "front": "X",
+   "back": "-..-"
+  },
+  {
+   "front": "Y",
+   "back": "-.--"
+  },
+  {
+   "front": "Z",
+   "back": "--.."
+  },
+  {
+   "front": "SOS",
+   "back": "... --- ..."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Instrument Families",
+ "description": "Strings, woodwind, brass or percussion.",
+ "cards": [
+  {
+   "front": "Violin",
+   "back": "Strings",
+   "groupId": "Strings"
+  },
+  {
+   "front": "Cello",
+   "back": "Strings",
+   "groupId": "Strings"
+  },
+  {
+   "front": "Harp",
+   "back": "Strings",
+   "groupId": "Strings"
+  },
+  {
+   "front": "Flute",
+   "back": "Woodwind",
+   "groupId": "Woodwind"
+  },
+  {
+   "front": "Clarinet",
+   "back": "Woodwind",
+   "groupId": "Woodwind"
+  },
+  {
+   "front": "Oboe",
+   "back": "Woodwind",
+   "groupId": "Woodwind"
+  },
+  {
+   "front": "Trumpet",
+   "back": "Brass",
+   "groupId": "Brass"
+  },
+  {
+   "front": "Trombone",
+   "back": "Brass",
+   "groupId": "Brass"
+  },
+  {
+   "front": "Tuba",
+   "back": "Brass",
+   "groupId": "Brass"
+  },
+  {
+   "front": "Timpani",
+   "back": "Percussion",
+   "groupId": "Percussion"
+  },
+  {
+   "front": "Xylophone",
+   "back": "Percussion",
+   "groupId": "Percussion"
+  },
+  {
+   "front": "Snare drum",
+   "back": "Percussion",
+   "groupId": "Percussion"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Time Facts",
+ "description": "Handy time numbers.",
+ "cards": [
+  {
+   "front": "Seconds in a day",
+   "back": "86,400"
+  },
+  {
+   "front": "Minutes in a day",
+   "back": "1,440"
+  },
+  {
+   "front": "Hours in a week",
+   "back": "168"
+  },
+  {
+   "front": "Days in a leap year",
+   "back": "366"
+  },
+  {
+   "front": "Weeks in a year",
+   "back": "52"
+  },
+  {
+   "front": "Months with 31 days",
+   "back": "7"
+  },
+  {
+   "front": "Years in a decade",
+   "back": "10"
+  },
+  {
+   "front": "Years in a century",
+   "back": "100"
+  },
+  {
+   "front": "Seconds in an hour",
+   "back": "3,600"
+  }
+ ]
+}

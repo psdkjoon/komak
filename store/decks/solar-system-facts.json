@@ -1,0 +1,54 @@
+{
+ "title": "Solar System Facts",
+ "description": "Quick planetary superlatives.",
+ "cards": [
+  {
+   "front": "Largest planet",
+   "back": "Jupiter"
+  },
+  {
+   "front": "Smallest planet",
+   "back": "Mercury"
+  },
+  {
+   "front": "Hottest planet",
+   "back": "Venus"
+  },
+  {
+   "front": "Closest planet to the Sun",
+   "back": "Mercury"
+  },
+  {
+   "front": "Planet with the most visible rings",
+   "back": "Saturn"
+  },
+  {
+   "front": "Red Planet",
+   "back": "Mars"
+  },
+  {
+   "front": "Planet that spins on its side",
+   "back": "Uranus"
+  },
+  {
+   "front": "Windiest planet",
+   "back": "Neptune"
+  },
+  {
+   "front": "Largest moon in the solar system",
+   "back": "Ganymede"
+  },
+  {
+   "front": "Tallest volcano in the solar system",
+   "back": "Olympus Mons (Mars)"
+  },
+  {
+   "front": "Planet with a Great Red Spot",
+   "back": "Jupiter"
+  },
+  {
+   "front": "Our galaxy",
+   "back": "The Milky Way"
+  }
+ ]
+}

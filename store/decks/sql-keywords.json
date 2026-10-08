@@ -1,0 +1,62 @@
+{
+ "title": "SQL Keywords",
+ "description": "What each clause does.",
+ "cards": [
+  {
+   "front": "SELECT",
+   "back": "Choose columns to return"
+  },
+  {
+   "front": "FROM",
+   "back": "Choose the source table"
+  },
+  {
+   "front": "WHERE",
+   "back": "Filter rows"
+  },
+  {
+   "front": "GROUP BY",
+   "back": "Group rows for aggregation"
+  },
+  {
+   "front": "HAVING",
+   "back": "Filter groups"
+  },
+  {
+   "front": "ORDER BY",
+   "back": "Sort results"
+  },
+  {
+   "front": "JOIN",
+   "back": "Combine rows from tables"
+  },
+  {
+   "front": "INSERT",
+   "back": "Add rows"
+  },
+  {
+   "front": "UPDATE",
+   "back": "Change rows"
+  },
+  {
+   "front": "DELETE",
+   "back": "Remove rows"
+  },
+  {
+   "front": "LIMIT",
+   "back": "Cap the number of rows"
+  },
+  {
+   "front": "DISTINCT",
+   "back": "Remove duplicate rows"
+  },
+  {
+   "front": "PRIMARY KEY",
+   "back": "Uniquely identifies each row"
+  },
+  {
+   "front": "FOREIGN KEY",
+   "back": "References another table"
+  }
+ ]
+}

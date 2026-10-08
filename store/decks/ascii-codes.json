@@ -1,0 +1,46 @@
+{
+ "title": "ASCII Codes",
+ "description": "Character and decimal code.",
+ "cards": [
+  {
+   "front": "A",
+   "back": "65"
+  },
+  {
+   "front": "Z",
+   "back": "90"
+  },
+  {
+   "front": "a",
+   "back": "97"
+  },
+  {
+   "front": "z",
+   "back": "122"
+  },
+  {
+   "front": "0",
+   "back": "48"
+  },
+  {
+   "front": "9",
+   "back": "57"
+  },
+  {
+   "front": "Space",
+   "back": "32"
+  },
+  {
+   "front": "Newline (LF)",
+   "back": "10"
+  },
+  {
+   "front": "Tab",
+   "back": "9"
+  },
+  {
+   "front": "Escape",
+   "back": "27"
+  }
+ ]
+}

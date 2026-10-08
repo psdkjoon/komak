@@ -1,0 +1,50 @@
+{
+ "title": "Cell Organelles",
+ "description": "What each part of the cell does.",
+ "cards": [
+  {
+   "front": "Nucleus",
+   "back": "Stores DNA and controls the cell"
+  },
+  {
+   "front": "Mitochondria",
+   "back": "Produces energy (ATP)"
+  },
+  {
+   "front": "Ribosome",
+   "back": "Builds proteins"
+  },
+  {
+   "front": "Endoplasmic reticulum",
+   "back": "Makes and transports proteins and lipids"
+  },
+  {
+   "front": "Golgi apparatus",
+   "back": "Packages and ships proteins"
+  },
+  {
+   "front": "Lysosome",
+   "back": "Breaks down waste"
+  },
+  {
+   "front": "Chloroplast",
+   "back": "Carries out photosynthesis"
+  },
+  {
+   "front": "Cell membrane",
+   "back": "Controls what enters and leaves"
+  },
+  {
+   "front": "Cell wall",
+   "back": "Gives plant cells rigid structure"
+  },
+  {
+   "front": "Vacuole",
+   "back": "Stores water and nutrients"
+  },
+  {
+   "front": "Cytoplasm",
+   "back": "Gel that fills the cell"
+  }
+ ]
+}

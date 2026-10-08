@@ -1,0 +1,38 @@
+{
+ "title": "Tea Types",
+ "description": "Type and trait.",
+ "cards": [
+  {
+   "front": "Black tea",
+   "back": "Fully oxidised, strong"
+  },
+  {
+   "front": "Green tea",
+   "back": "Unoxidised, fresh and grassy"
+  },
+  {
+   "front": "White tea",
+   "back": "Minimally processed young buds"
+  },
+  {
+   "front": "Oolong",
+   "back": "Partially oxidised"
+  },
+  {
+   "front": "Matcha",
+   "back": "Powdered green tea"
+  },
+  {
+   "front": "Chamomile",
+   "back": "Herbal infusion, not true tea"
+  },
+  {
+   "front": "Earl Grey",
+   "back": "Black tea flavoured with bergamot"
+  },
+  {
+   "front": "Chai",
+   "back": "Spiced tea with milk"
+  }
+ ]
+}

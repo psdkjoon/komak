@@ -1,0 +1,50 @@
+{
+ "title": "World Facts",
+ "description": "Basic facts everyone should know.",
+ "cards": [
+  {
+   "front": "Continents",
+   "back": "7"
+  },
+  {
+   "front": "Oceans",
+   "back": "5"
+  },
+  {
+   "front": "Countries in the UN",
+   "back": "193"
+  },
+  {
+   "front": "Most spoken language by total speakers",
+   "back": "English"
+  },
+  {
+   "front": "Most spoken native language",
+   "back": "Mandarin Chinese"
+  },
+  {
+   "front": "Earth's orbit around the Sun",
+   "back": "About 365.25 days"
+  },
+  {
+   "front": "World population (2022 milestone)",
+   "back": "8 billion"
+  },
+  {
+   "front": "Largest ocean",
+   "back": "Pacific"
+  },
+  {
+   "front": "Capital of the United Nations",
+   "back": "Not a country; HQ in New York"
+  },
+  {
+   "front": "Coldest continent",
+   "back": "Antarctica"
+  },
+  {
+   "front": "Driest continent",
+   "back": "Antarctica"
+  }
+ ]
+}

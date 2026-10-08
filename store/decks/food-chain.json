@@ -1,0 +1,46 @@
+{
+ "title": "Food Chain Terms",
+ "description": "Roles in an ecosystem.",
+ "cards": [
+  {
+   "front": "Producer",
+   "back": "Makes its own food, like plants"
+  },
+  {
+   "front": "Primary consumer",
+   "back": "Eats producers"
+  },
+  {
+   "front": "Secondary consumer",
+   "back": "Eats primary consumers"
+  },
+  {
+   "front": "Apex predator",
+   "back": "Top of the food chain"
+  },
+  {
+   "front": "Decomposer",
+   "back": "Breaks down dead matter"
+  },
+  {
+   "front": "Herbivore",
+   "back": "Eats only plants"
+  },
+  {
+   "front": "Carnivore",
+   "back": "Eats only meat"
+  },
+  {
+   "front": "Omnivore",
+   "back": "Eats plants and meat"
+  },
+  {
+   "front": "Scavenger",
+   "back": "Eats dead animals"
+  },
+  {
+   "front": "Habitat",
+   "back": "Natural home of an organism"
+  }
+ ]
+}

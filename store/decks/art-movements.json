@@ -1,0 +1,46 @@
+{
+ "title": "Art Movements",
+ "description": "Movement and a key artist.",
+ "cards": [
+  {
+   "front": "Impressionism",
+   "back": "Claude Monet"
+  },
+  {
+   "front": "Cubism",
+   "back": "Pablo Picasso"
+  },
+  {
+   "front": "Surrealism",
+   "back": "Salvador Dalí"
+  },
+  {
+   "front": "Pop Art",
+   "back": "Andy Warhol"
+  },
+  {
+   "front": "Baroque",
+   "back": "Caravaggio"
+  },
+  {
+   "front": "Renaissance",
+   "back": "Leonardo da Vinci"
+  },
+  {
+   "front": "Expressionism",
+   "back": "Edvard Munch"
+  },
+  {
+   "front": "Abstract Expressionism",
+   "back": "Jackson Pollock"
+  },
+  {
+   "front": "Post-Impressionism",
+   "back": "Vincent van Gogh"
+  },
+  {
+   "front": "Art Nouveau",
+   "back": "Gustav Klimt"
+  }
+ ]
+}

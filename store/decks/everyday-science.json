@@ -1,0 +1,46 @@
+{
+ "title": "Everyday Science: Why?",
+ "description": "Simple explanations.",
+ "cards": [
+  {
+   "front": "Why is the sky blue?",
+   "back": "Air scatters blue light most"
+  },
+  {
+   "front": "Why do we have seasons?",
+   "back": "Earth's axis is tilted"
+  },
+  {
+   "front": "What causes tides?",
+   "back": "Gravity of the Moon (and Sun)"
+  },
+  {
+   "front": "What causes a rainbow?",
+   "back": "Light bends and reflects in raindrops"
+  },
+  {
+   "front": "Why do day and night happen?",
+   "back": "Earth rotates"
+  },
+  {
+   "front": "What causes thunder?",
+   "back": "Air expanding fast around lightning"
+  },
+  {
+   "front": "Why is the sea salty?",
+   "back": "Dissolved minerals from rocks"
+  },
+  {
+   "front": "How do plants make food?",
+   "back": "Photosynthesis"
+  },
+  {
+   "front": "What causes earthquakes?",
+   "back": "Moving tectonic plates"
+  },
+  {
+   "front": "How long is a lunar cycle?",
+   "back": "About 29.5 days"
+  }
+ ]
+}

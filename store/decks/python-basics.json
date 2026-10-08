@@ -1,0 +1,66 @@
+{
+ "title": "Python Basics",
+ "description": "Syntax and concepts.",
+ "cards": [
+  {
+   "front": "list",
+   "back": "Ordered, changeable collection"
+  },
+  {
+   "front": "tuple",
+   "back": "Ordered, unchangeable collection"
+  },
+  {
+   "front": "dict",
+   "back": "Key-value mapping"
+  },
+  {
+   "front": "set",
+   "back": "Unordered unique items"
+  },
+  {
+   "front": "def",
+   "back": "Defines a function"
+  },
+  {
+   "front": "lambda",
+   "back": "Anonymous one-line function"
+  },
+  {
+   "front": "import",
+   "back": "Loads a module"
+  },
+  {
+   "front": "with",
+   "back": "Context manager, handles cleanup"
+  },
+  {
+   "front": "yield",
+   "back": "Makes a generator"
+  },
+  {
+   "front": "__init__",
+   "back": "Constructor method"
+  },
+  {
+   "front": "pip",
+   "back": "Package installer"
+  },
+  {
+   "front": "venv",
+   "back": "Virtual environment"
+  },
+  {
+   "front": "len()",
+   "back": "Returns the number of items"
+  },
+  {
+   "front": "range(5)",
+   "back": "Numbers 0 to 4"
+  },
+  {
+   "front": "f\"{x}\"",
+   "back": "Formatted string literal"
+  }
+ ]
+}

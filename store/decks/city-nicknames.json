@@ -1,0 +1,54 @@
+{
+ "title": "City Nicknames",
+ "description": "Nickname and city.",
+ "cards": [
+  {
+   "front": "The Big Apple",
+   "back": "New York City"
+  },
+  {
+   "front": "City of Light",
+   "back": "Paris"
+  },
+  {
+   "front": "The Eternal City",
+   "back": "Rome"
+  },
+  {
+   "front": "The Windy City",
+   "back": "Chicago"
+  },
+  {
+   "front": "City of Canals",
+   "back": "Venice"
+  },
+  {
+   "front": "Sin City",
+   "back": "Las Vegas"
+  },
+  {
+   "front": "The Golden City",
+   "back": "Prague"
+  },
+  {
+   "front": "City of Love",
+   "back": "Paris"
+  },
+  {
+   "front": "The Granite City",
+   "back": "Aberdeen"
+  },
+  {
+   "front": "Big Smoke",
+   "back": "London"
+  },
+  {
+   "front": "The Land Down Under (nickname for country)",
+   "back": "Australia"
+  },
+  {
+   "front": "City of Angels",
+   "back": "Los Angeles"
+  }
+ ]
+}

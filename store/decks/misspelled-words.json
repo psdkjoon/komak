@@ -1,0 +1,46 @@
+{
+ "title": "Commonly Misspelled Words",
+ "description": "Clue to correct spelling.",
+ "cards": [
+  {
+   "front": "To fit in with; double c, double m",
+   "back": "Accommodate"
+  },
+  {
+   "front": "Without doubt",
+   "back": "Definitely"
+  },
+  {
+   "front": "To divide; \"a rat\" in the middle",
+   "back": "Separate"
+  },
+  {
+   "front": "Required; one collar, two sleeves",
+   "back": "Necessary"
+  },
+  {
+   "front": "Something that happens; double c, double r",
+   "back": "Occurrence"
+  },
+  {
+   "front": "Government (the \"n\" before \"m\")",
+   "back": "Government"
+  },
+  {
+   "front": "A gathering place, not \"restarant\"",
+   "back": "Restaurant"
+  },
+  {
+   "front": "Rhythm; no vowels except y",
+   "back": "Rhythm"
+  },
+  {
+   "front": "Receive; i before e except after c",
+   "back": "Receive"
+  },
+  {
+   "front": "Embarrass; double r, double s",
+   "back": "Embarrass"
+  }
+ ]
+}

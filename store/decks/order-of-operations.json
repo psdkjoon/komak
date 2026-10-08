@@ -1,0 +1,34 @@
+{
+ "title": "Order Of Operations",
+ "description": "PEMDAS.",
+ "cards": [
+  {
+   "front": "P",
+   "back": "Parentheses first"
+  },
+  {
+   "front": "E",
+   "back": "Exponents"
+  },
+  {
+   "front": "M / D",
+   "back": "Multiplication and division, left to right"
+  },
+  {
+   "front": "A / S",
+   "back": "Addition and subtraction, left to right"
+  },
+  {
+   "front": "2 + 3 × 4",
+   "back": "14"
+  },
+  {
+   "front": "(2 + 3) × 4",
+   "back": "20"
+  },
+  {
+   "front": "10 − 2 × 3",
+   "back": "4"
+  }
+ ]
+}

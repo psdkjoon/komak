@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Italian",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "Dov'è il bagno?"
+  },
+  {
+   "front": "How much is this?",
+   "back": "Quanto costa?"
+  },
+  {
+   "front": "I don't understand",
+   "back": "Non capisco"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "Parla inglese?"
+  },
+  {
+   "front": "Help!",
+   "back": "Aiuto!"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Scusi"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Mi dispiace"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Piacere"
+  },
+  {
+   "front": "Cheers!",
+   "back": "Salute!"
+  },
+  {
+   "front": "The bill, please",
+   "back": "Il conto, per favore"
+  },
+  {
+   "front": "Good night",
+   "back": "Buonanotte"
+  }
+ ]
+}

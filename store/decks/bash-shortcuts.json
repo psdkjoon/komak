@@ -1,0 +1,46 @@
+{
+ "title": "Terminal Shortcuts",
+ "description": "Key and effect.",
+ "cards": [
+  {
+   "front": "Ctrl+C",
+   "back": "Interrupt the running command"
+  },
+  {
+   "front": "Ctrl+D",
+   "back": "End input / exit the shell"
+  },
+  {
+   "front": "Ctrl+L",
+   "back": "Clear the screen"
+  },
+  {
+   "front": "Ctrl+R",
+   "back": "Search command history"
+  },
+  {
+   "front": "Ctrl+A",
+   "back": "Jump to start of line"
+  },
+  {
+   "front": "Ctrl+E",
+   "back": "Jump to end of line"
+  },
+  {
+   "front": "Ctrl+Z",
+   "back": "Suspend the process"
+  },
+  {
+   "front": "Tab",
+   "back": "Autocomplete"
+  },
+  {
+   "front": "!!",
+   "back": "Repeat the last command"
+  },
+  {
+   "front": "Ctrl+W",
+   "back": "Delete the previous word"
+  }
+ ]
+}

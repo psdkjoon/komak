@@ -1,0 +1,34 @@
+{
+ "title": "Playing Card Suits",
+ "description": "Suit and colour.",
+ "cards": [
+  {
+   "front": "Hearts",
+   "back": "Red"
+  },
+  {
+   "front": "Diamonds",
+   "back": "Red"
+  },
+  {
+   "front": "Clubs",
+   "back": "Black"
+  },
+  {
+   "front": "Spades",
+   "back": "Black"
+  },
+  {
+   "front": "Cards in a standard deck",
+   "back": "52"
+  },
+  {
+   "front": "Face cards in each suit",
+   "back": "Jack, Queen, King"
+  },
+  {
+   "front": "Number of suits",
+   "back": "4"
+  }
+ ]
+}

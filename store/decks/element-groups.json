@@ -1,0 +1,66 @@
+{
+ "title": "Element Groups",
+ "description": "Alkali metals, halogens or noble gases.",
+ "cards": [
+  {
+   "front": "Lithium",
+   "back": "Alkali metal",
+   "groupId": "Alkali metal"
+  },
+  {
+   "front": "Sodium",
+   "back": "Alkali metal",
+   "groupId": "Alkali metal"
+  },
+  {
+   "front": "Potassium",
+   "back": "Alkali metal",
+   "groupId": "Alkali metal"
+  },
+  {
+   "front": "Fluorine",
+   "back": "Halogen",
+   "groupId": "Halogen"
+  },
+  {
+   "front": "Chlorine",
+   "back": "Halogen",
+   "groupId": "Halogen"
+  },
+  {
+   "front": "Bromine",
+   "back": "Halogen",
+   "groupId": "Halogen"
+  },
+  {
+   "front": "Iodine",
+   "back": "Halogen",
+   "groupId": "Halogen"
+  },
+  {
+   "front": "Helium",
+   "back": "Noble gas",
+   "groupId": "Noble gas"
+  },
+  {
+   "front": "Neon",
+   "back": "Noble gas",
+   "groupId": "Noble gas"
+  },
+  {
+   "front": "Argon",
+   "back": "Noble gas",
+   "groupId": "Noble gas"
+  },
+  {
+   "front": "Krypton",
+   "back": "Noble gas",
+   "groupId": "Noble gas"
+  },
+  {
+   "front": "Xenon",
+   "back": "Noble gas",
+   "groupId": "Noble gas"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Medical Abbreviations",
+ "description": "What the letters stand for.",
+ "cards": [
+  {
+   "front": "BP",
+   "back": "Blood pressure"
+  },
+  {
+   "front": "ECG / EKG",
+   "back": "Electrocardiogram"
+  },
+  {
+   "front": "MRI",
+   "back": "Magnetic resonance imaging"
+  },
+  {
+   "front": "CT",
+   "back": "Computed tomography"
+  },
+  {
+   "front": "ICU",
+   "back": "Intensive care unit"
+  },
+  {
+   "front": "ER",
+   "back": "Emergency room"
+  },
+  {
+   "front": "IV",
+   "back": "Intravenous"
+  },
+  {
+   "front": "CPR",
+   "back": "Cardiopulmonary resuscitation"
+  },
+  {
+   "front": "DNA",
+   "back": "Deoxyribonucleic acid"
+  },
+  {
+   "front": "RNA",
+   "back": "Ribonucleic acid"
+  },
+  {
+   "front": "BMI",
+   "back": "Body mass index"
+  },
+  {
+   "front": "HIV",
+   "back": "Human immunodeficiency virus"
+  }
+ ]
+}

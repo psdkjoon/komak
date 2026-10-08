@@ -1,0 +1,38 @@
+{
+ "title": "Cloud Types",
+ "description": "Names and looks.",
+ "cards": [
+  {
+   "front": "Cumulus",
+   "back": "Puffy, cotton-like clouds"
+  },
+  {
+   "front": "Stratus",
+   "back": "Flat grey layer covering the sky"
+  },
+  {
+   "front": "Cirrus",
+   "back": "Thin wispy high-altitude clouds"
+  },
+  {
+   "front": "Cumulonimbus",
+   "back": "Tall storm clouds with thunder"
+  },
+  {
+   "front": "Nimbostratus",
+   "back": "Thick grey rain-bearing clouds"
+  },
+  {
+   "front": "Altocumulus",
+   "back": "Mid-level white or grey patches"
+  },
+  {
+   "front": "Cirrostratus",
+   "back": "Thin high veil that makes halos"
+  },
+  {
+   "front": "Lenticular",
+   "back": "Lens-shaped clouds over mountains"
+  }
+ ]
+}

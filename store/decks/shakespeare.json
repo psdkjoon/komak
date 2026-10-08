@@ -1,0 +1,76 @@
+{
+ "title": "Shakespeare Plays",
+ "description": "Tragedy, comedy or history.",
+ "cards": [
+  {
+   "front": "Hamlet",
+   "back": "Tragedy",
+   "groupId": "Tragedy"
+  },
+  {
+   "front": "Macbeth",
+   "back": "Tragedy",
+   "groupId": "Tragedy"
+  },
+  {
+   "front": "Othello",
+   "back": "Tragedy",
+   "groupId": "Tragedy"
+  },
+  {
+   "front": "King Lear",
+   "back": "Tragedy",
+   "groupId": "Tragedy"
+  },
+  {
+   "front": "Romeo and Juliet",
+   "back": "Tragedy",
+   "groupId": "Tragedy"
+  },
+  {
+   "front": "A Midsummer Night's Dream",
+   "back": "Comedy",
+   "groupId": "Comedy"
+  },
+  {
+   "front": "Twelfth Night",
+   "back": "Comedy",
+   "groupId": "Comedy"
+  },
+  {
+   "front": "Much Ado About Nothing",
+   "back": "Comedy",
+   "groupId": "Comedy"
+  },
+  {
+   "front": "As You Like It",
+   "back": "Comedy",
+   "groupId": "Comedy"
+  },
+  {
+   "front": "The Taming of the Shrew",
+   "back": "Comedy",
+   "groupId": "Comedy"
+  },
+  {
+   "front": "Richard III",
+   "back": "History",
+   "groupId": "History"
+  },
+  {
+   "front": "Henry V",
+   "back": "History",
+   "groupId": "History"
+  },
+  {
+   "front": "Henry IV, Part 1",
+   "back": "History",
+   "groupId": "History"
+  },
+  {
+   "front": "Julius Caesar",
+   "back": "Tragedy",
+   "groupId": "Tragedy"
+  }
+ ]
+}

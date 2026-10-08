@@ -1,0 +1,38 @@
+{
+ "title": "Australian States",
+ "description": "State and capital.",
+ "cards": [
+  {
+   "front": "New South Wales",
+   "back": "Sydney"
+  },
+  {
+   "front": "Victoria",
+   "back": "Melbourne"
+  },
+  {
+   "front": "Queensland",
+   "back": "Brisbane"
+  },
+  {
+   "front": "Western Australia",
+   "back": "Perth"
+  },
+  {
+   "front": "South Australia",
+   "back": "Adelaide"
+  },
+  {
+   "front": "Tasmania",
+   "back": "Hobart"
+  },
+  {
+   "front": "Northern Territory",
+   "back": "Darwin"
+  },
+  {
+   "front": "Australian Capital Territory",
+   "back": "Canberra"
+  }
+ ]
+}

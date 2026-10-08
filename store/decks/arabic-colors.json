@@ -1,0 +1,30 @@
+{
+ "title": "Arabic Colours",
+ "description": "Colour words in Arabic.",
+ "cards": [
+  {
+   "front": "Red",
+   "back": "أحمر (aḥmar)"
+  },
+  {
+   "front": "Blue",
+   "back": "أزرق (azraq)"
+  },
+  {
+   "front": "Green",
+   "back": "أخضر (akhḍar)"
+  },
+  {
+   "front": "Yellow",
+   "back": "أصفر (aṣfar)"
+  },
+  {
+   "front": "Black",
+   "back": "أسود (aswad)"
+  },
+  {
+   "front": "White",
+   "back": "أبيض (abyaḍ)"
+  }
+ ]
+}

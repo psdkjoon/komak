@@ -1,0 +1,86 @@
+{
+ "title": "Spanish Basics",
+ "description": "Everyday Spanish words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Hola"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Adiós"
+  },
+  {
+   "front": "Please",
+   "back": "Por favor"
+  },
+  {
+   "front": "Thank you",
+   "back": "Gracias"
+  },
+  {
+   "front": "Yes",
+   "back": "Sí"
+  },
+  {
+   "front": "No",
+   "back": "No"
+  },
+  {
+   "front": "Water",
+   "back": "Agua"
+  },
+  {
+   "front": "Bread",
+   "back": "Pan"
+  },
+  {
+   "front": "House",
+   "back": "Casa"
+  },
+  {
+   "front": "Friend",
+   "back": "Amigo"
+  },
+  {
+   "front": "Book",
+   "back": "Libro"
+  },
+  {
+   "front": "Cat",
+   "back": "Gato"
+  },
+  {
+   "front": "Dog",
+   "back": "Perro"
+  },
+  {
+   "front": "Today",
+   "back": "Hoy"
+  },
+  {
+   "front": "Tomorrow",
+   "back": "Mañana"
+  },
+  {
+   "front": "Good morning",
+   "back": "Buenos días"
+  },
+  {
+   "front": "How are you?",
+   "back": "¿Cómo estás?"
+  },
+  {
+   "front": "I love you",
+   "back": "Te quiero"
+  },
+  {
+   "front": "Where is...?",
+   "back": "¿Dónde está...?"
+  },
+  {
+   "front": "Milk",
+   "back": "Leche"
+  }
+ ]
+}

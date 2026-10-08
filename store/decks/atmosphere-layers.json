@@ -1,0 +1,31 @@
+{
+ "title": "Layers Of The Atmosphere",
+ "description": "From the ground up.",
+ "cards": [
+  {
+   "front": "Layer 1",
+   "back": "Troposphere",
+   "orderIndex": 1
+  },
+  {
+   "front": "Layer 2",
+   "back": "Stratosphere",
+   "orderIndex": 2
+  },
+  {
+   "front": "Layer 3",
+   "back": "Mesosphere",
+   "orderIndex": 3
+  },
+  {
+   "front": "Layer 4",
+   "back": "Thermosphere",
+   "orderIndex": 4
+  },
+  {
+   "front": "Layer 5",
+   "back": "Exosphere",
+   "orderIndex": 5
+  }
+ ]
+}

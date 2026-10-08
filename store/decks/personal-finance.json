@@ -1,0 +1,54 @@
+{
+ "title": "Personal Finance Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Inflation",
+   "back": "General rise in prices"
+  },
+  {
+   "front": "Compound interest",
+   "back": "Interest earned on interest"
+  },
+  {
+   "front": "Asset",
+   "back": "Something that has value"
+  },
+  {
+   "front": "Liability",
+   "back": "Something you owe"
+  },
+  {
+   "front": "Budget",
+   "back": "Plan for income and spending"
+  },
+  {
+   "front": "Dividend",
+   "back": "Share of company profit paid to owners"
+  },
+  {
+   "front": "Stock",
+   "back": "Part ownership of a company"
+  },
+  {
+   "front": "Bond",
+   "back": "Loan to a company or government"
+  },
+  {
+   "front": "Diversification",
+   "back": "Spreading risk across investments"
+  },
+  {
+   "front": "Credit score",
+   "back": "Rating of borrowing reliability"
+  },
+  {
+   "front": "ETF",
+   "back": "Exchange-traded fund"
+  },
+  {
+   "front": "Emergency fund",
+   "back": "Savings for unexpected costs"
+  }
+ ]
+}

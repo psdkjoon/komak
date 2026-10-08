@@ -1,0 +1,161 @@
+{
+ "title": "World Currencies",
+ "description": "The currency used in each country.",
+ "cards": [
+  {
+   "front": "Japan",
+   "back": "Yen",
+   "groupId": "Asia"
+  },
+  {
+   "front": "China",
+   "back": "Renminbi (yuan)",
+   "groupId": "Asia"
+  },
+  {
+   "front": "India",
+   "back": "Indian rupee",
+   "groupId": "Asia"
+  },
+  {
+   "front": "South Korea",
+   "back": "Won",
+   "groupId": "Asia"
+  },
+  {
+   "front": "Thailand",
+   "back": "Baht",
+   "groupId": "Asia"
+  },
+  {
+   "front": "Vietnam",
+   "back": "Dong",
+   "groupId": "Asia"
+  },
+  {
+   "front": "Iran",
+   "back": "Rial",
+   "groupId": "Asia"
+  },
+  {
+   "front": "Turkey",
+   "back": "Turkish lira",
+   "groupId": "Asia"
+  },
+  {
+   "front": "Saudi Arabia",
+   "back": "Saudi riyal",
+   "groupId": "Asia"
+  },
+  {
+   "front": "Israel",
+   "back": "New shekel",
+   "groupId": "Asia"
+  },
+  {
+   "front": "United Kingdom",
+   "back": "Pound sterling",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Switzerland",
+   "back": "Swiss franc",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Sweden",
+   "back": "Swedish krona",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Norway",
+   "back": "Norwegian krone",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Denmark",
+   "back": "Danish krone",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Poland",
+   "back": "Złoty",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Czechia",
+   "back": "Czech koruna",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Hungary",
+   "back": "Forint",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Russia",
+   "back": "Russian ruble",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Germany",
+   "back": "Euro",
+   "groupId": "Europe"
+  },
+  {
+   "front": "Brazil",
+   "back": "Real",
+   "groupId": "Americas"
+  },
+  {
+   "front": "Mexico",
+   "back": "Mexican peso",
+   "groupId": "Americas"
+  },
+  {
+   "front": "Argentina",
+   "back": "Argentine peso",
+   "groupId": "Americas"
+  },
+  {
+   "front": "Canada",
+   "back": "Canadian dollar",
+   "groupId": "Americas"
+  },
+  {
+   "front": "United States",
+   "back": "US dollar",
+   "groupId": "Americas"
+  },
+  {
+   "front": "South Africa",
+   "back": "Rand",
+   "groupId": "Africa"
+  },
+  {
+   "front": "Nigeria",
+   "back": "Naira",
+   "groupId": "Africa"
+  },
+  {
+   "front": "Egypt",
+   "back": "Egyptian pound",
+   "groupId": "Africa"
+  },
+  {
+   "front": "Kenya",
+   "back": "Kenyan shilling",
+   "groupId": "Africa"
+  },
+  {
+   "front": "Australia",
+   "back": "Australian dollar",
+   "groupId": "Oceania"
+  },
+  {
+   "front": "New Zealand",
+   "back": "New Zealand dollar",
+   "groupId": "Oceania"
+  }
+ ]
+}

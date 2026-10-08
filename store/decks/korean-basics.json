@@ -1,0 +1,42 @@
+{
+ "title": "Korean Basics",
+ "description": "Everyday Korean words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "안녕하세요 (annyeonghaseyo)"
+  },
+  {
+   "front": "Thank you",
+   "back": "감사합니다 (gamsahamnida)"
+  },
+  {
+   "front": "Yes",
+   "back": "네 (ne)"
+  },
+  {
+   "front": "No",
+   "back": "아니요 (aniyo)"
+  },
+  {
+   "front": "Water",
+   "back": "물 (mul)"
+  },
+  {
+   "front": "Rice / meal",
+   "back": "밥 (bap)"
+  },
+  {
+   "front": "House",
+   "back": "집 (jip)"
+  },
+  {
+   "front": "Friend",
+   "back": "친구 (chingu)"
+  },
+  {
+   "front": "Love",
+   "back": "사랑 (sarang)"
+  }
+ ]
+}

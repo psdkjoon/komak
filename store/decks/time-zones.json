@@ -1,0 +1,58 @@
+{
+ "title": "Time Zones",
+ "description": "City and UTC offset (standard time).",
+ "cards": [
+  {
+   "front": "London",
+   "back": "UTC+0"
+  },
+  {
+   "front": "Paris",
+   "back": "UTC+1"
+  },
+  {
+   "front": "Moscow",
+   "back": "UTC+3"
+  },
+  {
+   "front": "Tehran",
+   "back": "UTC+3:30"
+  },
+  {
+   "front": "Dubai",
+   "back": "UTC+4"
+  },
+  {
+   "front": "New Delhi",
+   "back": "UTC+5:30"
+  },
+  {
+   "front": "Bangkok",
+   "back": "UTC+7"
+  },
+  {
+   "front": "Beijing",
+   "back": "UTC+8"
+  },
+  {
+   "front": "Tokyo",
+   "back": "UTC+9"
+  },
+  {
+   "front": "Sydney",
+   "back": "UTC+10"
+  },
+  {
+   "front": "New York",
+   "back": "UTC−5"
+  },
+  {
+   "front": "Chicago",
+   "back": "UTC−6"
+  },
+  {
+   "front": "Los Angeles",
+   "back": "UTC−8"
+  }
+ ]
+}

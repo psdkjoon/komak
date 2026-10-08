@@ -1,0 +1,38 @@
+{
+ "title": "Mental Percent Tricks",
+ "description": "Fast percentages.",
+ "cards": [
+  {
+   "front": "10% of 80",
+   "back": "8"
+  },
+  {
+   "front": "50% of 90",
+   "back": "45"
+  },
+  {
+   "front": "25% of 200",
+   "back": "50"
+  },
+  {
+   "front": "1% of 600",
+   "back": "6"
+  },
+  {
+   "front": "15% tip on 40",
+   "back": "6"
+  },
+  {
+   "front": "20% of 150",
+   "back": "30"
+  },
+  {
+   "front": "75% of 80",
+   "back": "60"
+  },
+  {
+   "front": "5% of 200",
+   "back": "10"
+  }
+ ]
+}

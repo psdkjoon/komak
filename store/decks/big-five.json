@@ -1,0 +1,31 @@
+{
+ "title": "Big Five Personality Traits",
+ "description": "The OCEAN model.",
+ "cards": [
+  {
+   "front": "O",
+   "back": "Openness",
+   "orderIndex": 1
+  },
+  {
+   "front": "C",
+   "back": "Conscientiousness",
+   "orderIndex": 2
+  },
+  {
+   "front": "E",
+   "back": "Extraversion",
+   "orderIndex": 3
+  },
+  {
+   "front": "A",
+   "back": "Agreeableness",
+   "orderIndex": 4
+  },
+  {
+   "front": "N",
+   "back": "Neuroticism",
+   "orderIndex": 5
+  }
+ ]
+}

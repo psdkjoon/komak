@@ -1,0 +1,70 @@
+{
+ "title": "Geography Superlatives",
+ "description": "Biggest, longest and deepest on Earth.",
+ "cards": [
+  {
+   "front": "Largest ocean",
+   "back": "Pacific Ocean"
+  },
+  {
+   "front": "Largest country by area",
+   "back": "Russia"
+  },
+  {
+   "front": "Smallest country by area",
+   "back": "Vatican City"
+  },
+  {
+   "front": "Longest river in Africa",
+   "back": "Nile"
+  },
+  {
+   "front": "Longest river in South America",
+   "back": "Amazon"
+  },
+  {
+   "front": "Largest desert (hot)",
+   "back": "Sahara"
+  },
+  {
+   "front": "Largest continent",
+   "back": "Asia"
+  },
+  {
+   "front": "Smallest continent",
+   "back": "Oceania (Australia)"
+  },
+  {
+   "front": "Deepest lake",
+   "back": "Lake Baikal"
+  },
+  {
+   "front": "Largest lake by area",
+   "back": "Caspian Sea"
+  },
+  {
+   "front": "Highest waterfall",
+   "back": "Angel Falls"
+  },
+  {
+   "front": "Deepest ocean trench",
+   "back": "Mariana Trench"
+  },
+  {
+   "front": "Largest island",
+   "back": "Greenland"
+  },
+  {
+   "front": "Most populous country (2023)",
+   "back": "India"
+  },
+  {
+   "front": "Highest mountain above sea level",
+   "back": "Mount Everest"
+  },
+  {
+   "front": "Longest mountain range on land",
+   "back": "The Andes"
+  }
+ ]
+}

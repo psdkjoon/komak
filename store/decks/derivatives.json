@@ -1,0 +1,46 @@
+{
+ "title": "Derivative Rules",
+ "description": "Basic calculus.",
+ "cards": [
+  {
+   "front": "d/dx of xⁿ",
+   "back": "n·xⁿ⁻¹"
+  },
+  {
+   "front": "d/dx of sin x",
+   "back": "cos x"
+  },
+  {
+   "front": "d/dx of cos x",
+   "back": "−sin x"
+  },
+  {
+   "front": "d/dx of eˣ",
+   "back": "eˣ"
+  },
+  {
+   "front": "d/dx of ln x",
+   "back": "1/x"
+  },
+  {
+   "front": "d/dx of a constant",
+   "back": "0"
+  },
+  {
+   "front": "Product rule",
+   "back": "(fg)' = f'g + fg'"
+  },
+  {
+   "front": "Chain rule",
+   "back": "f(g(x))' = f'(g(x))·g'(x)"
+  },
+  {
+   "front": "d/dx of 5x",
+   "back": "5"
+  },
+  {
+   "front": "d/dx of x²",
+   "back": "2x"
+  }
+ ]
+}

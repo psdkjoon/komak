@@ -1,0 +1,76 @@
+{
+ "title": "Animal Classes",
+ "description": "Mammal, bird, reptile, amphibian or fish.",
+ "cards": [
+  {
+   "front": "Dolphin",
+   "back": "Mammal",
+   "groupId": "Mammal"
+  },
+  {
+   "front": "Bat",
+   "back": "Mammal",
+   "groupId": "Mammal"
+  },
+  {
+   "front": "Whale",
+   "back": "Mammal",
+   "groupId": "Mammal"
+  },
+  {
+   "front": "Penguin",
+   "back": "Bird",
+   "groupId": "Bird"
+  },
+  {
+   "front": "Ostrich",
+   "back": "Bird",
+   "groupId": "Bird"
+  },
+  {
+   "front": "Eagle",
+   "back": "Bird",
+   "groupId": "Bird"
+  },
+  {
+   "front": "Frog",
+   "back": "Amphibian",
+   "groupId": "Amphibian"
+  },
+  {
+   "front": "Salamander",
+   "back": "Amphibian",
+   "groupId": "Amphibian"
+  },
+  {
+   "front": "Snake",
+   "back": "Reptile",
+   "groupId": "Reptile"
+  },
+  {
+   "front": "Crocodile",
+   "back": "Reptile",
+   "groupId": "Reptile"
+  },
+  {
+   "front": "Turtle",
+   "back": "Reptile",
+   "groupId": "Reptile"
+  },
+  {
+   "front": "Shark",
+   "back": "Fish",
+   "groupId": "Fish"
+  },
+  {
+   "front": "Salmon",
+   "back": "Fish",
+   "groupId": "Fish"
+  },
+  {
+   "front": "Seahorse",
+   "back": "Fish",
+   "groupId": "Fish"
+  }
+ ]
+}

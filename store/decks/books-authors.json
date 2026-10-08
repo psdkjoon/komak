@@ -1,0 +1,86 @@
+{
+ "title": "Classic Books And Authors",
+ "description": "Who wrote what.",
+ "cards": [
+  {
+   "front": "Pride and Prejudice",
+   "back": "Jane Austen"
+  },
+  {
+   "front": "1984",
+   "back": "George Orwell"
+  },
+  {
+   "front": "Animal Farm",
+   "back": "George Orwell"
+  },
+  {
+   "front": "The Great Gatsby",
+   "back": "F. Scott Fitzgerald"
+  },
+  {
+   "front": "Moby-Dick",
+   "back": "Herman Melville"
+  },
+  {
+   "front": "War and Peace",
+   "back": "Leo Tolstoy"
+  },
+  {
+   "front": "Crime and Punishment",
+   "back": "Fyodor Dostoevsky"
+  },
+  {
+   "front": "Don Quixote",
+   "back": "Miguel de Cervantes"
+  },
+  {
+   "front": "The Odyssey",
+   "back": "Homer"
+  },
+  {
+   "front": "Frankenstein",
+   "back": "Mary Shelley"
+  },
+  {
+   "front": "Dracula",
+   "back": "Bram Stoker"
+  },
+  {
+   "front": "Jane Eyre",
+   "back": "Charlotte Brontë"
+  },
+  {
+   "front": "Wuthering Heights",
+   "back": "Emily Brontë"
+  },
+  {
+   "front": "The Hobbit",
+   "back": "J. R. R. Tolkien"
+  },
+  {
+   "front": "One Hundred Years of Solitude",
+   "back": "Gabriel García Márquez"
+  },
+  {
+   "front": "The Divine Comedy",
+   "back": "Dante Alighieri"
+  },
+  {
+   "front": "Les Misérables",
+   "back": "Victor Hugo"
+  },
+  {
+   "front": "Brave New World",
+   "back": "Aldous Huxley"
+  },
+  {
+   "front": "To Kill a Mockingbird",
+   "back": "Harper Lee"
+  },
+  {
+   "front": "The Stranger",
+   "back": "Albert Camus"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Mythical Creatures",
+ "description": "Creature and culture.",
+ "cards": [
+  {
+   "front": "Medusa",
+   "back": "Greek gorgon with snakes for hair"
+  },
+  {
+   "front": "Minotaur",
+   "back": "Greek half-man half-bull in a labyrinth"
+  },
+  {
+   "front": "Cerberus",
+   "back": "Three-headed dog guarding the underworld"
+  },
+  {
+   "front": "Hydra",
+   "back": "Many-headed serpent, heads regrow"
+  },
+  {
+   "front": "Cyclops",
+   "back": "One-eyed giant"
+  },
+  {
+   "front": "Sphinx",
+   "back": "Riddle-asking creature, lion body"
+  },
+  {
+   "front": "Phoenix",
+   "back": "Bird reborn from ashes"
+  },
+  {
+   "front": "Simurgh",
+   "back": "Persian benevolent mythical bird"
+  },
+  {
+   "front": "Kraken",
+   "back": "Norse sea monster"
+  },
+  {
+   "front": "Fenrir",
+   "back": "Giant wolf in Norse myth"
+  }
+ ]
+}

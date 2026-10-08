@@ -1,0 +1,46 @@
+{
+ "title": "Major Key Signatures",
+ "description": "Sharps and flats per key.",
+ "cards": [
+  {
+   "front": "C major",
+   "back": "No sharps or flats"
+  },
+  {
+   "front": "G major",
+   "back": "1 sharp"
+  },
+  {
+   "front": "D major",
+   "back": "2 sharps"
+  },
+  {
+   "front": "A major",
+   "back": "3 sharps"
+  },
+  {
+   "front": "E major",
+   "back": "4 sharps"
+  },
+  {
+   "front": "B major",
+   "back": "5 sharps"
+  },
+  {
+   "front": "F major",
+   "back": "1 flat"
+  },
+  {
+   "front": "Bb major",
+   "back": "2 flats"
+  },
+  {
+   "front": "Eb major",
+   "back": "3 flats"
+  },
+  {
+   "front": "Ab major",
+   "back": "4 flats"
+  }
+ ]
+}

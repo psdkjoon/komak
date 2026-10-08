@@ -1,0 +1,46 @@
+{
+ "title": "SSH And Network Commands",
+ "description": "Command and use.",
+ "cards": [
+  {
+   "front": "ssh user@host",
+   "back": "Log in to a remote machine"
+  },
+  {
+   "front": "scp file host:path",
+   "back": "Copy a file to a remote host"
+  },
+  {
+   "front": "rsync -av",
+   "back": "Sync files efficiently"
+  },
+  {
+   "front": "curl -O url",
+   "back": "Download a file"
+  },
+  {
+   "front": "curl -I url",
+   "back": "Show response headers"
+  },
+  {
+   "front": "wget url",
+   "back": "Download a file"
+  },
+  {
+   "front": "ping host",
+   "back": "Test connectivity"
+  },
+  {
+   "front": "ip a",
+   "back": "Show network interfaces"
+  },
+  {
+   "front": "ss -tulpn",
+   "back": "Show listening ports"
+  },
+  {
+   "front": "dig domain",
+   "back": "DNS lookup"
+  }
+ ]
+}

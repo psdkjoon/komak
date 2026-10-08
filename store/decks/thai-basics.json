@@ -1,0 +1,42 @@
+{
+ "title": "Thai Basics",
+ "description": "Everyday Thai words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "สวัสดี (sawatdee)"
+  },
+  {
+   "front": "Thank you",
+   "back": "ขอบคุณ (khop khun)"
+  },
+  {
+   "front": "Yes",
+   "back": "ใช่ (chai)"
+  },
+  {
+   "front": "No",
+   "back": "ไม่ (mai)"
+  },
+  {
+   "front": "Water",
+   "back": "น้ำ (nam)"
+  },
+  {
+   "front": "Rice / food",
+   "back": "ข้าว (khao)"
+  },
+  {
+   "front": "House",
+   "back": "บ้าน (baan)"
+  },
+  {
+   "front": "Friend",
+   "back": "เพื่อน (phuean)"
+  },
+  {
+   "front": "Delicious",
+   "back": "อร่อย (aroi)"
+  }
+ ]
+}

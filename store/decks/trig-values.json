@@ -1,0 +1,62 @@
+{
+ "title": "Trigonometry Values",
+ "description": "Common sine and cosine values.",
+ "cards": [
+  {
+   "front": "sin 0°",
+   "back": "0"
+  },
+  {
+   "front": "sin 30°",
+   "back": "1/2"
+  },
+  {
+   "front": "sin 45°",
+   "back": "√2/2"
+  },
+  {
+   "front": "sin 60°",
+   "back": "√3/2"
+  },
+  {
+   "front": "sin 90°",
+   "back": "1"
+  },
+  {
+   "front": "cos 0°",
+   "back": "1"
+  },
+  {
+   "front": "cos 30°",
+   "back": "√3/2"
+  },
+  {
+   "front": "cos 45°",
+   "back": "√2/2"
+  },
+  {
+   "front": "cos 60°",
+   "back": "1/2"
+  },
+  {
+   "front": "cos 90°",
+   "back": "0"
+  },
+  {
+   "front": "tan 45°",
+   "back": "1"
+  },
+  {
+   "front": "SOH-CAH-TOA: sine is",
+   "back": "Opposite ÷ hypotenuse"
+  },
+  {
+   "front": "SOH-CAH-TOA: cosine is",
+   "back": "Adjacent ÷ hypotenuse"
+  },
+  {
+   "front": "SOH-CAH-TOA: tangent is",
+   "back": "Opposite ÷ adjacent"
+  }
+ ]
+}

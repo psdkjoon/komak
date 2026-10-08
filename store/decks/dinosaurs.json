@@ -1,0 +1,38 @@
+{
+ "title": "Dinosaurs",
+ "description": "Which dinosaur is which.",
+ "cards": [
+  {
+   "front": "Tyrannosaurus rex",
+   "back": "Giant carnivore with tiny arms"
+  },
+  {
+   "front": "Triceratops",
+   "back": "Three-horned herbivore"
+  },
+  {
+   "front": "Stegosaurus",
+   "back": "Plates on its back, spiked tail"
+  },
+  {
+   "front": "Velociraptor",
+   "back": "Small fast feathered predator"
+  },
+  {
+   "front": "Brachiosaurus",
+   "back": "Huge long-necked herbivore"
+  },
+  {
+   "front": "Ankylosaurus",
+   "back": "Armoured with a club tail"
+  },
+  {
+   "front": "Spinosaurus",
+   "back": "Large sail on its back, fish eater"
+  },
+  {
+   "front": "Diplodocus",
+   "back": "Very long neck and whip-like tail"
+  }
+ ]
+}

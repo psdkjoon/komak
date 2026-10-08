@@ -1,0 +1,50 @@
+{
+ "title": "Philosophers",
+ "description": "Thinker and key idea.",
+ "cards": [
+  {
+   "front": "Socrates",
+   "back": "Question everything (Socratic method)"
+  },
+  {
+   "front": "Plato",
+   "back": "Theory of Forms, The Republic"
+  },
+  {
+   "front": "Aristotle",
+   "back": "Logic and virtue ethics"
+  },
+  {
+   "front": "René Descartes",
+   "back": "\"I think, therefore I am\""
+  },
+  {
+   "front": "Immanuel Kant",
+   "back": "Categorical imperative"
+  },
+  {
+   "front": "Friedrich Nietzsche",
+   "back": "Will to power, \"God is dead\""
+  },
+  {
+   "front": "Confucius",
+   "back": "Ethics, respect and social harmony"
+  },
+  {
+   "front": "Jean-Paul Sartre",
+   "back": "Existentialism"
+  },
+  {
+   "front": "John Locke",
+   "back": "Natural rights, empiricism"
+  },
+  {
+   "front": "Thomas Hobbes",
+   "back": "Leviathan, the social contract"
+  },
+  {
+   "front": "Jean-Jacques Rousseau",
+   "back": "The general will"
+  }
+ ]
+}

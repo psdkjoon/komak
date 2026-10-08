@@ -1,0 +1,50 @@
+{
+ "title": "Summer Olympic Hosts",
+ "description": "Year and host city.",
+ "cards": [
+  {
+   "front": "2024",
+   "back": "Paris"
+  },
+  {
+   "front": "2020 (held in 2021)",
+   "back": "Tokyo"
+  },
+  {
+   "front": "2016",
+   "back": "Rio de Janeiro"
+  },
+  {
+   "front": "2012",
+   "back": "London"
+  },
+  {
+   "front": "2008",
+   "back": "Beijing"
+  },
+  {
+   "front": "2004",
+   "back": "Athens"
+  },
+  {
+   "front": "2000",
+   "back": "Sydney"
+  },
+  {
+   "front": "1996",
+   "back": "Atlanta"
+  },
+  {
+   "front": "1992",
+   "back": "Barcelona"
+  },
+  {
+   "front": "1988",
+   "back": "Seoul"
+  },
+  {
+   "front": "1896 (first modern Games)",
+   "back": "Athens"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title": "Hard Multiplication Facts",
+ "description": "The ones people forget.",
+ "cards": [
+  {
+   "front": "6 × 7",
+   "back": "42"
+  },
+  {
+   "front": "6 × 8",
+   "back": "48"
+  },
+  {
+   "front": "7 × 8",
+   "back": "56"
+  },
+  {
+   "front": "7 × 9",
+   "back": "63"
+  },
+  {
+   "front": "8 × 9",
+   "back": "72"
+  },
+  {
+   "front": "8 × 8",
+   "back": "64"
+  },
+  {
+   "front": "9 × 9",
+   "back": "81"
+  },
+  {
+   "front": "6 × 9",
+   "back": "54"
+  },
+  {
+   "front": "12 × 12",
+   "back": "144"
+  },
+  {
+   "front": "11 × 12",
+   "back": "132"
+  },
+  {
+   "front": "12 × 7",
+   "back": "84"
+  },
+  {
+   "front": "12 × 8",
+   "back": "96"
+  },
+  {
+   "front": "13 × 13",
+   "back": "169"
+  },
+  {
+   "front": "15 × 15",
+   "back": "225"
+  }
+ ]
+}

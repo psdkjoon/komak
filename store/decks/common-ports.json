@@ -1,0 +1,62 @@
+{
+ "title": "Common Network Ports",
+ "description": "Default ports for popular services.",
+ "cards": [
+  {
+   "front": "HTTP",
+   "back": "80"
+  },
+  {
+   "front": "HTTPS",
+   "back": "443"
+  },
+  {
+   "front": "SSH",
+   "back": "22"
+  },
+  {
+   "front": "FTP",
+   "back": "21"
+  },
+  {
+   "front": "SMTP",
+   "back": "25"
+  },
+  {
+   "front": "DNS",
+   "back": "53"
+  },
+  {
+   "front": "Telnet",
+   "back": "23"
+  },
+  {
+   "front": "POP3",
+   "back": "110"
+  },
+  {
+   "front": "IMAP",
+   "back": "143"
+  },
+  {
+   "front": "PostgreSQL",
+   "back": "5432"
+  },
+  {
+   "front": "MySQL",
+   "back": "3306"
+  },
+  {
+   "front": "MongoDB",
+   "back": "27017"
+  },
+  {
+   "front": "Redis",
+   "back": "6379"
+  },
+  {
+   "front": "RDP",
+   "back": "3389"
+  }
+ ]
+}

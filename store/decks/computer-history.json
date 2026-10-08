@@ -1,0 +1,54 @@
+{
+ "title": "Computing Pioneers",
+ "description": "People and their contributions.",
+ "cards": [
+  {
+   "front": "Ada Lovelace",
+   "back": "Wrote the first published algorithm for a machine"
+  },
+  {
+   "front": "Alan Turing",
+   "back": "Formalised computation with the Turing machine"
+  },
+  {
+   "front": "Grace Hopper",
+   "back": "Created the first compiler"
+  },
+  {
+   "front": "Tim Berners-Lee",
+   "back": "Invented the World Wide Web"
+  },
+  {
+   "front": "Linus Torvalds",
+   "back": "Created the Linux kernel"
+  },
+  {
+   "front": "Dennis Ritchie",
+   "back": "Created the C language"
+  },
+  {
+   "front": "Guido van Rossum",
+   "back": "Created Python"
+  },
+  {
+   "front": "James Gosling",
+   "back": "Created Java"
+  },
+  {
+   "front": "Bjarne Stroustrup",
+   "back": "Created C++"
+  },
+  {
+   "front": "Charles Babbage",
+   "back": "Designed the Analytical Engine"
+  },
+  {
+   "front": "John von Neumann",
+   "back": "Stored-program computer architecture"
+  },
+  {
+   "front": "Margaret Hamilton",
+   "back": "Led Apollo flight software"
+  }
+ ]
+}

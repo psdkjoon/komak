@@ -1,0 +1,66 @@
+{
+ "title": "English Idioms",
+ "description": "What common idioms really mean.",
+ "cards": [
+  {
+   "front": "Break the ice",
+   "back": "Start a conversation in a tense situation"
+  },
+  {
+   "front": "Piece of cake",
+   "back": "Very easy"
+  },
+  {
+   "front": "Spill the beans",
+   "back": "Reveal a secret"
+  },
+  {
+   "front": "Under the weather",
+   "back": "Feeling ill"
+  },
+  {
+   "front": "Once in a blue moon",
+   "back": "Very rarely"
+  },
+  {
+   "front": "Hit the nail on the head",
+   "back": "Be exactly right"
+  },
+  {
+   "front": "Let the cat out of the bag",
+   "back": "Reveal a secret by mistake"
+  },
+  {
+   "front": "Bite the bullet",
+   "back": "Face something unpleasant bravely"
+  },
+  {
+   "front": "Cost an arm and a leg",
+   "back": "Be very expensive"
+  },
+  {
+   "front": "The ball is in your court",
+   "back": "It is your decision now"
+  },
+  {
+   "front": "Burn the midnight oil",
+   "back": "Work late into the night"
+  },
+  {
+   "front": "Kill two birds with one stone",
+   "back": "Solve two problems at once"
+  },
+  {
+   "front": "Cut corners",
+   "back": "Do something cheaply or carelessly"
+  },
+  {
+   "front": "Back to square one",
+   "back": "Start again from the beginning"
+  },
+  {
+   "front": "Barking up the wrong tree",
+   "back": "Pursuing the wrong idea"
+  }
+ ]
+}

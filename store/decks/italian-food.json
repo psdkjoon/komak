@@ -1,0 +1,58 @@
+{
+ "title": "Italian Food Words",
+ "description": "Food vocabulary in Italian.",
+ "cards": [
+  {
+   "front": "Pasta",
+   "back": "Pasta"
+  },
+  {
+   "front": "Cheese",
+   "back": "Formaggio"
+  },
+  {
+   "front": "Ham",
+   "back": "Prosciutto"
+  },
+  {
+   "front": "Tomato",
+   "back": "Pomodoro"
+  },
+  {
+   "front": "Chicken",
+   "back": "Pollo"
+  },
+  {
+   "front": "Fish",
+   "back": "Pesce"
+  },
+  {
+   "front": "Ice cream",
+   "back": "Gelato"
+  },
+  {
+   "front": "Wine",
+   "back": "Vino"
+  },
+  {
+   "front": "Coffee",
+   "back": "Caffè"
+  },
+  {
+   "front": "Sugar",
+   "back": "Zucchero"
+  },
+  {
+   "front": "Salt",
+   "back": "Sale"
+  },
+  {
+   "front": "Apple",
+   "back": "Mela"
+  },
+  {
+   "front": "Egg",
+   "back": "Uovo"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Telling Time",
+ "description": "Clock phrases.",
+ "cards": [
+  {
+   "front": "3:15",
+   "back": "Quarter past three"
+  },
+  {
+   "front": "3:30",
+   "back": "Half past three"
+  },
+  {
+   "front": "3:45",
+   "back": "Quarter to four"
+  },
+  {
+   "front": "12:00 (day)",
+   "back": "Noon"
+  },
+  {
+   "front": "12:00 (night)",
+   "back": "Midnight"
+  },
+  {
+   "front": "7:05",
+   "back": "Five past seven"
+  },
+  {
+   "front": "6:50",
+   "back": "Ten to seven"
+  },
+  {
+   "front": "24-hour 18:00",
+   "back": "6 pm"
+  },
+  {
+   "front": "24-hour 00:30",
+   "back": "12:30 am"
+  }
+ ]
+}

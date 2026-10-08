@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Arabic",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "أين الحمام؟ (ayna al-ḥammām?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "بكم هذا؟ (bikam hādha?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "لا أفهم (lā afham)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "هل تتكلم الإنجليزية؟ (hal tatakallam al-inglīziyya?)"
+  },
+  {
+   "front": "Help!",
+   "back": "النجدة! (an-najda!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "عفوًا (ʿafwan)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "آسف (āsif)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "تشرفت بمعرفتك (tasharraftu bi-maʿrifatik)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "في صحتك (fī ṣiḥḥatik)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "الحساب من فضلك (al-ḥisāb min faḍlak)"
+  },
+  {
+   "front": "Good night",
+   "back": "تصبح على خير (tuṣbiḥ ʿalā khayr)"
+  }
+ ]
+}

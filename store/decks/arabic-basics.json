@@ -1,0 +1,46 @@
+{
+ "title": "Arabic Basics",
+ "description": "Everyday Arabic words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "مرحبا (marhaba)"
+  },
+  {
+   "front": "Thank you",
+   "back": "شكرا (shukran)"
+  },
+  {
+   "front": "Yes",
+   "back": "نعم (naʿam)"
+  },
+  {
+   "front": "No",
+   "back": "لا (la)"
+  },
+  {
+   "front": "Water",
+   "back": "ماء (maaʾ)"
+  },
+  {
+   "front": "Bread",
+   "back": "خبز (khubz)"
+  },
+  {
+   "front": "House",
+   "back": "بيت (bayt)"
+  },
+  {
+   "front": "Friend",
+   "back": "صديق (sadiq)"
+  },
+  {
+   "front": "Please",
+   "back": "من فضلك (min fadlak)"
+  },
+  {
+   "front": "Good morning",
+   "back": "صباح الخير (sabah al-khayr)"
+  }
+ ]
+}

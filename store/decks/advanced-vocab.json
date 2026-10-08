@@ -1,0 +1,78 @@
+{
+ "title": "Advanced Vocabulary",
+ "description": "Word and meaning.",
+ "cards": [
+  {
+   "front": "Ephemeral",
+   "back": "Lasting a very short time"
+  },
+  {
+   "front": "Ubiquitous",
+   "back": "Found everywhere"
+  },
+  {
+   "front": "Benevolent",
+   "back": "Kind and well-meaning"
+  },
+  {
+   "front": "Meticulous",
+   "back": "Very careful about detail"
+  },
+  {
+   "front": "Pragmatic",
+   "back": "Practical rather than idealistic"
+  },
+  {
+   "front": "Eloquent",
+   "back": "Fluent and persuasive"
+  },
+  {
+   "front": "Ambiguous",
+   "back": "Open to more than one meaning"
+  },
+  {
+   "front": "Candid",
+   "back": "Honest and straightforward"
+  },
+  {
+   "front": "Resilient",
+   "back": "Able to recover quickly"
+  },
+  {
+   "front": "Obsolete",
+   "back": "No longer used"
+  },
+  {
+   "front": "Gregarious",
+   "back": "Sociable"
+  },
+  {
+   "front": "Frugal",
+   "back": "Careful with money"
+  },
+  {
+   "front": "Verbose",
+   "back": "Using too many words"
+  },
+  {
+   "front": "Lethargic",
+   "back": "Sluggish and lacking energy"
+  },
+  {
+   "front": "Alleviate",
+   "back": "To make less severe"
+  },
+  {
+   "front": "Serendipity",
+   "back": "Happy accident"
+  },
+  {
+   "front": "Cacophony",
+   "back": "Harsh mix of sounds"
+  },
+  {
+   "front": "Ostentatious",
+   "back": "Showy to impress"
+  }
+ ]
+}

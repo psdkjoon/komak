@@ -1,0 +1,74 @@
+{
+ "title": "SI Units",
+ "description": "Quantities and their units.",
+ "cards": [
+  {
+   "front": "Force",
+   "back": "Newton (N)"
+  },
+  {
+   "front": "Energy",
+   "back": "Joule (J)"
+  },
+  {
+   "front": "Power",
+   "back": "Watt (W)"
+  },
+  {
+   "front": "Pressure",
+   "back": "Pascal (Pa)"
+  },
+  {
+   "front": "Frequency",
+   "back": "Hertz (Hz)"
+  },
+  {
+   "front": "Electric current",
+   "back": "Ampere (A)"
+  },
+  {
+   "front": "Electric charge",
+   "back": "Coulomb (C)"
+  },
+  {
+   "front": "Voltage",
+   "back": "Volt (V)"
+  },
+  {
+   "front": "Resistance",
+   "back": "Ohm (Ω)"
+  },
+  {
+   "front": "Capacitance",
+   "back": "Farad (F)"
+  },
+  {
+   "front": "Magnetic flux density",
+   "back": "Tesla (T)"
+  },
+  {
+   "front": "Temperature",
+   "back": "Kelvin (K)"
+  },
+  {
+   "front": "Amount of substance",
+   "back": "Mole (mol)"
+  },
+  {
+   "front": "Luminous intensity",
+   "back": "Candela (cd)"
+  },
+  {
+   "front": "Time",
+   "back": "Second (s)"
+  },
+  {
+   "front": "Mass",
+   "back": "Kilogram (kg)"
+  },
+  {
+   "front": "Length",
+   "back": "Metre (m)"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "title": "Peace And Rights Leaders",
+ "description": "Person and cause.",
+ "cards": [
+  {
+   "front": "Mahatma Gandhi",
+   "back": "Nonviolent resistance in India"
+  },
+  {
+   "front": "Nelson Mandela",
+   "back": "Ended apartheid in South Africa"
+  },
+  {
+   "front": "Martin Luther King Jr.",
+   "back": "US civil rights movement"
+  },
+  {
+   "front": "Mother Teresa",
+   "back": "Care for the poor in Kolkata"
+  },
+  {
+   "front": "Malala Yousafzai",
+   "back": "Girls' education"
+  },
+  {
+   "front": "Desmond Tutu",
+   "back": "Anti-apartheid activist"
+  },
+  {
+   "front": "Aung San Suu Kyi",
+   "back": "Myanmar democracy activist"
+  },
+  {
+   "front": "Wangari Maathai",
+   "back": "Environment and women's rights"
+  }
+ ]
+}

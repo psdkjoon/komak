@@ -1,0 +1,70 @@
+{
+ "title": "Spanish Numbers",
+ "description": "Count in Spanish.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "uno"
+  },
+  {
+   "front": "2",
+   "back": "dos"
+  },
+  {
+   "front": "3",
+   "back": "tres"
+  },
+  {
+   "front": "4",
+   "back": "cuatro"
+  },
+  {
+   "front": "5",
+   "back": "cinco"
+  },
+  {
+   "front": "6",
+   "back": "seis"
+  },
+  {
+   "front": "7",
+   "back": "siete"
+  },
+  {
+   "front": "8",
+   "back": "ocho"
+  },
+  {
+   "front": "9",
+   "back": "nueve"
+  },
+  {
+   "front": "10",
+   "back": "diez"
+  },
+  {
+   "front": "11",
+   "back": "once"
+  },
+  {
+   "front": "12",
+   "back": "doce"
+  },
+  {
+   "front": "20",
+   "back": "veinte"
+  },
+  {
+   "front": "30",
+   "back": "treinta"
+  },
+  {
+   "front": "50",
+   "back": "cincuenta"
+  },
+  {
+   "front": "100",
+   "back": "cien"
+  }
+ ]
+}

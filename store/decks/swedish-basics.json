@@ -1,0 +1,46 @@
+{
+ "title": "Swedish Basics",
+ "description": "Everyday Swedish words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Hej"
+  },
+  {
+   "front": "Thank you",
+   "back": "Tack"
+  },
+  {
+   "front": "Yes",
+   "back": "Ja"
+  },
+  {
+   "front": "No",
+   "back": "Nej"
+  },
+  {
+   "front": "Water",
+   "back": "Vatten"
+  },
+  {
+   "front": "Bread",
+   "back": "Bröd"
+  },
+  {
+   "front": "House",
+   "back": "Hus"
+  },
+  {
+   "front": "Friend",
+   "back": "Vän"
+  },
+  {
+   "front": "Please",
+   "back": "Snälla"
+  },
+  {
+   "front": "Good morning",
+   "back": "God morgon"
+  }
+ ]
+}

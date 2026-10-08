@@ -1,0 +1,66 @@
+{
+ "title": "Mandarin Basics",
+ "description": "Common words with pinyin.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "你好 (nǐ hǎo)"
+  },
+  {
+   "front": "Thank you",
+   "back": "谢谢 (xièxie)"
+  },
+  {
+   "front": "Goodbye",
+   "back": "再见 (zàijiàn)"
+  },
+  {
+   "front": "Yes / to be",
+   "back": "是 (shì)"
+  },
+  {
+   "front": "No / not",
+   "back": "不 (bù)"
+  },
+  {
+   "front": "Water",
+   "back": "水 (shuǐ)"
+  },
+  {
+   "front": "I / me",
+   "back": "我 (wǒ)"
+  },
+  {
+   "front": "You",
+   "back": "你 (nǐ)"
+  },
+  {
+   "front": "Love",
+   "back": "爱 (ài)"
+  },
+  {
+   "front": "One",
+   "back": "一 (yī)"
+  },
+  {
+   "front": "Two",
+   "back": "二 (èr)"
+  },
+  {
+   "front": "Three",
+   "back": "三 (sān)"
+  },
+  {
+   "front": "Person",
+   "back": "人 (rén)"
+  },
+  {
+   "front": "Big",
+   "back": "大 (dà)"
+  },
+  {
+   "front": "Fire",
+   "back": "火 (huǒ)"
+  }
+ ]
+}

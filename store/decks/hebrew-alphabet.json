@@ -1,0 +1,94 @@
+{
+ "title": "Hebrew Alphabet",
+ "description": "Letters and their names.",
+ "cards": [
+  {
+   "front": "א",
+   "back": "Alef"
+  },
+  {
+   "front": "ב",
+   "back": "Bet"
+  },
+  {
+   "front": "ג",
+   "back": "Gimel"
+  },
+  {
+   "front": "ד",
+   "back": "Dalet"
+  },
+  {
+   "front": "ה",
+   "back": "He"
+  },
+  {
+   "front": "ו",
+   "back": "Vav"
+  },
+  {
+   "front": "ז",
+   "back": "Zayin"
+  },
+  {
+   "front": "ח",
+   "back": "Chet"
+  },
+  {
+   "front": "ט",
+   "back": "Tet"
+  },
+  {
+   "front": "י",
+   "back": "Yod"
+  },
+  {
+   "front": "כ",
+   "back": "Kaf"
+  },
+  {
+   "front": "ל",
+   "back": "Lamed"
+  },
+  {
+   "front": "מ",
+   "back": "Mem"
+  },
+  {
+   "front": "נ",
+   "back": "Nun"
+  },
+  {
+   "front": "ס",
+   "back": "Samekh"
+  },
+  {
+   "front": "ע",
+   "back": "Ayin"
+  },
+  {
+   "front": "פ",
+   "back": "Pe"
+  },
+  {
+   "front": "צ",
+   "back": "Tsadi"
+  },
+  {
+   "front": "ק",
+   "back": "Qof"
+  },
+  {
+   "front": "ר",
+   "back": "Resh"
+  },
+  {
+   "front": "ש",
+   "back": "Shin"
+  },
+  {
+   "front": "ת",
+   "back": "Tav"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "title": "Mohs Hardness Scale",
+ "description": "From softest to hardest.",
+ "cards": [
+  {
+   "front": "Hardness 1",
+   "back": "Talc",
+   "orderIndex": 1
+  },
+  {
+   "front": "Hardness 2",
+   "back": "Gypsum",
+   "orderIndex": 2
+  },
+  {
+   "front": "Hardness 3",
+   "back": "Calcite",
+   "orderIndex": 3
+  },
+  {
+   "front": "Hardness 4",
+   "back": "Fluorite",
+   "orderIndex": 4
+  },
+  {
+   "front": "Hardness 5",
+   "back": "Apatite",
+   "orderIndex": 5
+  },
+  {
+   "front": "Hardness 6",
+   "back": "Orthoclase feldspar",
+   "orderIndex": 6
+  },
+  {
+   "front": "Hardness 7",
+   "back": "Quartz",
+   "orderIndex": 7
+  },
+  {
+   "front": "Hardness 8",
+   "back": "Topaz",
+   "orderIndex": 8
+  },
+  {
+   "front": "Hardness 9",
+   "back": "Corundum",
+   "orderIndex": 9
+  },
+  {
+   "front": "Hardness 10",
+   "back": "Diamond",
+   "orderIndex": 10
+  }
+ ]
+}

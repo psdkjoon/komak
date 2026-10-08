@@ -1,0 +1,34 @@
+{
+ "title": "Scrabble Letter Values",
+ "description": "Letter and points.",
+ "cards": [
+  {
+   "front": "A, E, I, O, U",
+   "back": "1 point"
+  },
+  {
+   "front": "D, G",
+   "back": "2 points"
+  },
+  {
+   "front": "B, C, M, P",
+   "back": "3 points"
+  },
+  {
+   "front": "F, H, V, W, Y",
+   "back": "4 points"
+  },
+  {
+   "front": "K",
+   "back": "5 points"
+  },
+  {
+   "front": "J, X",
+   "back": "8 points"
+  },
+  {
+   "front": "Q, Z",
+   "back": "10 points"
+  }
+ ]
+}

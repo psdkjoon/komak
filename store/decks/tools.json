@@ -1,0 +1,46 @@
+{
+ "title": "Common Tools",
+ "description": "Tool and use.",
+ "cards": [
+  {
+   "front": "Hammer",
+   "back": "Drives nails"
+  },
+  {
+   "front": "Screwdriver",
+   "back": "Turns screws"
+  },
+  {
+   "front": "Wrench (spanner)",
+   "back": "Turns bolts"
+  },
+  {
+   "front": "Pliers",
+   "back": "Grips and bends"
+  },
+  {
+   "front": "Saw",
+   "back": "Cuts wood"
+  },
+  {
+   "front": "Drill",
+   "back": "Makes holes"
+  },
+  {
+   "front": "Tape measure",
+   "back": "Measures length"
+  },
+  {
+   "front": "Spirit level",
+   "back": "Checks a surface is flat"
+  },
+  {
+   "front": "Sandpaper",
+   "back": "Smooths surfaces"
+  },
+  {
+   "front": "Chisel",
+   "back": "Carves wood"
+  }
+ ]
+}

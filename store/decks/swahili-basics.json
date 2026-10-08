@@ -1,0 +1,54 @@
+{
+ "title": "Swahili Basics",
+ "description": "Everyday Swahili words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Jambo"
+  },
+  {
+   "front": "Thank you",
+   "back": "Asante"
+  },
+  {
+   "front": "Yes",
+   "back": "Ndiyo"
+  },
+  {
+   "front": "No",
+   "back": "Hapana"
+  },
+  {
+   "front": "Water",
+   "back": "Maji"
+  },
+  {
+   "front": "Food",
+   "back": "Chakula"
+  },
+  {
+   "front": "House",
+   "back": "Nyumba"
+  },
+  {
+   "front": "Friend",
+   "back": "Rafiki"
+  },
+  {
+   "front": "Please",
+   "back": "Tafadhali"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Kwaheri"
+  },
+  {
+   "front": "Welcome",
+   "back": "Karibu"
+  },
+  {
+   "front": "No problem",
+   "back": "Hakuna matata"
+  }
+ ]
+}

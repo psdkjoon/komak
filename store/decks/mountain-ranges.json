@@ -1,0 +1,54 @@
+{
+ "title": "Mountain Ranges",
+ "description": "Range and where it is.",
+ "cards": [
+  {
+   "front": "Himalayas",
+   "back": "Asia"
+  },
+  {
+   "front": "Andes",
+   "back": "South America"
+  },
+  {
+   "front": "Rockies",
+   "back": "North America"
+  },
+  {
+   "front": "Alps",
+   "back": "Europe"
+  },
+  {
+   "front": "Urals",
+   "back": "Russia (divides Europe and Asia)"
+  },
+  {
+   "front": "Atlas",
+   "back": "North Africa"
+  },
+  {
+   "front": "Pyrenees",
+   "back": "France and Spain border"
+  },
+  {
+   "front": "Appalachians",
+   "back": "Eastern United States"
+  },
+  {
+   "front": "Alborz",
+   "back": "Northern Iran"
+  },
+  {
+   "front": "Zagros",
+   "back": "Western Iran"
+  },
+  {
+   "front": "Carpathians",
+   "back": "Central and Eastern Europe"
+  },
+  {
+   "front": "Great Dividing Range",
+   "back": "Eastern Australia"
+  }
+ ]
+}

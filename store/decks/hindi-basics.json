@@ -1,0 +1,54 @@
+{
+ "title": "Hindi Basics",
+ "description": "Everyday Hindi words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "नमस्ते (namaste)"
+  },
+  {
+   "front": "Thank you",
+   "back": "धन्यवाद (dhanyavaad)"
+  },
+  {
+   "front": "Yes",
+   "back": "हाँ (haan)"
+  },
+  {
+   "front": "No",
+   "back": "नहीं (nahin)"
+  },
+  {
+   "front": "Water",
+   "back": "पानी (paani)"
+  },
+  {
+   "front": "Food",
+   "back": "खाना (khaana)"
+  },
+  {
+   "front": "House",
+   "back": "घर (ghar)"
+  },
+  {
+   "front": "Friend",
+   "back": "दोस्त (dost)"
+  },
+  {
+   "front": "Please",
+   "back": "कृपया (kripya)"
+  },
+  {
+   "front": "Sorry",
+   "back": "माफ़ कीजिए (maaf kijiye)"
+  },
+  {
+   "front": "Mother",
+   "back": "माँ (maa)"
+  },
+  {
+   "front": "Father",
+   "back": "पिता (pitaa)"
+  }
+ ]
+}

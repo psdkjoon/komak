@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: German",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "Wo ist die Toilette?"
+  },
+  {
+   "front": "How much is this?",
+   "back": "Wie viel kostet das?"
+  },
+  {
+   "front": "I don't understand",
+   "back": "Ich verstehe nicht"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "Sprechen Sie Englisch?"
+  },
+  {
+   "front": "Help!",
+   "back": "Hilfe!"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Entschuldigung"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Es tut mir leid"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Freut mich"
+  },
+  {
+   "front": "Cheers!",
+   "back": "Prost!"
+  },
+  {
+   "front": "The bill, please",
+   "back": "Die Rechnung, bitte"
+  },
+  {
+   "front": "Good night",
+   "back": "Gute Nacht"
+  }
+ ]
+}

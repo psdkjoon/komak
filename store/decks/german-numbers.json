@@ -1,0 +1,66 @@
+{
+ "title": "German Numbers",
+ "description": "Count in German.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "eins"
+  },
+  {
+   "front": "2",
+   "back": "zwei"
+  },
+  {
+   "front": "3",
+   "back": "drei"
+  },
+  {
+   "front": "4",
+   "back": "vier"
+  },
+  {
+   "front": "5",
+   "back": "fünf"
+  },
+  {
+   "front": "6",
+   "back": "sechs"
+  },
+  {
+   "front": "7",
+   "back": "sieben"
+  },
+  {
+   "front": "8",
+   "back": "acht"
+  },
+  {
+   "front": "9",
+   "back": "neun"
+  },
+  {
+   "front": "10",
+   "back": "zehn"
+  },
+  {
+   "front": "11",
+   "back": "elf"
+  },
+  {
+   "front": "12",
+   "back": "zwölf"
+  },
+  {
+   "front": "20",
+   "back": "zwanzig"
+  },
+  {
+   "front": "100",
+   "back": "hundert"
+  },
+  {
+   "front": "1000",
+   "back": "tausend"
+  }
+ ]
+}

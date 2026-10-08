@@ -1,0 +1,51 @@
+{
+ "title": "Transport Types",
+ "description": "Land, water or air.",
+ "cards": [
+  {
+   "front": "Car",
+   "back": "Land",
+   "groupId": "Land"
+  },
+  {
+   "front": "Train",
+   "back": "Land",
+   "groupId": "Land"
+  },
+  {
+   "front": "Bicycle",
+   "back": "Land",
+   "groupId": "Land"
+  },
+  {
+   "front": "Boat",
+   "back": "Water",
+   "groupId": "Water"
+  },
+  {
+   "front": "Ship",
+   "back": "Water",
+   "groupId": "Water"
+  },
+  {
+   "front": "Submarine",
+   "back": "Water",
+   "groupId": "Water"
+  },
+  {
+   "front": "Airplane",
+   "back": "Air",
+   "groupId": "Air"
+  },
+  {
+   "front": "Helicopter",
+   "back": "Air",
+   "groupId": "Air"
+  },
+  {
+   "front": "Hot air balloon",
+   "back": "Air",
+   "groupId": "Air"
+  }
+ ]
+}

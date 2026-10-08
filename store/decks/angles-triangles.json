@@ -1,0 +1,50 @@
+{
+ "title": "Angles And Triangles",
+ "description": "Types and definitions.",
+ "cards": [
+  {
+   "front": "Acute angle",
+   "back": "Less than 90°"
+  },
+  {
+   "front": "Right angle",
+   "back": "Exactly 90°"
+  },
+  {
+   "front": "Obtuse angle",
+   "back": "Between 90° and 180°"
+  },
+  {
+   "front": "Straight angle",
+   "back": "Exactly 180°"
+  },
+  {
+   "front": "Reflex angle",
+   "back": "More than 180°"
+  },
+  {
+   "front": "Equilateral triangle",
+   "back": "Three equal sides"
+  },
+  {
+   "front": "Isosceles triangle",
+   "back": "Two equal sides"
+  },
+  {
+   "front": "Scalene triangle",
+   "back": "No equal sides"
+  },
+  {
+   "front": "Right triangle",
+   "back": "Contains a 90° angle"
+  },
+  {
+   "front": "Complementary angles",
+   "back": "Add up to 90°"
+  },
+  {
+   "front": "Supplementary angles",
+   "back": "Add up to 180°"
+  }
+ ]
+}

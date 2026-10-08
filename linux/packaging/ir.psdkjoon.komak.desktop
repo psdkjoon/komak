@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=komak
+GenericName=Flashcards
+Comment=Learn small things, a little at a time.
+Exec=komak
+Icon=komak
+Terminal=false
+Categories=Education;Utility;
+StartupWMClass=ir.psdkjoon.komak

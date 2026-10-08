@@ -1,0 +1,86 @@
+{
+ "title": "Famous Landmarks",
+ "description": "Landmark and country.",
+ "cards": [
+  {
+   "front": "Eiffel Tower",
+   "back": "France"
+  },
+  {
+   "front": "Colosseum",
+   "back": "Italy"
+  },
+  {
+   "front": "Taj Mahal",
+   "back": "India"
+  },
+  {
+   "front": "Great Wall",
+   "back": "China"
+  },
+  {
+   "front": "Machu Picchu",
+   "back": "Peru"
+  },
+  {
+   "front": "Petra",
+   "back": "Jordan"
+  },
+  {
+   "front": "Christ the Redeemer",
+   "back": "Brazil"
+  },
+  {
+   "front": "Big Ben",
+   "back": "United Kingdom"
+  },
+  {
+   "front": "Statue of Liberty",
+   "back": "United States"
+  },
+  {
+   "front": "Sydney Opera House",
+   "back": "Australia"
+  },
+  {
+   "front": "Angkor Wat",
+   "back": "Cambodia"
+  },
+  {
+   "front": "Pyramids of Giza",
+   "back": "Egypt"
+  },
+  {
+   "front": "Sagrada Família",
+   "back": "Spain"
+  },
+  {
+   "front": "Burj Khalifa",
+   "back": "United Arab Emirates"
+  },
+  {
+   "front": "Acropolis",
+   "back": "Greece"
+  },
+  {
+   "front": "Persepolis",
+   "back": "Iran"
+  },
+  {
+   "front": "Hagia Sophia",
+   "back": "Turkey"
+  },
+  {
+   "front": "Mount Fuji",
+   "back": "Japan"
+  },
+  {
+   "front": "Stonehenge",
+   "back": "United Kingdom"
+  },
+  {
+   "front": "Neuschwanstein Castle",
+   "back": "Germany"
+  }
+ ]
+}

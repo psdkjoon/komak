@@ -1,0 +1,50 @@
+{
+ "title": "Everyday Digital Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Wi-Fi",
+   "back": "Wireless internet connection"
+  },
+  {
+   "front": "Bluetooth",
+   "back": "Short-range wireless link"
+  },
+  {
+   "front": "Cloud",
+   "back": "Storage on remote servers"
+  },
+  {
+   "front": "Cookie",
+   "back": "Small file a website saves on your device"
+  },
+  {
+   "front": "Browser",
+   "back": "Program for viewing websites"
+  },
+  {
+   "front": "Spam",
+   "back": "Unwanted bulk messages"
+  },
+  {
+   "front": "Streaming",
+   "back": "Playing media without downloading it first"
+  },
+  {
+   "front": "Backup",
+   "back": "Extra copy of your data"
+  },
+  {
+   "front": "Cache",
+   "back": "Stored copy for faster loading"
+  },
+  {
+   "front": "QR code",
+   "back": "Square barcode scanned by a camera"
+  },
+  {
+   "front": "Incognito mode",
+   "back": "Browsing without saving history locally"
+  }
+ ]
+}

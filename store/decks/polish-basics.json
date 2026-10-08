@@ -1,0 +1,46 @@
+{
+ "title": "Polish Basics",
+ "description": "Everyday Polish words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Cześć"
+  },
+  {
+   "front": "Thank you",
+   "back": "Dziękuję"
+  },
+  {
+   "front": "Yes",
+   "back": "Tak"
+  },
+  {
+   "front": "No",
+   "back": "Nie"
+  },
+  {
+   "front": "Water",
+   "back": "Woda"
+  },
+  {
+   "front": "Bread",
+   "back": "Chleb"
+  },
+  {
+   "front": "House",
+   "back": "Dom"
+  },
+  {
+   "front": "Friend",
+   "back": "Przyjaciel"
+  },
+  {
+   "front": "Please",
+   "back": "Proszę"
+  },
+  {
+   "front": "Good morning",
+   "back": "Dzień dobry"
+  }
+ ]
+}

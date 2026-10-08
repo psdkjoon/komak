@@ -1,0 +1,42 @@
+{
+ "title": "Logical Fallacies",
+ "description": "Fallacy and meaning.",
+ "cards": [
+  {
+   "front": "Ad hominem",
+   "back": "Attacking the person, not the argument"
+  },
+  {
+   "front": "Straw man",
+   "back": "Misrepresenting an argument to defeat it"
+  },
+  {
+   "front": "Slippery slope",
+   "back": "Claiming one step leads to extreme results"
+  },
+  {
+   "front": "False dilemma",
+   "back": "Presenting only two options"
+  },
+  {
+   "front": "Appeal to authority",
+   "back": "Claiming truth because an authority said so"
+  },
+  {
+   "front": "Circular reasoning",
+   "back": "Conclusion is used as the premise"
+  },
+  {
+   "front": "Bandwagon",
+   "back": "Claiming truth because many believe it"
+  },
+  {
+   "front": "Red herring",
+   "back": "Distracting from the real issue"
+  },
+  {
+   "front": "Hasty generalization",
+   "back": "Conclusion from too little evidence"
+  }
+ ]
+}

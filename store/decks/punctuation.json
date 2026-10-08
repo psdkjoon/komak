@@ -1,0 +1,54 @@
+{
+ "title": "Punctuation Marks",
+ "description": "Name and use.",
+ "cards": [
+  {
+   "front": ".",
+   "back": "Period, ends a sentence"
+  },
+  {
+   "front": ",",
+   "back": "Comma, separates parts"
+  },
+  {
+   "front": ";",
+   "back": "Semicolon, joins related clauses"
+  },
+  {
+   "front": ":",
+   "back": "Colon, introduces a list or explanation"
+  },
+  {
+   "front": "'",
+   "back": "Apostrophe, possession or contraction"
+  },
+  {
+   "front": "-",
+   "back": "Hyphen, joins words"
+  },
+  {
+   "front": "—",
+   "back": "Em dash, strong break"
+  },
+  {
+   "front": "…",
+   "back": "Ellipsis, trailing off"
+  },
+  {
+   "front": "( )",
+   "back": "Parentheses, extra information"
+  },
+  {
+   "front": "\" \"",
+   "back": "Quotation marks, speech or quotes"
+  },
+  {
+   "front": "?",
+   "back": "Question mark"
+  },
+  {
+   "front": "!",
+   "back": "Exclamation mark"
+  }
+ ]
+}

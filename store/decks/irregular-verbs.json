@@ -1,0 +1,70 @@
+{
+ "title": "Irregular Verbs",
+ "description": "Base verb and its past forms.",
+ "cards": [
+  {
+   "front": "go",
+   "back": "went, gone"
+  },
+  {
+   "front": "be",
+   "back": "was/were, been"
+  },
+  {
+   "front": "see",
+   "back": "saw, seen"
+  },
+  {
+   "front": "take",
+   "back": "took, taken"
+  },
+  {
+   "front": "eat",
+   "back": "ate, eaten"
+  },
+  {
+   "front": "write",
+   "back": "wrote, written"
+  },
+  {
+   "front": "begin",
+   "back": "began, begun"
+  },
+  {
+   "front": "break",
+   "back": "broke, broken"
+  },
+  {
+   "front": "choose",
+   "back": "chose, chosen"
+  },
+  {
+   "front": "drive",
+   "back": "drove, driven"
+  },
+  {
+   "front": "speak",
+   "back": "spoke, spoken"
+  },
+  {
+   "front": "swim",
+   "back": "swam, swum"
+  },
+  {
+   "front": "sing",
+   "back": "sang, sung"
+  },
+  {
+   "front": "drink",
+   "back": "drank, drunk"
+  },
+  {
+   "front": "give",
+   "back": "gave, given"
+  },
+  {
+   "front": "fly",
+   "back": "flew, flown"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Famous Deserts",
+ "description": "Desert and location.",
+ "cards": [
+  {
+   "front": "Sahara",
+   "back": "North Africa"
+  },
+  {
+   "front": "Gobi",
+   "back": "Mongolia and China"
+  },
+  {
+   "front": "Kalahari",
+   "back": "Southern Africa"
+  },
+  {
+   "front": "Atacama",
+   "back": "Chile"
+  },
+  {
+   "front": "Arabian",
+   "back": "Arabian Peninsula"
+  },
+  {
+   "front": "Thar",
+   "back": "India and Pakistan"
+  },
+  {
+   "front": "Namib",
+   "back": "Namibia"
+  },
+  {
+   "front": "Mojave",
+   "back": "California"
+  },
+  {
+   "front": "Dasht-e Kavir",
+   "back": "Iran"
+  },
+  {
+   "front": "Patagonian",
+   "back": "Argentina"
+  },
+  {
+   "front": "Great Victoria",
+   "back": "Australia"
+  },
+  {
+   "front": "Antarctic",
+   "back": "Antarctica (largest overall)"
+  }
+ ]
+}

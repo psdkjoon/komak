@@ -1,0 +1,46 @@
+{
+ "title": "Dog Breeds",
+ "description": "Breed and origin.",
+ "cards": [
+  {
+   "front": "Akita",
+   "back": "Japan"
+  },
+  {
+   "front": "Shiba Inu",
+   "back": "Japan"
+  },
+  {
+   "front": "German Shepherd",
+   "back": "Germany"
+  },
+  {
+   "front": "Dachshund",
+   "back": "Germany"
+  },
+  {
+   "front": "Chihuahua",
+   "back": "Mexico"
+  },
+  {
+   "front": "Siberian Husky",
+   "back": "Siberia"
+  },
+  {
+   "front": "Labrador Retriever",
+   "back": "Canada (Newfoundland)"
+  },
+  {
+   "front": "Golden Retriever",
+   "back": "Scotland"
+  },
+  {
+   "front": "Saluki",
+   "back": "Middle East"
+  },
+  {
+   "front": "Bulldog",
+   "back": "England"
+  }
+ ]
+}

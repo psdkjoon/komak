@@ -1,0 +1,54 @@
+{
+ "title": "Italian Music Terms",
+ "description": "Tempo and dynamics.",
+ "cards": [
+  {
+   "front": "Allegro",
+   "back": "Fast and lively"
+  },
+  {
+   "front": "Adagio",
+   "back": "Slow"
+  },
+  {
+   "front": "Andante",
+   "back": "At a walking pace"
+  },
+  {
+   "front": "Presto",
+   "back": "Very fast"
+  },
+  {
+   "front": "Forte",
+   "back": "Loud"
+  },
+  {
+   "front": "Piano",
+   "back": "Soft"
+  },
+  {
+   "front": "Crescendo",
+   "back": "Gradually louder"
+  },
+  {
+   "front": "Diminuendo",
+   "back": "Gradually softer"
+  },
+  {
+   "front": "Staccato",
+   "back": "Short and detached"
+  },
+  {
+   "front": "Legato",
+   "back": "Smooth and connected"
+  },
+  {
+   "front": "Fermata",
+   "back": "Hold the note longer"
+  },
+  {
+   "front": "Ritardando",
+   "back": "Gradually slowing down"
+  }
+ ]
+}

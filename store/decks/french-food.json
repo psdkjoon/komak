@@ -1,0 +1,58 @@
+{
+ "title": "French Food Words",
+ "description": "Food vocabulary in French.",
+ "cards": [
+  {
+   "front": "Apple",
+   "back": "Pomme"
+  },
+  {
+   "front": "Chicken",
+   "back": "Poulet"
+  },
+  {
+   "front": "Fish",
+   "back": "Poisson"
+  },
+  {
+   "front": "Rice",
+   "back": "Riz"
+  },
+  {
+   "front": "Egg",
+   "back": "Œuf"
+  },
+  {
+   "front": "Butter",
+   "back": "Beurre"
+  },
+  {
+   "front": "Sugar",
+   "back": "Sucre"
+  },
+  {
+   "front": "Salt",
+   "back": "Sel"
+  },
+  {
+   "front": "Wine",
+   "back": "Vin"
+  },
+  {
+   "front": "Cake",
+   "back": "Gâteau"
+  },
+  {
+   "front": "Strawberry",
+   "back": "Fraise"
+  },
+  {
+   "front": "Potato",
+   "back": "Pomme de terre"
+  },
+  {
+   "front": "Soup",
+   "back": "Soupe"
+  }
+ ]
+}

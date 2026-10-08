@@ -1,0 +1,46 @@
+{
+ "title": "Spices And Where They Come From",
+ "description": "Spice and source.",
+ "cards": [
+  {
+   "front": "Saffron",
+   "back": "Stigmas of the crocus flower"
+  },
+  {
+   "front": "Cinnamon",
+   "back": "Inner bark of a tree"
+  },
+  {
+   "front": "Turmeric",
+   "back": "Root, gives yellow colour"
+  },
+  {
+   "front": "Vanilla",
+   "back": "Seed pods of an orchid"
+  },
+  {
+   "front": "Nutmeg",
+   "back": "Seed of a tropical tree"
+  },
+  {
+   "front": "Cloves",
+   "back": "Dried flower buds"
+  },
+  {
+   "front": "Ginger",
+   "back": "Underground stem (rhizome)"
+  },
+  {
+   "front": "Black pepper",
+   "back": "Dried berries of a vine"
+  },
+  {
+   "front": "Cardamom",
+   "back": "Seed pods, often green"
+  },
+  {
+   "front": "Paprika",
+   "back": "Ground dried peppers"
+  }
+ ]
+}

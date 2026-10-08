@@ -1,0 +1,41 @@
+{
+ "title": "OSI Model Layers",
+ "description": "From the bottom layer up.",
+ "cards": [
+  {
+   "front": "Layer 1",
+   "back": "Physical",
+   "orderIndex": 1
+  },
+  {
+   "front": "Layer 2",
+   "back": "Data Link",
+   "orderIndex": 2
+  },
+  {
+   "front": "Layer 3",
+   "back": "Network",
+   "orderIndex": 3
+  },
+  {
+   "front": "Layer 4",
+   "back": "Transport",
+   "orderIndex": 4
+  },
+  {
+   "front": "Layer 5",
+   "back": "Session",
+   "orderIndex": 5
+  },
+  {
+   "front": "Layer 6",
+   "back": "Presentation",
+   "orderIndex": 6
+  },
+  {
+   "front": "Layer 7",
+   "back": "Application",
+   "orderIndex": 7
+  }
+ ]
+}

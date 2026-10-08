@@ -1,0 +1,38 @@
+{
+ "title": "Cognitive Biases",
+ "description": "Bias and meaning.",
+ "cards": [
+  {
+   "front": "Confirmation bias",
+   "back": "Favouring information that fits your beliefs"
+  },
+  {
+   "front": "Anchoring",
+   "back": "Over-relying on the first number you see"
+  },
+  {
+   "front": "Dunning–Kruger effect",
+   "back": "Low skill overestimates ability"
+  },
+  {
+   "front": "Sunk cost fallacy",
+   "back": "Continuing because of past investment"
+  },
+  {
+   "front": "Availability heuristic",
+   "back": "Judging by what comes to mind easily"
+  },
+  {
+   "front": "Halo effect",
+   "back": "One good trait colours the whole impression"
+  },
+  {
+   "front": "Survivorship bias",
+   "back": "Looking only at what survived"
+  },
+  {
+   "front": "Hindsight bias",
+   "back": "Thinking an outcome was obvious afterwards"
+  }
+ ]
+}

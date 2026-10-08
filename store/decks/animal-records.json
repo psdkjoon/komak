@@ -1,0 +1,54 @@
+{
+ "title": "Animal Records",
+ "description": "The fastest, biggest, tallest.",
+ "cards": [
+  {
+   "front": "Fastest land animal",
+   "back": "Cheetah"
+  },
+  {
+   "front": "Largest animal ever",
+   "back": "Blue whale"
+  },
+  {
+   "front": "Tallest animal",
+   "back": "Giraffe"
+  },
+  {
+   "front": "Largest land animal",
+   "back": "African elephant"
+  },
+  {
+   "front": "Fastest bird in a dive",
+   "back": "Peregrine falcon"
+  },
+  {
+   "front": "Largest bird",
+   "back": "Ostrich"
+  },
+  {
+   "front": "Smallest bird",
+   "back": "Bee hummingbird"
+  },
+  {
+   "front": "Egg-laying mammal",
+   "back": "Platypus"
+  },
+  {
+   "front": "Largest reptile",
+   "back": "Saltwater crocodile"
+  },
+  {
+   "front": "Slowest mammal",
+   "back": "Sloth"
+  },
+  {
+   "front": "Largest primate",
+   "back": "Gorilla"
+  },
+  {
+   "front": "Fastest fish (often cited)",
+   "back": "Sailfish"
+  }
+ ]
+}

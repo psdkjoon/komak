@@ -1,0 +1,118 @@
+{
+ "title": "Arabic Alphabet",
+ "description": "Letters and their names.",
+ "cards": [
+  {
+   "front": "ا",
+   "back": "Alif"
+  },
+  {
+   "front": "ب",
+   "back": "Bāʾ"
+  },
+  {
+   "front": "ت",
+   "back": "Tāʾ"
+  },
+  {
+   "front": "ث",
+   "back": "Thāʾ"
+  },
+  {
+   "front": "ج",
+   "back": "Jīm"
+  },
+  {
+   "front": "ح",
+   "back": "Ḥāʾ"
+  },
+  {
+   "front": "خ",
+   "back": "Khāʾ"
+  },
+  {
+   "front": "د",
+   "back": "Dāl"
+  },
+  {
+   "front": "ذ",
+   "back": "Dhāl"
+  },
+  {
+   "front": "ر",
+   "back": "Rāʾ"
+  },
+  {
+   "front": "ز",
+   "back": "Zāy"
+  },
+  {
+   "front": "س",
+   "back": "Sīn"
+  },
+  {
+   "front": "ش",
+   "back": "Shīn"
+  },
+  {
+   "front": "ص",
+   "back": "Ṣād"
+  },
+  {
+   "front": "ض",
+   "back": "Ḍād"
+  },
+  {
+   "front": "ط",
+   "back": "Ṭāʾ"
+  },
+  {
+   "front": "ظ",
+   "back": "Ẓāʾ"
+  },
+  {
+   "front": "ع",
+   "back": "ʿAyn"
+  },
+  {
+   "front": "غ",
+   "back": "Ghayn"
+  },
+  {
+   "front": "ف",
+   "back": "Fāʾ"
+  },
+  {
+   "front": "ق",
+   "back": "Qāf"
+  },
+  {
+   "front": "ك",
+   "back": "Kāf"
+  },
+  {
+   "front": "ل",
+   "back": "Lām"
+  },
+  {
+   "front": "م",
+   "back": "Mīm"
+  },
+  {
+   "front": "ن",
+   "back": "Nūn"
+  },
+  {
+   "front": "ه",
+   "back": "Hāʾ"
+  },
+  {
+   "front": "و",
+   "back": "Wāw"
+  },
+  {
+   "front": "ي",
+   "back": "Yāʾ"
+  }
+ ]
+}

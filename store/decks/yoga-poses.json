@@ -1,0 +1,42 @@
+{
+ "title": "Yoga Poses",
+ "description": "English and Sanskrit names.",
+ "cards": [
+  {
+   "front": "Mountain pose",
+   "back": "Tadasana"
+  },
+  {
+   "front": "Downward-facing dog",
+   "back": "Adho Mukha Svanasana"
+  },
+  {
+   "front": "Child's pose",
+   "back": "Balasana"
+  },
+  {
+   "front": "Tree pose",
+   "back": "Vrksasana"
+  },
+  {
+   "front": "Cobra pose",
+   "back": "Bhujangasana"
+  },
+  {
+   "front": "Lotus pose",
+   "back": "Padmasana"
+  },
+  {
+   "front": "Corpse pose",
+   "back": "Savasana"
+  },
+  {
+   "front": "Warrior I",
+   "back": "Virabhadrasana I"
+  },
+  {
+   "front": "Bridge pose",
+   "back": "Setu Bandhasana"
+  }
+ ]
+}

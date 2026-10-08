@@ -1,0 +1,78 @@
+{
+ "title": "Hello In Many Languages",
+ "description": "Greetings around the world.",
+ "cards": [
+  {
+   "front": "Spanish",
+   "back": "Hola"
+  },
+  {
+   "front": "French",
+   "back": "Bonjour"
+  },
+  {
+   "front": "German",
+   "back": "Hallo"
+  },
+  {
+   "front": "Italian",
+   "back": "Ciao"
+  },
+  {
+   "front": "Hindi",
+   "back": "Namaste"
+  },
+  {
+   "front": "Arabic",
+   "back": "Marhaba"
+  },
+  {
+   "front": "Persian",
+   "back": "Salâm"
+  },
+  {
+   "front": "Japanese",
+   "back": "Konnichiwa"
+  },
+  {
+   "front": "Korean",
+   "back": "Annyeonghaseyo"
+  },
+  {
+   "front": "Mandarin",
+   "back": "Nǐ hǎo"
+  },
+  {
+   "front": "Turkish",
+   "back": "Merhaba"
+  },
+  {
+   "front": "Russian",
+   "back": "Privet"
+  },
+  {
+   "front": "Swahili",
+   "back": "Jambo"
+  },
+  {
+   "front": "Hebrew",
+   "back": "Shalom"
+  },
+  {
+   "front": "Zulu",
+   "back": "Sawubona"
+  },
+  {
+   "front": "Hawaiian",
+   "back": "Aloha"
+  },
+  {
+   "front": "Maori",
+   "back": "Kia ora"
+  },
+  {
+   "front": "Swedish",
+   "back": "Hej"
+  }
+ ]
+}

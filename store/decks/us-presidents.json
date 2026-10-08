@@ -1,0 +1,56 @@
+{
+ "title": "First Ten US Presidents",
+ "description": "In order of office.",
+ "cards": [
+  {
+   "front": "1st president",
+   "back": "George Washington",
+   "orderIndex": 1
+  },
+  {
+   "front": "2nd president",
+   "back": "John Adams",
+   "orderIndex": 2
+  },
+  {
+   "front": "3rd president",
+   "back": "Thomas Jefferson",
+   "orderIndex": 3
+  },
+  {
+   "front": "4th president",
+   "back": "James Madison",
+   "orderIndex": 4
+  },
+  {
+   "front": "5th president",
+   "back": "James Monroe",
+   "orderIndex": 5
+  },
+  {
+   "front": "6th president",
+   "back": "John Quincy Adams",
+   "orderIndex": 6
+  },
+  {
+   "front": "7th president",
+   "back": "Andrew Jackson",
+   "orderIndex": 7
+  },
+  {
+   "front": "8th president",
+   "back": "Martin Van Buren",
+   "orderIndex": 8
+  },
+  {
+   "front": "9th president",
+   "back": "William Henry Harrison",
+   "orderIndex": 9
+  },
+  {
+   "front": "10th president",
+   "back": "John Tyler",
+   "orderIndex": 10
+  }
+ ]
+}

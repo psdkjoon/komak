@@ -1,0 +1,62 @@
+{
+ "title": "Turkish Basics",
+ "description": "Everyday Turkish words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Merhaba"
+  },
+  {
+   "front": "Thank you",
+   "back": "Teşekkürler"
+  },
+  {
+   "front": "Yes",
+   "back": "Evet"
+  },
+  {
+   "front": "No",
+   "back": "Hayır"
+  },
+  {
+   "front": "Please",
+   "back": "Lütfen"
+  },
+  {
+   "front": "Water",
+   "back": "Su"
+  },
+  {
+   "front": "Bread",
+   "back": "Ekmek"
+  },
+  {
+   "front": "Good morning",
+   "back": "Günaydın"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Hoşça kal"
+  },
+  {
+   "front": "House",
+   "back": "Ev"
+  },
+  {
+   "front": "Book",
+   "back": "Kitap"
+  },
+  {
+   "front": "Friend",
+   "back": "Arkadaş"
+  },
+  {
+   "front": "Cat",
+   "back": "Kedi"
+  },
+  {
+   "front": "Dog",
+   "back": "Köpek"
+  }
+ ]
+}

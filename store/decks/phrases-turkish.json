@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Turkish",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "Tuvalet nerede?"
+  },
+  {
+   "front": "How much is this?",
+   "back": "Bu ne kadar?"
+  },
+  {
+   "front": "I don't understand",
+   "back": "Anlamıyorum"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "İngilizce biliyor musunuz?"
+  },
+  {
+   "front": "Help!",
+   "back": "İmdat!"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Affedersiniz"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Özür dilerim"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Memnun oldum"
+  },
+  {
+   "front": "Cheers!",
+   "back": "Şerefe!"
+  },
+  {
+   "front": "The bill, please",
+   "back": "Hesap, lütfen"
+  },
+  {
+   "front": "Good night",
+   "back": "İyi geceler"
+  }
+ ]
+}

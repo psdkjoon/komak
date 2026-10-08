@@ -1,0 +1,46 @@
+{
+ "title": "Greek Basics",
+ "description": "Everyday Greek words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Γεια σου (yia sou)"
+  },
+  {
+   "front": "Thank you",
+   "back": "Ευχαριστώ (efharisto)"
+  },
+  {
+   "front": "Yes",
+   "back": "Ναι (ne)"
+  },
+  {
+   "front": "No",
+   "back": "Όχι (ochi)"
+  },
+  {
+   "front": "Water",
+   "back": "Νερό (nero)"
+  },
+  {
+   "front": "Bread",
+   "back": "Ψωμί (psomi)"
+  },
+  {
+   "front": "House",
+   "back": "Σπίτι (spiti)"
+  },
+  {
+   "front": "Friend",
+   "back": "Φίλος (filos)"
+  },
+  {
+   "front": "Please / You're welcome",
+   "back": "Παρακαλώ (parakalo)"
+  },
+  {
+   "front": "Good morning",
+   "back": "Καλημέρα (kalimera)"
+  }
+ ]
+}

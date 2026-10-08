@@ -1,0 +1,46 @@
+{
+ "title": "Vietnamese Basics",
+ "description": "Everyday Vietnamese words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Xin chào"
+  },
+  {
+   "front": "Thank you",
+   "back": "Cảm ơn"
+  },
+  {
+   "front": "Yes",
+   "back": "Vâng / Dạ"
+  },
+  {
+   "front": "No",
+   "back": "Không"
+  },
+  {
+   "front": "Water",
+   "back": "Nước"
+  },
+  {
+   "front": "Rice",
+   "back": "Cơm"
+  },
+  {
+   "front": "House",
+   "back": "Nhà"
+  },
+  {
+   "front": "Friend",
+   "back": "Bạn"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Tạm biệt"
+  },
+  {
+   "front": "Sorry",
+   "back": "Xin lỗi"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "title": "Days Of The Week",
+ "description": "In order, Monday first.",
+ "cards": [
+  {
+   "front": "Day 1",
+   "back": "Monday",
+   "orderIndex": 1
+  },
+  {
+   "front": "Day 2",
+   "back": "Tuesday",
+   "orderIndex": 2
+  },
+  {
+   "front": "Day 3",
+   "back": "Wednesday",
+   "orderIndex": 3
+  },
+  {
+   "front": "Day 4",
+   "back": "Thursday",
+   "orderIndex": 4
+  },
+  {
+   "front": "Day 5",
+   "back": "Friday",
+   "orderIndex": 5
+  },
+  {
+   "front": "Day 6",
+   "back": "Saturday",
+   "orderIndex": 6
+  },
+  {
+   "front": "Day 7",
+   "back": "Sunday",
+   "orderIndex": 7
+  }
+ ]
+}

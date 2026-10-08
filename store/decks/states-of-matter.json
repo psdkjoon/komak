@@ -1,0 +1,34 @@
+{
+ "title": "States Of Matter",
+ "description": "State and example.",
+ "cards": [
+  {
+   "front": "Solid",
+   "back": "Ice"
+  },
+  {
+   "front": "Liquid",
+   "back": "Water"
+  },
+  {
+   "front": "Gas",
+   "back": "Steam"
+  },
+  {
+   "front": "Ice turning into water",
+   "back": "Melting"
+  },
+  {
+   "front": "Water turning into steam",
+   "back": "Evaporation or boiling"
+  },
+  {
+   "front": "Steam turning into water",
+   "back": "Condensation"
+  },
+  {
+   "front": "Water turning into ice",
+   "back": "Freezing"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "title": "French Basics",
+ "description": "Everyday French words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Bonjour"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Au revoir"
+  },
+  {
+   "front": "Please",
+   "back": "S'il vous plaît"
+  },
+  {
+   "front": "Thank you",
+   "back": "Merci"
+  },
+  {
+   "front": "Yes",
+   "back": "Oui"
+  },
+  {
+   "front": "No",
+   "back": "Non"
+  },
+  {
+   "front": "Water",
+   "back": "Eau"
+  },
+  {
+   "front": "Bread",
+   "back": "Pain"
+  },
+  {
+   "front": "House",
+   "back": "Maison"
+  },
+  {
+   "front": "Friend",
+   "back": "Ami"
+  },
+  {
+   "front": "Book",
+   "back": "Livre"
+  },
+  {
+   "front": "Cat",
+   "back": "Chat"
+  },
+  {
+   "front": "Dog",
+   "back": "Chien"
+  },
+  {
+   "front": "Today",
+   "back": "Aujourd'hui"
+  },
+  {
+   "front": "Tomorrow",
+   "back": "Demain"
+  },
+  {
+   "front": "Good evening",
+   "back": "Bonsoir"
+  },
+  {
+   "front": "How are you?",
+   "back": "Comment allez-vous ?"
+  },
+  {
+   "front": "Milk",
+   "back": "Lait"
+  },
+  {
+   "front": "Cheese",
+   "back": "Fromage"
+  },
+  {
+   "front": "Thank you very much",
+   "back": "Merci beaucoup"
+  }
+ ]
+}

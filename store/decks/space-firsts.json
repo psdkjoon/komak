@@ -1,0 +1,46 @@
+{
+ "title": "Space Firsts",
+ "description": "Milestones of space exploration.",
+ "cards": [
+  {
+   "front": "First artificial satellite",
+   "back": "Sputnik 1 (1957)"
+  },
+  {
+   "front": "First human in space",
+   "back": "Yuri Gagarin (1961)"
+  },
+  {
+   "front": "First woman in space",
+   "back": "Valentina Tereshkova (1963)"
+  },
+  {
+   "front": "First person on the Moon",
+   "back": "Neil Armstrong (1969)"
+  },
+  {
+   "front": "First space station (long-term)",
+   "back": "Salyut 1 (1971)"
+  },
+  {
+   "front": "Hubble Space Telescope launched",
+   "back": "1990"
+  },
+  {
+   "front": "First rover on Mars (NASA)",
+   "back": "Sojourner (1997)"
+  },
+  {
+   "front": "Largest telescope launched in 2021",
+   "back": "James Webb Space Telescope"
+  },
+  {
+   "front": "First dog in orbit",
+   "back": "Laika (1957)"
+  },
+  {
+   "front": "Space shuttle first flight",
+   "back": "Columbia (1981)"
+  }
+ ]
+}

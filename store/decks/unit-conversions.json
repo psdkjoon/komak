@@ -1,0 +1,46 @@
+{
+ "title": "Unit Conversions",
+ "description": "Common conversions.",
+ "cards": [
+  {
+   "front": "1 inch",
+   "back": "2.54 cm"
+  },
+  {
+   "front": "1 foot",
+   "back": "30.48 cm"
+  },
+  {
+   "front": "1 mile",
+   "back": "About 1.609 km"
+  },
+  {
+   "front": "1 kg",
+   "back": "About 2.205 lb"
+  },
+  {
+   "front": "1 US gallon",
+   "back": "About 3.785 litres"
+  },
+  {
+   "front": "1 ounce",
+   "back": "About 28.35 g"
+  },
+  {
+   "front": "0 °C",
+   "back": "32 °F"
+  },
+  {
+   "front": "100 °C",
+   "back": "212 °F"
+  },
+  {
+   "front": "1 knot",
+   "back": "1.852 km/h"
+  },
+  {
+   "front": "1 acre",
+   "back": "About 4,047 m²"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Tagalog Basics",
+ "description": "Everyday Tagalog words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Kumusta"
+  },
+  {
+   "front": "Thank you",
+   "back": "Salamat"
+  },
+  {
+   "front": "Yes",
+   "back": "Oo"
+  },
+  {
+   "front": "No",
+   "back": "Hindi"
+  },
+  {
+   "front": "Water",
+   "back": "Tubig"
+  },
+  {
+   "front": "Bread",
+   "back": "Tinapay"
+  },
+  {
+   "front": "House",
+   "back": "Bahay"
+  },
+  {
+   "front": "Friend",
+   "back": "Kaibigan"
+  },
+  {
+   "front": "Please",
+   "back": "Pakiusap"
+  },
+  {
+   "front": "Good morning",
+   "back": "Magandang umaga"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Players Per Team",
+ "description": "Sport and team size on the field.",
+ "cards": [
+  {
+   "front": "Football (soccer)",
+   "back": "11"
+  },
+  {
+   "front": "Basketball",
+   "back": "5"
+  },
+  {
+   "front": "Volleyball",
+   "back": "6"
+  },
+  {
+   "front": "Rugby union",
+   "back": "15"
+  },
+  {
+   "front": "Baseball",
+   "back": "9"
+  },
+  {
+   "front": "Ice hockey",
+   "back": "6"
+  },
+  {
+   "front": "Cricket",
+   "back": "11"
+  },
+  {
+   "front": "Water polo",
+   "back": "7"
+  },
+  {
+   "front": "Handball",
+   "back": "7"
+  },
+  {
+   "front": "American football",
+   "back": "11"
+  }
+ ]
+}

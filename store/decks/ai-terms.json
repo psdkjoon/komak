@@ -1,0 +1,54 @@
+{
+ "title": "AI And Machine Learning Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Neural network",
+   "back": "Layers of connected nodes that learn patterns"
+  },
+  {
+   "front": "Training",
+   "back": "Adjusting a model using data"
+  },
+  {
+   "front": "Overfitting",
+   "back": "Memorising training data, failing on new data"
+  },
+  {
+   "front": "Epoch",
+   "back": "One full pass over the training data"
+  },
+  {
+   "front": "Gradient descent",
+   "back": "Method to minimise error step by step"
+  },
+  {
+   "front": "Token",
+   "back": "Chunk of text a language model reads"
+  },
+  {
+   "front": "Embedding",
+   "back": "Vector representing meaning"
+  },
+  {
+   "front": "LLM",
+   "back": "Large language model"
+  },
+  {
+   "front": "Supervised learning",
+   "back": "Learning from labelled examples"
+  },
+  {
+   "front": "Unsupervised learning",
+   "back": "Finding patterns without labels"
+  },
+  {
+   "front": "Reinforcement learning",
+   "back": "Learning from rewards"
+  },
+  {
+   "front": "Loss function",
+   "back": "Measures how wrong predictions are"
+  }
+ ]
+}

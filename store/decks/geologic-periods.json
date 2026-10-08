@@ -1,0 +1,66 @@
+{
+ "title": "Geologic Periods",
+ "description": "From oldest to youngest.",
+ "cards": [
+  {
+   "front": "Period 1",
+   "back": "Cambrian",
+   "orderIndex": 1
+  },
+  {
+   "front": "Period 2",
+   "back": "Ordovician",
+   "orderIndex": 2
+  },
+  {
+   "front": "Period 3",
+   "back": "Silurian",
+   "orderIndex": 3
+  },
+  {
+   "front": "Period 4",
+   "back": "Devonian",
+   "orderIndex": 4
+  },
+  {
+   "front": "Period 5",
+   "back": "Carboniferous",
+   "orderIndex": 5
+  },
+  {
+   "front": "Period 6",
+   "back": "Permian",
+   "orderIndex": 6
+  },
+  {
+   "front": "Period 7",
+   "back": "Triassic",
+   "orderIndex": 7
+  },
+  {
+   "front": "Period 8",
+   "back": "Jurassic",
+   "orderIndex": 8
+  },
+  {
+   "front": "Period 9",
+   "back": "Cretaceous",
+   "orderIndex": 9
+  },
+  {
+   "front": "Period 10",
+   "back": "Paleogene",
+   "orderIndex": 10
+  },
+  {
+   "front": "Period 11",
+   "back": "Neogene",
+   "orderIndex": 11
+  },
+  {
+   "front": "Period 12",
+   "back": "Quaternary",
+   "orderIndex": 12
+  }
+ ]
+}

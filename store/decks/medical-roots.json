@@ -1,0 +1,62 @@
+{
+ "title": "Medical Word Parts",
+ "description": "Roots used in medical terms.",
+ "cards": [
+  {
+   "front": "cardio-",
+   "back": "Heart"
+  },
+  {
+   "front": "neuro-",
+   "back": "Nerve"
+  },
+  {
+   "front": "derm-",
+   "back": "Skin"
+  },
+  {
+   "front": "gastro-",
+   "back": "Stomach"
+  },
+  {
+   "front": "hepat-",
+   "back": "Liver"
+  },
+  {
+   "front": "nephro-",
+   "back": "Kidney"
+  },
+  {
+   "front": "osteo-",
+   "back": "Bone"
+  },
+  {
+   "front": "pulmo-",
+   "back": "Lung"
+  },
+  {
+   "front": "-itis",
+   "back": "Inflammation"
+  },
+  {
+   "front": "-ectomy",
+   "back": "Surgical removal"
+  },
+  {
+   "front": "hemo-",
+   "back": "Blood"
+  },
+  {
+   "front": "cephal-",
+   "back": "Head"
+  },
+  {
+   "front": "arthr-",
+   "back": "Joint"
+  },
+  {
+   "front": "-ology",
+   "back": "Study of"
+  }
+ ]
+}

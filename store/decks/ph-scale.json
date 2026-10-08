@@ -1,0 +1,46 @@
+{
+ "title": "pH Scale",
+ "description": "Where common things sit.",
+ "cards": [
+  {
+   "front": "Pure water",
+   "back": "About 7 (neutral)"
+  },
+  {
+   "front": "Lemon juice",
+   "back": "About 2 (acidic)"
+  },
+  {
+   "front": "Stomach acid",
+   "back": "About 1 to 2"
+  },
+  {
+   "front": "Black coffee",
+   "back": "About 5"
+  },
+  {
+   "front": "Baking soda solution",
+   "back": "About 9"
+  },
+  {
+   "front": "Household bleach",
+   "back": "About 12 to 13"
+  },
+  {
+   "front": "Milk",
+   "back": "About 6.5"
+  },
+  {
+   "front": "Seawater",
+   "back": "About 8"
+  },
+  {
+   "front": "Acidic means pH",
+   "back": "Below 7"
+  },
+  {
+   "front": "Basic (alkaline) means pH",
+   "back": "Above 7"
+  }
+ ]
+}

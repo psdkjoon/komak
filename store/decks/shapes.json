@@ -1,0 +1,46 @@
+{
+ "title": "Shapes",
+ "description": "Shape and description.",
+ "cards": [
+  {
+   "front": "Circle",
+   "back": "Round, no corners"
+  },
+  {
+   "front": "Triangle",
+   "back": "3 sides, 3 corners"
+  },
+  {
+   "front": "Square",
+   "back": "4 equal sides"
+  },
+  {
+   "front": "Rectangle",
+   "back": "4 sides, opposite sides equal"
+  },
+  {
+   "front": "Oval",
+   "back": "Egg-like round shape"
+  },
+  {
+   "front": "Pentagon",
+   "back": "5 sides"
+  },
+  {
+   "front": "Hexagon",
+   "back": "6 sides"
+  },
+  {
+   "front": "Octagon",
+   "back": "8 sides, like a stop sign"
+  },
+  {
+   "front": "Star",
+   "back": "Pointed shape with 5 points (common)"
+  },
+  {
+   "front": "Heart",
+   "back": "Symbol of love"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "title": "Flutter Widgets",
+ "description": "Widget and purpose.",
+ "cards": [
+  {
+   "front": "Container",
+   "back": "Box with padding, colour and size"
+  },
+  {
+   "front": "Row",
+   "back": "Lays out children horizontally"
+  },
+  {
+   "front": "Column",
+   "back": "Lays out children vertically"
+  },
+  {
+   "front": "Stack",
+   "back": "Layers children on top of each other"
+  },
+  {
+   "front": "ListView",
+   "back": "Scrollable list"
+  },
+  {
+   "front": "Scaffold",
+   "back": "Basic page structure"
+  },
+  {
+   "front": "AppBar",
+   "back": "Top bar"
+  },
+  {
+   "front": "Expanded",
+   "back": "Fills remaining space in a Row or Column"
+  },
+  {
+   "front": "SizedBox",
+   "back": "Fixed-size box or spacer"
+  },
+  {
+   "front": "Padding",
+   "back": "Adds space around a child"
+  },
+  {
+   "front": "GestureDetector",
+   "back": "Detects taps and gestures"
+  },
+  {
+   "front": "FutureBuilder",
+   "back": "Builds UI from a Future"
+  },
+  {
+   "front": "StatefulWidget",
+   "back": "Widget that has changing state"
+  },
+  {
+   "front": "setState",
+   "back": "Rebuilds a stateful widget"
+  }
+ ]
+}

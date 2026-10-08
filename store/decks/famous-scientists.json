@@ -1,0 +1,54 @@
+{
+ "title": "Famous Scientists",
+ "description": "Scientist and discovery.",
+ "cards": [
+  {
+   "front": "Albert Einstein",
+   "back": "Theory of relativity"
+  },
+  {
+   "front": "Isaac Newton",
+   "back": "Gravity and laws of motion"
+  },
+  {
+   "front": "Marie Curie",
+   "back": "Radioactivity"
+  },
+  {
+   "front": "Charles Darwin",
+   "back": "Evolution by natural selection"
+  },
+  {
+   "front": "Galileo Galilei",
+   "back": "Telescope observations"
+  },
+  {
+   "front": "Nikola Tesla",
+   "back": "Alternating current systems"
+  },
+  {
+   "front": "Stephen Hawking",
+   "back": "Black hole radiation"
+  },
+  {
+   "front": "Louis Pasteur",
+   "back": "Germ theory, vaccines"
+  },
+  {
+   "front": "Michael Faraday",
+   "back": "Electromagnetic induction"
+  },
+  {
+   "front": "Gregor Mendel",
+   "back": "Genetics"
+  },
+  {
+   "front": "Rosalind Franklin",
+   "back": "X-ray images of DNA"
+  },
+  {
+   "front": "Dmitri Mendeleev",
+   "back": "Periodic table"
+  }
+ ]
+}

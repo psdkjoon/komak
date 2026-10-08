@@ -1,0 +1,50 @@
+{
+ "title": "Markdown Syntax",
+ "description": "Syntax and result.",
+ "cards": [
+  {
+   "front": "# Title",
+   "back": "Heading level 1"
+  },
+  {
+   "front": "## Title",
+   "back": "Heading level 2"
+  },
+  {
+   "front": "**bold**",
+   "back": "Bold text"
+  },
+  {
+   "front": "*italic*",
+   "back": "Italic text"
+  },
+  {
+   "front": "- item",
+   "back": "Bullet list item"
+  },
+  {
+   "front": "1. item",
+   "back": "Numbered list item"
+  },
+  {
+   "front": "[text](url)",
+   "back": "Link"
+  },
+  {
+   "front": "![alt](url)",
+   "back": "Image"
+  },
+  {
+   "front": "`code`",
+   "back": "Inline code"
+  },
+  {
+   "front": "> quote",
+   "back": "Block quote"
+  },
+  {
+   "front": "---",
+   "back": "Horizontal rule"
+  }
+ ]
+}

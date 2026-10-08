@@ -1,0 +1,50 @@
+{
+ "title": "Seas And Water Bodies",
+ "description": "Sea and bordering region.",
+ "cards": [
+  {
+   "front": "Mediterranean Sea",
+   "back": "Between Europe, Africa and Asia"
+  },
+  {
+   "front": "Caspian Sea",
+   "back": "Iran, Russia, Kazakhstan and others"
+  },
+  {
+   "front": "Black Sea",
+   "back": "Turkey, Ukraine, Bulgaria"
+  },
+  {
+   "front": "Red Sea",
+   "back": "Between Africa and Arabia"
+  },
+  {
+   "front": "Baltic Sea",
+   "back": "Northern Europe"
+  },
+  {
+   "front": "North Sea",
+   "back": "Between Britain and Europe"
+  },
+  {
+   "front": "Caribbean Sea",
+   "back": "Central America and islands"
+  },
+  {
+   "front": "Arabian Sea",
+   "back": "Between India and Arabia"
+  },
+  {
+   "front": "Dead Sea",
+   "back": "Between Israel, Jordan and the West Bank"
+  },
+  {
+   "front": "Persian Gulf",
+   "back": "Between Iran and Arabia"
+  },
+  {
+   "front": "Sea of Japan",
+   "back": "Between Japan and the mainland"
+  }
+ ]
+}

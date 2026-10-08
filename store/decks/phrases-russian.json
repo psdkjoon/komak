@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Russian",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "Где туалет? (gde tualet?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "Сколько это стоит? (skolko eto stoit?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "Я не понимаю (ya ne ponimayu)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "Вы говорите по-английски? (vy govorite po-angliyski?)"
+  },
+  {
+   "front": "Help!",
+   "back": "Помогите! (pomogite!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Извините (izvinite)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Простите (prostite)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Приятно познакомиться (priyatno poznakomitsya)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "За здоровье! (za zdorovye!)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "Счёт, пожалуйста (schyot, pozhaluysta)"
+  },
+  {
+   "front": "Good night",
+   "back": "Спокойной ночи (spokoynoy nochi)"
+  }
+ ]
+}

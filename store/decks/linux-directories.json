@@ -1,0 +1,54 @@
+{
+ "title": "Linux Directories",
+ "description": "Directory and purpose.",
+ "cards": [
+  {
+   "front": "/",
+   "back": "Root of the file system"
+  },
+  {
+   "front": "/home",
+   "back": "User home directories"
+  },
+  {
+   "front": "/etc",
+   "back": "System configuration"
+  },
+  {
+   "front": "/bin",
+   "back": "Essential binaries"
+  },
+  {
+   "front": "/usr",
+   "back": "User programs and libraries"
+  },
+  {
+   "front": "/var",
+   "back": "Variable data like logs"
+  },
+  {
+   "front": "/tmp",
+   "back": "Temporary files"
+  },
+  {
+   "front": "/dev",
+   "back": "Device files"
+  },
+  {
+   "front": "/proc",
+   "back": "Process and kernel info"
+  },
+  {
+   "front": "/boot",
+   "back": "Boot loader and kernel"
+  },
+  {
+   "front": "/opt",
+   "back": "Optional software"
+  },
+  {
+   "front": "/mnt",
+   "back": "Mount points"
+  }
+ ]
+}

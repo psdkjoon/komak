@@ -1,0 +1,62 @@
+{
+ "title": "Irregular Plurals",
+ "description": "Singular and plural.",
+ "cards": [
+  {
+   "front": "child",
+   "back": "children"
+  },
+  {
+   "front": "man",
+   "back": "men"
+  },
+  {
+   "front": "woman",
+   "back": "women"
+  },
+  {
+   "front": "foot",
+   "back": "feet"
+  },
+  {
+   "front": "tooth",
+   "back": "teeth"
+  },
+  {
+   "front": "mouse",
+   "back": "mice"
+  },
+  {
+   "front": "person",
+   "back": "people"
+  },
+  {
+   "front": "goose",
+   "back": "geese"
+  },
+  {
+   "front": "sheep",
+   "back": "sheep"
+  },
+  {
+   "front": "leaf",
+   "back": "leaves"
+  },
+  {
+   "front": "knife",
+   "back": "knives"
+  },
+  {
+   "front": "wolf",
+   "back": "wolves"
+  },
+  {
+   "front": "life",
+   "back": "lives"
+  },
+  {
+   "front": "fish",
+   "back": "fish"
+  }
+ ]
+}

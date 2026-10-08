@@ -1,0 +1,62 @@
+{
+ "title": "JavaScript Basics",
+ "description": "Syntax and concepts.",
+ "cards": [
+  {
+   "front": "let",
+   "back": "Block-scoped variable"
+  },
+  {
+   "front": "const",
+   "back": "Block-scoped constant binding"
+  },
+  {
+   "front": "===",
+   "back": "Strict equality, no type coercion"
+  },
+  {
+   "front": "null",
+   "back": "Intentional empty value"
+  },
+  {
+   "front": "undefined",
+   "back": "Variable declared but not assigned"
+  },
+  {
+   "front": "Promise",
+   "back": "Value available later"
+  },
+  {
+   "front": "async / await",
+   "back": "Write promise code like sync code"
+  },
+  {
+   "front": "map()",
+   "back": "Transforms every array item"
+  },
+  {
+   "front": "filter()",
+   "back": "Keeps items that pass a test"
+  },
+  {
+   "front": "reduce()",
+   "back": "Folds an array into a single value"
+  },
+  {
+   "front": "Closure",
+   "back": "Function that remembers its outer scope"
+  },
+  {
+   "front": "=>",
+   "back": "Arrow function"
+  },
+  {
+   "front": "JSON.parse()",
+   "back": "String to object"
+  },
+  {
+   "front": "typeof",
+   "back": "Returns the type of a value"
+  }
+ ]
+}

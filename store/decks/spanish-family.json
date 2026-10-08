@@ -1,0 +1,58 @@
+{
+ "title": "Spanish Family Words",
+ "description": "Family members in Spanish.",
+ "cards": [
+  {
+   "front": "Mother",
+   "back": "Madre"
+  },
+  {
+   "front": "Father",
+   "back": "Padre"
+  },
+  {
+   "front": "Sister",
+   "back": "Hermana"
+  },
+  {
+   "front": "Brother",
+   "back": "Hermano"
+  },
+  {
+   "front": "Grandmother",
+   "back": "Abuela"
+  },
+  {
+   "front": "Grandfather",
+   "back": "Abuelo"
+  },
+  {
+   "front": "Daughter",
+   "back": "Hija"
+  },
+  {
+   "front": "Son",
+   "back": "Hijo"
+  },
+  {
+   "front": "Aunt",
+   "back": "Tía"
+  },
+  {
+   "front": "Uncle",
+   "back": "Tío"
+  },
+  {
+   "front": "Cousin",
+   "back": "Primo / Prima"
+  },
+  {
+   "front": "Husband",
+   "back": "Esposo"
+  },
+  {
+   "front": "Wife",
+   "back": "Esposa"
+  }
+ ]
+}

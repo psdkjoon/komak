@@ -1,0 +1,26 @@
+{
+ "title": "Water Cycle",
+ "description": "Stages in order.",
+ "cards": [
+  {
+   "front": "Stage 1",
+   "back": "Evaporation",
+   "orderIndex": 1
+  },
+  {
+   "front": "Stage 2",
+   "back": "Condensation",
+   "orderIndex": 2
+  },
+  {
+   "front": "Stage 3",
+   "back": "Precipitation",
+   "orderIndex": 3
+  },
+  {
+   "front": "Stage 4",
+   "back": "Collection",
+   "orderIndex": 4
+  }
+ ]
+}

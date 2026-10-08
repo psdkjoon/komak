@@ -1,0 +1,248 @@
+name: Build & Release
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FLUTTER_VERSION: "3.35.7"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Read version from pubspec.yaml
+        run: |
+          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
+          echo "komak version: $version"
+          test -n "$version"
+
+      - run: flutter pub get
+      - run: flutter analyze
+      - name: Test
+        run: if [ -d test ]; then flutter test; else echo "no test/ directory, skipping"; fi
+
+  android:
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      HAS_KEYSTORE: ${{ secrets.ANDROID_KEYSTORE_BASE64 != '' }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+          cache: gradle
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      - name: Accept Android SDK licenses
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses >/dev/null || true
+
+      - name: Read version from pubspec.yaml
+        run: |
+          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
+          test -n "$version"
+          echo "VERSION=$version" >> "$GITHUB_ENV"
+
+      - name: Decode keystore
+        if: env.HAS_KEYSTORE == 'true'
+        run: echo "$ANDROID_KEYSTORE_BASE64" | base64 -d > "$RUNNER_TEMP/upload-keystore.jks"
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+
+      - name: Write key.properties
+        if: env.HAS_KEYSTORE == 'true'
+        run: |
+          cat > android/key.properties <<EOF
+          storePassword=$ANDROID_KEYSTORE_PASSWORD
+          keyPassword=$ANDROID_KEY_PASSWORD
+          keyAlias=$ANDROID_KEY_ALIAS
+          storeFile=$RUNNER_TEMP/upload-keystore.jks
+          EOF
+        env:
+          ANDROID_KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          ANDROID_KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+          ANDROID_KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+
+      - run: flutter pub get
+
+      - name: Build universal release APK
+        run: |
+          flutter build apk --release --split-debug-info=build/symbols
+          mv build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/komak-${VERSION}-universal.apk
+
+      - name: Build split-per-ABI release APKs
+        run: |
+          flutter build apk --release --split-per-abi --split-debug-info=build/symbols
+          cd build/app/outputs/flutter-apk
+          for f in app-*-release.apk; do
+            abi="${f#app-}"
+            abi="${abi%-release.apk}"
+            mv "$f" "komak-${VERSION}-${abi}.apk"
+          done
+          ls -l komak-*.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: android-apks
+          path: build/app/outputs/flutter-apk/komak-*.apk
+          if-no-files-found: error
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: android-debug-symbols
+          path: build/symbols
+          retention-days: 90
+          if-no-files-found: error
+
+  linux:
+    needs: check
+    timeout-minutes: 45
+
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - arch: x86_64
+            runner: ubuntu-22.04
+            bundle: x64
+          - arch: aarch64
+            runner: ubuntu-22.04-arm
+            bundle: arm64
+
+    runs-on: ${{ matrix.runner }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Linux desktop build deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libstdc++-12-dev libasound2-dev libfuse2
+
+      # x86_64: use flutter-action
+      - uses: subosito/flutter-action@v2
+        if: matrix.arch == 'x86_64'
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          cache: true
+
+      # ARM64: install Flutter directly because flutter-action
+      # cannot resolve stable Flutter versions for arm64.
+      - name: Install Flutter (arm64)
+        if: matrix.arch == 'aarch64'
+        run: |
+          git clone --depth 1 --branch "$FLUTTER_VERSION" https://github.com/flutter/flutter.git "$HOME/flutter"
+          echo "$HOME/flutter/bin" >> "$GITHUB_PATH"
+          "$HOME/flutter/bin/flutter" --version
+
+      - name: Read version from pubspec.yaml
+        run: |
+          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
+          test -n "$version"
+          echo "VERSION=$version" >> "$GITHUB_ENV"
+
+      - run: flutter pub get
+      - run: flutter build linux --release
+
+      - name: Check the bundle
+        run: |
+          bundle=build/linux/${{ matrix.bundle }}/release/bundle
+          test -x "$bundle/komak"
+          test -f "$bundle/data/icons/komak.png"
+          test -f "$bundle/data/flutter_assets/assets/sounds/tap.wav"
+
+      - name: Build AppImage
+        env:
+          ARCH: ${{ matrix.arch }}
+        run: |
+          bundle=build/linux/${{ matrix.bundle }}/release/bundle
+
+          rm -rf AppDir && mkdir -p AppDir/usr/bin dist
+          cp -a "$bundle"/. AppDir/usr/bin/
+
+          cp linux/packaging/ir.psdkjoon.komak.desktop AppDir/ir.psdkjoon.komak.desktop
+          cp linux/icons/komak.png AppDir/komak.png
+          mkdir -p AppDir/usr/share/icons/hicolor/512x512/apps
+          cp linux/icons/komak.png AppDir/usr/share/icons/hicolor/512x512/apps/komak.png
+
+          cat > AppDir/AppRun <<'RUN'
+          #!/bin/sh
+          HERE="$(dirname "$(readlink -f "$0")")"
+          exec "$HERE/usr/bin/komak" "$@"
+          RUN
+
+          chmod +x AppDir/AppRun
+
+          curl -fsSL -o appimagetool \
+            "https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-${ARCH}.AppImage"
+          chmod +x appimagetool
+          ./appimagetool --appimage-extract-and-run AppDir "dist/komak-${VERSION}-${ARCH}.AppImage"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: linux-appimage-${{ matrix.arch }}
+          path: dist/*.AppImage
+          if-no-files-found: error
+
+  release:
+    needs: [android, linux]
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read version from pubspec.yaml
+        run: |
+          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
+          test -n "$version"
+          echo "VERSION=$version" >> "$GITHUB_ENV"
+          echo "TAG=v$version" >> "$GITHUB_ENV"
+
+      - name: Tag this commit
+        run: |
+          git tag -f "$TAG" "$GITHUB_SHA"
+          git push -f origin "refs/tags/$TAG"
+
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Publish to GitHub Releases
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TAG }}
+          name: komak ${{ env.TAG }}
+          make_latest: true
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+          files: |
+            artifacts/android-apks/*.apk
+            artifacts/linux-appimage-*/*.AppImage

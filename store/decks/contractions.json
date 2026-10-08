@@ -1,0 +1,54 @@
+{
+ "title": "Contractions",
+ "description": "Short and full forms.",
+ "cards": [
+  {
+   "front": "don't",
+   "back": "do not"
+  },
+  {
+   "front": "can't",
+   "back": "cannot"
+  },
+  {
+   "front": "won't",
+   "back": "will not"
+  },
+  {
+   "front": "I'm",
+   "back": "I am"
+  },
+  {
+   "front": "they're",
+   "back": "they are"
+  },
+  {
+   "front": "it's",
+   "back": "it is / it has"
+  },
+  {
+   "front": "we've",
+   "back": "we have"
+  },
+  {
+   "front": "shouldn't",
+   "back": "should not"
+  },
+  {
+   "front": "she'll",
+   "back": "she will"
+  },
+  {
+   "front": "who's",
+   "back": "who is"
+  },
+  {
+   "front": "let's",
+   "back": "let us"
+  },
+  {
+   "front": "y'all",
+   "back": "you all"
+  }
+ ]
+}

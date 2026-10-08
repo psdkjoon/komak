@@ -1,0 +1,54 @@
+{
+ "title": "Arch Linux pacman",
+ "description": "Package management on Arch.",
+ "cards": [
+  {
+   "front": "pacman -Syu",
+   "back": "Sync and upgrade the whole system"
+  },
+  {
+   "front": "pacman -S pkg",
+   "back": "Install a package"
+  },
+  {
+   "front": "pacman -R pkg",
+   "back": "Remove a package"
+  },
+  {
+   "front": "pacman -Rns pkg",
+   "back": "Remove a package, its unneeded dependencies and configs"
+  },
+  {
+   "front": "pacman -Ss term",
+   "back": "Search the repositories"
+  },
+  {
+   "front": "pacman -Qs term",
+   "back": "Search installed packages"
+  },
+  {
+   "front": "pacman -Qi pkg",
+   "back": "Show info for an installed package"
+  },
+  {
+   "front": "pacman -Ql pkg",
+   "back": "List files a package installed"
+  },
+  {
+   "front": "pacman -Qo file",
+   "back": "Find which package owns a file"
+  },
+  {
+   "front": "pacman -Qdt",
+   "back": "List orphaned packages"
+  },
+  {
+   "front": "pacman -Sc",
+   "back": "Clean the package cache"
+  },
+  {
+   "front": "pacman -U file",
+   "back": "Install a local package file"
+  }
+ ]
+}

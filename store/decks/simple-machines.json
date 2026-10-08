@@ -1,0 +1,30 @@
+{
+ "title": "Simple Machines",
+ "description": "The six classical machines.",
+ "cards": [
+  {
+   "front": "Lever",
+   "back": "Rigid bar that pivots on a fulcrum"
+  },
+  {
+   "front": "Wheel and axle",
+   "back": "Wheel fixed to a rotating rod"
+  },
+  {
+   "front": "Pulley",
+   "back": "Wheel with a rope to lift loads"
+  },
+  {
+   "front": "Inclined plane",
+   "back": "Sloped surface, a ramp"
+  },
+  {
+   "front": "Wedge",
+   "back": "Two inclined planes, splits things"
+  },
+  {
+   "front": "Screw",
+   "back": "Inclined plane wrapped around a rod"
+  }
+ ]
+}

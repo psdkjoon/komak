@@ -1,0 +1,54 @@
+{
+ "title": "Literary Devices",
+ "description": "Device and meaning.",
+ "cards": [
+  {
+   "front": "Simile",
+   "back": "Comparison using \"like\" or \"as\""
+  },
+  {
+   "front": "Metaphor",
+   "back": "Direct comparison without \"like\" or \"as\""
+  },
+  {
+   "front": "Alliteration",
+   "back": "Repeated starting sounds"
+  },
+  {
+   "front": "Onomatopoeia",
+   "back": "Word that imitates a sound"
+  },
+  {
+   "front": "Personification",
+   "back": "Giving human traits to non-human things"
+  },
+  {
+   "front": "Hyperbole",
+   "back": "Deliberate exaggeration"
+  },
+  {
+   "front": "Irony",
+   "back": "Opposite of what is expected or said"
+  },
+  {
+   "front": "Oxymoron",
+   "back": "Two contradictory terms together"
+  },
+  {
+   "front": "Foreshadowing",
+   "back": "Hints at later events"
+  },
+  {
+   "front": "Allusion",
+   "back": "Reference to another work or event"
+  },
+  {
+   "front": "Imagery",
+   "back": "Language that appeals to the senses"
+  },
+  {
+   "front": "Symbolism",
+   "back": "Object representing an idea"
+  }
+ ]
+}

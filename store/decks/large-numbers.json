@@ -1,0 +1,42 @@
+{
+ "title": "Large Numbers",
+ "description": "Names and powers of ten.",
+ "cards": [
+  {
+   "front": "Thousand",
+   "back": "10³"
+  },
+  {
+   "front": "Million",
+   "back": "10⁶"
+  },
+  {
+   "front": "Billion",
+   "back": "10⁹"
+  },
+  {
+   "front": "Trillion",
+   "back": "10¹²"
+  },
+  {
+   "front": "Quadrillion",
+   "back": "10¹⁵"
+  },
+  {
+   "front": "Googol",
+   "back": "10¹⁰⁰"
+  },
+  {
+   "front": "One hundred",
+   "back": "10²"
+  },
+  {
+   "front": "Ten thousand",
+   "back": "10⁴"
+  },
+  {
+   "front": "One hundred thousand",
+   "back": "10⁵"
+  }
+ ]
+}

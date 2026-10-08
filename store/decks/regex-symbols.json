@@ -1,0 +1,54 @@
+{
+ "title": "Regex Symbols",
+ "description": "Symbol and meaning.",
+ "cards": [
+  {
+   "front": ".",
+   "back": "Any character"
+  },
+  {
+   "front": "*",
+   "back": "Zero or more"
+  },
+  {
+   "front": "+",
+   "back": "One or more"
+  },
+  {
+   "front": "?",
+   "back": "Zero or one"
+  },
+  {
+   "front": "^",
+   "back": "Start of string"
+  },
+  {
+   "front": "$",
+   "back": "End of string"
+  },
+  {
+   "front": "\\d",
+   "back": "A digit"
+  },
+  {
+   "front": "\\w",
+   "back": "A word character"
+  },
+  {
+   "front": "\\s",
+   "back": "Whitespace"
+  },
+  {
+   "front": "[abc]",
+   "back": "Any of a, b or c"
+  },
+  {
+   "front": "(...)",
+   "back": "Capture group"
+  },
+  {
+   "front": "Pipe character",
+   "back": "Alternation (or)"
+  }
+ ]
+}

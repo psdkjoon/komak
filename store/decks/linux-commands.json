@@ -1,0 +1,86 @@
+{
+ "title": "Linux Commands",
+ "description": "Everyday shell commands.",
+ "cards": [
+  {
+   "front": "ls",
+   "back": "List directory contents"
+  },
+  {
+   "front": "cd",
+   "back": "Change directory"
+  },
+  {
+   "front": "pwd",
+   "back": "Print working directory"
+  },
+  {
+   "front": "cp",
+   "back": "Copy files"
+  },
+  {
+   "front": "mv",
+   "back": "Move or rename files"
+  },
+  {
+   "front": "rm",
+   "back": "Remove files"
+  },
+  {
+   "front": "mkdir",
+   "back": "Create a directory"
+  },
+  {
+   "front": "cat",
+   "back": "Print a file"
+  },
+  {
+   "front": "grep",
+   "back": "Search text for a pattern"
+  },
+  {
+   "front": "chmod",
+   "back": "Change file permissions"
+  },
+  {
+   "front": "chown",
+   "back": "Change file owner"
+  },
+  {
+   "front": "ps",
+   "back": "Show running processes"
+  },
+  {
+   "front": "kill",
+   "back": "Send a signal to a process"
+  },
+  {
+   "front": "df",
+   "back": "Show disk space"
+  },
+  {
+   "front": "du",
+   "back": "Show directory size"
+  },
+  {
+   "front": "tar",
+   "back": "Archive files"
+  },
+  {
+   "front": "find",
+   "back": "Search for files"
+  },
+  {
+   "front": "sudo",
+   "back": "Run a command as another user"
+  },
+  {
+   "front": "ln -s",
+   "back": "Create a symbolic link"
+  },
+  {
+   "front": "tail -f",
+   "back": "Follow a file as it grows"
+  }
+ ]
+}

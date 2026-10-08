@@ -1,0 +1,46 @@
+{
+ "title": "Dutch Basics",
+ "description": "Everyday Dutch words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Hallo"
+  },
+  {
+   "front": "Thank you",
+   "back": "Dank je wel"
+  },
+  {
+   "front": "Yes",
+   "back": "Ja"
+  },
+  {
+   "front": "No",
+   "back": "Nee"
+  },
+  {
+   "front": "Water",
+   "back": "Water"
+  },
+  {
+   "front": "Bread",
+   "back": "Brood"
+  },
+  {
+   "front": "House",
+   "back": "Huis"
+  },
+  {
+   "front": "Friend",
+   "back": "Vriend"
+  },
+  {
+   "front": "Please",
+   "back": "Alsjeblieft"
+  },
+  {
+   "front": "Good morning",
+   "back": "Goedemorgen"
+  }
+ ]
+}

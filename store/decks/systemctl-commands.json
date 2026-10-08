@@ -1,0 +1,38 @@
+{
+ "title": "systemctl Commands",
+ "description": "Command and effect.",
+ "cards": [
+  {
+   "front": "systemctl start",
+   "back": "Start a service now"
+  },
+  {
+   "front": "systemctl stop",
+   "back": "Stop a service now"
+  },
+  {
+   "front": "systemctl restart",
+   "back": "Stop then start"
+  },
+  {
+   "front": "systemctl enable",
+   "back": "Start at boot"
+  },
+  {
+   "front": "systemctl disable",
+   "back": "Do not start at boot"
+  },
+  {
+   "front": "systemctl status",
+   "back": "Show service status"
+  },
+  {
+   "front": "systemctl daemon-reload",
+   "back": "Reload unit files"
+  },
+  {
+   "front": "journalctl -u name",
+   "back": "Show logs for a unit"
+  }
+ ]
+}

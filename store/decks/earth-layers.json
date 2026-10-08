@@ -1,0 +1,26 @@
+{
+ "title": "Layers Of The Earth",
+ "description": "From the surface down.",
+ "cards": [
+  {
+   "front": "Layer 1",
+   "back": "Crust",
+   "orderIndex": 1
+  },
+  {
+   "front": "Layer 2",
+   "back": "Mantle",
+   "orderIndex": 2
+  },
+  {
+   "front": "Layer 3",
+   "back": "Outer core",
+   "orderIndex": 3
+  },
+  {
+   "front": "Layer 4",
+   "back": "Inner core",
+   "orderIndex": 4
+  }
+ ]
+}

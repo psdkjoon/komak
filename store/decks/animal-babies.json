@@ -1,0 +1,86 @@
+{
+ "title": "Baby Animals",
+ "description": "What each young animal is called.",
+ "cards": [
+  {
+   "front": "Dog",
+   "back": "Puppy"
+  },
+  {
+   "front": "Cat",
+   "back": "Kitten"
+  },
+  {
+   "front": "Cow",
+   "back": "Calf"
+  },
+  {
+   "front": "Horse",
+   "back": "Foal"
+  },
+  {
+   "front": "Sheep",
+   "back": "Lamb"
+  },
+  {
+   "front": "Goat",
+   "back": "Kid"
+  },
+  {
+   "front": "Pig",
+   "back": "Piglet"
+  },
+  {
+   "front": "Duck",
+   "back": "Duckling"
+  },
+  {
+   "front": "Chicken",
+   "back": "Chick"
+  },
+  {
+   "front": "Frog",
+   "back": "Tadpole"
+  },
+  {
+   "front": "Kangaroo",
+   "back": "Joey"
+  },
+  {
+   "front": "Swan",
+   "back": "Cygnet"
+  },
+  {
+   "front": "Deer",
+   "back": "Fawn"
+  },
+  {
+   "front": "Bear",
+   "back": "Cub"
+  },
+  {
+   "front": "Fox",
+   "back": "Kit"
+  },
+  {
+   "front": "Owl",
+   "back": "Owlet"
+  },
+  {
+   "front": "Eagle",
+   "back": "Eaglet"
+  },
+  {
+   "front": "Goose",
+   "back": "Gosling"
+  },
+  {
+   "front": "Lion",
+   "back": "Cub"
+  },
+  {
+   "front": "Butterfly",
+   "back": "Caterpillar (larva)"
+  }
+ ]
+}

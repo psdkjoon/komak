@@ -1,0 +1,66 @@
+{
+ "title": "Types Of Rock",
+ "description": "Igneous, sedimentary or metamorphic.",
+ "cards": [
+  {
+   "front": "Granite",
+   "back": "Igneous",
+   "groupId": "Igneous"
+  },
+  {
+   "front": "Basalt",
+   "back": "Igneous",
+   "groupId": "Igneous"
+  },
+  {
+   "front": "Obsidian",
+   "back": "Igneous",
+   "groupId": "Igneous"
+  },
+  {
+   "front": "Pumice",
+   "back": "Igneous",
+   "groupId": "Igneous"
+  },
+  {
+   "front": "Sandstone",
+   "back": "Sedimentary",
+   "groupId": "Sedimentary"
+  },
+  {
+   "front": "Limestone",
+   "back": "Sedimentary",
+   "groupId": "Sedimentary"
+  },
+  {
+   "front": "Shale",
+   "back": "Sedimentary",
+   "groupId": "Sedimentary"
+  },
+  {
+   "front": "Coal",
+   "back": "Sedimentary",
+   "groupId": "Sedimentary"
+  },
+  {
+   "front": "Marble",
+   "back": "Metamorphic",
+   "groupId": "Metamorphic"
+  },
+  {
+   "front": "Slate",
+   "back": "Metamorphic",
+   "groupId": "Metamorphic"
+  },
+  {
+   "front": "Gneiss",
+   "back": "Metamorphic",
+   "groupId": "Metamorphic"
+  },
+  {
+   "front": "Quartzite",
+   "back": "Metamorphic",
+   "groupId": "Metamorphic"
+  }
+ ]
+}

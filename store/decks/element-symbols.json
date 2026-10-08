@@ -1,0 +1,126 @@
+{
+ "title": "Chemical Element Symbols",
+ "description": "Element names and their symbols.",
+ "cards": [
+  {
+   "front": "Hydrogen",
+   "back": "H"
+  },
+  {
+   "front": "Helium",
+   "back": "He"
+  },
+  {
+   "front": "Lithium",
+   "back": "Li"
+  },
+  {
+   "front": "Beryllium",
+   "back": "Be"
+  },
+  {
+   "front": "Boron",
+   "back": "B"
+  },
+  {
+   "front": "Carbon",
+   "back": "C"
+  },
+  {
+   "front": "Nitrogen",
+   "back": "N"
+  },
+  {
+   "front": "Oxygen",
+   "back": "O"
+  },
+  {
+   "front": "Fluorine",
+   "back": "F"
+  },
+  {
+   "front": "Neon",
+   "back": "Ne"
+  },
+  {
+   "front": "Sodium",
+   "back": "Na"
+  },
+  {
+   "front": "Magnesium",
+   "back": "Mg"
+  },
+  {
+   "front": "Aluminium",
+   "back": "Al"
+  },
+  {
+   "front": "Silicon",
+   "back": "Si"
+  },
+  {
+   "front": "Phosphorus",
+   "back": "P"
+  },
+  {
+   "front": "Sulfur",
+   "back": "S"
+  },
+  {
+   "front": "Chlorine",
+   "back": "Cl"
+  },
+  {
+   "front": "Argon",
+   "back": "Ar"
+  },
+  {
+   "front": "Potassium",
+   "back": "K"
+  },
+  {
+   "front": "Calcium",
+   "back": "Ca"
+  },
+  {
+   "front": "Iron",
+   "back": "Fe"
+  },
+  {
+   "front": "Copper",
+   "back": "Cu"
+  },
+  {
+   "front": "Zinc",
+   "back": "Zn"
+  },
+  {
+   "front": "Silver",
+   "back": "Ag"
+  },
+  {
+   "front": "Tin",
+   "back": "Sn"
+  },
+  {
+   "front": "Iodine",
+   "back": "I"
+  },
+  {
+   "front": "Gold",
+   "back": "Au"
+  },
+  {
+   "front": "Mercury",
+   "back": "Hg"
+  },
+  {
+   "front": "Lead",
+   "back": "Pb"
+  },
+  {
+   "front": "Uranium",
+   "back": "U"
+  }
+ ]
+}

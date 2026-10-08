@@ -1,0 +1,66 @@
+{
+ "title": "Greek And Roman Gods",
+ "description": "Greek names and Roman equivalents.",
+ "cards": [
+  {
+   "front": "Zeus",
+   "back": "Jupiter"
+  },
+  {
+   "front": "Hera",
+   "back": "Juno"
+  },
+  {
+   "front": "Poseidon",
+   "back": "Neptune"
+  },
+  {
+   "front": "Hades",
+   "back": "Pluto"
+  },
+  {
+   "front": "Athena",
+   "back": "Minerva"
+  },
+  {
+   "front": "Apollo",
+   "back": "Apollo"
+  },
+  {
+   "front": "Artemis",
+   "back": "Diana"
+  },
+  {
+   "front": "Ares",
+   "back": "Mars"
+  },
+  {
+   "front": "Aphrodite",
+   "back": "Venus"
+  },
+  {
+   "front": "Hermes",
+   "back": "Mercury"
+  },
+  {
+   "front": "Demeter",
+   "back": "Ceres"
+  },
+  {
+   "front": "Hephaestus",
+   "back": "Vulcan"
+  },
+  {
+   "front": "Dionysus",
+   "back": "Bacchus"
+  },
+  {
+   "front": "Eros",
+   "back": "Cupid"
+  },
+  {
+   "front": "Hestia",
+   "back": "Vesta"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Ancient Egypt",
+ "description": "People, places and facts.",
+ "cards": [
+  {
+   "front": "Tutankhamun",
+   "back": "The boy king"
+  },
+  {
+   "front": "Hatshepsut",
+   "back": "Powerful female pharaoh"
+  },
+  {
+   "front": "Ramesses II",
+   "back": "Pharaoh who reigned about 66 years"
+  },
+  {
+   "front": "Khufu",
+   "back": "Built the Great Pyramid"
+  },
+  {
+   "front": "Cleopatra VII",
+   "back": "Last active ruler of Ptolemaic Egypt"
+  },
+  {
+   "front": "Rosetta Stone",
+   "back": "Key to deciphering hieroglyphs"
+  },
+  {
+   "front": "Nile",
+   "back": "River that made farming possible"
+  },
+  {
+   "front": "Valley of the Kings",
+   "back": "Royal burial site near Luxor"
+  },
+  {
+   "front": "Sphinx",
+   "back": "Statue with lion body and human head"
+  },
+  {
+   "front": "Hieroglyphs",
+   "back": "Egyptian picture writing"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Fibonacci Sequence",
+ "description": "First 15 terms.",
+ "cards": [
+  {
+   "front": "Term 1",
+   "back": "1",
+   "orderIndex": 1
+  },
+  {
+   "front": "Term 2",
+   "back": "1",
+   "orderIndex": 2
+  },
+  {
+   "front": "Term 3",
+   "back": "2",
+   "orderIndex": 3
+  },
+  {
+   "front": "Term 4",
+   "back": "3",
+   "orderIndex": 4
+  },
+  {
+   "front": "Term 5",
+   "back": "5",
+   "orderIndex": 5
+  },
+  {
+   "front": "Term 6",
+   "back": "8",
+   "orderIndex": 6
+  },
+  {
+   "front": "Term 7",
+   "back": "13",
+   "orderIndex": 7
+  },
+  {
+   "front": "Term 8",
+   "back": "21",
+   "orderIndex": 8
+  },
+  {
+   "front": "Term 9",
+   "back": "34",
+   "orderIndex": 9
+  },
+  {
+   "front": "Term 10",
+   "back": "55",
+   "orderIndex": 10
+  },
+  {
+   "front": "Term 11",
+   "back": "89",
+   "orderIndex": 11
+  },
+  {
+   "front": "Term 12",
+   "back": "144",
+   "orderIndex": 12
+  },
+  {
+   "front": "Term 13",
+   "back": "233",
+   "orderIndex": 13
+  },
+  {
+   "front": "Term 14",
+   "back": "377",
+   "orderIndex": 14
+  },
+  {
+   "front": "Term 15",
+   "back": "610",
+   "orderIndex": 15
+  }
+ ]
+}

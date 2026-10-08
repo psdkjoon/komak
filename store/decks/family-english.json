@@ -1,0 +1,42 @@
+{
+ "title": "Family Words",
+ "description": "Relation and meaning.",
+ "cards": [
+  {
+   "front": "Mother's sister",
+   "back": "Aunt"
+  },
+  {
+   "front": "Father's brother",
+   "back": "Uncle"
+  },
+  {
+   "front": "Uncle's child",
+   "back": "Cousin"
+  },
+  {
+   "front": "Brother's daughter",
+   "back": "Niece"
+  },
+  {
+   "front": "Brother's son",
+   "back": "Nephew"
+  },
+  {
+   "front": "Wife's mother",
+   "back": "Mother-in-law"
+  },
+  {
+   "front": "Father's father",
+   "back": "Grandfather"
+  },
+  {
+   "front": "Sibling's",
+   "back": "Brother or sister"
+  },
+  {
+   "front": "Parent's parent",
+   "back": "Grandparent"
+  }
+ ]
+}

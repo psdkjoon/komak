@@ -1,0 +1,42 @@
+{
+ "title": "Renaissance Figures",
+ "description": "Person and known for.",
+ "cards": [
+  {
+   "front": "Leonardo da Vinci",
+   "back": "Mona Lisa, inventions"
+  },
+  {
+   "front": "Michelangelo",
+   "back": "David, Sistine Chapel ceiling"
+  },
+  {
+   "front": "Raphael",
+   "back": "The School of Athens"
+  },
+  {
+   "front": "Galileo Galilei",
+   "back": "Telescope astronomy"
+  },
+  {
+   "front": "Johannes Gutenberg",
+   "back": "Printing press in Europe"
+  },
+  {
+   "front": "Niccolò Machiavelli",
+   "back": "The Prince"
+  },
+  {
+   "front": "Sandro Botticelli",
+   "back": "The Birth of Venus"
+  },
+  {
+   "front": "Nicolaus Copernicus",
+   "back": "Sun-centred model"
+  },
+  {
+   "front": "Donatello",
+   "back": "Sculptor of the bronze David"
+  }
+ ]
+}

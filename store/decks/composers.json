@@ -1,0 +1,54 @@
+{
+ "title": "Classical Composers",
+ "description": "Composer and famous work.",
+ "cards": [
+  {
+   "front": "Beethoven",
+   "back": "Symphony No. 9"
+  },
+  {
+   "front": "Mozart",
+   "back": "The Magic Flute"
+  },
+  {
+   "front": "Bach",
+   "back": "Brandenburg Concertos"
+  },
+  {
+   "front": "Vivaldi",
+   "back": "The Four Seasons"
+  },
+  {
+   "front": "Tchaikovsky",
+   "back": "Swan Lake"
+  },
+  {
+   "front": "Chopin",
+   "back": "Nocturnes"
+  },
+  {
+   "front": "Debussy",
+   "back": "Clair de lune"
+  },
+  {
+   "front": "Handel",
+   "back": "Messiah"
+  },
+  {
+   "front": "Verdi",
+   "back": "La traviata"
+  },
+  {
+   "front": "Stravinsky",
+   "back": "The Rite of Spring"
+  },
+  {
+   "front": "Rimsky-Korsakov",
+   "back": "Flight of the Bumblebee"
+  },
+  {
+   "front": "Pachelbel",
+   "back": "Canon in D"
+  }
+ ]
+}

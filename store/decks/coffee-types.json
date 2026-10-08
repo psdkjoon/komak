@@ -1,0 +1,42 @@
+{
+ "title": "Coffee Drinks",
+ "description": "Drink and what is in it.",
+ "cards": [
+  {
+   "front": "Espresso",
+   "back": "Concentrated coffee shot"
+  },
+  {
+   "front": "Americano",
+   "back": "Espresso with hot water"
+  },
+  {
+   "front": "Latte",
+   "back": "Espresso with lots of steamed milk"
+  },
+  {
+   "front": "Cappuccino",
+   "back": "Espresso, steamed milk and foam in equal parts"
+  },
+  {
+   "front": "Macchiato",
+   "back": "Espresso with a dash of milk"
+  },
+  {
+   "front": "Mocha",
+   "back": "Espresso, chocolate and milk"
+  },
+  {
+   "front": "Ristretto",
+   "back": "Shorter, more concentrated espresso"
+  },
+  {
+   "front": "Affogato",
+   "back": "Espresso poured over ice cream"
+  },
+  {
+   "front": "Flat white",
+   "back": "Espresso with velvety microfoam milk"
+  }
+ ]
+}

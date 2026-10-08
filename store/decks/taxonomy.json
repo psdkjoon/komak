@@ -1,0 +1,46 @@
+{
+ "title": "Taxonomic Ranks",
+ "description": "From broadest to narrowest.",
+ "cards": [
+  {
+   "front": "Rank 1",
+   "back": "Domain",
+   "orderIndex": 1
+  },
+  {
+   "front": "Rank 2",
+   "back": "Kingdom",
+   "orderIndex": 2
+  },
+  {
+   "front": "Rank 3",
+   "back": "Phylum",
+   "orderIndex": 3
+  },
+  {
+   "front": "Rank 4",
+   "back": "Class",
+   "orderIndex": 4
+  },
+  {
+   "front": "Rank 5",
+   "back": "Order",
+   "orderIndex": 5
+  },
+  {
+   "front": "Rank 6",
+   "back": "Family",
+   "orderIndex": 6
+  },
+  {
+   "front": "Rank 7",
+   "back": "Genus",
+   "orderIndex": 7
+  },
+  {
+   "front": "Rank 8",
+   "back": "Species",
+   "orderIndex": 8
+  }
+ ]
+}

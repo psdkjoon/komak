@@ -1,0 +1,36 @@
+{
+ "title": "The Tudor Monarchs",
+ "description": "In order of reign.",
+ "cards": [
+  {
+   "front": "1st Tudor",
+   "back": "Henry VII",
+   "orderIndex": 1
+  },
+  {
+   "front": "2nd Tudor",
+   "back": "Henry VIII",
+   "orderIndex": 2
+  },
+  {
+   "front": "3rd Tudor",
+   "back": "Edward VI",
+   "orderIndex": 3
+  },
+  {
+   "front": "4th Tudor",
+   "back": "Lady Jane Grey",
+   "orderIndex": 4
+  },
+  {
+   "front": "5th Tudor",
+   "back": "Mary I",
+   "orderIndex": 5
+  },
+  {
+   "front": "6th Tudor",
+   "back": "Elizabeth I",
+   "orderIndex": 6
+  }
+ ]
+}

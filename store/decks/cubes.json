@@ -1,0 +1,54 @@
+{
+ "title": "Perfect Cubes",
+ "description": "Cubes of 1 to 12.",
+ "cards": [
+  {
+   "front": "1³",
+   "back": "1"
+  },
+  {
+   "front": "2³",
+   "back": "8"
+  },
+  {
+   "front": "3³",
+   "back": "27"
+  },
+  {
+   "front": "4³",
+   "back": "64"
+  },
+  {
+   "front": "5³",
+   "back": "125"
+  },
+  {
+   "front": "6³",
+   "back": "216"
+  },
+  {
+   "front": "7³",
+   "back": "343"
+  },
+  {
+   "front": "8³",
+   "back": "512"
+  },
+  {
+   "front": "9³",
+   "back": "729"
+  },
+  {
+   "front": "10³",
+   "back": "1000"
+  },
+  {
+   "front": "11³",
+   "back": "1331"
+  },
+  {
+   "front": "12³",
+   "back": "1728"
+  }
+ ]
+}

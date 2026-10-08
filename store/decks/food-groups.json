@@ -1,0 +1,56 @@
+{
+ "title": "Food Groups",
+ "description": "Food and its group.",
+ "cards": [
+  {
+   "front": "Apple",
+   "back": "Fruit",
+   "groupId": "Fruit"
+  },
+  {
+   "front": "Banana",
+   "back": "Fruit",
+   "groupId": "Fruit"
+  },
+  {
+   "front": "Carrot",
+   "back": "Vegetable",
+   "groupId": "Vegetable"
+  },
+  {
+   "front": "Spinach",
+   "back": "Vegetable",
+   "groupId": "Vegetable"
+  },
+  {
+   "front": "Rice",
+   "back": "Grain",
+   "groupId": "Grain"
+  },
+  {
+   "front": "Bread",
+   "back": "Grain",
+   "groupId": "Grain"
+  },
+  {
+   "front": "Chicken",
+   "back": "Protein",
+   "groupId": "Protein"
+  },
+  {
+   "front": "Lentils",
+   "back": "Protein",
+   "groupId": "Protein"
+  },
+  {
+   "front": "Milk",
+   "back": "Dairy",
+   "groupId": "Dairy"
+  },
+  {
+   "front": "Cheese",
+   "back": "Dairy",
+   "groupId": "Dairy"
+  }
+ ]
+}

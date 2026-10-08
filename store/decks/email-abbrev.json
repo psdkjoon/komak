@@ -1,0 +1,70 @@
+{
+ "title": "Email And Text Abbreviations",
+ "description": "Abbreviation and meaning.",
+ "cards": [
+  {
+   "front": "FYI",
+   "back": "For your information"
+  },
+  {
+   "front": "ASAP",
+   "back": "As soon as possible"
+  },
+  {
+   "front": "BTW",
+   "back": "By the way"
+  },
+  {
+   "front": "FAQ",
+   "back": "Frequently asked questions"
+  },
+  {
+   "front": "RSVP",
+   "back": "Please reply"
+  },
+  {
+   "front": "TBA",
+   "back": "To be announced"
+  },
+  {
+   "front": "ETA",
+   "back": "Estimated time of arrival"
+  },
+  {
+   "front": "DIY",
+   "back": "Do it yourself"
+  },
+  {
+   "front": "AKA",
+   "back": "Also known as"
+  },
+  {
+   "front": "N/A",
+   "back": "Not applicable"
+  },
+  {
+   "front": "P.S.",
+   "back": "Postscript"
+  },
+  {
+   "front": "CC",
+   "back": "Carbon copy"
+  },
+  {
+   "front": "TL;DR",
+   "back": "Too long; didn't read"
+  },
+  {
+   "front": "IMO",
+   "back": "In my opinion"
+  },
+  {
+   "front": "BRB",
+   "back": "Be right back"
+  },
+  {
+   "front": "IDK",
+   "back": "I don't know"
+  }
+ ]
+}

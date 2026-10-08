@@ -1,0 +1,38 @@
+{
+ "title": "Road Signs",
+ "description": "Sign and meaning.",
+ "cards": [
+  {
+   "front": "Red octagon",
+   "back": "Stop"
+  },
+  {
+   "front": "Inverted triangle",
+   "back": "Give way / yield"
+  },
+  {
+   "front": "Red circle with white bar",
+   "back": "No entry"
+  },
+  {
+   "front": "Circle with a number",
+   "back": "Speed limit"
+  },
+  {
+   "front": "Blue circle with arrows",
+   "back": "Roundabout"
+  },
+  {
+   "front": "Triangle with a person",
+   "back": "Pedestrian crossing or warning"
+  },
+  {
+   "front": "Red circle with a P crossed",
+   "back": "No parking"
+  },
+  {
+   "front": "Yellow diamond (US)",
+   "back": "Warning"
+  }
+ ]
+}

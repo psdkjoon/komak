@@ -1,0 +1,66 @@
+{
+ "title": "British Vs American English",
+ "description": "British word and American word.",
+ "cards": [
+  {
+   "front": "Lift",
+   "back": "Elevator"
+  },
+  {
+   "front": "Flat",
+   "back": "Apartment"
+  },
+  {
+   "front": "Biscuit",
+   "back": "Cookie"
+  },
+  {
+   "front": "Crisps",
+   "back": "Chips"
+  },
+  {
+   "front": "Chips",
+   "back": "Fries"
+  },
+  {
+   "front": "Boot (of a car)",
+   "back": "Trunk"
+  },
+  {
+   "front": "Petrol",
+   "back": "Gas"
+  },
+  {
+   "front": "Pavement",
+   "back": "Sidewalk"
+  },
+  {
+   "front": "Lorry",
+   "back": "Truck"
+  },
+  {
+   "front": "Torch",
+   "back": "Flashlight"
+  },
+  {
+   "front": "Holiday",
+   "back": "Vacation"
+  },
+  {
+   "front": "Rubbish",
+   "back": "Trash"
+  },
+  {
+   "front": "Trousers",
+   "back": "Pants"
+  },
+  {
+   "front": "Queue",
+   "back": "Line"
+  },
+  {
+   "front": "Mobile phone",
+   "back": "Cell phone"
+  }
+ ]
+}

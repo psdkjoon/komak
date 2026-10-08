@@ -1,0 +1,82 @@
+{
+ "title": "Roman Numerals",
+ "description": "Read and write Roman numerals.",
+ "cards": [
+  {
+   "front": "I",
+   "back": "1"
+  },
+  {
+   "front": "V",
+   "back": "5"
+  },
+  {
+   "front": "X",
+   "back": "10"
+  },
+  {
+   "front": "L",
+   "back": "50"
+  },
+  {
+   "front": "C",
+   "back": "100"
+  },
+  {
+   "front": "D",
+   "back": "500"
+  },
+  {
+   "front": "M",
+   "back": "1000"
+  },
+  {
+   "front": "IV",
+   "back": "4"
+  },
+  {
+   "front": "IX",
+   "back": "9"
+  },
+  {
+   "front": "XIV",
+   "back": "14"
+  },
+  {
+   "front": "XIX",
+   "back": "19"
+  },
+  {
+   "front": "XL",
+   "back": "40"
+  },
+  {
+   "front": "XC",
+   "back": "90"
+  },
+  {
+   "front": "XLII",
+   "back": "42"
+  },
+  {
+   "front": "XCIX",
+   "back": "99"
+  },
+  {
+   "front": "CD",
+   "back": "400"
+  },
+  {
+   "front": "CM",
+   "back": "900"
+  },
+  {
+   "front": "MCMXC",
+   "back": "1990"
+  },
+  {
+   "front": "MMXXIV",
+   "back": "2024"
+  }
+ ]
+}

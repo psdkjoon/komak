@@ -1,0 +1,110 @@
+{
+ "title": "NATO Phonetic Alphabet",
+ "description": "Spelling words clearly over the radio.",
+ "cards": [
+  {
+   "front": "A",
+   "back": "Alfa"
+  },
+  {
+   "front": "B",
+   "back": "Bravo"
+  },
+  {
+   "front": "C",
+   "back": "Charlie"
+  },
+  {
+   "front": "D",
+   "back": "Delta"
+  },
+  {
+   "front": "E",
+   "back": "Echo"
+  },
+  {
+   "front": "F",
+   "back": "Foxtrot"
+  },
+  {
+   "front": "G",
+   "back": "Golf"
+  },
+  {
+   "front": "H",
+   "back": "Hotel"
+  },
+  {
+   "front": "I",
+   "back": "India"
+  },
+  {
+   "front": "J",
+   "back": "Juliett"
+  },
+  {
+   "front": "K",
+   "back": "Kilo"
+  },
+  {
+   "front": "L",
+   "back": "Lima"
+  },
+  {
+   "front": "M",
+   "back": "Mike"
+  },
+  {
+   "front": "N",
+   "back": "November"
+  },
+  {
+   "front": "O",
+   "back": "Oscar"
+  },
+  {
+   "front": "P",
+   "back": "Papa"
+  },
+  {
+   "front": "Q",
+   "back": "Quebec"
+  },
+  {
+   "front": "R",
+   "back": "Romeo"
+  },
+  {
+   "front": "S",
+   "back": "Sierra"
+  },
+  {
+   "front": "T",
+   "back": "Tango"
+  },
+  {
+   "front": "U",
+   "back": "Uniform"
+  },
+  {
+   "front": "V",
+   "back": "Victor"
+  },
+  {
+   "front": "W",
+   "back": "Whiskey"
+  },
+  {
+   "front": "X",
+   "back": "X-ray"
+  },
+  {
+   "front": "Y",
+   "back": "Yankee"
+  },
+  {
+   "front": "Z",
+   "back": "Zulu"
+  }
+ ]
+}

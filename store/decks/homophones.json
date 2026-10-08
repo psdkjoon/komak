@@ -1,0 +1,54 @@
+{
+ "title": "Homophones",
+ "description": "Choose the right word.",
+ "cards": [
+  {
+   "front": "Number after one",
+   "back": "two"
+  },
+  {
+   "front": "Also, too much",
+   "back": "too"
+  },
+  {
+   "front": "Opposite of old",
+   "back": "new"
+  },
+  {
+   "front": "Past of know",
+   "back": "knew"
+  },
+  {
+   "front": "Ocean",
+   "back": "sea"
+  },
+  {
+   "front": "To look at",
+   "back": "see"
+  },
+  {
+   "front": "Correct or opposite of left",
+   "back": "right"
+  },
+  {
+   "front": "To put words on paper",
+   "back": "write"
+  },
+  {
+   "front": "Used to bake bread",
+   "back": "flour"
+  },
+  {
+   "front": "Grows in a garden",
+   "back": "flower"
+  },
+  {
+   "front": "Listen with your ears",
+   "back": "hear"
+  },
+  {
+   "front": "In this place",
+   "back": "here"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Spanish",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "¿Dónde está el baño?"
+  },
+  {
+   "front": "How much is this?",
+   "back": "¿Cuánto cuesta?"
+  },
+  {
+   "front": "I don't understand",
+   "back": "No entiendo"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "¿Habla inglés?"
+  },
+  {
+   "front": "Help!",
+   "back": "¡Ayuda!"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Disculpe"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Lo siento"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Mucho gusto"
+  },
+  {
+   "front": "Cheers!",
+   "back": "¡Salud!"
+  },
+  {
+   "front": "The bill, please",
+   "back": "La cuenta, por favor"
+  },
+  {
+   "front": "Good night",
+   "back": "Buenas noches"
+  }
+ ]
+}

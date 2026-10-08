@@ -1,0 +1,54 @@
+{
+ "title": "Fruit And Vegetable Colours",
+ "description": "What colour is it?",
+ "cards": [
+  {
+   "front": "Banana",
+   "back": "Yellow"
+  },
+  {
+   "front": "Strawberry",
+   "back": "Red"
+  },
+  {
+   "front": "Orange",
+   "back": "Orange"
+  },
+  {
+   "front": "Lemon",
+   "back": "Yellow"
+  },
+  {
+   "front": "Blueberry",
+   "back": "Blue"
+  },
+  {
+   "front": "Kiwi",
+   "back": "Brown outside, green inside"
+  },
+  {
+   "front": "Carrot",
+   "back": "Orange"
+  },
+  {
+   "front": "Broccoli",
+   "back": "Green"
+  },
+  {
+   "front": "Eggplant",
+   "back": "Purple"
+  },
+  {
+   "front": "Tomato",
+   "back": "Red"
+  },
+  {
+   "front": "Pumpkin",
+   "back": "Orange"
+  },
+  {
+   "front": "Cucumber",
+   "back": "Green"
+  }
+ ]
+}

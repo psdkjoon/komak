@@ -1,0 +1,86 @@
+{
+ "title": "Perfect Squares",
+ "description": "Squares of 1 to 20.",
+ "cards": [
+  {
+   "front": "1²",
+   "back": "1"
+  },
+  {
+   "front": "2²",
+   "back": "4"
+  },
+  {
+   "front": "3²",
+   "back": "9"
+  },
+  {
+   "front": "4²",
+   "back": "16"
+  },
+  {
+   "front": "5²",
+   "back": "25"
+  },
+  {
+   "front": "6²",
+   "back": "36"
+  },
+  {
+   "front": "7²",
+   "back": "49"
+  },
+  {
+   "front": "8²",
+   "back": "64"
+  },
+  {
+   "front": "9²",
+   "back": "81"
+  },
+  {
+   "front": "10²",
+   "back": "100"
+  },
+  {
+   "front": "11²",
+   "back": "121"
+  },
+  {
+   "front": "12²",
+   "back": "144"
+  },
+  {
+   "front": "13²",
+   "back": "169"
+  },
+  {
+   "front": "14²",
+   "back": "196"
+  },
+  {
+   "front": "15²",
+   "back": "225"
+  },
+  {
+   "front": "16²",
+   "back": "256"
+  },
+  {
+   "front": "17²",
+   "back": "289"
+  },
+  {
+   "front": "18²",
+   "back": "324"
+  },
+  {
+   "front": "19²",
+   "back": "361"
+  },
+  {
+   "front": "20²",
+   "back": "400"
+  }
+ ]
+}

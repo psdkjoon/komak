@@ -1,0 +1,54 @@
+{
+ "title": "Common Phobias",
+ "description": "Fear and its name.",
+ "cards": [
+  {
+   "front": "Spiders",
+   "back": "Arachnophobia"
+  },
+  {
+   "front": "Heights",
+   "back": "Acrophobia"
+  },
+  {
+   "front": "Confined spaces",
+   "back": "Claustrophobia"
+  },
+  {
+   "front": "Open spaces",
+   "back": "Agoraphobia"
+  },
+  {
+   "front": "Water",
+   "back": "Hydrophobia"
+  },
+  {
+   "front": "Snakes",
+   "back": "Ophidiophobia"
+  },
+  {
+   "front": "Needles",
+   "back": "Trypanophobia"
+  },
+  {
+   "front": "Dogs",
+   "back": "Cynophobia"
+  },
+  {
+   "front": "Fire",
+   "back": "Pyrophobia"
+  },
+  {
+   "front": "Strangers",
+   "back": "Xenophobia (as a fear)"
+  },
+  {
+   "front": "Darkness",
+   "back": "Nyctophobia"
+  },
+  {
+   "front": "Flying",
+   "back": "Aerophobia"
+  }
+ ]
+}

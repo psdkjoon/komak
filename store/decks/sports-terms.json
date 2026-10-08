@@ -1,0 +1,46 @@
+{
+ "title": "Sports Terms",
+ "description": "Term and sport or meaning.",
+ "cards": [
+  {
+   "front": "Love",
+   "back": "Zero in tennis"
+  },
+  {
+   "front": "Birdie",
+   "back": "One under par in golf"
+  },
+  {
+   "front": "Slam dunk",
+   "back": "Basketball"
+  },
+  {
+   "front": "Offside",
+   "back": "Football (soccer) rule"
+  },
+  {
+   "front": "Touchdown",
+   "back": "American football"
+  },
+  {
+   "front": "Home run",
+   "back": "Baseball"
+  },
+  {
+   "front": "Hat-trick",
+   "back": "Three goals by one player"
+  },
+  {
+   "front": "Ace",
+   "back": "Unreturned serve in tennis"
+  },
+  {
+   "front": "Checkmate",
+   "back": "Chess win"
+  },
+  {
+   "front": "Hole in one",
+   "back": "Golf"
+  }
+ ]
+}

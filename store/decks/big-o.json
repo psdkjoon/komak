@@ -1,0 +1,50 @@
+{
+ "title": "Big-O Complexities",
+ "description": "Typical time complexities.",
+ "cards": [
+  {
+   "front": "Array index access",
+   "back": "O(1)"
+  },
+  {
+   "front": "Binary search",
+   "back": "O(log n)"
+  },
+  {
+   "front": "Linear search",
+   "back": "O(n)"
+  },
+  {
+   "front": "Merge sort",
+   "back": "O(n log n)"
+  },
+  {
+   "front": "Quick sort (average)",
+   "back": "O(n log n)"
+  },
+  {
+   "front": "Bubble sort",
+   "back": "O(n²)"
+  },
+  {
+   "front": "Hash table lookup (average)",
+   "back": "O(1)"
+  },
+  {
+   "front": "Naive recursive Fibonacci",
+   "back": "O(2ⁿ)"
+  },
+  {
+   "front": "Heap insert",
+   "back": "O(log n)"
+  },
+  {
+   "front": "Traversing a graph (BFS)",
+   "back": "O(V + E)"
+  },
+  {
+   "front": "Traveling salesman brute force",
+   "back": "O(n!)"
+  }
+ ]
+}

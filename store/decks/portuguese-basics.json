@@ -1,0 +1,66 @@
+{
+ "title": "Portuguese Basics",
+ "description": "Everyday Portuguese words.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "Olá"
+  },
+  {
+   "front": "Goodbye",
+   "back": "Tchau"
+  },
+  {
+   "front": "Thank you",
+   "back": "Obrigado / Obrigada"
+  },
+  {
+   "front": "Please",
+   "back": "Por favor"
+  },
+  {
+   "front": "Yes",
+   "back": "Sim"
+  },
+  {
+   "front": "No",
+   "back": "Não"
+  },
+  {
+   "front": "Water",
+   "back": "Água"
+  },
+  {
+   "front": "Bread",
+   "back": "Pão"
+  },
+  {
+   "front": "House",
+   "back": "Casa"
+  },
+  {
+   "front": "Friend",
+   "back": "Amigo"
+  },
+  {
+   "front": "Book",
+   "back": "Livro"
+  },
+  {
+   "front": "Cat",
+   "back": "Gato"
+  },
+  {
+   "front": "Dog",
+   "back": "Cachorro"
+  },
+  {
+   "front": "Today",
+   "back": "Hoje"
+  },
+  {
+   "front": "Good morning",
+   "back": "Bom dia"
+  }
+ ]
+}

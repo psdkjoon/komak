@@ -1,0 +1,31 @@
+{
+ "title": "SOLID Principles",
+ "description": "Letter and principle.",
+ "cards": [
+  {
+   "front": "S",
+   "back": "Single responsibility",
+   "orderIndex": 1
+  },
+  {
+   "front": "O",
+   "back": "Open for extension, closed for modification",
+   "orderIndex": 2
+  },
+  {
+   "front": "L",
+   "back": "Liskov substitution",
+   "orderIndex": 3
+  },
+  {
+   "front": "I",
+   "back": "Interface segregation",
+   "orderIndex": 4
+  },
+  {
+   "front": "D",
+   "back": "Dependency inversion",
+   "orderIndex": 5
+  }
+ ]
+}

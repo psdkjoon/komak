@@ -1,0 +1,86 @@
+{
+ "title": "Computer Acronyms",
+ "description": "What the letters stand for.",
+ "cards": [
+  {
+   "front": "CPU",
+   "back": "Central Processing Unit"
+  },
+  {
+   "front": "GPU",
+   "back": "Graphics Processing Unit"
+  },
+  {
+   "front": "RAM",
+   "back": "Random Access Memory"
+  },
+  {
+   "front": "ROM",
+   "back": "Read-Only Memory"
+  },
+  {
+   "front": "SSD",
+   "back": "Solid State Drive"
+  },
+  {
+   "front": "HTML",
+   "back": "HyperText Markup Language"
+  },
+  {
+   "front": "CSS",
+   "back": "Cascading Style Sheets"
+  },
+  {
+   "front": "URL",
+   "back": "Uniform Resource Locator"
+  },
+  {
+   "front": "API",
+   "back": "Application Programming Interface"
+  },
+  {
+   "front": "SQL",
+   "back": "Structured Query Language"
+  },
+  {
+   "front": "DNS",
+   "back": "Domain Name System"
+  },
+  {
+   "front": "IP",
+   "back": "Internet Protocol"
+  },
+  {
+   "front": "VPN",
+   "back": "Virtual Private Network"
+  },
+  {
+   "front": "USB",
+   "back": "Universal Serial Bus"
+  },
+  {
+   "front": "JSON",
+   "back": "JavaScript Object Notation"
+  },
+  {
+   "front": "IDE",
+   "back": "Integrated Development Environment"
+  },
+  {
+   "front": "OS",
+   "back": "Operating System"
+  },
+  {
+   "front": "LAN",
+   "back": "Local Area Network"
+  },
+  {
+   "front": "TCP",
+   "back": "Transmission Control Protocol"
+  },
+  {
+   "front": "GUI",
+   "back": "Graphical User Interface"
+  }
+ ]
+}

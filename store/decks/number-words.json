@@ -1,0 +1,94 @@
+{
+ "title": "Numbers In English",
+ "description": "Digits and their spelling.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "one"
+  },
+  {
+   "front": "2",
+   "back": "two"
+  },
+  {
+   "front": "3",
+   "back": "three"
+  },
+  {
+   "front": "4",
+   "back": "four"
+  },
+  {
+   "front": "5",
+   "back": "five"
+  },
+  {
+   "front": "6",
+   "back": "six"
+  },
+  {
+   "front": "7",
+   "back": "seven"
+  },
+  {
+   "front": "8",
+   "back": "eight"
+  },
+  {
+   "front": "9",
+   "back": "nine"
+  },
+  {
+   "front": "10",
+   "back": "ten"
+  },
+  {
+   "front": "11",
+   "back": "eleven"
+  },
+  {
+   "front": "12",
+   "back": "twelve"
+  },
+  {
+   "front": "13",
+   "back": "thirteen"
+  },
+  {
+   "front": "15",
+   "back": "fifteen"
+  },
+  {
+   "front": "18",
+   "back": "eighteen"
+  },
+  {
+   "front": "20",
+   "back": "twenty"
+  },
+  {
+   "front": "30",
+   "back": "thirty"
+  },
+  {
+   "front": "40",
+   "back": "forty"
+  },
+  {
+   "front": "50",
+   "back": "fifty"
+  },
+  {
+   "front": "90",
+   "back": "ninety"
+  },
+  {
+   "front": "100",
+   "back": "one hundred"
+  },
+  {
+   "front": "1000",
+   "back": "one thousand"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "title": "Online Safety",
+ "description": "Good habits.",
+ "cards": [
+  {
+   "front": "Strong password",
+   "back": "Long, unique, hard to guess"
+  },
+  {
+   "front": "Two-factor login",
+   "back": "Extra code beyond your password"
+  },
+  {
+   "front": "Phishing hint",
+   "back": "Urgent message asking for your details"
+  },
+  {
+   "front": "Public Wi-Fi",
+   "back": "Avoid sensitive logins without a VPN"
+  },
+  {
+   "front": "Software updates",
+   "back": "Install them to fix security holes"
+  },
+  {
+   "front": "Password manager",
+   "back": "Stores unique passwords safely"
+  },
+  {
+   "front": "Suspicious link",
+   "back": "Do not click; check the sender"
+  },
+  {
+   "front": "Before sharing a photo",
+   "back": "Check what it reveals about you"
+  }
+ ]
+}

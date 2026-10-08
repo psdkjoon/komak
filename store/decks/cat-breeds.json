@@ -1,0 +1,38 @@
+{
+ "title": "Cat Breeds",
+ "description": "Breed and origin.",
+ "cards": [
+  {
+   "front": "Persian",
+   "back": "Iran (historic Persia)"
+  },
+  {
+   "front": "Siamese",
+   "back": "Thailand"
+  },
+  {
+   "front": "Maine Coon",
+   "back": "United States"
+  },
+  {
+   "front": "Scottish Fold",
+   "back": "Scotland"
+  },
+  {
+   "front": "Russian Blue",
+   "back": "Russia"
+  },
+  {
+   "front": "Turkish Angora",
+   "back": "Turkey"
+  },
+  {
+   "front": "Sphynx",
+   "back": "Canada"
+  },
+  {
+   "front": "Bengal",
+   "back": "United States"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Parts Of A Car",
+ "description": "Part and job.",
+ "cards": [
+  {
+   "front": "Engine",
+   "back": "Makes the car move"
+  },
+  {
+   "front": "Brakes",
+   "back": "Slow or stop the car"
+  },
+  {
+   "front": "Steering wheel",
+   "back": "Controls direction"
+  },
+  {
+   "front": "Tyre (tire)",
+   "back": "Grips the road"
+  },
+  {
+   "front": "Battery",
+   "back": "Powers the electrics and starts the engine"
+  },
+  {
+   "front": "Radiator",
+   "back": "Cools the engine"
+  },
+  {
+   "front": "Exhaust",
+   "back": "Carries away engine gases"
+  },
+  {
+   "front": "Windscreen wipers",
+   "back": "Clear rain from glass"
+  },
+  {
+   "front": "Gearbox",
+   "back": "Transfers engine power to the wheels"
+  }
+ ]
+}

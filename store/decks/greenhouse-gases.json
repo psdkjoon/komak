@@ -1,0 +1,30 @@
+{
+ "title": "Greenhouse Gases",
+ "description": "Main gases and sources.",
+ "cards": [
+  {
+   "front": "Carbon dioxide",
+   "back": "Burning fossil fuels"
+  },
+  {
+   "front": "Methane",
+   "back": "Livestock, landfills, gas leaks"
+  },
+  {
+   "front": "Nitrous oxide",
+   "back": "Fertilisers"
+  },
+  {
+   "front": "Water vapour",
+   "back": "Evaporation, strongest natural greenhouse gas"
+  },
+  {
+   "front": "Ozone",
+   "back": "Greenhouse gas in the lower atmosphere"
+  },
+  {
+   "front": "CFCs",
+   "back": "Old refrigerants and aerosols"
+  }
+ ]
+}

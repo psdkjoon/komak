@@ -1,0 +1,26 @@
+{
+ "title": "Life Cycles",
+ "description": "Stages in order.",
+ "cards": [
+  {
+   "front": "Butterfly stage 1",
+   "back": "Egg",
+   "orderIndex": 1
+  },
+  {
+   "front": "Butterfly stage 2",
+   "back": "Caterpillar (larva)",
+   "orderIndex": 2
+  },
+  {
+   "front": "Butterfly stage 3",
+   "back": "Chrysalis (pupa)",
+   "orderIndex": 3
+  },
+  {
+   "front": "Butterfly stage 4",
+   "back": "Adult butterfly",
+   "orderIndex": 4
+  }
+ ]
+}

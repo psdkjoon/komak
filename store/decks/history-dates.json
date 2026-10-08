@@ -1,0 +1,66 @@
+{
+ "title": "Key Dates In History",
+ "description": "Events and their years.",
+ "cards": [
+  {
+   "front": "Fall of the Western Roman Empire",
+   "back": "476"
+  },
+  {
+   "front": "Norman conquest of England",
+   "back": "1066"
+  },
+  {
+   "front": "Magna Carta signed",
+   "back": "1215"
+  },
+  {
+   "front": "Fall of Constantinople",
+   "back": "1453"
+  },
+  {
+   "front": "Columbus reaches the Americas",
+   "back": "1492"
+  },
+  {
+   "front": "American Declaration of Independence",
+   "back": "1776"
+  },
+  {
+   "front": "Start of the French Revolution",
+   "back": "1789"
+  },
+  {
+   "front": "Battle of Waterloo",
+   "back": "1815"
+  },
+  {
+   "front": "Start of World War I",
+   "back": "1914"
+  },
+  {
+   "front": "Start of World War II",
+   "back": "1939"
+  },
+  {
+   "front": "End of World War II",
+   "back": "1945"
+  },
+  {
+   "front": "First Moon landing",
+   "back": "1969"
+  },
+  {
+   "front": "Fall of the Berlin Wall",
+   "back": "1989"
+  },
+  {
+   "front": "Dissolution of the Soviet Union",
+   "back": "1991"
+  },
+  {
+   "front": "Printing of the Gutenberg Bible",
+   "back": "1455"
+  }
+ ]
+}

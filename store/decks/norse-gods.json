@@ -1,0 +1,38 @@
+{
+ "title": "Norse Gods",
+ "description": "God and domain.",
+ "cards": [
+  {
+   "front": "Odin",
+   "back": "Allfather, wisdom and war"
+  },
+  {
+   "front": "Thor",
+   "back": "Thunder"
+  },
+  {
+   "front": "Loki",
+   "back": "Trickster"
+  },
+  {
+   "front": "Freya",
+   "back": "Love and beauty"
+  },
+  {
+   "front": "Frigg",
+   "back": "Marriage and motherhood"
+  },
+  {
+   "front": "Baldur",
+   "back": "Light and purity"
+  },
+  {
+   "front": "Tyr",
+   "back": "Law and heroic glory"
+  },
+  {
+   "front": "Heimdall",
+   "back": "Guardian of the rainbow bridge"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Traditional Clothing",
+ "description": "Garment and country.",
+ "cards": [
+  {
+   "front": "Kimono",
+   "back": "Japan"
+  },
+  {
+   "front": "Sari",
+   "back": "India"
+  },
+  {
+   "front": "Kilt",
+   "back": "Scotland"
+  },
+  {
+   "front": "Hanbok",
+   "back": "South Korea"
+  },
+  {
+   "front": "Poncho",
+   "back": "Andes, South America"
+  },
+  {
+   "front": "Dashiki",
+   "back": "West Africa"
+  },
+  {
+   "front": "Lederhosen",
+   "back": "Bavaria, Germany"
+  },
+  {
+   "front": "Ao dai",
+   "back": "Vietnam"
+  },
+  {
+   "front": "Sombrero",
+   "back": "Mexico"
+  },
+  {
+   "front": "Cheongsam (qipao)",
+   "back": "China"
+  }
+ ]
+}

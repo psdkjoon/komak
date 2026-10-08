@@ -1,0 +1,106 @@
+{
+ "title": "Atomic Numbers",
+ "description": "Which element has which atomic number.",
+ "cards": [
+  {
+   "front": "Hydrogen",
+   "back": "1",
+   "orderIndex": 1
+  },
+  {
+   "front": "Helium",
+   "back": "2",
+   "orderIndex": 2
+  },
+  {
+   "front": "Lithium",
+   "back": "3",
+   "orderIndex": 3
+  },
+  {
+   "front": "Beryllium",
+   "back": "4",
+   "orderIndex": 4
+  },
+  {
+   "front": "Boron",
+   "back": "5",
+   "orderIndex": 5
+  },
+  {
+   "front": "Carbon",
+   "back": "6",
+   "orderIndex": 6
+  },
+  {
+   "front": "Nitrogen",
+   "back": "7",
+   "orderIndex": 7
+  },
+  {
+   "front": "Oxygen",
+   "back": "8",
+   "orderIndex": 8
+  },
+  {
+   "front": "Fluorine",
+   "back": "9",
+   "orderIndex": 9
+  },
+  {
+   "front": "Neon",
+   "back": "10",
+   "orderIndex": 10
+  },
+  {
+   "front": "Sodium",
+   "back": "11",
+   "orderIndex": 11
+  },
+  {
+   "front": "Magnesium",
+   "back": "12",
+   "orderIndex": 12
+  },
+  {
+   "front": "Aluminium",
+   "back": "13",
+   "orderIndex": 13
+  },
+  {
+   "front": "Silicon",
+   "back": "14",
+   "orderIndex": 14
+  },
+  {
+   "front": "Phosphorus",
+   "back": "15",
+   "orderIndex": 15
+  },
+  {
+   "front": "Sulfur",
+   "back": "16",
+   "orderIndex": 16
+  },
+  {
+   "front": "Chlorine",
+   "back": "17",
+   "orderIndex": 17
+  },
+  {
+   "front": "Argon",
+   "back": "18",
+   "orderIndex": 18
+  },
+  {
+   "front": "Potassium",
+   "back": "19",
+   "orderIndex": 19
+  },
+  {
+   "front": "Calcium",
+   "back": "20",
+   "orderIndex": 20
+  }
+ ]
+}

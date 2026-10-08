@@ -1,0 +1,66 @@
+{
+ "title": "Dishes By Country",
+ "description": "Dish and country.",
+ "cards": [
+  {
+   "front": "Sushi",
+   "back": "Japan"
+  },
+  {
+   "front": "Paella",
+   "back": "Spain"
+  },
+  {
+   "front": "Pizza",
+   "back": "Italy"
+  },
+  {
+   "front": "Kimchi",
+   "back": "South Korea"
+  },
+  {
+   "front": "Tacos",
+   "back": "Mexico"
+  },
+  {
+   "front": "Pad Thai",
+   "back": "Thailand"
+  },
+  {
+   "front": "Moussaka",
+   "back": "Greece"
+  },
+  {
+   "front": "Ghormeh sabzi",
+   "back": "Iran"
+  },
+  {
+   "front": "Pho",
+   "back": "Vietnam"
+  },
+  {
+   "front": "Borscht",
+   "back": "Ukraine"
+  },
+  {
+   "front": "Poutine",
+   "back": "Canada"
+  },
+  {
+   "front": "Goulash",
+   "back": "Hungary"
+  },
+  {
+   "front": "Couscous",
+   "back": "North Africa"
+  },
+  {
+   "front": "Biryani",
+   "back": "South Asia"
+  },
+  {
+   "front": "Fish and chips",
+   "back": "United Kingdom"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "title": "SI Prefixes",
+ "description": "Metric prefixes and their powers of ten.",
+ "cards": [
+  {
+   "front": "kilo",
+   "back": "10³"
+  },
+  {
+   "front": "mega",
+   "back": "10⁶"
+  },
+  {
+   "front": "giga",
+   "back": "10⁹"
+  },
+  {
+   "front": "tera",
+   "back": "10¹²"
+  },
+  {
+   "front": "peta",
+   "back": "10¹⁵"
+  },
+  {
+   "front": "milli",
+   "back": "10⁻³"
+  },
+  {
+   "front": "micro",
+   "back": "10⁻⁶"
+  },
+  {
+   "front": "nano",
+   "back": "10⁻⁹"
+  },
+  {
+   "front": "pico",
+   "back": "10⁻¹²"
+  },
+  {
+   "front": "centi",
+   "back": "10⁻²"
+  },
+  {
+   "front": "deci",
+   "back": "10⁻¹"
+  },
+  {
+   "front": "hecto",
+   "back": "10²"
+  },
+  {
+   "front": "deca",
+   "back": "10¹"
+  }
+ ]
+}

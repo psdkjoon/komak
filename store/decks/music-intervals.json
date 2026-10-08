@@ -1,0 +1,54 @@
+{
+ "title": "Musical Intervals",
+ "description": "Number of semitones.",
+ "cards": [
+  {
+   "front": "Minor second",
+   "back": "1 semitone"
+  },
+  {
+   "front": "Major second",
+   "back": "2 semitones"
+  },
+  {
+   "front": "Minor third",
+   "back": "3 semitones"
+  },
+  {
+   "front": "Major third",
+   "back": "4 semitones"
+  },
+  {
+   "front": "Perfect fourth",
+   "back": "5 semitones"
+  },
+  {
+   "front": "Tritone",
+   "back": "6 semitones"
+  },
+  {
+   "front": "Perfect fifth",
+   "back": "7 semitones"
+  },
+  {
+   "front": "Minor sixth",
+   "back": "8 semitones"
+  },
+  {
+   "front": "Major sixth",
+   "back": "9 semitones"
+  },
+  {
+   "front": "Minor seventh",
+   "back": "10 semitones"
+  },
+  {
+   "front": "Major seventh",
+   "back": "11 semitones"
+  },
+  {
+   "front": "Octave",
+   "back": "12 semitones"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "title": "Asia Capitals",
+ "description": "Country and capital.",
+ "cards": [
+  {
+   "front": "Afghanistan",
+   "back": "Kabul"
+  },
+  {
+   "front": "Armenia",
+   "back": "Yerevan"
+  },
+  {
+   "front": "Azerbaijan",
+   "back": "Baku"
+  },
+  {
+   "front": "Bangladesh",
+   "back": "Dhaka"
+  },
+  {
+   "front": "Cambodia",
+   "back": "Phnom Penh"
+  },
+  {
+   "front": "China",
+   "back": "Beijing"
+  },
+  {
+   "front": "India",
+   "back": "New Delhi"
+  },
+  {
+   "front": "Iran",
+   "back": "Tehran"
+  },
+  {
+   "front": "Iraq",
+   "back": "Baghdad"
+  },
+  {
+   "front": "Japan",
+   "back": "Tokyo"
+  },
+  {
+   "front": "Jordan",
+   "back": "Amman"
+  },
+  {
+   "front": "Kazakhstan",
+   "back": "Astana"
+  },
+  {
+   "front": "Laos",
+   "back": "Vientiane"
+  },
+  {
+   "front": "Lebanon",
+   "back": "Beirut"
+  },
+  {
+   "front": "Malaysia",
+   "back": "Kuala Lumpur"
+  },
+  {
+   "front": "Mongolia",
+   "back": "Ulaanbaatar"
+  },
+  {
+   "front": "Nepal",
+   "back": "Kathmandu"
+  },
+  {
+   "front": "Pakistan",
+   "back": "Islamabad"
+  },
+  {
+   "front": "Philippines",
+   "back": "Manila"
+  },
+  {
+   "front": "Saudi Arabia",
+   "back": "Riyadh"
+  },
+  {
+   "front": "South Korea",
+   "back": "Seoul"
+  },
+  {
+   "front": "Syria",
+   "back": "Damascus"
+  },
+  {
+   "front": "Thailand",
+   "back": "Bangkok"
+  },
+  {
+   "front": "Turkey",
+   "back": "Ankara"
+  },
+  {
+   "front": "Uzbekistan",
+   "back": "Tashkent"
+  },
+  {
+   "front": "Vietnam",
+   "back": "Hanoi"
+  }
+ ]
+}

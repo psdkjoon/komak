@@ -1,0 +1,62 @@
+{
+ "title": "Opposites",
+ "description": "Word and its opposite.",
+ "cards": [
+  {
+   "front": "hot",
+   "back": "cold"
+  },
+  {
+   "front": "big",
+   "back": "small"
+  },
+  {
+   "front": "fast",
+   "back": "slow"
+  },
+  {
+   "front": "happy",
+   "back": "sad"
+  },
+  {
+   "front": "up",
+   "back": "down"
+  },
+  {
+   "front": "open",
+   "back": "closed"
+  },
+  {
+   "front": "early",
+   "back": "late"
+  },
+  {
+   "front": "full",
+   "back": "empty"
+  },
+  {
+   "front": "hard",
+   "back": "soft"
+  },
+  {
+   "front": "light",
+   "back": "dark"
+  },
+  {
+   "front": "clean",
+   "back": "dirty"
+  },
+  {
+   "front": "strong",
+   "back": "weak"
+  },
+  {
+   "front": "rich",
+   "back": "poor"
+  },
+  {
+   "front": "old",
+   "back": "young"
+  }
+ ]
+}

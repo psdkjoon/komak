@@ -1,0 +1,46 @@
+{
+ "title": "Wars And Their Years",
+ "description": "War and dates.",
+ "cards": [
+  {
+   "front": "Peloponnesian War",
+   "back": "431–404 BC"
+  },
+  {
+   "front": "Hundred Years' War",
+   "back": "1337–1453"
+  },
+  {
+   "front": "Thirty Years' War",
+   "back": "1618–1648"
+  },
+  {
+   "front": "Napoleonic Wars",
+   "back": "1803–1815"
+  },
+  {
+   "front": "American Civil War",
+   "back": "1861–1865"
+  },
+  {
+   "front": "Crimean War",
+   "back": "1853–1856"
+  },
+  {
+   "front": "World War I",
+   "back": "1914–1918"
+  },
+  {
+   "front": "World War II",
+   "back": "1939–1945"
+  },
+  {
+   "front": "Korean War",
+   "back": "1950–1953"
+  },
+  {
+   "front": "Vietnam War",
+   "back": "1955–1975"
+  }
+ ]
+}

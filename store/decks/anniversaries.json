@@ -1,0 +1,46 @@
+{
+ "title": "Wedding Anniversaries",
+ "description": "Year and traditional gift.",
+ "cards": [
+  {
+   "front": "1st",
+   "back": "Paper"
+  },
+  {
+   "front": "5th",
+   "back": "Wood"
+  },
+  {
+   "front": "10th",
+   "back": "Tin"
+  },
+  {
+   "front": "15th",
+   "back": "Crystal"
+  },
+  {
+   "front": "20th",
+   "back": "China"
+  },
+  {
+   "front": "25th",
+   "back": "Silver"
+  },
+  {
+   "front": "30th",
+   "back": "Pearl"
+  },
+  {
+   "front": "40th",
+   "back": "Ruby"
+  },
+  {
+   "front": "50th",
+   "back": "Gold"
+  },
+  {
+   "front": "60th",
+   "back": "Diamond"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "title": "Japanese Numbers",
+ "description": "Count in Japanese.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "いち (ichi)"
+  },
+  {
+   "front": "2",
+   "back": "に (ni)"
+  },
+  {
+   "front": "3",
+   "back": "さん (san)"
+  },
+  {
+   "front": "4",
+   "back": "し / よん (shi / yon)"
+  },
+  {
+   "front": "5",
+   "back": "ご (go)"
+  },
+  {
+   "front": "6",
+   "back": "ろく (roku)"
+  },
+  {
+   "front": "7",
+   "back": "なな / しち (nana / shichi)"
+  },
+  {
+   "front": "8",
+   "back": "はち (hachi)"
+  },
+  {
+   "front": "9",
+   "back": "きゅう (kyuu)"
+  },
+  {
+   "front": "10",
+   "back": "じゅう (juu)"
+  },
+  {
+   "front": "100",
+   "back": "ひゃく (hyaku)"
+  },
+  {
+   "front": "1000",
+   "back": "せん (sen)"
+  }
+ ]
+}

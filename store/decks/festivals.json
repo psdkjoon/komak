@@ -1,0 +1,54 @@
+{
+ "title": "Festivals Around The World",
+ "description": "Festival and where or what.",
+ "cards": [
+  {
+   "front": "Diwali",
+   "back": "Festival of lights, India"
+  },
+  {
+   "front": "Eid al-Fitr",
+   "back": "Marks the end of Ramadan"
+  },
+  {
+   "front": "Nowruz",
+   "back": "Persian new year at the spring equinox"
+  },
+  {
+   "front": "Lunar New Year",
+   "back": "East and Southeast Asia"
+  },
+  {
+   "front": "Holi",
+   "back": "Festival of colours, India"
+  },
+  {
+   "front": "Carnival",
+   "back": "Brazil's famous pre-Lent celebration"
+  },
+  {
+   "front": "Day of the Dead",
+   "back": "Mexico, honouring ancestors"
+  },
+  {
+   "front": "Oktoberfest",
+   "back": "Munich, Germany, beer festival"
+  },
+  {
+   "front": "Songkran",
+   "back": "Thai new year water festival"
+  },
+  {
+   "front": "Thanksgiving",
+   "back": "United States and Canada, harvest holiday"
+  },
+  {
+   "front": "Hanukkah",
+   "back": "Jewish festival of lights"
+  },
+  {
+   "front": "Hogmanay",
+   "back": "Scottish new year"
+  }
+ ]
+}

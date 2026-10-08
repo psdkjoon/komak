@@ -1,0 +1,46 @@
+{
+ "title": "Physics Constants",
+ "description": "Common values worth knowing.",
+ "cards": [
+  {
+   "front": "Speed of light in vacuum",
+   "back": "299,792,458 m/s"
+  },
+  {
+   "front": "Gravitational acceleration on Earth",
+   "back": "About 9.81 m/s²"
+  },
+  {
+   "front": "Absolute zero",
+   "back": "−273.15 °C"
+  },
+  {
+   "front": "Boiling point of water at sea level",
+   "back": "100 °C"
+  },
+  {
+   "front": "Freezing point of water",
+   "back": "0 °C"
+  },
+  {
+   "front": "Avogadro constant",
+   "back": "6.022 × 10²³ per mole"
+  },
+  {
+   "front": "Planck constant",
+   "back": "6.626 × 10⁻³⁴ J·s"
+  },
+  {
+   "front": "Speed of sound in air (about 20 °C)",
+   "back": "About 343 m/s"
+  },
+  {
+   "front": "Earth escape velocity",
+   "back": "About 11.2 km/s"
+  },
+  {
+   "front": "Light-year",
+   "back": "About 9.46 trillion km"
+  }
+ ]
+}

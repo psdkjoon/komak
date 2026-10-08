@@ -1,0 +1,50 @@
+{
+ "title": "US Constitution Amendments",
+ "description": "Number and meaning.",
+ "cards": [
+  {
+   "front": "1st Amendment",
+   "back": "Free speech, religion, press"
+  },
+  {
+   "front": "2nd Amendment",
+   "back": "Right to bear arms"
+  },
+  {
+   "front": "4th Amendment",
+   "back": "No unreasonable searches"
+  },
+  {
+   "front": "5th Amendment",
+   "back": "Due process, no self-incrimination"
+  },
+  {
+   "front": "13th Amendment",
+   "back": "Abolished slavery"
+  },
+  {
+   "front": "14th Amendment",
+   "back": "Equal protection and citizenship"
+  },
+  {
+   "front": "15th Amendment",
+   "back": "Voting rights regardless of race"
+  },
+  {
+   "front": "19th Amendment",
+   "back": "Women's right to vote"
+  },
+  {
+   "front": "26th Amendment",
+   "back": "Voting age lowered to 18"
+  },
+  {
+   "front": "18th Amendment",
+   "back": "Prohibition of alcohol"
+  },
+  {
+   "front": "21st Amendment",
+   "back": "Repealed Prohibition"
+  }
+ ]
+}

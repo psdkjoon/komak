@@ -1,0 +1,38 @@
+{
+ "title": "World Religions And Texts",
+ "description": "Religion and its main text.",
+ "cards": [
+  {
+   "front": "Christianity",
+   "back": "The Bible"
+  },
+  {
+   "front": "Islam",
+   "back": "The Quran"
+  },
+  {
+   "front": "Judaism",
+   "back": "The Torah"
+  },
+  {
+   "front": "Hinduism",
+   "back": "The Vedas"
+  },
+  {
+   "front": "Buddhism",
+   "back": "The Tripitaka"
+  },
+  {
+   "front": "Sikhism",
+   "back": "Guru Granth Sahib"
+  },
+  {
+   "front": "Zoroastrianism",
+   "back": "The Avesta"
+  },
+  {
+   "front": "Taoism",
+   "back": "Tao Te Ching"
+  }
+ ]
+}

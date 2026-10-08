@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Hindi",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "शौचालय कहाँ है? (shauchalay kahaan hai?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "यह कितने का है? (yah kitne ka hai?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "मुझे समझ नहीं आया (mujhe samajh nahin aaya)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "क्या आप अंग्रेज़ी बोलते हैं? (kya aap angrezi bolte hain?)"
+  },
+  {
+   "front": "Help!",
+   "back": "मदद करो! (madad karo!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "माफ़ कीजिए (maaf kijiye)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "मुझे खेद है (mujhe khed hai)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "आपसे मिलकर खुशी हुई (aapse milkar khushi hui)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "चियर्स! (cheers!)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "बिल दीजिए (bill dijiye)"
+  },
+  {
+   "front": "Good night",
+   "back": "शुभ रात्रि (shubh raatri)"
+  }
+ ]
+}

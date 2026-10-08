@@ -1,0 +1,34 @@
+{
+ "title": "Highest Peak On Each Continent",
+ "description": "The Seven Summits.",
+ "cards": [
+  {
+   "front": "Asia",
+   "back": "Mount Everest"
+  },
+  {
+   "front": "South America",
+   "back": "Aconcagua"
+  },
+  {
+   "front": "North America",
+   "back": "Denali"
+  },
+  {
+   "front": "Africa",
+   "back": "Kilimanjaro"
+  },
+  {
+   "front": "Europe",
+   "back": "Mount Elbrus"
+  },
+  {
+   "front": "Antarctica",
+   "back": "Vinson Massif"
+  },
+  {
+   "front": "Oceania",
+   "back": "Puncak Jaya"
+  }
+ ]
+}

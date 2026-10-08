@@ -1,0 +1,70 @@
+{
+ "title": "Thank You In Many Languages",
+ "description": "Gratitude around the world.",
+ "cards": [
+  {
+   "front": "Spanish",
+   "back": "Gracias"
+  },
+  {
+   "front": "French",
+   "back": "Merci"
+  },
+  {
+   "front": "German",
+   "back": "Danke"
+  },
+  {
+   "front": "Italian",
+   "back": "Grazie"
+  },
+  {
+   "front": "Hindi",
+   "back": "Dhanyavaad"
+  },
+  {
+   "front": "Arabic",
+   "back": "Shukran"
+  },
+  {
+   "front": "Persian",
+   "back": "Mamnun"
+  },
+  {
+   "front": "Japanese",
+   "back": "Arigatou"
+  },
+  {
+   "front": "Korean",
+   "back": "Gamsahamnida"
+  },
+  {
+   "front": "Mandarin",
+   "back": "Xièxie"
+  },
+  {
+   "front": "Turkish",
+   "back": "Teşekkürler"
+  },
+  {
+   "front": "Russian",
+   "back": "Spasibo"
+  },
+  {
+   "front": "Swahili",
+   "back": "Asante"
+  },
+  {
+   "front": "Portuguese",
+   "back": "Obrigado"
+  },
+  {
+   "front": "Greek",
+   "back": "Efharisto"
+  },
+  {
+   "front": "Dutch",
+   "back": "Dank je"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "title": "Hex Colours",
+ "description": "Colour and hex code.",
+ "cards": [
+  {
+   "front": "Red",
+   "back": "#FF0000"
+  },
+  {
+   "front": "Green",
+   "back": "#00FF00"
+  },
+  {
+   "front": "Blue",
+   "back": "#0000FF"
+  },
+  {
+   "front": "Black",
+   "back": "#000000"
+  },
+  {
+   "front": "White",
+   "back": "#FFFFFF"
+  },
+  {
+   "front": "Yellow",
+   "back": "#FFFF00"
+  },
+  {
+   "front": "Cyan",
+   "back": "#00FFFF"
+  },
+  {
+   "front": "Magenta",
+   "back": "#FF00FF"
+  },
+  {
+   "front": "Grey (50%)",
+   "back": "#808080"
+  },
+  {
+   "front": "Orange",
+   "back": "#FFA500"
+  }
+ ]
+}

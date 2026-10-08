@@ -1,0 +1,34 @@
+{
+ "title": "Study Techniques",
+ "description": "Technique and idea.",
+ "cards": [
+  {
+   "front": "Pomodoro",
+   "back": "25 minutes of work, 5 minutes break"
+  },
+  {
+   "front": "Spaced repetition",
+   "back": "Review at increasing intervals"
+  },
+  {
+   "front": "Active recall",
+   "back": "Test yourself instead of rereading"
+  },
+  {
+   "front": "Feynman technique",
+   "back": "Explain it simply as if teaching"
+  },
+  {
+   "front": "Mind map",
+   "back": "Visual diagram of linked ideas"
+  },
+  {
+   "front": "Interleaving",
+   "back": "Mix different topics while practising"
+  },
+  {
+   "front": "Chunking",
+   "back": "Group info into meaningful units"
+  }
+ ]
+}

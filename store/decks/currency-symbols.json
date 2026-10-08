@@ -1,0 +1,54 @@
+{
+ "title": "Currency Symbols",
+ "description": "Symbol and currency.",
+ "cards": [
+  {
+   "front": "€",
+   "back": "Euro"
+  },
+  {
+   "front": "£",
+   "back": "Pound sterling"
+  },
+  {
+   "front": "¥",
+   "back": "Yen (or yuan)"
+  },
+  {
+   "front": "₹",
+   "back": "Indian rupee"
+  },
+  {
+   "front": "₩",
+   "back": "South Korean won"
+  },
+  {
+   "front": "₽",
+   "back": "Russian ruble"
+  },
+  {
+   "front": "₺",
+   "back": "Turkish lira"
+  },
+  {
+   "front": "₪",
+   "back": "Israeli new shekel"
+  },
+  {
+   "front": "₫",
+   "back": "Vietnamese dong"
+  },
+  {
+   "front": "฿",
+   "back": "Thai baht"
+  },
+  {
+   "front": "₿",
+   "back": "Bitcoin"
+  },
+  {
+   "front": "$",
+   "back": "Dollar"
+  }
+ ]
+}

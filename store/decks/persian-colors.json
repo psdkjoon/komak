@@ -1,0 +1,50 @@
+{
+ "title": "Persian Colours",
+ "description": "Colour words in Persian.",
+ "cards": [
+  {
+   "front": "Red",
+   "back": "قرمز (ghermez)"
+  },
+  {
+   "front": "Blue",
+   "back": "آبی (âbi)"
+  },
+  {
+   "front": "Green",
+   "back": "سبز (sabz)"
+  },
+  {
+   "front": "Yellow",
+   "back": "زرد (zard)"
+  },
+  {
+   "front": "Black",
+   "back": "سیاه (siyâh)"
+  },
+  {
+   "front": "White",
+   "back": "سفید (sefid)"
+  },
+  {
+   "front": "Orange",
+   "back": "نارنجی (nârenji)"
+  },
+  {
+   "front": "Purple",
+   "back": "بنفش (banafsh)"
+  },
+  {
+   "front": "Pink",
+   "back": "صورتی (surati)"
+  },
+  {
+   "front": "Brown",
+   "back": "قهوه‌ای (ghahve'i)"
+  },
+  {
+   "front": "Grey",
+   "back": "خاکستری (khâkestari)"
+  }
+ ]
+}

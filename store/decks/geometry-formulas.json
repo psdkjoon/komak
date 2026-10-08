@@ -1,0 +1,62 @@
+{
+ "title": "Geometry Formulas",
+ "description": "Area, volume and angles.",
+ "cards": [
+  {
+   "front": "Area of a circle",
+   "back": "πr²"
+  },
+  {
+   "front": "Circumference of a circle",
+   "back": "2πr"
+  },
+  {
+   "front": "Area of a triangle",
+   "back": "½ × base × height"
+  },
+  {
+   "front": "Area of a rectangle",
+   "back": "length × width"
+  },
+  {
+   "front": "Area of a trapezoid",
+   "back": "½ × (a + b) × h"
+  },
+  {
+   "front": "Volume of a sphere",
+   "back": "⁴⁄₃πr³"
+  },
+  {
+   "front": "Surface area of a sphere",
+   "back": "4πr²"
+  },
+  {
+   "front": "Volume of a cylinder",
+   "back": "πr²h"
+  },
+  {
+   "front": "Volume of a cone",
+   "back": "⅓πr²h"
+  },
+  {
+   "front": "Pythagorean theorem",
+   "back": "a² + b² = c²"
+  },
+  {
+   "front": "Sum of angles in a triangle",
+   "back": "180°"
+  },
+  {
+   "front": "Sum of angles in a quadrilateral",
+   "back": "360°"
+  },
+  {
+   "front": "Volume of a cube",
+   "back": "side³"
+  },
+  {
+   "front": "Surface area of a cube",
+   "back": "6 × side²"
+  }
+ ]
+}

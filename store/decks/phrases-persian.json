@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: Persian",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "دستشویی کجاست؟ (dastshuyi kojâst?)"
+  },
+  {
+   "front": "How much is this?",
+   "back": "این چنده؟ (in chande?)"
+  },
+  {
+   "front": "I don't understand",
+   "back": "نمی‌فهمم (nemifahmam)"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "انگلیسی بلدید؟ (engelisi baladid?)"
+  },
+  {
+   "front": "Help!",
+   "back": "کمک! (komak!)"
+  },
+  {
+   "front": "Excuse me",
+   "back": "ببخشید (bebakhshid)"
+  },
+  {
+   "front": "I am sorry",
+   "back": "متأسفم (mote'assefam)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "خوشبختم (khoshbakhtam)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "به سلامتی (be salâmati)"
+  },
+  {
+   "front": "The bill, please",
+   "back": "صورت‌حساب لطفاً (surathesâb lotfan)"
+  },
+  {
+   "front": "Good night",
+   "back": "شب بخیر (shab bekheyr)"
+  }
+ ]
+}

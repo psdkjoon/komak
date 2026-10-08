@@ -1,0 +1,62 @@
+{
+ "title": "Branches Of Science",
+ "description": "What each -ology studies.",
+ "cards": [
+  {
+   "front": "Ornithology",
+   "back": "Birds"
+  },
+  {
+   "front": "Entomology",
+   "back": "Insects"
+  },
+  {
+   "front": "Geology",
+   "back": "Rocks and the Earth"
+  },
+  {
+   "front": "Meteorology",
+   "back": "Weather"
+  },
+  {
+   "front": "Astronomy",
+   "back": "Stars and planets"
+  },
+  {
+   "front": "Zoology",
+   "back": "Animals"
+  },
+  {
+   "front": "Botany",
+   "back": "Plants"
+  },
+  {
+   "front": "Ichthyology",
+   "back": "Fish"
+  },
+  {
+   "front": "Seismology",
+   "back": "Earthquakes"
+  },
+  {
+   "front": "Etymology",
+   "back": "Origins of words"
+  },
+  {
+   "front": "Mycology",
+   "back": "Fungi"
+  },
+  {
+   "front": "Herpetology",
+   "back": "Reptiles and amphibians"
+  },
+  {
+   "front": "Cartography",
+   "back": "Making maps"
+  },
+  {
+   "front": "Ecology",
+   "back": "Living things and their environment"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "title": "Famous Paintings",
+ "description": "Painting and painter.",
+ "cards": [
+  {
+   "front": "Mona Lisa",
+   "back": "Leonardo da Vinci"
+  },
+  {
+   "front": "The Last Supper",
+   "back": "Leonardo da Vinci"
+  },
+  {
+   "front": "The Starry Night",
+   "back": "Vincent van Gogh"
+  },
+  {
+   "front": "The Scream",
+   "back": "Edvard Munch"
+  },
+  {
+   "front": "Guernica",
+   "back": "Pablo Picasso"
+  },
+  {
+   "front": "The Persistence of Memory",
+   "back": "Salvador Dalí"
+  },
+  {
+   "front": "Girl with a Pearl Earring",
+   "back": "Johannes Vermeer"
+  },
+  {
+   "front": "The Night Watch",
+   "back": "Rembrandt"
+  },
+  {
+   "front": "The Birth of Venus",
+   "back": "Sandro Botticelli"
+  },
+  {
+   "front": "The Kiss",
+   "back": "Gustav Klimt"
+  },
+  {
+   "front": "Water Lilies",
+   "back": "Claude Monet"
+  },
+  {
+   "front": "Impression, Sunrise",
+   "back": "Claude Monet"
+  },
+  {
+   "front": "American Gothic",
+   "back": "Grant Wood"
+  },
+  {
+   "front": "The Great Wave off Kanagawa",
+   "back": "Hokusai"
+  },
+  {
+   "front": "Las Meninas",
+   "back": "Diego Velázquez"
+  }
+ ]
+}

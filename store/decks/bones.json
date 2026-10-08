@@ -1,0 +1,54 @@
+{
+ "title": "Bone Names",
+ "description": "Common names and scientific names.",
+ "cards": [
+  {
+   "front": "Collarbone",
+   "back": "Clavicle"
+  },
+  {
+   "front": "Shoulder blade",
+   "back": "Scapula"
+  },
+  {
+   "front": "Breastbone",
+   "back": "Sternum"
+  },
+  {
+   "front": "Kneecap",
+   "back": "Patella"
+  },
+  {
+   "front": "Shinbone",
+   "back": "Tibia"
+  },
+  {
+   "front": "Thigh bone",
+   "back": "Femur"
+  },
+  {
+   "front": "Jawbone",
+   "back": "Mandible"
+  },
+  {
+   "front": "Upper arm bone",
+   "back": "Humerus"
+  },
+  {
+   "front": "Backbone",
+   "back": "Vertebral column"
+  },
+  {
+   "front": "Tailbone",
+   "back": "Coccyx"
+  },
+  {
+   "front": "Ribs protect",
+   "back": "Heart and lungs"
+  },
+  {
+   "front": "Hip bone",
+   "back": "Pelvis"
+  }
+ ]
+}

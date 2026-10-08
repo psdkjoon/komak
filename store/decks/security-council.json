@@ -1,0 +1,62 @@
+{
+ "title": "UN And World Bodies",
+ "description": "Acronym and meaning.",
+ "cards": [
+  {
+   "front": "NATO",
+   "back": "North Atlantic Treaty Organization"
+  },
+  {
+   "front": "UNESCO",
+   "back": "UN Educational, Scientific and Cultural Organization"
+  },
+  {
+   "front": "WHO",
+   "back": "World Health Organization"
+  },
+  {
+   "front": "UNICEF",
+   "back": "UN Children's Fund"
+  },
+  {
+   "front": "WTO",
+   "back": "World Trade Organization"
+  },
+  {
+   "front": "IMF",
+   "back": "International Monetary Fund"
+  },
+  {
+   "front": "OPEC",
+   "back": "Organization of the Petroleum Exporting Countries"
+  },
+  {
+   "front": "EU",
+   "back": "European Union"
+  },
+  {
+   "front": "ASEAN",
+   "back": "Association of Southeast Asian Nations"
+  },
+  {
+   "front": "FIFA",
+   "back": "Fédération Internationale de Football Association"
+  },
+  {
+   "front": "IOC",
+   "back": "International Olympic Committee"
+  },
+  {
+   "front": "CERN",
+   "back": "European Organization for Nuclear Research"
+  },
+  {
+   "front": "FAO",
+   "back": "Food and Agriculture Organization"
+  },
+  {
+   "front": "ESA",
+   "back": "European Space Agency"
+  }
+ ]
+}

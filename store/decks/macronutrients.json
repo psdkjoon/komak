@@ -1,0 +1,30 @@
+{
+ "title": "Macronutrients",
+ "description": "Calories per gram.",
+ "cards": [
+  {
+   "front": "Carbohydrate",
+   "back": "4 kcal per gram"
+  },
+  {
+   "front": "Protein",
+   "back": "4 kcal per gram"
+  },
+  {
+   "front": "Fat",
+   "back": "9 kcal per gram"
+  },
+  {
+   "front": "Alcohol",
+   "back": "7 kcal per gram"
+  },
+  {
+   "front": "Fibre",
+   "back": "Not digested for energy; supports gut health"
+  },
+  {
+   "front": "Water",
+   "back": "0 kcal"
+  }
+ ]
+}

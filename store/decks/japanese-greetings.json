@@ -1,0 +1,50 @@
+{
+ "title": "Japanese Greetings",
+ "description": "Everyday phrases.",
+ "cards": [
+  {
+   "front": "Hello",
+   "back": "こんにちは (konnichiwa)"
+  },
+  {
+   "front": "Good morning",
+   "back": "おはよう (ohayou)"
+  },
+  {
+   "front": "Good evening",
+   "back": "こんばんは (konbanwa)"
+  },
+  {
+   "front": "Thank you",
+   "back": "ありがとう (arigatou)"
+  },
+  {
+   "front": "Excuse me / Sorry",
+   "back": "すみません (sumimasen)"
+  },
+  {
+   "front": "Goodbye",
+   "back": "さようなら (sayounara)"
+  },
+  {
+   "front": "Yes",
+   "back": "はい (hai)"
+  },
+  {
+   "front": "No",
+   "back": "いいえ (iie)"
+  },
+  {
+   "front": "Please",
+   "back": "おねがいします (onegaishimasu)"
+  },
+  {
+   "front": "Good night",
+   "back": "おやすみ (oyasumi)"
+  },
+  {
+   "front": "Delicious",
+   "back": "おいしい (oishii)"
+  }
+ ]
+}

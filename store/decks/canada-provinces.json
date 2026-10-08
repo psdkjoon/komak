@@ -1,0 +1,46 @@
+{
+ "title": "Canadian Provinces",
+ "description": "Province and capital.",
+ "cards": [
+  {
+   "front": "Alberta",
+   "back": "Edmonton"
+  },
+  {
+   "front": "British Columbia",
+   "back": "Victoria"
+  },
+  {
+   "front": "Manitoba",
+   "back": "Winnipeg"
+  },
+  {
+   "front": "New Brunswick",
+   "back": "Fredericton"
+  },
+  {
+   "front": "Newfoundland and Labrador",
+   "back": "St. John's"
+  },
+  {
+   "front": "Nova Scotia",
+   "back": "Halifax"
+  },
+  {
+   "front": "Ontario",
+   "back": "Toronto"
+  },
+  {
+   "front": "Prince Edward Island",
+   "back": "Charlottetown"
+  },
+  {
+   "front": "Quebec",
+   "back": "Quebec City"
+  },
+  {
+   "front": "Saskatchewan",
+   "back": "Regina"
+  }
+ ]
+}

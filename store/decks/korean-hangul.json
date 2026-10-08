@@ -1,0 +1,86 @@
+{
+ "title": "Korean Hangul Basics",
+ "description": "Core consonants and vowels.",
+ "cards": [
+  {
+   "front": "ㄱ",
+   "back": "g / k"
+  },
+  {
+   "front": "ㄴ",
+   "back": "n"
+  },
+  {
+   "front": "ㄷ",
+   "back": "d / t"
+  },
+  {
+   "front": "ㄹ",
+   "back": "r / l"
+  },
+  {
+   "front": "ㅁ",
+   "back": "m"
+  },
+  {
+   "front": "ㅂ",
+   "back": "b / p"
+  },
+  {
+   "front": "ㅅ",
+   "back": "s"
+  },
+  {
+   "front": "ㅇ",
+   "back": "silent at the start, ng at the end"
+  },
+  {
+   "front": "ㅈ",
+   "back": "j"
+  },
+  {
+   "front": "ㅊ",
+   "back": "ch"
+  },
+  {
+   "front": "ㅋ",
+   "back": "k"
+  },
+  {
+   "front": "ㅌ",
+   "back": "t"
+  },
+  {
+   "front": "ㅍ",
+   "back": "p"
+  },
+  {
+   "front": "ㅎ",
+   "back": "h"
+  },
+  {
+   "front": "ㅏ",
+   "back": "a"
+  },
+  {
+   "front": "ㅓ",
+   "back": "eo"
+  },
+  {
+   "front": "ㅗ",
+   "back": "o"
+  },
+  {
+   "front": "ㅜ",
+   "back": "u"
+  },
+  {
+   "front": "ㅡ",
+   "back": "eu"
+  },
+  {
+   "front": "ㅣ",
+   "back": "i"
+  }
+ ]
+}

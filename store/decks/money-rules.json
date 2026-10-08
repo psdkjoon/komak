@@ -1,0 +1,34 @@
+{
+ "title": "Money Rules Of Thumb",
+ "description": "Quick financial rules.",
+ "cards": [
+  {
+   "front": "50/30/20 rule",
+   "back": "50% needs, 30% wants, 20% savings"
+  },
+  {
+   "front": "Rule of 72",
+   "back": "72 ÷ rate = years to double"
+  },
+  {
+   "front": "Emergency fund",
+   "back": "3–6 months of expenses"
+  },
+  {
+   "front": "Pay yourself first",
+   "back": "Save before you spend"
+  },
+  {
+   "front": "Compound interest",
+   "back": "Interest on interest"
+  },
+  {
+   "front": "Debt snowball",
+   "back": "Pay smallest debts first"
+  },
+  {
+   "front": "Net worth",
+   "back": "Assets minus liabilities"
+  }
+ ]
+}

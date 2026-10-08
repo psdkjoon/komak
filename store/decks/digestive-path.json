@@ -1,0 +1,36 @@
+{
+ "title": "Digestive Path",
+ "description": "Food from mouth to exit.",
+ "cards": [
+  {
+   "front": "Step 1",
+   "back": "Mouth",
+   "orderIndex": 1
+  },
+  {
+   "front": "Step 2",
+   "back": "Esophagus",
+   "orderIndex": 2
+  },
+  {
+   "front": "Step 3",
+   "back": "Stomach",
+   "orderIndex": 3
+  },
+  {
+   "front": "Step 4",
+   "back": "Small intestine",
+   "orderIndex": 4
+  },
+  {
+   "front": "Step 5",
+   "back": "Large intestine",
+   "orderIndex": 5
+  },
+  {
+   "front": "Step 6",
+   "back": "Rectum",
+   "orderIndex": 6
+  }
+ ]
+}

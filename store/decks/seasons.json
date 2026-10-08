@@ -1,0 +1,26 @@
+{
+ "title": "Seasons",
+ "description": "In order from spring.",
+ "cards": [
+  {
+   "front": "Season 1",
+   "back": "Spring",
+   "orderIndex": 1
+  },
+  {
+   "front": "Season 2",
+   "back": "Summer",
+   "orderIndex": 2
+  },
+  {
+   "front": "Season 3",
+   "back": "Autumn (Fall)",
+   "orderIndex": 3
+  },
+  {
+   "front": "Season 4",
+   "back": "Winter",
+   "orderIndex": 4
+  }
+ ]
+}

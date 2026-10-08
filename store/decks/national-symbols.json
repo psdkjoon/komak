@@ -1,0 +1,46 @@
+{
+ "title": "National Symbols",
+ "description": "Symbol and country.",
+ "cards": [
+  {
+   "front": "Maple leaf",
+   "back": "Canada"
+  },
+  {
+   "front": "Kiwi bird",
+   "back": "New Zealand"
+  },
+  {
+   "front": "Kangaroo",
+   "back": "Australia"
+  },
+  {
+   "front": "Giant panda",
+   "back": "China"
+  },
+  {
+   "front": "Bald eagle",
+   "back": "United States"
+  },
+  {
+   "front": "Cherry blossom",
+   "back": "Japan"
+  },
+  {
+   "front": "Springbok",
+   "back": "South Africa"
+  },
+  {
+   "front": "Bengal tiger",
+   "back": "India"
+  },
+  {
+   "front": "Brown bear",
+   "back": "Russia"
+  },
+  {
+   "front": "Lion",
+   "back": "England"
+  }
+ ]
+}

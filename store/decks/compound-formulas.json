@@ -1,0 +1,58 @@
+{
+ "title": "Chemical Formulas",
+ "description": "Common compounds.",
+ "cards": [
+  {
+   "front": "Water",
+   "back": "H₂O"
+  },
+  {
+   "front": "Carbon dioxide",
+   "back": "CO₂"
+  },
+  {
+   "front": "Table salt",
+   "back": "NaCl"
+  },
+  {
+   "front": "Methane",
+   "back": "CH₄"
+  },
+  {
+   "front": "Ammonia",
+   "back": "NH₃"
+  },
+  {
+   "front": "Sulfuric acid",
+   "back": "H₂SO₄"
+  },
+  {
+   "front": "Hydrochloric acid",
+   "back": "HCl"
+  },
+  {
+   "front": "Sodium hydroxide",
+   "back": "NaOH"
+  },
+  {
+   "front": "Glucose",
+   "back": "C₆H₁₂O₆"
+  },
+  {
+   "front": "Ozone",
+   "back": "O₃"
+  },
+  {
+   "front": "Limestone",
+   "back": "CaCO₃"
+  },
+  {
+   "front": "Hydrogen peroxide",
+   "back": "H₂O₂"
+  },
+  {
+   "front": "Carbon monoxide",
+   "back": "CO"
+  }
+ ]
+}

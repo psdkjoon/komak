@@ -1,0 +1,78 @@
+{
+ "title": "Official Languages",
+ "description": "Main official language per country.",
+ "cards": [
+  {
+   "front": "Brazil",
+   "back": "Portuguese"
+  },
+  {
+   "front": "Egypt",
+   "back": "Arabic"
+  },
+  {
+   "front": "Iran",
+   "back": "Persian (Farsi)"
+  },
+  {
+   "front": "Netherlands",
+   "back": "Dutch"
+  },
+  {
+   "front": "Greece",
+   "back": "Greek"
+  },
+  {
+   "front": "Hungary",
+   "back": "Hungarian"
+  },
+  {
+   "front": "Finland",
+   "back": "Finnish and Swedish"
+  },
+  {
+   "front": "Indonesia",
+   "back": "Indonesian"
+  },
+  {
+   "front": "Pakistan",
+   "back": "Urdu and English"
+  },
+  {
+   "front": "Ethiopia",
+   "back": "Amharic"
+  },
+  {
+   "front": "Poland",
+   "back": "Polish"
+  },
+  {
+   "front": "Thailand",
+   "back": "Thai"
+  },
+  {
+   "front": "Vietnam",
+   "back": "Vietnamese"
+  },
+  {
+   "front": "Afghanistan",
+   "back": "Dari and Pashto"
+  },
+  {
+   "front": "Austria",
+   "back": "German"
+  },
+  {
+   "front": "Argentina",
+   "back": "Spanish"
+  },
+  {
+   "front": "Angola",
+   "back": "Portuguese"
+  },
+  {
+   "front": "Ukraine",
+   "back": "Ukrainian"
+  }
+ ]
+}

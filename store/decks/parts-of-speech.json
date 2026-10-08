@@ -1,0 +1,42 @@
+{
+ "title": "Parts Of Speech",
+ "description": "Name and function.",
+ "cards": [
+  {
+   "front": "Noun",
+   "back": "Person, place or thing"
+  },
+  {
+   "front": "Verb",
+   "back": "Action or state"
+  },
+  {
+   "front": "Adjective",
+   "back": "Describes a noun"
+  },
+  {
+   "front": "Adverb",
+   "back": "Describes a verb, adjective or adverb"
+  },
+  {
+   "front": "Pronoun",
+   "back": "Replaces a noun"
+  },
+  {
+   "front": "Preposition",
+   "back": "Shows relationship, like \"on\" or \"under\""
+  },
+  {
+   "front": "Conjunction",
+   "back": "Joins words or clauses"
+  },
+  {
+   "front": "Interjection",
+   "back": "Sudden expression, like \"Wow!\""
+  },
+  {
+   "front": "Article",
+   "back": "\"a\", \"an\", \"the\""
+  }
+ ]
+}

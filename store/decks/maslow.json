@@ -1,0 +1,31 @@
+{
+ "title": "Maslow's Hierarchy",
+ "description": "From the base to the top.",
+ "cards": [
+  {
+   "front": "Level 1",
+   "back": "Physiological needs",
+   "orderIndex": 1
+  },
+  {
+   "front": "Level 2",
+   "back": "Safety",
+   "orderIndex": 2
+  },
+  {
+   "front": "Level 3",
+   "back": "Love and belonging",
+   "orderIndex": 3
+  },
+  {
+   "front": "Level 4",
+   "back": "Esteem",
+   "orderIndex": 4
+  },
+  {
+   "front": "Level 5",
+   "back": "Self-actualisation",
+   "orderIndex": 5
+  }
+ ]
+}

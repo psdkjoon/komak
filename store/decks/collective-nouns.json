@@ -1,0 +1,66 @@
+{
+ "title": "Animal Group Names",
+ "description": "Collective nouns for animals.",
+ "cards": [
+  {
+   "front": "Crows",
+   "back": "A murder"
+  },
+  {
+   "front": "Lions",
+   "back": "A pride"
+  },
+  {
+   "front": "Wolves",
+   "back": "A pack"
+  },
+  {
+   "front": "Fish",
+   "back": "A school"
+  },
+  {
+   "front": "Geese (in flight)",
+   "back": "A skein"
+  },
+  {
+   "front": "Owls",
+   "back": "A parliament"
+  },
+  {
+   "front": "Whales",
+   "back": "A pod"
+  },
+  {
+   "front": "Bees",
+   "back": "A swarm"
+  },
+  {
+   "front": "Cattle",
+   "back": "A herd"
+  },
+  {
+   "front": "Crocodiles",
+   "back": "A bask"
+  },
+  {
+   "front": "Ravens",
+   "back": "An unkindness"
+  },
+  {
+   "front": "Flamingos",
+   "back": "A flamboyance"
+  },
+  {
+   "front": "Butterflies",
+   "back": "A kaleidoscope"
+  },
+  {
+   "front": "Hippos",
+   "back": "A bloat"
+  },
+  {
+   "front": "Giraffes",
+   "back": "A tower"
+  }
+ ]
+}

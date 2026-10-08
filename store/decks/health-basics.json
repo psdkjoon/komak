@@ -1,0 +1,38 @@
+{
+ "title": "Health Basics",
+ "description": "Everyday health facts.",
+ "cards": [
+  {
+   "front": "Normal body temperature",
+   "back": "About 37 °C (98.6 °F)"
+  },
+  {
+   "front": "Resting heart rate (adult)",
+   "back": "About 60–100 beats per minute"
+  },
+  {
+   "front": "Stroke signs: FAST",
+   "back": "Face, Arm, Speech, Time to call help"
+  },
+  {
+   "front": "RICE for a sprain",
+   "back": "Rest, Ice, Compression, Elevation"
+  },
+  {
+   "front": "Handwashing time",
+   "back": "At least 20 seconds"
+  },
+  {
+   "front": "Sunscreen strength to use",
+   "back": "SPF 30 or higher"
+  },
+  {
+   "front": "Adults need about",
+   "back": "7–9 hours of sleep"
+  },
+  {
+   "front": "Fever starts around",
+   "back": "38 °C (100.4 °F)"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "title": "Guitar Standard Tuning",
+ "description": "Strings from lowest to highest.",
+ "cards": [
+  {
+   "front": "6th string (lowest)",
+   "back": "E",
+   "orderIndex": 1
+  },
+  {
+   "front": "5th string",
+   "back": "A",
+   "orderIndex": 2
+  },
+  {
+   "front": "4th string",
+   "back": "D",
+   "orderIndex": 3
+  },
+  {
+   "front": "3rd string",
+   "back": "G",
+   "orderIndex": 4
+  },
+  {
+   "front": "2nd string",
+   "back": "B",
+   "orderIndex": 5
+  },
+  {
+   "front": "1st string (highest)",
+   "back": "E",
+   "orderIndex": 6
+  }
+ ]
+}

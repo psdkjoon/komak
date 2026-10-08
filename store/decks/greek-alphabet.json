@@ -1,0 +1,102 @@
+{
+ "title": "Greek Alphabet",
+ "description": "Letter names and their symbols.",
+ "cards": [
+  {
+   "front": "Α α",
+   "back": "Alpha"
+  },
+  {
+   "front": "Β β",
+   "back": "Beta"
+  },
+  {
+   "front": "Γ γ",
+   "back": "Gamma"
+  },
+  {
+   "front": "Δ δ",
+   "back": "Delta"
+  },
+  {
+   "front": "Ε ε",
+   "back": "Epsilon"
+  },
+  {
+   "front": "Ζ ζ",
+   "back": "Zeta"
+  },
+  {
+   "front": "Η η",
+   "back": "Eta"
+  },
+  {
+   "front": "Θ θ",
+   "back": "Theta"
+  },
+  {
+   "front": "Ι ι",
+   "back": "Iota"
+  },
+  {
+   "front": "Κ κ",
+   "back": "Kappa"
+  },
+  {
+   "front": "Λ λ",
+   "back": "Lambda"
+  },
+  {
+   "front": "Μ μ",
+   "back": "Mu"
+  },
+  {
+   "front": "Ν ν",
+   "back": "Nu"
+  },
+  {
+   "front": "Ξ ξ",
+   "back": "Xi"
+  },
+  {
+   "front": "Ο ο",
+   "back": "Omicron"
+  },
+  {
+   "front": "Π π",
+   "back": "Pi"
+  },
+  {
+   "front": "Ρ ρ",
+   "back": "Rho"
+  },
+  {
+   "front": "Σ σ",
+   "back": "Sigma"
+  },
+  {
+   "front": "Τ τ",
+   "back": "Tau"
+  },
+  {
+   "front": "Υ υ",
+   "back": "Upsilon"
+  },
+  {
+   "front": "Φ φ",
+   "back": "Phi"
+  },
+  {
+   "front": "Χ χ",
+   "back": "Chi"
+  },
+  {
+   "front": "Ψ ψ",
+   "back": "Psi"
+  },
+  {
+   "front": "Ω ω",
+   "back": "Omega"
+  }
+ ]
+}

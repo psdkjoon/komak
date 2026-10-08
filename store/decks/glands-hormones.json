@@ -1,0 +1,42 @@
+{
+ "title": "Glands And Hormones",
+ "description": "What each hormone does.",
+ "cards": [
+  {
+   "front": "Insulin",
+   "back": "Lowers blood sugar (pancreas)"
+  },
+  {
+   "front": "Adrenaline",
+   "back": "Fight or flight response (adrenal glands)"
+  },
+  {
+   "front": "Thyroxine",
+   "back": "Controls metabolism (thyroid)"
+  },
+  {
+   "front": "Melatonin",
+   "back": "Regulates sleep (pineal gland)"
+  },
+  {
+   "front": "Cortisol",
+   "back": "Stress hormone (adrenal glands)"
+  },
+  {
+   "front": "Estrogen",
+   "back": "Female sex hormone"
+  },
+  {
+   "front": "Testosterone",
+   "back": "Male sex hormone"
+  },
+  {
+   "front": "Growth hormone",
+   "back": "Stimulates growth (pituitary)"
+  },
+  {
+   "front": "Glucagon",
+   "back": "Raises blood sugar (pancreas)"
+  }
+ ]
+}

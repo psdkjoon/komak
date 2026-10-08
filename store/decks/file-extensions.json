@@ -1,0 +1,54 @@
+{
+ "title": "File Extensions",
+ "description": "Extension and type.",
+ "cards": [
+  {
+   "front": ".jpg",
+   "back": "Compressed image"
+  },
+  {
+   "front": ".png",
+   "back": "Lossless image with transparency"
+  },
+  {
+   "front": ".mp3",
+   "back": "Compressed audio"
+  },
+  {
+   "front": ".pdf",
+   "back": "Portable document"
+  },
+  {
+   "front": ".zip",
+   "back": "Compressed archive"
+  },
+  {
+   "front": ".exe",
+   "back": "Windows program"
+  },
+  {
+   "front": ".py",
+   "back": "Python source"
+  },
+  {
+   "front": ".html",
+   "back": "Web page"
+  },
+  {
+   "front": ".csv",
+   "back": "Comma-separated values"
+  },
+  {
+   "front": ".svg",
+   "back": "Vector image"
+  },
+  {
+   "front": ".iso",
+   "back": "Disc image"
+  },
+  {
+   "front": ".json",
+   "back": "Structured data text"
+  }
+ ]
+}

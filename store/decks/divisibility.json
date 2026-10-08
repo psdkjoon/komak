@@ -1,0 +1,34 @@
+{
+ "title": "Divisibility Rules",
+ "description": "Rule for each number.",
+ "cards": [
+  {
+   "front": "Divisible by 2",
+   "back": "Last digit is even"
+  },
+  {
+   "front": "Divisible by 3",
+   "back": "Digit sum is divisible by 3"
+  },
+  {
+   "front": "Divisible by 4",
+   "back": "Last two digits divisible by 4"
+  },
+  {
+   "front": "Divisible by 5",
+   "back": "Ends in 0 or 5"
+  },
+  {
+   "front": "Divisible by 6",
+   "back": "Even and divisible by 3"
+  },
+  {
+   "front": "Divisible by 9",
+   "back": "Digit sum is divisible by 9"
+  },
+  {
+   "front": "Divisible by 10",
+   "back": "Ends in 0"
+  }
+ ]
+}

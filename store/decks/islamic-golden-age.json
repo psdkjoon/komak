@@ -1,0 +1,46 @@
+{
+ "title": "Islamic Golden Age Scholars",
+ "description": "Scholar and contribution.",
+ "cards": [
+  {
+   "front": "Al-Khwarizmi",
+   "back": "Algebra and algorithms"
+  },
+  {
+   "front": "Ibn al-Haytham",
+   "back": "Optics"
+  },
+  {
+   "front": "Al-Razi",
+   "back": "Medicine and chemistry"
+  },
+  {
+   "front": "Ibn Sina",
+   "back": "The Canon of Medicine"
+  },
+  {
+   "front": "Al-Biruni",
+   "back": "Astronomy and measuring the Earth"
+  },
+  {
+   "front": "Al-Farabi",
+   "back": "Philosophy and music theory"
+  },
+  {
+   "front": "Omar Khayyam",
+   "back": "Cubic equations, calendar reform"
+  },
+  {
+   "front": "Jabir ibn Hayyan",
+   "back": "Early chemistry"
+  },
+  {
+   "front": "Al-Idrisi",
+   "back": "World map for King Roger II"
+  },
+  {
+   "front": "Ibn Khaldun",
+   "back": "Historiography, the Muqaddimah"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "title": "Parts Of A Computer",
+ "description": "Part and job.",
+ "cards": [
+  {
+   "front": "CPU",
+   "back": "The brain; runs instructions"
+  },
+  {
+   "front": "RAM",
+   "back": "Short-term working memory"
+  },
+  {
+   "front": "SSD / HDD",
+   "back": "Long-term storage"
+  },
+  {
+   "front": "GPU",
+   "back": "Draws graphics"
+  },
+  {
+   "front": "Motherboard",
+   "back": "Connects all components"
+  },
+  {
+   "front": "Power supply",
+   "back": "Provides electricity"
+  },
+  {
+   "front": "Cooler / fan",
+   "back": "Removes heat"
+  },
+  {
+   "front": "Monitor",
+   "back": "Displays output"
+  },
+  {
+   "front": "Keyboard",
+   "back": "Input device for typing"
+  }
+ ]
+}

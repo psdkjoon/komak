@@ -1,0 +1,54 @@
+{
+ "title": "Birthstones",
+ "description": "Month and stone.",
+ "cards": [
+  {
+   "front": "January",
+   "back": "Garnet"
+  },
+  {
+   "front": "February",
+   "back": "Amethyst"
+  },
+  {
+   "front": "March",
+   "back": "Aquamarine"
+  },
+  {
+   "front": "April",
+   "back": "Diamond"
+  },
+  {
+   "front": "May",
+   "back": "Emerald"
+  },
+  {
+   "front": "June",
+   "back": "Pearl"
+  },
+  {
+   "front": "July",
+   "back": "Ruby"
+  },
+  {
+   "front": "August",
+   "back": "Peridot"
+  },
+  {
+   "front": "September",
+   "back": "Sapphire"
+  },
+  {
+   "front": "October",
+   "back": "Opal"
+  },
+  {
+   "front": "November",
+   "back": "Topaz"
+  },
+  {
+   "front": "December",
+   "back": "Turquoise"
+  }
+ ]
+}

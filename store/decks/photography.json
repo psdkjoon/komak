@@ -1,0 +1,42 @@
+{
+ "title": "Photography Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "Aperture",
+   "back": "Size of the lens opening (f-stop)"
+  },
+  {
+   "front": "Shutter speed",
+   "back": "How long the sensor is exposed"
+  },
+  {
+   "front": "ISO",
+   "back": "Sensor sensitivity to light"
+  },
+  {
+   "front": "Rule of thirds",
+   "back": "Compose using a 3×3 grid"
+  },
+  {
+   "front": "Depth of field",
+   "back": "Range of the scene that is sharp"
+  },
+  {
+   "front": "Focal length",
+   "back": "Lens magnification, in mm"
+  },
+  {
+   "front": "White balance",
+   "back": "Colour accuracy of light"
+  },
+  {
+   "front": "Bokeh",
+   "back": "Blurred background quality"
+  },
+  {
+   "front": "Exposure",
+   "back": "Overall brightness of a photo"
+  }
+ ]
+}

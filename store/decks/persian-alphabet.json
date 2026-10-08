@@ -1,0 +1,134 @@
+{
+ "title": "Persian Alphabet",
+ "description": "Letters and their names.",
+ "cards": [
+  {
+   "front": "ا",
+   "back": "Alef"
+  },
+  {
+   "front": "ب",
+   "back": "Be"
+  },
+  {
+   "front": "پ",
+   "back": "Pe"
+  },
+  {
+   "front": "ت",
+   "back": "Te"
+  },
+  {
+   "front": "ث",
+   "back": "Se"
+  },
+  {
+   "front": "ج",
+   "back": "Jim"
+  },
+  {
+   "front": "چ",
+   "back": "Che"
+  },
+  {
+   "front": "ح",
+   "back": "He"
+  },
+  {
+   "front": "خ",
+   "back": "Khe"
+  },
+  {
+   "front": "د",
+   "back": "Dâl"
+  },
+  {
+   "front": "ذ",
+   "back": "Zâl"
+  },
+  {
+   "front": "ر",
+   "back": "Re"
+  },
+  {
+   "front": "ز",
+   "back": "Ze"
+  },
+  {
+   "front": "ژ",
+   "back": "Zhe"
+  },
+  {
+   "front": "س",
+   "back": "Sin"
+  },
+  {
+   "front": "ش",
+   "back": "Shin"
+  },
+  {
+   "front": "ص",
+   "back": "Sâd"
+  },
+  {
+   "front": "ض",
+   "back": "Zâd"
+  },
+  {
+   "front": "ط",
+   "back": "Tâ"
+  },
+  {
+   "front": "ظ",
+   "back": "Zâ"
+  },
+  {
+   "front": "ع",
+   "back": "Ayn"
+  },
+  {
+   "front": "غ",
+   "back": "Ghayn"
+  },
+  {
+   "front": "ف",
+   "back": "Fe"
+  },
+  {
+   "front": "ق",
+   "back": "Ghâf"
+  },
+  {
+   "front": "ک",
+   "back": "Kâf"
+  },
+  {
+   "front": "گ",
+   "back": "Gâf"
+  },
+  {
+   "front": "ل",
+   "back": "Lâm"
+  },
+  {
+   "front": "م",
+   "back": "Mim"
+  },
+  {
+   "front": "ن",
+   "back": "Nun"
+  },
+  {
+   "front": "و",
+   "back": "Vâv"
+  },
+  {
+   "front": "ه",
+   "back": "He"
+  },
+  {
+   "front": "ی",
+   "back": "Ye"
+  }
+ ]
+}

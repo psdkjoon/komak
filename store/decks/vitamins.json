@@ -1,0 +1,46 @@
+{
+ "title": "Vitamins And Sources",
+ "description": "Where each vitamin comes from.",
+ "cards": [
+  {
+   "front": "Vitamin C",
+   "back": "Citrus fruit, peppers"
+  },
+  {
+   "front": "Vitamin D",
+   "back": "Sunlight, oily fish"
+  },
+  {
+   "front": "Vitamin A",
+   "back": "Carrots, liver, sweet potato"
+  },
+  {
+   "front": "Vitamin K",
+   "back": "Leafy greens"
+  },
+  {
+   "front": "Vitamin B12",
+   "back": "Meat, fish, dairy, eggs"
+  },
+  {
+   "front": "Vitamin E",
+   "back": "Nuts, seeds, vegetable oils"
+  },
+  {
+   "front": "Calcium",
+   "back": "Dairy, leafy greens"
+  },
+  {
+   "front": "Iron",
+   "back": "Red meat, lentils, spinach"
+  },
+  {
+   "front": "Vitamin B9 (folate)",
+   "back": "Leafy greens, legumes"
+  },
+  {
+   "front": "Iodine",
+   "back": "Seafood, iodised salt"
+  }
+ ]
+}

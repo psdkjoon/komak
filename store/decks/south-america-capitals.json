@@ -1,0 +1,54 @@
+{
+ "title": "South America Capitals",
+ "description": "Country and capital.",
+ "cards": [
+  {
+   "front": "Argentina",
+   "back": "Buenos Aires"
+  },
+  {
+   "front": "Bolivia",
+   "back": "Sucre (constitutional), La Paz (seat of government)"
+  },
+  {
+   "front": "Brazil",
+   "back": "Brasília"
+  },
+  {
+   "front": "Chile",
+   "back": "Santiago"
+  },
+  {
+   "front": "Colombia",
+   "back": "Bogotá"
+  },
+  {
+   "front": "Ecuador",
+   "back": "Quito"
+  },
+  {
+   "front": "Guyana",
+   "back": "Georgetown"
+  },
+  {
+   "front": "Paraguay",
+   "back": "Asunción"
+  },
+  {
+   "front": "Peru",
+   "back": "Lima"
+  },
+  {
+   "front": "Suriname",
+   "back": "Paramaribo"
+  },
+  {
+   "front": "Uruguay",
+   "back": "Montevideo"
+  },
+  {
+   "front": "Venezuela",
+   "back": "Caracas"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "title": "Business Terms",
+ "description": "Term and meaning.",
+ "cards": [
+  {
+   "front": "ROI",
+   "back": "Return on investment"
+  },
+  {
+   "front": "KPI",
+   "back": "Key performance indicator"
+  },
+  {
+   "front": "B2B",
+   "back": "Business to business"
+  },
+  {
+   "front": "B2C",
+   "back": "Business to consumer"
+  },
+  {
+   "front": "SWOT",
+   "back": "Strengths, weaknesses, opportunities, threats"
+  },
+  {
+   "front": "MVP",
+   "back": "Minimum viable product"
+  },
+  {
+   "front": "Revenue",
+   "back": "Total money coming in"
+  },
+  {
+   "front": "Profit",
+   "back": "Revenue minus costs"
+  },
+  {
+   "front": "Equity",
+   "back": "Ownership share"
+  },
+  {
+   "front": "Pivot",
+   "back": "Major change of strategy"
+  },
+  {
+   "front": "Churn",
+   "back": "Customers who stop using a product"
+  }
+ ]
+}

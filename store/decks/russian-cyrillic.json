@@ -1,0 +1,110 @@
+{
+ "title": "Russian Cyrillic",
+ "description": "Letters and their sounds.",
+ "cards": [
+  {
+   "front": "А",
+   "back": "a"
+  },
+  {
+   "front": "Б",
+   "back": "b"
+  },
+  {
+   "front": "В",
+   "back": "v"
+  },
+  {
+   "front": "Г",
+   "back": "g"
+  },
+  {
+   "front": "Д",
+   "back": "d"
+  },
+  {
+   "front": "Е",
+   "back": "ye"
+  },
+  {
+   "front": "Ж",
+   "back": "zh"
+  },
+  {
+   "front": "З",
+   "back": "z"
+  },
+  {
+   "front": "И",
+   "back": "i"
+  },
+  {
+   "front": "К",
+   "back": "k"
+  },
+  {
+   "front": "Л",
+   "back": "l"
+  },
+  {
+   "front": "М",
+   "back": "m"
+  },
+  {
+   "front": "Н",
+   "back": "n"
+  },
+  {
+   "front": "О",
+   "back": "o"
+  },
+  {
+   "front": "П",
+   "back": "p"
+  },
+  {
+   "front": "Р",
+   "back": "r"
+  },
+  {
+   "front": "С",
+   "back": "s"
+  },
+  {
+   "front": "Т",
+   "back": "t"
+  },
+  {
+   "front": "У",
+   "back": "u"
+  },
+  {
+   "front": "Ф",
+   "back": "f"
+  },
+  {
+   "front": "Х",
+   "back": "kh"
+  },
+  {
+   "front": "Ц",
+   "back": "ts"
+  },
+  {
+   "front": "Ч",
+   "back": "ch"
+  },
+  {
+   "front": "Ш",
+   "back": "sh"
+  },
+  {
+   "front": "Щ",
+   "back": "shch"
+  },
+  {
+   "front": "Я",
+   "back": "ya"
+  }
+ ]
+}

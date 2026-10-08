@@ -1,0 +1,42 @@
+{
+ "title": "Martial Arts Origins",
+ "description": "Art and country.",
+ "cards": [
+  {
+   "front": "Judo",
+   "back": "Japan"
+  },
+  {
+   "front": "Karate",
+   "back": "Japan (Okinawa)"
+  },
+  {
+   "front": "Taekwondo",
+   "back": "South Korea"
+  },
+  {
+   "front": "Capoeira",
+   "back": "Brazil"
+  },
+  {
+   "front": "Kung fu",
+   "back": "China"
+  },
+  {
+   "front": "Muay Thai",
+   "back": "Thailand"
+  },
+  {
+   "front": "Krav Maga",
+   "back": "Israel"
+  },
+  {
+   "front": "Sambo",
+   "back": "Russia"
+  },
+  {
+   "front": "Aikido",
+   "back": "Japan"
+  }
+ ]
+}

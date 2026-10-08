@@ -1,0 +1,38 @@
+{
+ "title": "Brain Lobes",
+ "description": "Where the brain does what.",
+ "cards": [
+  {
+   "front": "Frontal lobe",
+   "back": "Planning, decisions and movement"
+  },
+  {
+   "front": "Parietal lobe",
+   "back": "Touch and spatial awareness"
+  },
+  {
+   "front": "Temporal lobe",
+   "back": "Hearing and memory"
+  },
+  {
+   "front": "Occipital lobe",
+   "back": "Vision"
+  },
+  {
+   "front": "Cerebellum",
+   "back": "Balance and coordination"
+  },
+  {
+   "front": "Brainstem",
+   "back": "Breathing and heartbeat"
+  },
+  {
+   "front": "Hippocampus",
+   "back": "Forming new memories"
+  },
+  {
+   "front": "Amygdala",
+   "back": "Processing emotion, especially fear"
+  }
+ ]
+}

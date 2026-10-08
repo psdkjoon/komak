@@ -1,0 +1,50 @@
+{
+ "title": "Compass Directions",
+ "description": "Directions and abbreviations.",
+ "cards": [
+  {
+   "front": "N",
+   "back": "North"
+  },
+  {
+   "front": "S",
+   "back": "South"
+  },
+  {
+   "front": "E",
+   "back": "East"
+  },
+  {
+   "front": "W",
+   "back": "West"
+  },
+  {
+   "front": "NE",
+   "back": "Northeast"
+  },
+  {
+   "front": "NW",
+   "back": "Northwest"
+  },
+  {
+   "front": "SE",
+   "back": "Southeast"
+  },
+  {
+   "front": "SW",
+   "back": "Southwest"
+  },
+  {
+   "front": "Sun rises in the",
+   "back": "East"
+  },
+  {
+   "front": "Sun sets in the",
+   "back": "West"
+  },
+  {
+   "front": "Opposite of north",
+   "back": "South"
+  }
+ ]
+}

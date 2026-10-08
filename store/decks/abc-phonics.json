@@ -1,0 +1,110 @@
+{
+ "title": "Alphabet Words",
+ "description": "Letter and a word that starts with it.",
+ "cards": [
+  {
+   "front": "A",
+   "back": "Apple"
+  },
+  {
+   "front": "B",
+   "back": "Ball"
+  },
+  {
+   "front": "C",
+   "back": "Cat"
+  },
+  {
+   "front": "D",
+   "back": "Dog"
+  },
+  {
+   "front": "E",
+   "back": "Elephant"
+  },
+  {
+   "front": "F",
+   "back": "Fish"
+  },
+  {
+   "front": "G",
+   "back": "Giraffe"
+  },
+  {
+   "front": "H",
+   "back": "House"
+  },
+  {
+   "front": "I",
+   "back": "Ice cream"
+  },
+  {
+   "front": "J",
+   "back": "Juice"
+  },
+  {
+   "front": "K",
+   "back": "Kite"
+  },
+  {
+   "front": "L",
+   "back": "Lion"
+  },
+  {
+   "front": "M",
+   "back": "Moon"
+  },
+  {
+   "front": "N",
+   "back": "Nest"
+  },
+  {
+   "front": "O",
+   "back": "Orange"
+  },
+  {
+   "front": "P",
+   "back": "Penguin"
+  },
+  {
+   "front": "Q",
+   "back": "Queen"
+  },
+  {
+   "front": "R",
+   "back": "Rainbow"
+  },
+  {
+   "front": "S",
+   "back": "Sun"
+  },
+  {
+   "front": "T",
+   "back": "Tree"
+  },
+  {
+   "front": "U",
+   "back": "Umbrella"
+  },
+  {
+   "front": "V",
+   "back": "Violin"
+  },
+  {
+   "front": "W",
+   "back": "Whale"
+  },
+  {
+   "front": "X",
+   "back": "Xylophone"
+  },
+  {
+   "front": "Y",
+   "back": "Yo-yo"
+  },
+  {
+   "front": "Z",
+   "back": "Zebra"
+  }
+ ]
+}

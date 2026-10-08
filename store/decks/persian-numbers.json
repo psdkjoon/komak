@@ -1,0 +1,46 @@
+{
+ "title": "Persian Numbers",
+ "description": "Count in Persian.",
+ "cards": [
+  {
+   "front": "1",
+   "back": "یک (yek)"
+  },
+  {
+   "front": "2",
+   "back": "دو (do)"
+  },
+  {
+   "front": "3",
+   "back": "سه (se)"
+  },
+  {
+   "front": "4",
+   "back": "چهار (chahâr)"
+  },
+  {
+   "front": "5",
+   "back": "پنج (panj)"
+  },
+  {
+   "front": "6",
+   "back": "شش (shesh)"
+  },
+  {
+   "front": "7",
+   "back": "هفت (haft)"
+  },
+  {
+   "front": "8",
+   "back": "هشت (hasht)"
+  },
+  {
+   "front": "9",
+   "back": "نه (noh)"
+  },
+  {
+   "front": "10",
+   "back": "ده (dah)"
+  }
+ ]
+}

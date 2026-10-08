@@ -1,0 +1,256 @@
+{
+ "title": "US State Capitals",
+ "description": "All 50 US states and their capitals, by region.",
+ "cards": [
+  {
+   "front": "Alabama",
+   "back": "Montgomery",
+   "groupId": "South"
+  },
+  {
+   "front": "Alaska",
+   "back": "Juneau",
+   "groupId": "West"
+  },
+  {
+   "front": "Arizona",
+   "back": "Phoenix",
+   "groupId": "West"
+  },
+  {
+   "front": "Arkansas",
+   "back": "Little Rock",
+   "groupId": "South"
+  },
+  {
+   "front": "California",
+   "back": "Sacramento",
+   "groupId": "West"
+  },
+  {
+   "front": "Colorado",
+   "back": "Denver",
+   "groupId": "West"
+  },
+  {
+   "front": "Connecticut",
+   "back": "Hartford",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "Delaware",
+   "back": "Dover",
+   "groupId": "South"
+  },
+  {
+   "front": "Florida",
+   "back": "Tallahassee",
+   "groupId": "South"
+  },
+  {
+   "front": "Georgia",
+   "back": "Atlanta",
+   "groupId": "South"
+  },
+  {
+   "front": "Hawaii",
+   "back": "Honolulu",
+   "groupId": "West"
+  },
+  {
+   "front": "Idaho",
+   "back": "Boise",
+   "groupId": "West"
+  },
+  {
+   "front": "Illinois",
+   "back": "Springfield",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Indiana",
+   "back": "Indianapolis",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Iowa",
+   "back": "Des Moines",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Kansas",
+   "back": "Topeka",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Kentucky",
+   "back": "Frankfort",
+   "groupId": "South"
+  },
+  {
+   "front": "Louisiana",
+   "back": "Baton Rouge",
+   "groupId": "South"
+  },
+  {
+   "front": "Maine",
+   "back": "Augusta",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "Maryland",
+   "back": "Annapolis",
+   "groupId": "South"
+  },
+  {
+   "front": "Massachusetts",
+   "back": "Boston",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "Michigan",
+   "back": "Lansing",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Minnesota",
+   "back": "Saint Paul",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Mississippi",
+   "back": "Jackson",
+   "groupId": "South"
+  },
+  {
+   "front": "Missouri",
+   "back": "Jefferson City",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Montana",
+   "back": "Helena",
+   "groupId": "West"
+  },
+  {
+   "front": "Nebraska",
+   "back": "Lincoln",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Nevada",
+   "back": "Carson City",
+   "groupId": "West"
+  },
+  {
+   "front": "New Hampshire",
+   "back": "Concord",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "New Jersey",
+   "back": "Trenton",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "New Mexico",
+   "back": "Santa Fe",
+   "groupId": "West"
+  },
+  {
+   "front": "New York",
+   "back": "Albany",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "North Carolina",
+   "back": "Raleigh",
+   "groupId": "South"
+  },
+  {
+   "front": "North Dakota",
+   "back": "Bismarck",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Ohio",
+   "back": "Columbus",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Oklahoma",
+   "back": "Oklahoma City",
+   "groupId": "South"
+  },
+  {
+   "front": "Oregon",
+   "back": "Salem",
+   "groupId": "West"
+  },
+  {
+   "front": "Pennsylvania",
+   "back": "Harrisburg",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "Rhode Island",
+   "back": "Providence",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "South Carolina",
+   "back": "Columbia",
+   "groupId": "South"
+  },
+  {
+   "front": "South Dakota",
+   "back": "Pierre",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Tennessee",
+   "back": "Nashville",
+   "groupId": "South"
+  },
+  {
+   "front": "Texas",
+   "back": "Austin",
+   "groupId": "South"
+  },
+  {
+   "front": "Utah",
+   "back": "Salt Lake City",
+   "groupId": "West"
+  },
+  {
+   "front": "Vermont",
+   "back": "Montpelier",
+   "groupId": "Northeast"
+  },
+  {
+   "front": "Virginia",
+   "back": "Richmond",
+   "groupId": "South"
+  },
+  {
+   "front": "Washington",
+   "back": "Olympia",
+   "groupId": "West"
+  },
+  {
+   "front": "West Virginia",
+   "back": "Charleston",
+   "groupId": "South"
+  },
+  {
+   "front": "Wisconsin",
+   "back": "Madison",
+   "groupId": "Midwest"
+  },
+  {
+   "front": "Wyoming",
+   "back": "Cheyenne",
+   "groupId": "West"
+  }
+ ]
+}

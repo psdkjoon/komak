@@ -1,0 +1,106 @@
+{
+ "title": "Europe Capitals",
+ "description": "Country and capital.",
+ "cards": [
+  {
+   "front": "Austria",
+   "back": "Vienna"
+  },
+  {
+   "front": "Belgium",
+   "back": "Brussels"
+  },
+  {
+   "front": "Bulgaria",
+   "back": "Sofia"
+  },
+  {
+   "front": "Croatia",
+   "back": "Zagreb"
+  },
+  {
+   "front": "Czechia",
+   "back": "Prague"
+  },
+  {
+   "front": "Denmark",
+   "back": "Copenhagen"
+  },
+  {
+   "front": "Finland",
+   "back": "Helsinki"
+  },
+  {
+   "front": "Greece",
+   "back": "Athens"
+  },
+  {
+   "front": "Hungary",
+   "back": "Budapest"
+  },
+  {
+   "front": "Iceland",
+   "back": "Reykjavik"
+  },
+  {
+   "front": "Ireland",
+   "back": "Dublin"
+  },
+  {
+   "front": "Netherlands",
+   "back": "Amsterdam"
+  },
+  {
+   "front": "Norway",
+   "back": "Oslo"
+  },
+  {
+   "front": "Poland",
+   "back": "Warsaw"
+  },
+  {
+   "front": "Portugal",
+   "back": "Lisbon"
+  },
+  {
+   "front": "Romania",
+   "back": "Bucharest"
+  },
+  {
+   "front": "Serbia",
+   "back": "Belgrade"
+  },
+  {
+   "front": "Slovakia",
+   "back": "Bratislava"
+  },
+  {
+   "front": "Slovenia",
+   "back": "Ljubljana"
+  },
+  {
+   "front": "Sweden",
+   "back": "Stockholm"
+  },
+  {
+   "front": "Switzerland",
+   "back": "Bern"
+  },
+  {
+   "front": "Ukraine",
+   "back": "Kyiv"
+  },
+  {
+   "front": "United Kingdom",
+   "back": "London"
+  },
+  {
+   "front": "Spain",
+   "back": "Madrid"
+  },
+  {
+   "front": "Italy",
+   "back": "Rome"
+  }
+ ]
+}

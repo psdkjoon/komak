@@ -1,0 +1,78 @@
+{
+ "title": "Greek And Latin Roots",
+ "description": "Roots that build English words.",
+ "cards": [
+  {
+   "front": "bio",
+   "back": "Life"
+  },
+  {
+   "front": "geo",
+   "back": "Earth"
+  },
+  {
+   "front": "graph",
+   "back": "Write"
+  },
+  {
+   "front": "phon",
+   "back": "Sound"
+  },
+  {
+   "front": "tele",
+   "back": "Far"
+  },
+  {
+   "front": "auto",
+   "back": "Self"
+  },
+  {
+   "front": "chron",
+   "back": "Time"
+  },
+  {
+   "front": "hydro",
+   "back": "Water"
+  },
+  {
+   "front": "aqua",
+   "back": "Water"
+  },
+  {
+   "front": "terra",
+   "back": "Earth"
+  },
+  {
+   "front": "port",
+   "back": "Carry"
+  },
+  {
+   "front": "spect",
+   "back": "Look"
+  },
+  {
+   "front": "dict",
+   "back": "Say"
+  },
+  {
+   "front": "scrib",
+   "back": "Write"
+  },
+  {
+   "front": "vid / vis",
+   "back": "See"
+  },
+  {
+   "front": "aud",
+   "back": "Hear"
+  },
+  {
+   "front": "mal",
+   "back": "Bad"
+  },
+  {
+   "front": "bene",
+   "back": "Good"
+  }
+ ]
+}

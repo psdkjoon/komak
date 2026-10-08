@@ -1,0 +1,54 @@
+{
+ "title": "Cooking Conversions",
+ "description": "Kitchen measurements.",
+ "cards": [
+  {
+   "front": "1 tablespoon",
+   "back": "3 teaspoons"
+  },
+  {
+   "front": "1 cup",
+   "back": "About 240 ml"
+  },
+  {
+   "front": "1 cup",
+   "back": "16 tablespoons"
+  },
+  {
+   "front": "1 pint (US)",
+   "back": "2 cups"
+  },
+  {
+   "front": "1 quart (US)",
+   "back": "4 cups"
+  },
+  {
+   "front": "1 gallon (US)",
+   "back": "4 quarts"
+  },
+  {
+   "front": "1 ounce",
+   "back": "About 28 g"
+  },
+  {
+   "front": "1 pound",
+   "back": "About 454 g"
+  },
+  {
+   "front": "1 stick of butter (US)",
+   "back": "About 113 g"
+  },
+  {
+   "front": "180 °C",
+   "back": "About 350 °F"
+  },
+  {
+   "front": "200 °C",
+   "back": "About 400 °F"
+  },
+  {
+   "front": "1 litre",
+   "back": "About 1,000 ml"
+  }
+ ]
+}

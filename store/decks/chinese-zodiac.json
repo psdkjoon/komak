@@ -1,0 +1,66 @@
+{
+ "title": "Chinese Zodiac",
+ "description": "Animals in order.",
+ "cards": [
+  {
+   "front": "1st",
+   "back": "Rat",
+   "orderIndex": 1
+  },
+  {
+   "front": "2nd",
+   "back": "Ox",
+   "orderIndex": 2
+  },
+  {
+   "front": "3rd",
+   "back": "Tiger",
+   "orderIndex": 3
+  },
+  {
+   "front": "4th",
+   "back": "Rabbit",
+   "orderIndex": 4
+  },
+  {
+   "front": "5th",
+   "back": "Dragon",
+   "orderIndex": 5
+  },
+  {
+   "front": "6th",
+   "back": "Snake",
+   "orderIndex": 6
+  },
+  {
+   "front": "7th",
+   "back": "Horse",
+   "orderIndex": 7
+  },
+  {
+   "front": "8th",
+   "back": "Goat",
+   "orderIndex": 8
+  },
+  {
+   "front": "9th",
+   "back": "Monkey",
+   "orderIndex": 9
+  },
+  {
+   "front": "10th",
+   "back": "Rooster",
+   "orderIndex": 10
+  },
+  {
+   "front": "11th",
+   "back": "Dog",
+   "orderIndex": 11
+  },
+  {
+   "front": "12th",
+   "back": "Pig",
+   "orderIndex": 12
+  }
+ ]
+}

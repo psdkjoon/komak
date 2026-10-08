@@ -1,0 +1,54 @@
+{
+ "title": "Emergency Numbers",
+ "description": "Country and number.",
+ "cards": [
+  {
+   "front": "European Union",
+   "back": "112"
+  },
+  {
+   "front": "United States / Canada",
+   "back": "911"
+  },
+  {
+   "front": "United Kingdom",
+   "back": "999 (112 also works)"
+  },
+  {
+   "front": "Australia",
+   "back": "000"
+  },
+  {
+   "front": "India",
+   "back": "112"
+  },
+  {
+   "front": "Iran (ambulance)",
+   "back": "115"
+  },
+  {
+   "front": "Iran (police)",
+   "back": "110"
+  },
+  {
+   "front": "Iran (fire)",
+   "back": "125"
+  },
+  {
+   "front": "Japan (police)",
+   "back": "110"
+  },
+  {
+   "front": "Japan (fire and ambulance)",
+   "back": "119"
+  },
+  {
+   "front": "China (police)",
+   "back": "110"
+  },
+  {
+   "front": "China (ambulance)",
+   "back": "120"
+  }
+ ]
+}

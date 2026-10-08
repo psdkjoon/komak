@@ -1,0 +1,50 @@
+{
+ "title": "Travel Phrases: French",
+ "description": "Handy phrases for travelling.",
+ "cards": [
+  {
+   "front": "Where is the toilet?",
+   "back": "Où sont les toilettes ?"
+  },
+  {
+   "front": "How much is this?",
+   "back": "Combien ça coûte ?"
+  },
+  {
+   "front": "I don't understand",
+   "back": "Je ne comprends pas"
+  },
+  {
+   "front": "Do you speak English?",
+   "back": "Parlez-vous anglais ?"
+  },
+  {
+   "front": "Help!",
+   "back": "Au secours !"
+  },
+  {
+   "front": "Excuse me",
+   "back": "Excusez-moi"
+  },
+  {
+   "front": "I am sorry",
+   "back": "Je suis désolé(e)"
+  },
+  {
+   "front": "Nice to meet you",
+   "back": "Enchanté(e)"
+  },
+  {
+   "front": "Cheers!",
+   "back": "Santé !"
+  },
+  {
+   "front": "The bill, please",
+   "back": "L'addition, s'il vous plaît"
+  },
+  {
+   "front": "Good night",
+   "back": "Bonne nuit"
+  }
+ ]
+}

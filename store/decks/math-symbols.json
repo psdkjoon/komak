@@ -1,0 +1,62 @@
+{
+ "title": "Math Symbols",
+ "description": "Names of common symbols.",
+ "cards": [
+  {
+   "front": "∑",
+   "back": "Sum"
+  },
+  {
+   "front": "∫",
+   "back": "Integral"
+  },
+  {
+   "front": "∞",
+   "back": "Infinity"
+  },
+  {
+   "front": "≈",
+   "back": "Approximately equal"
+  },
+  {
+   "front": "≠",
+   "back": "Not equal"
+  },
+  {
+   "front": "≤",
+   "back": "Less than or equal"
+  },
+  {
+   "front": "π",
+   "back": "Pi (about 3.14159)"
+  },
+  {
+   "front": "√",
+   "back": "Square root"
+  },
+  {
+   "front": "Δ",
+   "back": "Change in / delta"
+  },
+  {
+   "front": "∈",
+   "back": "Is an element of"
+  },
+  {
+   "front": "∀",
+   "back": "For all"
+  },
+  {
+   "front": "∃",
+   "back": "There exists"
+  },
+  {
+   "front": "%",
+   "back": "Percent"
+  },
+  {
+   "front": "°",
+   "back": "Degree"
+  }
+ ]
+}

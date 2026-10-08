@@ -1,0 +1,42 @@
+{
+ "title": "Polygons",
+ "description": "Name and number of sides.",
+ "cards": [
+  {
+   "front": "Triangle",
+   "back": "3"
+  },
+  {
+   "front": "Quadrilateral",
+   "back": "4"
+  },
+  {
+   "front": "Pentagon",
+   "back": "5"
+  },
+  {
+   "front": "Hexagon",
+   "back": "6"
+  },
+  {
+   "front": "Heptagon",
+   "back": "7"
+  },
+  {
+   "front": "Octagon",
+   "back": "8"
+  },
+  {
+   "front": "Nonagon",
+   "back": "9"
+  },
+  {
+   "front": "Decagon",
+   "back": "10"
+  },
+  {
+   "front": "Dodecagon",
+   "back": "12"
+  }
+ ]
+}
