@@ -146,7 +146,7 @@ jobs:
             clang cmake ninja-build pkg-config \
             libgtk-3-dev liblzma-dev libstdc++-12-dev \
             libasound2-dev libfuse2 \
-            libopus-dev libogg-dev libvorbis-dev libflac-dev libopusfile-dev
+            libopus-dev libogg-dev libvorbis-dev libflac-dev patchelf
 
       # x86_64: use flutter-action
       - uses: subosito/flutter-action@v2
@@ -171,6 +171,31 @@ jobs:
           echo "VERSION=$version" >> "$GITHUB_ENV"
 
       - run: flutter pub get
+
+      # flutter_soloud ships prebuilt x86_64-only codec libs in linux/libs.
+      # On arm64 the linker rejects them ("file in wrong format"), so replace
+      # them with the system arm64 libs, renaming sonames/needed entries to the
+      # unversioned names so they resolve from the bundle at runtime.
+      - name: Swap x86_64 prebuilt codec libs for arm64 (flutter_soloud)
+        if: matrix.arch == 'aarch64'
+        run: |
+          libs="$(find "$HOME/.pub-cache/hosted/pub.dev" -maxdepth 3 -type d -path '*/flutter_soloud-*/linux/libs' | head -n1)"
+          test -d "$libs"
+          echo "libs dir: $libs"
+          file "$libs"/*.so
+          sys=/usr/lib/aarch64-linux-gnu
+          for n in FLAC opus ogg vorbis vorbisfile; do
+            rm -f "$libs/lib$n.so"
+            cp -L "$sys/lib$n.so" "$libs/lib$n.so"
+            chmod u+w "$libs/lib$n.so"
+            patchelf --set-soname "lib$n.so" "$libs/lib$n.so"
+          done
+          for f in "$libs"/*.so; do
+            for need in $(patchelf --print-needed "$f" | grep -E '^lib(FLAC|opus|ogg|vorbis|vorbisfile)\.so\.[0-9]+' || true); do
+              patchelf --replace-needed "$need" "${need%%.so.*}.so" "$f"
+            done
+          done
+          file "$libs"/*.so
 
       - name: Build Linux
         shell: bash
