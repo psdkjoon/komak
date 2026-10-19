@@ -1,7 +1,7 @@
 name: komak
 description: "psdk komak - learn small things, a little at a time."
 publish_to: 'none'
-version: 2.0.1
+version: 2.0.2
 repository: https://github.com/psdkjoon/komak
 
 environment:

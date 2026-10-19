@@ -6,6 +6,7 @@ analyzer:
     - android/**
     - web/**
     - linux/**
+    - windows/**
   language:
     strict-casts: true
     strict-inference: true
