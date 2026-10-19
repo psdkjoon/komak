@@ -1,0 +1,363 @@
+Front of the card,Back of the card,Group
+philosophy,"The study of fundamental questions about existence, knowledge, morality, and reason",Philosophy
+metaphysics,The branch studying the nature of reality and existence,Philosophy
+epistemology,"The branch studying the nature, sources, and limits of knowledge",Philosophy
+ethics,"The branch studying right and wrong, good and bad",Philosophy
+logic,The study of correct reasoning and valid argument,Philosophy
+aesthetics,"The branch studying beauty, art, and taste",Philosophy
+political philosophy,"The study of government, justice, rights, and the use of power",Philosophy
+philosophy of mind,"The study of consciousness, mental states, and mind-body relations",Philosophy
+philosophy of language,"The study of how language relates to meaning, truth, and reality",Philosophy
+ontology,The study of what kinds of things exist and what it means to exist,Philosophy
+philosophy of science,"The study of what science is, how it works, and what it tells us",Philosophy
+philosophy of religion,"The study of religious claims, God's existence, and the nature of faith",Philosophy
+social philosophy,"The study of society, institutions, and how people should live together",Philosophy
+feminist philosophy,"Philosophical analysis of gender, power, and equality",Philosophy
+environmental ethics,"The study of moral questions about nature, animals, and the planet",Philosophy
+bioethics,"Ethical questions arising from medicine, biology, and healthcare",Philosophy
+philosophy of education,"Study of the purposes, methods, and ideals of education",Philosophy
+philosophy of history,"Study of the nature, methods, and meaning of historical knowledge",Philosophy
+logic (formal),The symbolic study of valid argument using mathematical notation,Philosophy
+informal logic,The study of everyday reasoning and argumentation in natural language,Philosophy
+existence,The fact of being real or actually present in the world,Philosophy
+reality,"Everything that actually exists, as opposed to what is merely imagined",Philosophy
+substance,The underlying matter or essence of which things are made,Philosophy
+essence,The fundamental nature that makes a thing what it is,Philosophy
+accident (philosophy),A property a thing could lose without ceasing to be what it is,Philosophy
+form (Plato),A perfect eternal idea of which physical things are imperfect copies,Philosophy
+matter (philosophy),"The physical stuff things are made of, as distinct from form or mind",Philosophy
+dualism,The view that mind and body are two completely separate substances,Philosophy
+monism,The view that reality is fundamentally one kind of thing,Philosophy
+materialism,The view that only physical matter exists — mind is a product of matter,Philosophy
+idealism,The view that reality is fundamentally mental or mind-dependent,Philosophy
+realism,The view that a world of objects exists independently of perception,Philosophy
+anti-realism,The view that reality is in some way dependent on minds or language,Philosophy
+nominalism,The view that abstract concepts don't exist — only individual things do,Philosophy
+universals,Properties or relations that can be shared by many things (e.g. redness),Philosophy
+particulars,"Individual, specific things as opposed to general properties",Philosophy
+causation (philosophy),The relationship where one event brings about another,Philosophy
+determinism,Every event is inevitably caused by prior events and the laws of nature,Philosophy
+free will,The ability to make choices not fully determined by prior causes,Philosophy
+compatibilism,The view that free will and determinism can both be true simultaneously,Philosophy
+hard determinism,Determinism is true and therefore free will is impossible,Philosophy
+libertarianism (free will),Free will exists and is incompatible with strict determinism,Philosophy
+indeterminism,Some events are not fully determined by prior causes,Philosophy
+fatalism,The view that whatever will happen is unavoidable regardless of what you do,Philosophy
+teleology,Explaining things by their purpose or end goal rather than prior causes,Philosophy
+emergence,When a whole has properties not present in any of its individual parts,Philosophy
+reduction,Explaining complex phenomena in terms of simpler underlying components,Philosophy
+supervenience,Higher-level properties depend on lower-level ones without being reducible,Philosophy
+possible world,A complete consistent way reality could have been,Philosophy
+necessity,Something that is true in all possible worlds — cannot be otherwise,Philosophy
+contingency,Something true in the actual world but that could have been false,Philosophy
+time (philosophy),The dimension in which events occur in sequence — its nature is deeply debated,Philosophy
+space (philosophy),The framework in which physical objects exist and move,Philosophy
+infinity,A quantity without any limit or end,Philosophy
+void,Completely empty space; nothingness,Philosophy
+flux,Constant change — Heraclitus claimed you cannot step into the same river twice,Philosophy
+being,The state or fact of existing — studied deeply in metaphysics,Philosophy
+nothingness,The absence of all being — a core concern in existentialist philosophy,Philosophy
+knowledge,"Traditionally: justified true belief — you know P if P is true, you believe it, and you have justification",Philosophy
+belief,Accepting that a proposition is true,Philosophy
+truth,The property of a statement that correctly describes reality,Philosophy
+justification,Having adequate reasons or evidence for a belief,Philosophy
+a priori,Knowledge knowable independently of experience (e.g. logic and maths),Philosophy
+a posteriori,Knowledge gained through sensory experience,Philosophy
+rationalism,"Reason, not the senses, is the primary source of genuine knowledge",Philosophy
+empiricism,All knowledge ultimately comes from sensory experience,Philosophy
+skepticism,Doubt about whether we can have genuine knowledge of certain things,Philosophy
+radical skepticism,The extreme view that we cannot know anything at all,Philosophy
+certainty,Having absolutely no doubt — harder to achieve than it seems,Philosophy
+fallibilism,The view that any of our knowledge claims might turn out to be wrong,Philosophy
+coherentism,A belief is justified if it fits consistently with your other beliefs,Philosophy
+foundationalism,Knowledge rests on basic self-evident beliefs needing no further justification,Philosophy
+pragmatism,Truth is whatever works — ideas are true if they produce useful outcomes,Philosophy
+relativism,Truth or morality is not absolute but relative to a culture or individual,Philosophy
+objectivism,Certain facts are true independently of what anyone thinks or feels,Philosophy
+correspondence theory of truth,A statement is true if it matches the facts of reality,Philosophy
+coherence theory of truth,A statement is true if it fits consistently within a system of beliefs,Philosophy
+deflationary theory of truth,Saying 'it is true that P' adds nothing beyond saying P,Philosophy
+perception,Gaining information about the world through the senses,Philosophy
+inference,Drawing a conclusion based on evidence or logical premises,Philosophy
+induction (epistemology),Reasoning from specific observed cases to a general conclusion,Philosophy
+deduction,Reasoning from general premises to a specific conclusion,Philosophy
+abduction,Reasoning to the most likely explanation of the evidence,Philosophy
+Occam's razor,"Among competing explanations, the simplest is usually best",Philosophy
+Gettier problem,A famous challenge to 'knowledge as justified true belief' using counterexamples,Philosophy
+problem of induction,Hume's challenge: past regularities don't logically guarantee future ones,Philosophy
+testimony (epistemology),Knowledge gained by trusting what others tell you,Philosophy
+memory (epistemology),Knowledge retained from past experience,Philosophy
+intuition (epistemology),Knowledge that feels immediately certain without conscious reasoning,Philosophy
+tacit knowledge,Knowledge you have but cannot fully articulate — like knowing how to ride a bike,Philosophy
+propositional knowledge,Knowing that something is the case — knowing facts,Philosophy
+procedural knowledge,Knowing how to do something,Philosophy
+acquaintance knowledge,Knowing something through direct experience,Philosophy
+morality,Principles distinguishing right from wrong behavior,Philosophy
+moral realism,"Moral facts exist objectively, independently of what anyone thinks",Philosophy
+moral anti-realism,There are no objective moral facts,Philosophy
+expressivism,Moral statements express attitudes rather than state facts,Philosophy
+error theory,Moral statements claim to be objective but are all false,Philosophy
+consequentialism,Actions are right or wrong based on their outcomes,Philosophy
+utilitarianism,The right action produces the greatest happiness for the greatest number,Philosophy
+act utilitarianism,Judge each individual action by whether it maximises utility,Philosophy
+rule utilitarianism,Follow rules whose general adoption would maximise utility,Philosophy
+deontology,Some actions are intrinsically right or wrong regardless of consequences,Philosophy
+categorical imperative,Kant: act only according to principles you could will to be universal laws,Philosophy
+duty (Kant),"A moral obligation derived from reason, not feeling or consequence",Philosophy
+virtue ethics,Ethics is primarily about developing good character traits,Philosophy
+virtue,"A good character trait like courage, honesty, or compassion",Philosophy
+vice,A bad character trait like cowardice or cruelty,Philosophy
+eudaimonia,Aristotle's term for human flourishing — living well and doing well,Philosophy
+golden mean (Aristotle),The ideal of finding the right balance between two extremes of a trait,Philosophy
+care ethics,"An ethical theory emphasising relationships, context, and caring responsibilities",Philosophy
+contractarianism,Morality is based on principles rational people would agree to from self-interest,Philosophy
+contractualism,Morality is based on principles no one could reasonably reject,Philosophy
+social contract,An agreement to form a society and obey its rules in exchange for protection,Philosophy
+natural law,Moral rules derived from human nature and discoverable by reason,Philosophy
+divine command theory,Something is right because God commands it,Philosophy
+moral relativism,Morality varies between cultures and individuals — no universal standard,Philosophy
+moral absolutism,Some actions are always right or always wrong in all circumstances,Philosophy
+moral universalism,Some moral truths apply to all people across all cultures,Philosophy
+nihilism,"Life has no inherent meaning, purpose, or moral value",Philosophy
+existentialism,Humans create their own meaning in a universe that has none by default,Philosophy
+absurdism,The conflict between human desire for meaning and the universe's silence,Philosophy
+hedonism,Pleasure is the highest good and the goal of life,Philosophy
+stoicism,Accept what you cannot control; focus on inner virtue and reason,Philosophy
+epicureanism,"Simple pleasures, friendship, and peace of mind are the highest goods",Philosophy
+cynicism (philosophy),Rejecting social conventions; living according to nature alone,Philosophy
+egoism,Each person should act in their own self-interest,Philosophy
+psychological egoism,People always in fact act out of self-interest whether they know it or not,Philosophy
+altruism (ethics),Acting out of genuine concern for others without expectation of return,Philosophy
+moral dilemma,A situation where all available choices seem morally problematic,Philosophy
+trolley problem,Thought experiment: pull a lever to divert a trolley killing one instead of five?,Philosophy
+fat man problem,Variant: push a large man off a bridge to stop the trolley — most refuse,Philosophy
+experience machine,Nozick: would you plug into a machine simulating perfect happiness? Most wouldn't,Philosophy
+moral luck,The degree to which factors beyond our control affect moral judgement of us,Philosophy
+moral intuition,"An immediate, prereflective sense that something is right or wrong",Philosophy
+moral progress,The idea that societies' moral standards improve over time,Philosophy
+moral psychology,The study of how people actually make moral judgements,Philosophy
+supererogation,An act that goes beyond what morality requires — going above and beyond,Philosophy
+omission vs commission,Ethical debate over whether failing to act is as bad as actively causing harm,Philosophy
+double effect,The principle that an action with a bad side effect may be permissible if the effect is foreseen but not intended,Philosophy
+ends and means,Kant: people should never be used merely as a means to an end,Philosophy
+consciousness,Subjective first-person awareness of one's thoughts and experiences,Philosophy
+qualia,"The felt, subjective qualities of experience — what it's like to see red",Philosophy
+hard problem of consciousness,Why do physical brain processes give rise to subjective experience at all?,Philosophy
+easy problems of consciousness,"Explaining how the brain processes information, integrates stimuli, and controls behaviour",Philosophy
+mind-body problem,The question of how the mental and the physical relate,Philosophy
+physicalism,"Everything that exists, including the mind, is ultimately physical",Philosophy
+functionalism,"Mental states are defined by their causal roles, not their physical makeup",Philosophy
+epiphenomenalism,Mental events are by-products of physical processes and have no causal power,Philosophy
+panpsychism,Consciousness is a fundamental and ubiquitous feature of the universe,Philosophy
+eliminative materialism,Folk psychological concepts like beliefs don't exist — the brain is all there is,Philosophy
+identity theory,Mental states are identical to particular brain states,Philosophy
+personal identity,What makes a person the same person over time,Philosophy
+the self,The entity that is the subject of a person's own experiences,Philosophy
+other minds problem,How can we know that other people have minds like ours?,Philosophy
+intentionality,The mind's aboutness — its ability to represent or be directed at something,Philosophy
+Turing test,A test of whether a machine can exhibit intelligent behaviour indistinguishable from a human,Philosophy
+Chinese room,Searle's argument that syntactic manipulation alone does not constitute understanding,Philosophy
+philosophical zombie,A being physically identical to a human but with no subjective experience,Philosophy
+Mary's room,"If a scientist who knows all physics about colour has never seen red, does she learn something when she does?",Philosophy
+split-brain cases,Experiments showing how severing the brain's hemispheres challenges unity of consciousness,Philosophy
+stream of consciousness,"William James's metaphor: conscious experience flows like a river, not discrete steps",Philosophy
+liberalism,"Valuing individual freedom, equality, and limited government",Philosophy
+classical liberalism,Early liberalism emphasising free markets and minimal government,Philosophy
+social liberalism,Liberalism that accepts state intervention to promote welfare and equality,Philosophy
+conservatism,"Favouring tradition, order, and gradual rather than radical change",Philosophy
+socialism,Collective or state ownership of production to reduce inequality,Philosophy
+Marxism,Theory that history is driven by class struggle and capitalism will be replaced,Philosophy
+communism,"A classless, stateless society with common ownership of production",Philosophy
+anarchism,Rejecting all forms of coercive authority including the state,Philosophy
+fascism,An authoritarian nationalist ideology valuing the collective over the individual,Philosophy
+libertarianism (political),Maximising individual freedom and minimising state intervention,Philosophy
+communitarianism,Community values and the common good take precedence over individual rights,Philosophy
+republicanism (political),Government should protect citizens from domination and serve the common good,Philosophy
+democracy (philosophy),Political power belongs to the people — many forms debated,Philosophy
+direct democracy,Citizens vote on decisions directly rather than through representatives,Philosophy
+representative democracy,Citizens elect representatives to make decisions on their behalf,Philosophy
+sovereignty,Supreme authority over a territory,Philosophy
+legitimacy,The right to hold and exercise political power,Philosophy
+authority,The recognised right to give commands that others are expected to obey,Philosophy
+power (political),The ability to influence or control behaviour of others,Philosophy
+freedom,The absence of unjustified constraints on action,Philosophy
+positive freedom,The actual ability to act and achieve your goals,Philosophy
+negative freedom,The absence of interference by others in your choices,Philosophy
+equality,"All people deserve the same rights, treatment, or opportunities",Philosophy
+distributive justice,How benefits and burdens should be fairly distributed in society,Philosophy
+egalitarianism,All humans are equal and should be treated equally,Philosophy
+John Rawls,Philosopher of justice as fairness — the most influential political philosopher of the 20th century,Philosophy
+veil of ignorance,Rawls: design society without knowing your place in it — the fair way,Philosophy
+difference principle,Rawls: inequalities are only just if they benefit the least well-off,Philosophy
+libertarianism (Nozick),Nozick: only a minimal state is justifiable — redistributive taxation is theft,Philosophy
+public reason,Political decisions should be justified in terms everyone can accept,Philosophy
+civil disobedience,Deliberately breaking an unjust law as a form of protest,Philosophy
+revolution,The overthrow of a political system,Philosophy
+ideology,A system of ideas and ideals forming a political or social programme,Philosophy
+hegemony,Domination of one group over others through cultural and political leadership,Philosophy
+power/knowledge (Foucault),Power shapes what counts as knowledge and truth,Philosophy
+deliberative democracy,"Democracy should involve genuine public reasoning, not just voting",Philosophy
+cosmopolitanism,All human beings are members of a single moral community,Philosophy
+nationalism,People who share a national identity have the right to self-determination,Philosophy
+multiculturalism,Diverse cultural identities should be recognised and respected in society,Philosophy
+feminism (philosophy),"Philosophical analysis of gender, power, oppression, and liberation",Philosophy
+Thales,The first Western philosopher — said everything is made of water,Philosophy
+Heraclitus,Said everything is in constant flux and fire is the fundamental element,Philosophy
+Parmenides,Argued that change is an illusion — only unchanging Being truly exists,Philosophy
+Democritus,Ancient atomist who said everything is made of tiny indivisible atoms and void,Philosophy
+Socrates,Famous for the Socratic method — questioning assumptions to expose ignorance,Philosophy
+Socratic method,A dialogue technique using probing questions to uncover contradictions,Philosophy
+Plato,Student of Socrates who developed the theory of Forms and wrote in dialogues,Philosophy
+Aristotle,"Student of Plato who founded logic, virtue ethics, and natural philosophy",Philosophy
+Epicurus,"Founded Epicureanism — simple pleasure, friendship, and freedom from fear",Philosophy
+Epictetus,Stoic philosopher who said only our judgements are truly in our control,Philosophy
+Marcus Aurelius,Roman emperor and Stoic — author of the Meditations,Philosophy
+Augustine of Hippo,Early Christian philosopher who synthesised Platonism with Christian theology,Philosophy
+Thomas Aquinas,Medieval philosopher who synthesised Aristotle with Christianity,Philosophy
+Niccolò Machiavelli,"Argued that politics should be guided by power and practicality, not morality",Philosophy
+Thomas Hobbes,"Said life without government is 'solitary, poor, nasty, brutish, and short'",Philosophy
+René Descartes,Founder of modern philosophy — 'I think therefore I am',Philosophy
+cogito ergo sum,Descartes' foundational certainty: the act of doubting proves the doubter exists,Philosophy
+Baruch Spinoza,Identified God with Nature; argued everything follows from necessity,Philosophy
+Gottfried Leibniz,Said this is the best of all possible worlds; co-invented calculus,Philosophy
+John Locke,"Argued for natural rights to life, liberty, and property; mind as blank slate",Philosophy
+tabula rasa,"Locke's idea that the mind at birth is blank, shaped entirely by experience",Philosophy
+George Berkeley,Argued that to be is to be perceived — matter doesn't exist independently,Philosophy
+David Hume,"Deep skeptic of causation, the self, and religion; founded modern empiricism",Philosophy
+problem of causation (Hume),We observe events following each other but never the causal power itself,Philosophy
+Immanuel Kant,Synthesised rationalism and empiricism; grounded morality in reason,Philosophy
+transcendental idealism,Kant: space and time are structures the mind imposes on experience,Philosophy
+synthetic a priori,Kant's category: knowledge that is both informative and knowable before experience,Philosophy
+noumenon,Kant: the thing-in-itself — reality as it is beyond our perception,Philosophy
+phenomenon (Kant),Reality as it appears to us through our perceptual and mental filters,Philosophy
+Georg Hegel,Philosopher of history and dialectical development of ideas,Philosophy
+dialectic (Hegel),History moves through conflict: thesis → antithesis → synthesis,Philosophy
+Karl Marx,Applied Hegel's dialectic to economics; history driven by class struggle,Philosophy
+alienation (Marx),Workers are separated from the product of their labour and their own nature,Philosophy
+false consciousness (Marx),Oppressed people adopt the values and beliefs of those who oppress them,Philosophy
+praxis,Putting theory into practice — a key concept in Marxist philosophy,Philosophy
+Arthur Schopenhauer,"Said the world is driven by blind, irrational Will; influenced Nietzsche",Philosophy
+Friedrich Nietzsche,Declared 'God is dead'; championed the will to power and self-overcoming,Philosophy
+will to power,"Nietzsche's idea that the drive to grow, create, and master is the core human impulse",Philosophy
+Übermensch,Nietzsche's ideal: a person who creates their own values beyond convention,Philosophy
+eternal recurrence,Nietzsche: imagine living your life exactly as it is infinitely — can you affirm it?,Philosophy
+ressentiment,Nietzsche: the slave morality born from envy and resentment of the powerful,Philosophy
+master morality,Nietzsche: values created by the strong — good vs bad,Philosophy
+slave morality,Nietzsche: values created by the weak — good vs evil,Philosophy
+William James,American pragmatist — truth is what works for us practically,Philosophy
+John Dewey,Pragmatist philosopher of education and democracy,Philosophy
+Charles Peirce,Founder of pragmatism and semiotics — the study of signs,Philosophy
+Edmund Husserl,Founder of phenomenology — studying consciousness from the inside,Philosophy
+Martin Heidegger,Existential phenomenologist who asked what it means to be,Philosophy
+being-in-the-world,Heidegger: humans are always already embedded in a meaningful lived world,Philosophy
+thrownness,Heidegger: we find ourselves in a situation we didn't choose,Philosophy
+authenticity (Heidegger),Living according to your own possibilities rather than just conforming,Philosophy
+dasein,Heidegger's term for human existence — literally 'being there',Philosophy
+Jean-Paul Sartre,Key existentialist — 'existence precedes essence'; we are radically free,Philosophy
+existence precedes essence,"Sartre: humans exist first, then create themselves through choices",Philosophy
+radical freedom,Sartre: we are always free to choose — even refusing to choose is a choice,Philosophy
+bad faith,Sartre: lying to yourself about your freedom and responsibility,Philosophy
+being-for-itself,Sartre: human consciousness — characterised by freedom and nothingness,Philosophy
+being-in-itself,"Sartre: non-conscious things — fixed, without freedom",Philosophy
+Simone de Beauvoir,"Existentialist feminist — 'One is not born, but rather becomes, a woman'",Philosophy
+Albert Camus,Philosopher of absurdism — we must imagine Sisyphus happy,Philosophy
+the absurd,Camus: the conflict between human need for meaning and the universe's silence,Philosophy
+Ludwig Wittgenstein,Philosophy of language — 'the limits of my language are the limits of my world',Philosophy
+language game,Wittgenstein: words get meaning from the social practices in which they are used,Philosophy
+picture theory of meaning,Early Wittgenstein: meaningful sentences picture possible facts,Philosophy
+Michel Foucault,"Studied how power, knowledge, and discourse shape what counts as normal or true",Philosophy
+discourse (Foucault),Systems of language and knowledge that define what can be thought and said,Philosophy
+discipline and punish,Foucault's study of surveillance and how modern society controls individuals,Philosophy
+Jacques Derrida,Developed deconstruction — texts contain meanings that undermine themselves,Philosophy
+deconstruction,Showing how a text's apparent meaning depends on oppositions it simultaneously undermines,Philosophy
+différance,Derrida's neologism: meaning is always deferred and differs from itself,Philosophy
+Hannah Arendt,"Studied totalitarianism, the public sphere, and the 'banality of evil'",Philosophy
+banality of evil,Arendt: great evil can be committed by ordinary people through thoughtlessness,Philosophy
+Jürgen Habermas,Philosopher of communicative action and the public sphere,Philosophy
+John Stuart Mill,Utilitarian who championed individual liberty and women's rights,Philosophy
+harm principle,Mill: the only reason to restrict liberty is to prevent harm to others,Philosophy
+on liberty,Mill's famous defence of free thought and individual autonomy,Philosophy
+Jeremy Bentham,Founder of utilitarianism; invented the felicific calculus and the panopticon,Philosophy
+panopticon,Bentham's prison design where prisoners don't know when they're watched — used by Foucault as a metaphor,Philosophy
+Edmund Burke,"Conservative philosopher who valued tradition, gradual change, and inherited wisdom",Philosophy
+Mary Wollstonecraft,Pioneer of feminist philosophy — argued women deserve equal rational education,Philosophy
+Peter Singer,Contemporary utilitarian who argues for animal rights and global poverty relief,Philosophy
+Derek Parfit,Philosopher of personal identity and ethics — 'Reasons and Persons',Philosophy
+Plato's cave,Most people only see shadows (appearances) and need philosophy to see reality,Philosophy
+ship of Theseus,"If every plank is replaced, is it still the same ship? — asks about identity over time",Philosophy
+Pascal's wager,"Believing in God is the rational bet — infinite gain if right, little lost if wrong",Philosophy
+Zeno's paradoxes,Arguments that motion is impossible because space is infinitely divisible,Philosophy
+brain in a vat,Could you be a disembodied brain being fed fake sensory experiences?,Philosophy
+problem of evil,"If God is all-good and all-powerful, why does evil exist?",Philosophy
+ontological argument,The very concept of a perfect being implies that being must exist,Philosophy
+cosmological argument,Everything that exists has a cause — there must be a first uncaused cause,Philosophy
+teleological argument,The design and complexity of the universe implies an intelligent designer,Philosophy
+naturalistic fallacy,Deriving an 'ought' from an 'is' — you can't get moral claims from facts alone,Philosophy
+is-ought problem,Hume: no factual statement logically entails a moral conclusion,Philosophy
+paradox of the heap,Remove one grain from a heap — when does it stop being a heap?,Philosophy
+liar's paradox,'This statement is false' — if true it's false; if false it's true,Philosophy
+Newcomb's problem,A predictor already knows your choice — should you take one box or two?,Philosophy
+Rawls' original position,Choose principles of justice from behind a veil of ignorance about your position,Philosophy
+utility monster,A utilitarian nightmare: a being that gets so much utility it should consume all resources,Philosophy
+violinist argument,Thomson's defence of abortion: being connected to save a famous violinist,Philosophy
+infinite regress,The problem of always needing a prior justification — when does it stop?,Philosophy
+dialectical materialism,Marx/Engels: history progresses through material conflicts and contradictions,Philosophy
+hermeneutics,"The theory and practice of interpretation, especially of texts",Philosophy
+phenomenology,Philosophical study of structures of first-person conscious experience,Philosophy
+structuralism,Elements of culture must be understood in relation to a whole system,Philosophy
+post-structuralism,Challenges structuralism — systems of meaning are unstable and contested,Philosophy
+postmodernism,Skepticism toward grand narratives and objective truth,Philosophy
+paradigm shift,Kuhn: a revolutionary change in the basic framework of a science,Philosophy
+falsifiability,Popper: a theory is scientific only if evidence could in principle disprove it,Philosophy
+incommensurability,Kuhn: rival scientific theories may be so different they can't be directly compared,Philosophy
+analytic philosophy,"Tradition emphasising clarity, formal logic, and the analysis of language",Philosophy
+continental philosophy,"Tradition emphasising human experience, history, society, and critique",Philosophy
+pragmatism (movement),American philosophical tradition judging ideas by their practical consequences,Philosophy
+thought experiment,An imagined scenario used to test philosophical intuitions or arguments,Philosophy
+reductio ad absurdum,Disproving a claim by showing it leads to a contradiction or absurdity,Philosophy
+modus ponens,If P then Q; P; therefore Q — a basic valid argument form,Philosophy
+modus tollens,If P then Q; not Q; therefore not P — another basic valid form,Philosophy
+valid argument,An argument where the conclusion must follow if the premises are true,Philosophy
+sound argument,A valid argument whose premises are also actually true,Philosophy
+premise,A statement from which conclusions are drawn,Philosophy
+syllogism,A form of deductive reasoning with two premises and a conclusion,Philosophy
+analogy,Arguing that two things are similar in one respect so probably similar in another,Philosophy
+infinite regress,A chain of justifications that never reaches a final stopping point,Philosophy
+aporia,A state of genuine puzzlement where no clear answer presents itself,Philosophy
+logos,Reason or the rational principle governing the cosmos,Philosophy
+telos,The end or purpose toward which something is naturally directed,Philosophy
+arche,The original first principle or element from which everything comes,Philosophy
+demiurge,Plato's craftsman who shapes the physical world from pre-existing matter,Philosophy
+eidos,The essential form or nature of a thing,Philosophy
+mimesis,Imitation or representation — Plato criticised art as twice-removed from reality,Philosophy
+anamnesis,Plato's doctrine that learning is really recollection of knowledge from before birth,Philosophy
+maieutics,The Socratic method as intellectual midwifery — drawing out knowledge from within,Philosophy
+examined life,Socrates: the unexamined life is not worth living,Philosophy
+ataraxia,Epicurean/Stoic: tranquility and freedom from mental disturbance,Philosophy
+apatheia,Stoic: freedom from destructive passions through reason,Philosophy
+catharsis,Aristotle: the purging of emotions through witnessing tragedy,Philosophy
+akrasia,Acting against your own better judgement — weakness of will,Philosophy
+phronesis,Aristotle's practical wisdom — knowing how to act rightly in particular situations,Philosophy
+logos vs mythos,Reason and argument vs story and myth as ways of understanding the world,Philosophy
+semiotics,The study of signs and symbols and how they produce meaning,Philosophy
+signifier and signified,Saussure: a sign has a sound-image (signifier) and a concept (signified),Philosophy
+binary opposition,Derrida: Western thought relies on paired opposites where one is privileged,Philosophy
+hermeneutic circle,"Understanding a text requires understanding its parts, but parts require the whole",Philosophy
+fusion of horizons,Gadamer: understanding occurs when your horizon of meaning meets the text's,Philosophy
+life-world,Husserl: the pre-theoretical world of everyday lived experience,Philosophy
+intersubjectivity,How understanding and meaning are shared between subjects,Philosophy
+alienation (Hegel),Spirit becoming estranged from itself in the process of realising itself,Philosophy
+recognition,Hegel: selfhood requires being recognised by another free self,Philosophy
+master-slave dialectic,Hegel's account of how self-consciousness emerges through struggle for recognition,Philosophy
+civil society,Hegel: the realm of economic life and voluntary associations between family and state,Philosophy
+ideology critique,Exposing how ideas serve the interests of dominant groups,Philosophy
+hegemony (Gramsci),Domination achieved through cultural consent rather than pure force,Philosophy
+base and superstructure,Marx: the economic base shapes the cultural and political superstructure,Philosophy
+commodification,Turning things that weren't previously bought and sold into market goods,Philosophy
+reification,"Treating social relations as if they were natural, fixed things",Philosophy
+biopolitics,Foucault: modern power works by managing populations and their bodies,Philosophy
+governmentality,Foucault: the way populations are governed through shaping how people think,Philosophy
+Other (Levinas),The Other person makes an infinite ethical demand on me before any theory,Philosophy
+intersectionality (philosophy),Overlapping systems of oppression create unique forms of disadvantage,Philosophy
+standpoint epistemology,Your social position shapes what you can know and how you know it,Philosophy
+situated knowledge,All knowledge is produced from a particular social and historical position,Philosophy

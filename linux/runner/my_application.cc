@@ -3,6 +3,7 @@
 #include <flutter_linux/flutter_linux.h>
 
 #include "flutter/generated_plugin_registrant.h"
+#include "platform.h"
 
 struct _MyApplication {
   GtkApplication parent_instance;
@@ -21,20 +22,13 @@ static void my_application_activate(GApplication* application) {
       GTK_WINDOW(gtk_application_window_new(GTK_APPLICATION(application)));
 
   gtk_window_set_title(window, "komak");
-
-  // Window icon, loaded from the bundle (data/icons/komak.png next to the binary).
-  g_autofree gchar* exe_path = g_file_read_link("/proc/self/exe", nullptr);
-  if (exe_path != nullptr) {
-    g_autofree gchar* exe_dir = g_path_get_dirname(exe_path);
-    g_autofree gchar* icon_path =
-        g_build_filename(exe_dir, "data", "icons", "komak.png", nullptr);
-    g_autoptr(GError) icon_error = nullptr;
-    if (!gtk_window_set_icon_from_file(window, icon_path, &icon_error)) {
-      g_warning("Failed to load window icon: %s", icon_error->message);
-    }
-  }
-
-  gtk_window_maximize(window);
+  gtk_window_set_icon_name(window, APPLICATION_ID);
+  gtk_window_set_default_size(window, 1000, 680);
+  gtk_window_set_position(window, GTK_WIN_POS_CENTER);
+  GdkGeometry geometry = {};
+  geometry.min_width = 380;
+  geometry.min_height = 520;
+  gtk_window_set_geometry_hints(window, nullptr, &geometry, GDK_HINT_MIN_SIZE);
 
   g_autoptr(FlDartProject) project = fl_dart_project_new();
   fl_dart_project_set_dart_entrypoint_arguments(
@@ -52,6 +46,8 @@ static void my_application_activate(GApplication* application) {
   gtk_widget_realize(GTK_WIDGET(view));
 
   fl_register_plugins(FL_PLUGIN_REGISTRY(view));
+
+  platform_register(fl_engine_get_binary_messenger(fl_view_get_engine(view)));
 
   gtk_widget_grab_focus(GTK_WIDGET(view));
 }

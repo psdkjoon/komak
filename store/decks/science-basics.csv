@@ -1,0 +1,514 @@
+Front of the card,Back of the card,Group
+atom,The smallest unit of an element that still has the properties of that element,Science basics
+molecule,Two or more atoms bonded together,Science basics
+element,A pure substance made of only one type of atom,Science basics
+compound,A substance made of two or more different elements chemically bonded,Science basics
+electron,A tiny negatively charged particle that orbits the nucleus of an atom,Science basics
+proton,A positively charged particle in the nucleus of an atom,Science basics
+neutron,A particle with no charge found in the nucleus of an atom,Science basics
+nucleus,The central part of an atom containing protons and neutrons,Science basics
+ion,An atom or molecule with a positive or negative charge,Science basics
+isotope,A version of an element with the same protons but different neutrons,Science basics
+energy,The ability to do work or cause change,Science basics
+force,A push or pull that can change an object's motion,Science basics
+mass,The amount of matter in an object,Science basics
+weight,The force of gravity pulling on an object,Science basics
+gravity,The force that pulls objects with mass toward each other,Science basics
+velocity,Speed in a specific direction,Science basics
+acceleration,The rate at which speed or direction changes,Science basics
+momentum,The product of mass and velocity — harder to stop when bigger,Science basics
+friction,A force that resists motion between surfaces in contact,Science basics
+pressure,Force applied over an area,Science basics
+density,How much mass is packed into a given volume,Science basics
+buoyancy,The upward force a liquid exerts on an object placed in it,Science basics
+wave,A disturbance that transfers energy from place to place,Science basics
+frequency,"The number of wave cycles per second, measured in hertz",Science basics
+wavelength,The distance between two identical points on a wave,Science basics
+amplitude,The maximum height of a wave from its resting position,Science basics
+refraction,The bending of light or sound when it passes from one material to another,Science basics
+reflection,Light or sound bouncing back when it hits a surface,Science basics
+diffraction,The spreading of waves as they pass through an opening or around an edge,Science basics
+spectrum,"The range of electromagnetic radiation, from radio waves to gamma rays",Science basics
+photon,A tiny packet of light energy,Science basics
+electric charge,A property of matter that causes it to experience electromagnetic force,Science basics
+voltage,The electrical pressure that drives current through a circuit,Science basics
+current,The flow of electric charge through a conductor,Science basics
+resistance,Opposition to the flow of electrical current,Science basics
+magnet,An object that produces a magnetic field attracting iron-based materials,Science basics
+electromagnetic,Relating to both electric and magnetic phenomena together,Science basics
+nuclear energy,Energy released from the nucleus of an atom through fission or fusion,Science basics
+radioactivity,The spontaneous emission of radiation from unstable atomic nuclei,Science basics
+half-life,The time for half of a radioactive substance to decay,Science basics
+thermodynamics,The branch of physics studying heat and energy transfer,Science basics
+entropy,A measure of disorder or randomness in a system,Science basics
+conservation of energy,"Energy cannot be created or destroyed, only changed in form",Science basics
+work (physics),Force multiplied by distance — moving something over a distance,Science basics
+power (physics),The rate at which work is done,Science basics
+heat,Thermal energy transferred from a hotter object to a cooler one,Science basics
+temperature,A measure of the average kinetic energy of particles in a substance,Science basics
+conduction,Heat transfer through direct contact,Science basics
+convection,Heat transfer through the movement of fluids,Science basics
+radiation (heat),Heat transfer by electromagnetic waves without needing matter,Science basics
+chemical reaction,A process where substances combine or break apart to form new substances,Science basics
+reactant,A substance that enters a chemical reaction,Science basics
+product,A substance formed as a result of a chemical reaction,Science basics
+catalyst,Something that speeds up a reaction without being used up itself,Science basics
+acid,A substance with a pH below 7 that can donate a hydrogen ion,Science basics
+base,A substance with a pH above 7 that accepts hydrogen ions; also called an alkali,Science basics
+pH,A scale from 0 to 14 measuring how acidic or basic a solution is,Science basics
+neutralization,The reaction between an acid and a base to form water and salt,Science basics
+oxidation,The loss of electrons or gain of oxygen in a chemical reaction,Science basics
+reduction,The gain of electrons or loss of oxygen in a chemical reaction,Science basics
+bond (chemical),The force holding atoms together in a molecule,Science basics
+covalent bond,A bond where atoms share electrons,Science basics
+ionic bond,"A bond formed by the transfer of electrons, creating oppositely charged ions",Science basics
+solution,A mixture where one substance is dissolved evenly in another,Science basics
+solute,The substance dissolved in a solution,Science basics
+solvent,The liquid that dissolves the solute,Science basics
+concentration,The amount of solute dissolved in a given volume of solvent,Science basics
+precipitation,When a solid forms and separates from a solution,Science basics
+evaporation,When a liquid slowly turns to gas at its surface,Science basics
+condensation,When a gas cools and turns into a liquid,Science basics
+sublimation,When a solid turns directly into a gas without becoming liquid first,Science basics
+melting point,The temperature at which a solid turns into a liquid,Science basics
+boiling point,The temperature at which a liquid turns into a gas,Science basics
+periodic table,A chart organizing all known elements by atomic number and properties,Science basics
+atomic number,"The number of protons in an atom's nucleus, unique to each element",Science basics
+atomic mass,"The average mass of an atom of an element, measured in atomic mass units",Science basics
+valence electron,An outer electron that participates in forming chemical bonds,Science basics
+polymer,A large molecule made of many smaller repeating units,Science basics
+organic compound,A compound containing carbon atoms bonded to hydrogen,Science basics
+inorganic compound,A compound that does not contain carbon-hydrogen bonds,Science basics
+combustion,A rapid chemical reaction with oxygen that releases heat and light,Science basics
+electrolysis,Using electricity to drive a chemical reaction,Science basics
+mole (chemistry),A unit for counting atoms — 6.022 × 10²³ particles,Science basics
+stoichiometry,The calculation of quantities in chemical reactions,Science basics
+equilibrium (chemistry),When a reaction proceeds at the same rate forward and backward,Science basics
+activation energy,The minimum energy needed to start a chemical reaction,Science basics
+endothermic,A reaction that absorbs heat from the surroundings,Science basics
+exothermic,A reaction that releases heat to the surroundings,Science basics
+alloy,A mixture of two or more metals,Science basics
+corrosion,"The gradual destruction of a material by chemical reactions, like rusting",Science basics
+cell,The basic unit of life; all living things are made of cells,Science basics
+cell membrane,"A thin flexible layer surrounding a cell, controlling what enters and exits",Science basics
+cell wall,A rigid outer layer found in plant and bacterial cells for extra support,Science basics
+nucleus (biology),"The control center of a cell, containing DNA",Science basics
+DNA,The molecule carrying genetic instructions for all living things,Science basics
+RNA,A molecule that helps read and carry out the instructions in DNA,Science basics
+gene,A segment of DNA that codes for a specific protein or trait,Science basics
+chromosome,A thread-like structure made of DNA carrying genes,Science basics
+mitosis,Cell division producing two identical daughter cells for growth,Science basics
+meiosis,Cell division producing four unique sex cells (sperm or egg),Science basics
+organelle,A small structure inside a cell with a specific job,Science basics
+mitochondria,Organelles that produce energy (ATP) for the cell — the powerhouse,Science basics
+chloroplast,An organelle in plant cells that converts sunlight into energy via photosynthesis,Science basics
+ribosome,A tiny structure in cells where proteins are made,Science basics
+cytoplasm,The jelly-like fluid filling a cell between the membrane and nucleus,Science basics
+prokaryote,A simple cell with no nucleus (like bacteria),Science basics
+eukaryote,"A cell with a true nucleus (like animal, plant, or fungal cells)",Science basics
+stem cell,An unspecialized cell that can develop into many different cell types,Science basics
+protein,A large molecule made of amino acids essential for all body functions,Science basics
+enzyme,A protein that speeds up chemical reactions in the body,Science basics
+heredity,The passing of traits from parents to offspring through genes,Science basics
+trait,A specific characteristic passed from parent to child,Science basics
+allele,One version of a gene (e.g. blue eye allele vs brown eye allele),Science basics
+dominant,An allele whose trait shows up when at least one copy is present,Science basics
+recessive,An allele whose trait only shows when both copies are the same,Science basics
+genotype,The genetic makeup of an organism — which alleles it has,Science basics
+phenotype,The observable characteristics of an organism (what you can see),Science basics
+mutation,A change in the DNA sequence that may alter traits,Science basics
+natural selection,The process where individuals with favorable traits survive and reproduce more,Science basics
+adaptation,A trait that helps an organism survive in its environment,Science basics
+evolution,The gradual change in species over time through natural selection,Science basics
+species,A group of organisms that can breed with each other and produce fertile offspring,Science basics
+genome,The complete set of genetic information of an organism,Science basics
+cloning,Creating a genetically identical copy of an organism,Science basics
+genetic engineering,Directly modifying the DNA of an organism,Science basics
+ecosystem,All living and non-living things in an area interacting together,Science basics
+habitat,The natural home or environment of an organism,Science basics
+food chain,A sequence showing who eats whom in an ecosystem,Science basics
+food web,An interconnected system of food chains in an ecosystem,Science basics
+producer,"An organism that makes its own food, like a plant",Science basics
+consumer,An organism that eats other organisms for energy,Science basics
+decomposer,An organism that breaks down dead material and returns nutrients to soil,Science basics
+photosynthesis,"The process plants use to convert sunlight, water, and CO₂ into food and oxygen",Science basics
+respiration,The process of releasing energy from glucose inside cells,Science basics
+predator,An animal that hunts and eats other animals,Science basics
+prey,An animal that is hunted and eaten by a predator,Science basics
+symbiosis,A close long-term relationship between two different species,Science basics
+parasite,An organism that lives on or in a host and harms it,Science basics
+biodiversity,The variety of life in an area or on Earth,Science basics
+extinction,When all members of a species have died out permanently,Science basics
+climate change,"Long-term shifts in global temperatures and weather patterns, driven by human activity",Science basics
+greenhouse gas,A gas (like CO₂ or methane) that traps heat in the atmosphere,Science basics
+carbon cycle,"The movement of carbon through the atmosphere, land, ocean, and living things",Science basics
+pollution,Harmful substances introduced into the environment,Science basics
+renewable energy,"Energy from sources that naturally replenish (solar, wind, hydro)",Science basics
+nervous system,The network of nerves and the brain that controls the body,Science basics
+neuron,A nerve cell that transmits electrical signals,Science basics
+synapse,A tiny gap between neurons where signals jump across,Science basics
+hormone,A chemical messenger released by glands to regulate body functions,Science basics
+immune system,The body's defense network against infection and disease,Science basics
+antibody,A protein made by the immune system to fight a specific pathogen,Science basics
+pathogen,"A microorganism that causes disease (virus, bacteria, fungus, parasite)",Science basics
+virus,A tiny infectious agent that can only replicate inside a living cell,Science basics
+bacteria,"Single-celled microorganisms; some cause disease, many are harmless or helpful",Science basics
+antibiotic,A drug that kills or stops the growth of bacteria,Science basics
+vaccine,A preparation that trains the immune system to fight a specific disease,Science basics
+circulatory system,"The heart, blood, and blood vessels that transport nutrients and oxygen",Science basics
+heart,The muscular organ that pumps blood around the body,Science basics
+artery,A blood vessel that carries oxygenated blood away from the heart,Science basics
+vein,A blood vessel that carries deoxygenated blood back to the heart,Science basics
+capillary,The tiniest blood vessels where oxygen and nutrients pass into tissues,Science basics
+respiratory system,The lungs and airways responsible for breathing,Science basics
+lungs,The organs in your chest where oxygen enters and carbon dioxide leaves the blood,Science basics
+digestive system,The system that breaks food down into nutrients the body can use,Science basics
+osmosis,The movement of water across a membrane from a low to high concentration of solutes,Science basics
+atmosphere,The layer of gases surrounding Earth,Science basics
+lithosphere,The rigid outer layer of Earth including the crust and upper mantle,Science basics
+tectonic plate,A massive piece of Earth's crust that moves slowly over time,Science basics
+earthquake,Shaking of the ground caused by the sudden movement of tectonic plates,Science basics
+volcano,An opening in Earth's crust where magma erupts,Science basics
+erosion,"The wearing away of rock or soil by water, wind, or ice",Science basics
+weathering,The breakdown of rock by natural processes at or near the surface,Science basics
+sediment,"Small particles of rock, sand, or organic material deposited by water or wind",Science basics
+fossil,The preserved remains or traces of ancient living things,Science basics
+mineral,A naturally occurring solid substance with a specific chemical composition,Science basics
+rock cycle,"The continuous process by which rocks form, break down, and reform",Science basics
+water cycle,"The continuous movement of water through evaporation, condensation, and precipitation",Science basics
+orbit,The path one body takes around another due to gravity,Science basics
+solar system,The sun and all the objects that orbit it,Science basics
+light-year,The distance light travels in one year — about 9.46 trillion km,Science basics
+Big Bang,"The leading theory that the universe began from an incredibly hot, dense point",Science basics
+black hole,"A region in space where gravity is so strong that nothing, not even light, escapes",Science basics
+galaxy,"A massive system of stars, gas, and dust held together by gravity",Science basics
+supernova,A massive explosion marking the death of a large star,Science basics
+scientific method,"A step-by-step process (observe, hypothesize, test, analyse) for learning about the world",Science basics
+inertia,The tendency of an object to stay at rest or in motion unless acted on by a force,Science basics
+terminal velocity,The constant maximum speed reached when air resistance equals gravity,Science basics
+centripetal acceleration,Acceleration directed toward the center of a circular path,Science basics
+torque,A rotational force that causes an object to spin,Science basics
+elastic collision,A collision where both momentum and kinetic energy are conserved,Science basics
+inelastic collision,A collision where kinetic energy is not conserved,Science basics
+fluid,A substance (liquid or gas) that flows and takes the shape of its container,Science basics
+plasma,A high-energy state of matter made of freely moving charged particles,Science basics
+states of matter,"The four main forms of matter: solid, liquid, gas, and plasma",Science basics
+diffusion,The spreading of particles from a high to low concentration area,Science basics
+viscosity,The thickness or resistance to flow of a liquid,Science basics
+surface tension,The skin-like layer at the surface of a liquid caused by cohesion,Science basics
+Archimedes' principle,An object displaces a weight of fluid equal to its own weight,Science basics
+Bernoulli's principle,Faster-moving fluid exerts less pressure than slower-moving fluid,Science basics
+Newton's first law,An object stays at rest or in motion unless acted on by a net force,Science basics
+Newton's second law,Force equals mass times acceleration (F = ma),Science basics
+Newton's third law,Every action has an equal and opposite reaction,Science basics
+Hooke's law,A spring's extension is proportional to the force applied to it,Science basics
+Ohm's law,Voltage equals current times resistance (V = IR),Science basics
+law of conservation of mass,"In a chemical reaction, mass is neither created nor destroyed",Science basics
+law of conservation of momentum,Total momentum in a closed system stays constant,Science basics
+Coulomb's law,The force between two charges depends on their sizes and distance apart,Science basics
+electromagnetic induction,The production of an electric current by a changing magnetic field,Science basics
+photon energy,"The energy of a single light particle, equal to hf (Planck's constant × frequency)",Science basics
+kinetic energy,The energy an object has because it is moving,Science basics
+potential energy,Stored energy an object has due to its position or state,Science basics
+work-energy theorem,The work done on an object equals its change in kinetic energy,Science basics
+power plant,"A facility that generates electricity from fuel, nuclear, or renewable energy",Science basics
+generator,A device that converts mechanical energy into electrical energy,Science basics
+transformer,A device that changes the voltage of an alternating current,Science basics
+semiconductor,A material with electrical conductivity between a conductor and insulator,Science basics
+transistor,A semiconductor device used to amplify or switch electrical signals,Science basics
+silicon,A semiconductor element used in computer chips and solar cells,Science basics
+superconductor,A material with zero electrical resistance at very low temperatures,Science basics
+laser,A device emitting a highly focused beam of coherent light,Science basics
+fiber optics,Thin glass fibers that carry light signals for communications,Science basics
+X-ray,High-energy electromagnetic radiation used to image bones,Science basics
+MRI,Magnetic Resonance Imaging — uses magnets and radio waves to image the body,Science basics
+ultrasound (medical),High-frequency sound waves used to create images inside the body,Science basics
+Geiger counter,A device that detects and measures radioactivity,Science basics
+carbon dating,Using radioactive carbon-14 decay to estimate the age of organic material,Science basics
+nuclear reactor,A device that controls nuclear fission to generate heat and electricity,Science basics
+chain reaction,A process where a reaction triggers more of the same reaction,Science basics
+critical mass,The minimum amount of fissile material needed to sustain a chain reaction,Science basics
+solar panel,A device that converts sunlight directly into electricity,Science basics
+wind turbine,A device that converts wind energy into electricity,Science basics
+hydroelectric power,Electricity generated from the energy of moving water,Science basics
+battery,A device storing chemical energy and releasing it as electrical energy,Science basics
+fuel cell,A device that generates electricity by reacting hydrogen with oxygen,Science basics
+capacitor,A device storing electric charge between two conducting surfaces,Science basics
+chemical equilibrium,When forward and reverse reaction rates are equal,Science basics
+Le Chatelier's principle,A system disturbed from equilibrium shifts to counteract the change,Science basics
+buffer solution,A solution resisting changes in pH when acid or base is added,Science basics
+titration,A technique for measuring concentration by reacting with a known solution,Science basics
+spectroscopy,Analyzing the interaction between matter and electromagnetic radiation,Science basics
+distillation,Separating liquids by boiling and condensing at different temperatures,Science basics
+chromatography,Separating mixtures by moving them through a medium at different speeds,Science basics
+filtration,Separating solids from liquids by passing through a porous material,Science basics
+crystallization,The formation of solid crystals from a solution or melt,Science basics
+chemical formula,A notation showing the types and numbers of atoms in a molecule (e.g. H₂O),Science basics
+structural formula,A diagram showing how atoms in a molecule are connected,Science basics
+isomer,Molecules with the same formula but different arrangements of atoms,Science basics
+functional group,A group of atoms in a molecule responsible for characteristic reactions,Science basics
+photosynthesis equation,6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ — plants making glucose and oxygen,Science basics
+respiration equation,C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O — releasing energy from glucose,Science basics
+aerobic respiration,Releasing energy from glucose using oxygen,Science basics
+anaerobic respiration,"Releasing energy from glucose without oxygen, producing lactic acid or ethanol",Science basics
+fermentation,Anaerobic breakdown of sugars to alcohol or acids by microbes,Science basics
+metabolism,All the chemical reactions occurring in a living organism,Science basics
+anabolism,Building complex molecules from simpler ones (uses energy),Science basics
+catabolism,Breaking complex molecules into simpler ones (releases energy),Science basics
+ATP,Adenosine triphosphate — the main energy currency of cells,Science basics
+homeostasis,The body's ability to maintain stable internal conditions,Science basics
+thermoregulation,Controlling body temperature to maintain homeostasis,Science basics
+osmoregulation,Controlling the water and salt balance inside the body,Science basics
+endocrine system,The system of glands producing hormones that regulate body functions,Science basics
+reproductive system,The organs involved in producing offspring,Science basics
+skeletal system,The bones and connective tissue that support and protect the body,Science basics
+muscular system,The muscles enabling movement of the body,Science basics
+excretory system,The system removing waste products from the body,Science basics
+kidney,The organ that filters blood and produces urine,Science basics
+liver,"The organ that processes nutrients, detoxifies chemicals, and produces bile",Science basics
+pancreas,A gland producing digestive enzymes and hormones like insulin,Science basics
+thyroid,A gland in the neck producing hormones that regulate metabolism,Science basics
+adrenal gland,A gland above each kidney releasing hormones including adrenaline,Science basics
+stem cell therapy,Using stem cells to repair or replace damaged tissues,Science basics
+CRISPR,A gene-editing tool that can cut and modify DNA with precision,Science basics
+PCR,Polymerase Chain Reaction — a technique to copy specific DNA sequences rapidly,Science basics
+electrophoresis,A technique separating DNA or protein molecules by size using electricity,Science basics
+biome,"A large region defined by its climate, plants, and animals",Science basics
+trophic level,"A step in a food chain (producer, herbivore, carnivore, etc.)",Science basics
+biomagnification,The increase in concentration of toxins as you move up the food chain,Science basics
+nitrogen cycle,"The movement of nitrogen through the atmosphere, soil, and living things",Science basics
+water table,The level below which the ground is saturated with water,Science basics
+aquifer,An underground layer of rock or sediment holding water,Science basics
+sedimentary rock,Rock formed from compressed layers of sediment,Science basics
+igneous rock,Rock formed from cooled magma or lava,Science basics
+metamorphic rock,Rock transformed by heat and pressure without melting,Science basics
+continental drift,The theory that continents were once joined and have moved apart,Science basics
+Pangaea,The supercontinent that existed before the current continents separated,Science basics
+magnetic field (Earth's),"The field generated by Earth's molten iron core, protecting us from solar wind",Science basics
+ozone layer,A region of the stratosphere with high ozone concentration protecting Earth from UV radiation,Science basics
+acid rain,Rain made acidic by dissolved pollutants such as sulfur dioxide,Science basics
+deforestation,"Clearing large areas of trees, often causing soil erosion and climate impact",Science basics
+desertification,The process by which fertile land becomes desert through drought or overuse,Science basics
+conservation,Protecting natural environments and species from damage or extinction,Science basics
+telescope,"An instrument for observing distant objects, especially in space",Science basics
+microscope,An instrument for magnifying very small objects,Science basics
+electron microscope,A microscope using electron beams for much higher magnification than light,Science basics
+particle accelerator,A machine that speeds up subatomic particles to study their collisions,Science basics
+Higgs boson,"A fundamental particle giving mass to other particles, found in 2012",Science basics
+dark matter,"Invisible matter not emitting light, making up most of the universe's mass",Science basics
+dark energy,A mysterious force causing the universe's expansion to accelerate,Science basics
+space-time,The four-dimensional fabric combining space and time in Einstein's relativity,Science basics
+wormhole,A hypothetical shortcut through space-time connecting two distant regions,Science basics
+exoplanet,A planet orbiting a star outside our solar system,Science basics
+habitable zone,The region around a star where liquid water could exist on a planet,Science basics
+SETI,The Search for Extraterrestrial Intelligence — listening for signals from space,Science basics
+spectral analysis,Studying the light from stars to determine their composition and speed,Science basics
+red shift,The stretching of light from objects moving away — evidence of an expanding universe,Science basics
+cosmic microwave background,Faint thermal radiation left over from the Big Bang,Science basics
+simulation,A computer model replicating real-world processes for testing and prediction,Science basics
+control variable,A factor kept constant in an experiment to ensure a fair test,Science basics
+independent variable,The factor you deliberately change in an experiment,Science basics
+dependent variable,The factor you measure in response to changes in the experiment,Science basics
+accuracy,How close a measurement is to the true value,Science basics
+precision,How consistent or repeatable measurements are,Science basics
+uncertainty,The range within which a true measurement value lies,Science basics
+scientific revolution,"The period from ~1543–1687 when modern science emerged, overturning ancient views",Science basics — History of Science
+Nicolaus Copernicus,Proposed the heliocentric model — the Earth orbits the Sun (1543),Science basics — History of Science
+Galileo Galilei,Used the telescope to support heliocentrism; father of experimental physics,Science basics — History of Science
+Isaac Newton,Formulated laws of motion and gravity; co-invented calculus,Science basics — History of Science
+Charles Darwin,Proposed evolution by natural selection in On the Origin of Species (1859),Science basics — History of Science
+Gregor Mendel,Discovered the laws of heredity through pea plant experiments,Science basics — History of Science
+Marie Curie,Pioneered research into radioactivity; won Nobel Prizes in Physics and Chemistry,Science basics — History of Science
+Albert Einstein,Developed special and general relativity; E = mc²,Science basics — History of Science
+James Watson & Francis Crick,Discovered the double-helix structure of DNA in 1953,Science basics — History of Science
+Rosalind Franklin,Her X-ray crystallography was crucial to discovering DNA structure,Science basics — History of Science
+Antonie van Leeuwenhoek,First to observe bacteria and microorganisms using a microscope,Science basics — History of Science
+Louis Pasteur,Developed germ theory of disease and invented pasteurisation,Science basics — History of Science
+Robert Koch,Established criteria for proving a microbe causes a specific disease,Science basics — History of Science
+Alexander Fleming,Discovered penicillin — the first antibiotic — in 1928,Science basics — History of Science
+Max Planck,Founded quantum theory by proposing energy is emitted in discrete quanta,Science basics — History of Science
+Niels Bohr,Proposed the planetary model of the atom and contributed to quantum mechanics,Science basics — History of Science
+Erwin Schrödinger,Formulated wave mechanics; Schrödinger's cat thought experiment,Science basics — History of Science
+Werner Heisenberg,Formulated the uncertainty principle in quantum mechanics,Science basics — History of Science
+Richard Feynman,Brilliant physicist who developed quantum electrodynamics (QED),Science basics — History of Science
+Stephen Hawking,Studied black holes and cosmology; wrote A Brief History of Time,Science basics — History of Science
+Carl Sagan,Astrophysicist and science communicator who popularised the cosmos,Science basics — History of Science
+natural philosophy,The pre-scientific study of nature — the predecessor to modern science,Science basics — History of Science
+alchemy (science history),The medieval predecessor to chemistry — sought to turn metals into gold,Science basics — History of Science
+geocentric model,The ancient incorrect view that the Earth is the centre of the universe,Science basics — History of Science
+heliocentric model,The correct view that the planets orbit the Sun,Science basics — History of Science
+Ptolemaic system,"Ptolemy's geocentric model with epicycles, dominant for 1,400 years",Science basics — History of Science
+Newtonian mechanics,The physics of motion and gravity formulated by Isaac Newton,Science basics — History of Science
+quantum mechanics,The physics of particles at the subatomic scale — overturning classical ideas,Science basics — History of Science
+general relativity,"Einstein's theory that massive objects warp spacetime, which we feel as gravity",Science basics — History of Science
+special relativity,Einstein's theory that the laws of physics are the same for all non-accelerating observers and c is constant,Science basics — History of Science
+algorithm (computing),A step-by-step set of instructions for solving a computational problem,Science basics — Computer Science
+binary,A number system using only 0 and 1 — the language computers use,Science basics — Computer Science
+bit,The smallest unit of data — a single 0 or 1,Science basics — Computer Science
+byte,8 bits — the basic unit for representing a character of text,Science basics — Computer Science
+CPU,Central Processing Unit — the brain of a computer executing instructions,Science basics — Computer Science
+RAM,Random Access Memory — temporary fast memory a computer uses while running,Science basics — Computer Science
+storage,Permanent memory — hard drives and SSDs holding data long-term,Science basics — Computer Science
+operating system,Software managing computer hardware and providing a platform for applications,Science basics — Computer Science
+program,A set of instructions written in a programming language for a computer to execute,Science basics — Computer Science
+programming language,"A formal language used to write software (e.g. Python, Java, C++)",Science basics — Computer Science
+compiler,A program translating source code into machine language,Science basics — Computer Science
+interpreter,A program executing source code line by line without compiling,Science basics — Computer Science
+source code,The human-readable instructions written by a programmer,Science basics — Computer Science
+bug,An error in code causing unexpected behaviour,Science basics — Computer Science
+debugging,The process of finding and fixing bugs in code,Science basics — Computer Science
+data structure,"A way of organising data in a computer (e.g. array, list, tree, graph)",Science basics — Computer Science
+array,An ordered collection of items stored at contiguous memory locations,Science basics — Computer Science
+linked list,A data structure where each element points to the next one,Science basics — Computer Science
+stack,A data structure following Last In First Out (LIFO) order,Science basics — Computer Science
+queue,A data structure following First In First Out (FIFO) order,Science basics — Computer Science
+tree (data structure),A hierarchical structure of nodes connected by edges,Science basics — Computer Science
+graph (data structure),A set of nodes connected by edges — can represent networks,Science basics — Computer Science
+hash table,A data structure mapping keys to values for fast lookup,Science basics — Computer Science
+time complexity,How the running time of an algorithm scales with input size,Science basics — Computer Science
+Big O notation,A way to describe the worst-case time or space complexity of an algorithm,Science basics — Computer Science
+recursion,A function calling itself to solve a smaller version of the same problem,Science basics — Computer Science
+iteration,Repeating a block of code using a loop,Science basics — Computer Science
+object-oriented programming (OOP),A paradigm organising code as objects with properties and methods,Science basics — Computer Science
+class (OOP),A blueprint for creating objects in OOP,Science basics — Computer Science
+object (OOP),An instance of a class — has its own data and behaviour,Science basics — Computer Science
+inheritance (OOP),A class acquiring properties and methods of another class,Science basics — Computer Science
+encapsulation,Hiding internal details of an object and exposing only necessary parts,Science basics — Computer Science
+polymorphism,The ability to call the same method on different objects with different results,Science basics — Computer Science
+functional programming,A paradigm treating computation as evaluation of mathematical functions,Science basics — Computer Science
+database,An organised collection of structured data stored and accessed electronically,Science basics — Computer Science
+SQL,Structured Query Language — used to communicate with databases,Science basics — Computer Science
+NoSQL,Non-relational databases storing unstructured or semi-structured data,Science basics — Computer Science
+API,Application Programming Interface — a way for software to communicate with other software,Science basics — Computer Science
+network,A group of interconnected computers sharing resources,Science basics — Computer Science
+internet,A global network connecting millions of computers,Science basics — Computer Science
+TCP/IP,The fundamental communication protocols of the internet,Science basics — Computer Science
+HTTP / HTTPS,Protocols for transferring web pages — S means encrypted,Science basics — Computer Science
+encryption,Converting data into a coded form to prevent unauthorised access,Science basics — Computer Science
+cybersecurity,Protecting computer systems and networks from digital attacks,Science basics — Computer Science
+machine learning,A branch of AI where systems learn from data to make predictions,Science basics — Computer Science
+artificial intelligence (AI),Machines performing tasks that normally require human intelligence,Science basics — Computer Science
+neural network,A computing system inspired by the human brain — used in deep learning,Science basics — Computer Science
+deep learning,Machine learning using many-layered neural networks,Science basics — Computer Science
+natural language processing (NLP),AI enabling computers to understand and generate human language,Science basics — Computer Science
+cloud computing,Delivering computing services over the internet on demand,Science basics — Computer Science
+open source,Software whose source code is freely available for anyone to use or modify,Science basics — Computer Science
+version control,Tracking changes to code over time — enables collaboration (e.g. Git),Science basics — Computer Science
+meteorology,The scientific study of the atmosphere and weather,Science basics — Meteorology
+atmosphere (layers),"The layers of gases surrounding Earth: troposphere, stratosphere, mesosphere, thermosphere, exosphere",Science basics — Meteorology
+troposphere,The lowest atmospheric layer where weather occurs,Science basics — Meteorology
+stratosphere,The atmospheric layer above the troposphere containing the ozone layer,Science basics — Meteorology
+jet stream,A fast-flowing air current high in the atmosphere influencing weather systems,Science basics — Meteorology
+weather,Short-term atmospheric conditions at a specific place and time,Science basics — Meteorology
+climate,The long-term average weather patterns of a region,Science basics — Meteorology
+humidity,The amount of water vapour in the air,Science basics — Meteorology
+relative humidity,Humidity expressed as a percentage of the maximum possible,Science basics — Meteorology
+dew point,The temperature at which air becomes saturated and water condenses,Science basics — Meteorology
+precipitation,"Water falling from clouds — rain, snow, sleet, or hail",Science basics — Meteorology
+front (meteorology),The boundary between two air masses of different temperatures,Science basics — Meteorology
+cold front,A boundary where cold air pushes under warm air — often brings storms,Science basics — Meteorology
+warm front,A boundary where warm air rides over cold air — brings gradual rain,Science basics — Meteorology
+high pressure system,"A region of descending air associated with clear, calm weather",Science basics — Meteorology
+low pressure system,A region of rising air associated with clouds and precipitation,Science basics — Meteorology
+cyclone,A large rotating storm system with low central pressure,Science basics — Meteorology
+anticyclone,A large rotating system with high pressure and settled weather,Science basics — Meteorology
+hurricane / typhoon,An intense tropical cyclone with sustained winds above 74 mph,Science basics — Meteorology
+tornado (science),A violently rotating column of air extending from a storm to the ground,Science basics — Meteorology
+thunderstorm,"A storm with lightning, thunder, and heavy rain from cumulonimbus clouds",Science basics — Meteorology
+lightning,A massive electrical discharge between clouds or between clouds and ground,Science basics — Meteorology
+albedo,The fraction of solar energy reflected by a surface — ice has high albedo,Science basics — Meteorology
+greenhouse effect,"Greenhouse gases trap heat in the atmosphere, warming Earth's surface",Science basics — Meteorology
+global warming,The observed rise in Earth's average surface temperature since the industrial revolution,Science basics — Meteorology
+carbon dioxide (CO₂),The main greenhouse gas produced by burning fossil fuels,Science basics — Meteorology
+methane (CH₄),"A potent greenhouse gas from livestock, landfills, and fossil fuels",Science basics — Meteorology
+El Niño,A warming of Pacific surface waters causing global weather disruptions,Science basics — Meteorology
+La Niña,A cooling of Pacific surface waters — the counterpart of El Niño,Science basics — Meteorology
+IPCC,The Intergovernmental Panel on Climate Change — assesses climate science,Science basics — Meteorology
+geology,"The study of the Earth's structure, composition, and history",Science basics — Geology
+plate tectonics,The theory that Earth's lithosphere is divided into moving plates,Science basics — Geology
+tectonic plate (geology),A massive slab of lithosphere that moves slowly over the mantle,Science basics — Geology
+subduction,When one tectonic plate dives beneath another,Science basics — Geology
+mid-ocean ridge,A mountain range on the ocean floor where new crust forms,Science basics — Geology
+rift valley,A lowland area formed where tectonic plates pull apart,Science basics — Geology
+seismic wave,A vibration travelling through the Earth from an earthquake,Science basics — Geology
+P-wave,A primary seismic wave that compresses and expands rock in its direction of travel,Science basics — Geology
+S-wave,A secondary seismic wave that moves rock perpendicular to its travel direction,Science basics — Geology
+Richter scale,A logarithmic scale measuring earthquake magnitude,Science basics — Geology
+moment magnitude scale,"The modern, more accurate replacement for the Richter scale",Science basics — Geology
+epicentre,The point on Earth's surface directly above the earthquake focus,Science basics — Geology
+focus / hypocentre,The point underground where an earthquake originates,Science basics — Geology
+fault,A fracture in Earth's crust where movement has occurred,Science basics — Geology
+magma,Molten rock below Earth's surface,Science basics — Geology
+lava,Magma that has reached the surface,Science basics — Geology
+igneous rock (geology),Rock formed from cooled magma or lava,Science basics — Geology
+intrusive igneous rock,Formed from slow-cooling magma underground (e.g. granite),Science basics — Geology
+extrusive igneous rock,Formed from fast-cooling lava at the surface (e.g. basalt),Science basics — Geology
+sedimentary rock (geology),Rock formed from compressed layers of sediment,Science basics — Geology
+metamorphic rock (geology),Rock transformed by heat and pressure without melting,Science basics — Geology
+rock cycle (geology),"The continuous set of processes by which rocks form, change, and reform",Science basics — Geology
+erosion (geology),"The wearing away of rock or soil by water, wind, or ice",Science basics — Geology
+weathering (geology),The breakdown of rock in place by physical or chemical processes,Science basics — Geology
+deposition,The laying down of eroded sediment in a new location,Science basics — Geology
+fossil (geology),Preserved remains or traces of ancient organisms in rock,Science basics — Geology
+stratigraphy,The study of rock layers to determine geological history,Science basics — Geology
+geological time scale,"The timeline dividing Earth's 4.6-billion-year history into eons, eras, and periods",Science basics — Geology
+Precambrian,The earliest and longest eon — covers ~88% of Earth's history,Science basics — Geology
+Cambrian explosion,A rapid diversification of multicellular life ~540 million years ago,Science basics — Geology
+mass extinction,An event killing a large proportion of species in a short geological time,Science basics — Geology
+K-Pg extinction,The mass extinction 66 million years ago ending the dinosaurs — asteroid impact,Science basics — Geology
+Pangaea (geology),The supercontinent that existed ~335–175 million years ago,Science basics — Geology
+continental drift (geology),Alfred Wegener's theory that continents once joined and then separated,Science basics — Geology
+mineral (geology),A naturally occurring inorganic substance with a definite chemical composition,Science basics — Geology
+crystal structure,The ordered arrangement of atoms within a mineral,Science basics — Geology
+hardness (mineral),Resistance to scratching — measured on the Mohs scale 1–10,Science basics — Geology
+ore,Rock containing enough metal to make extraction economically worthwhile,Science basics — Geology
+soil,"The top layer of Earth's surface composed of mineral particles, organic matter, water, and air",Science basics — Geology
+soil horizon,A distinct layer within a soil profile,Science basics — Geology
+environmental science,An interdisciplinary field studying interactions between humans and the environment,Science basics — Environmental Science
+ecology (environmental),The study of relationships between organisms and their environment,Science basics — Environmental Science
+biome (environmental),A large naturally occurring community of plants and animals in a major habitat,Science basics — Environmental Science
+tropical rainforest,A biome with heavy rainfall and extraordinary biodiversity near the equator,Science basics — Environmental Science
+savanna,A tropical grassland with scattered trees and a pronounced dry season,Science basics — Environmental Science
+desert (biome),A biome with very low precipitation — hot or cold,Science basics — Environmental Science
+temperate forest,"A biome with deciduous trees, four seasons, and moderate rainfall",Science basics — Environmental Science
+boreal forest / taiga,A biome of coniferous forests across subarctic regions,Science basics — Environmental Science
+tundra (environmental),"A cold, treeless biome with permafrost below the surface",Science basics — Environmental Science
+wetland,"A land area saturated with water — marshes, swamps, and bogs",Science basics — Environmental Science
+coral reef,An underwater ecosystem built by coral polyps — highly biodiverse,Science basics — Environmental Science
+carbon footprint,"The total greenhouse gas emissions caused by an individual, organisation, or product",Science basics — Environmental Science
+fossil fuel,"Coal, oil, or natural gas — formed over millions of years from organic matter",Science basics — Environmental Science
+deforestation (environmental),"Large-scale removal of trees, reducing biodiversity and increasing CO₂",Science basics — Environmental Science
+habitat destruction,Damage or removal of the natural environment species need to survive,Science basics — Environmental Science
+invasive species,A non-native species that spreads aggressively and harms the ecosystem,Science basics — Environmental Science
+keystone species,A species with a disproportionately large effect on its ecosystem,Science basics — Environmental Science
+trophic cascade,When changes to a predator population ripple through the food web,Science basics — Environmental Science
+eutrophication,Excess nutrients (often from fertiliser) causing algal blooms and oxygen depletion in water,Science basics — Environmental Science
+acid rain (environmental),Precipitation made acidic by air pollution — damages ecosystems,Science basics — Environmental Science
+ozone depletion,Thinning of the stratospheric ozone layer by CFCs and other chemicals,Science basics — Environmental Science
+sustainability,Meeting present needs without compromising the ability of future generations to meet theirs,Science basics — Environmental Science
+renewable resource,"A resource that replenishes naturally (e.g. sunlight, wind, water)",Science basics — Environmental Science
+non-renewable resource,"A resource that does not replenish on a human timescale (e.g. coal, oil)",Science basics — Environmental Science
+circular economy,An economic model eliminating waste by reusing and recycling materials,Science basics — Environmental Science
+rewilding,Restoring large natural areas and reintroducing native species,Science basics — Environmental Science
+carbon sequestration,Capturing and storing carbon dioxide from the atmosphere,Science basics — Environmental Science
+Paris Agreement,A 2015 international treaty aiming to limit global warming to 1.5–2°C above pre-industrial levels,Science basics — Environmental Science
+materials science,"The study of the structure, properties, and applications of materials",Science basics — Materials Science
+metal,"A material with high electrical and thermal conductivity, malleability, and lustre",Science basics — Materials Science
+alloy (materials),A mixture of a metal with one or more other elements to improve properties,Science basics — Materials Science
+steel,An alloy of iron and carbon — stronger than pure iron,Science basics — Materials Science
+stainless steel,Steel with chromium added to resist corrosion,Science basics — Materials Science
+aluminium,A lightweight metal widely used in transport and packaging,Science basics — Materials Science
+copper,A highly conductive metal used in electrical wiring,Science basics — Materials Science
+ceramic,"A hard, brittle material made by heating inorganic compounds — e.g. porcelain",Science basics — Materials Science
+polymer (materials),A large molecule made of repeating units — most plastics are synthetic polymers,Science basics — Materials Science
+composite material,A material made from two or more components with better properties than either alone,Science basics — Materials Science
+semiconductor (materials),A material between conductor and insulator — forms the basis of electronics,Science basics — Materials Science
+nanomaterial,A material with structures at the nanoscale (1–100 nm) with unique properties,Science basics — Materials Science
+biomaterial,A material interacting with biological systems for medical purposes,Science basics — Materials Science
+tensile strength,The maximum stress a material can withstand while being stretched,Science basics — Materials Science
+hardness (materials),Resistance of a material to deformation or scratching,Science basics — Materials Science
+elasticity (materials),The ability of a material to return to its original shape after deformation,Science basics — Materials Science
+ductility,The ability of a material to be drawn into a wire without breaking,Science basics — Materials Science
+brittleness,The tendency to fracture with little plastic deformation,Science basics — Materials Science
+thermal conductivity,How well a material conducts heat,Science basics — Materials Science
+electrical conductivity (materials),How well a material conducts electricity,Science basics — Materials Science

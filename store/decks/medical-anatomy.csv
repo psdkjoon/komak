@@ -1,0 +1,491 @@
+Front of the card,Back of the card,Group
+anatomy,The study of the structure of the body and its parts,Medical & Anatomy
+physiology,The study of how the body and its parts function,Medical & Anatomy
+pathology,"The study and diagnosis of disease, especially through laboratory examination",Medical & Anatomy
+superior,Toward the head or upper part of the body,Medical & Anatomy
+inferior,Toward the feet or lower part of the body,Medical & Anatomy
+anterior / ventral,Toward the front of the body,Medical & Anatomy
+posterior / dorsal,Toward the back of the body,Medical & Anatomy
+medial,Toward the midline of the body,Medical & Anatomy
+lateral,Away from the midline of the body,Medical & Anatomy
+proximal,Closer to the point of attachment or origin,Medical & Anatomy
+distal,Farther from the point of attachment or origin,Medical & Anatomy
+superficial,Close to the surface of the body,Medical & Anatomy
+deep,Further from the surface of the body,Medical & Anatomy
+sagittal plane,A vertical plane dividing the body into left and right,Medical & Anatomy
+frontal / coronal plane,A vertical plane dividing the body into front and back,Medical & Anatomy
+transverse / horizontal plane,A horizontal plane dividing the body into upper and lower,Medical & Anatomy
+cell,The fundamental structural and functional unit of all living organisms,Medical & Anatomy
+tissue,A group of similar cells working together to perform a function,Medical & Anatomy
+organ,A structure of different tissues performing a specific function,Medical & Anatomy
+organ system,A group of organs working together to carry out broad functions,Medical & Anatomy
+skeletal system,"The framework of bones, cartilage, and connective tissue supporting the body",Medical & Anatomy
+bone,A rigid connective tissue forming the skeleton,Medical & Anatomy
+cortical bone,The dense outer layer of bone,Medical & Anatomy
+cancellous / trabecular bone,The spongy inner layer of bone containing marrow,Medical & Anatomy
+periosteum,The fibrous membrane covering the outer surface of bone,Medical & Anatomy
+bone marrow,Soft tissue inside bones producing blood cells,Medical & Anatomy
+red bone marrow,"Produces red blood cells, white blood cells, and platelets",Medical & Anatomy
+yellow bone marrow,Stores fat and can convert to red marrow when needed,Medical & Anatomy
+ossification,The process of bone formation,Medical & Anatomy
+cartilage,Firm flexible connective tissue cushioning joints and forming structures like the ear,Medical & Anatomy
+hyaline cartilage,The most common type — found at joint surfaces and in the nose,Medical & Anatomy
+fibrocartilage,Tough cartilage found in intervertebral discs and the knee menisci,Medical & Anatomy
+skull,The bony structure enclosing and protecting the brain,Medical & Anatomy
+cranium,The part of the skull enclosing the brain,Medical & Anatomy
+mandible,The lower jaw bone — the only movable bone of the skull,Medical & Anatomy
+maxilla,The upper jaw bone,Medical & Anatomy
+vertebral column / spine,The column of 33 vertebrae extending from the skull to the pelvis,Medical & Anatomy
+cervical vertebrae,The 7 vertebrae of the neck,Medical & Anatomy
+thoracic vertebrae,"The 12 vertebrae of the mid-back, each attaching to a rib",Medical & Anatomy
+lumbar vertebrae,The 5 large vertebrae of the lower back,Medical & Anatomy
+sacrum,A triangular bone at the base of the spine formed from fused vertebrae,Medical & Anatomy
+coccyx,The tailbone — the lowest part of the spine,Medical & Anatomy
+intervertebral disc,A cartilage cushion between vertebrae absorbing shock,Medical & Anatomy
+rib cage,The cage of 12 pairs of ribs protecting the heart and lungs,Medical & Anatomy
+sternum,The breastbone at the front of the rib cage,Medical & Anatomy
+clavicle,The collarbone connecting the sternum to the shoulder,Medical & Anatomy
+scapula,The shoulder blade,Medical & Anatomy
+humerus,The upper arm bone from shoulder to elbow,Medical & Anatomy
+radius,The forearm bone on the thumb side,Medical & Anatomy
+ulna,The forearm bone on the little finger side,Medical & Anatomy
+carpals,The 8 small bones of the wrist,Medical & Anatomy
+metacarpals,The 5 bones forming the palm of the hand,Medical & Anatomy
+phalanges (hand),"The finger bones — 3 per finger, 2 per thumb",Medical & Anatomy
+pelvis,The basin-shaped structure of bones at the base of the spine,Medical & Anatomy
+ilium,The large flared upper part of the pelvis,Medical & Anatomy
+femur,The thigh bone — the longest and strongest bone in the body,Medical & Anatomy
+patella,The kneecap — a sesamoid bone protecting the knee joint,Medical & Anatomy
+tibia,The shinbone — the larger of the two lower leg bones,Medical & Anatomy
+fibula,The thinner outer bone of the lower leg,Medical & Anatomy
+tarsals,The 7 ankle bones,Medical & Anatomy
+calcaneus,The heel bone — the largest tarsal,Medical & Anatomy
+metatarsals,The 5 bones forming the mid-foot,Medical & Anatomy
+phalanges (foot),The toe bones,Medical & Anatomy
+joint,The place where two or more bones meet,Medical & Anatomy
+synovial joint,"A freely movable joint with a fluid-filled cavity (e.g. knee, shoulder)",Medical & Anatomy
+synovial fluid,Lubricating fluid inside synovial joints,Medical & Anatomy
+ligament,A tough band of connective tissue connecting bone to bone,Medical & Anatomy
+tendon,A tough cord of connective tissue connecting muscle to bone,Medical & Anatomy
+bursa,A fluid-filled sac reducing friction near joints,Medical & Anatomy
+meniscus,Cartilage pads in the knee acting as shock absorbers,Medical & Anatomy
+rotator cuff,Four muscles and their tendons stabilising the shoulder joint,Medical & Anatomy
+muscular system,"The muscles enabling movement, maintaining posture, and generating heat",Medical & Anatomy
+skeletal muscle,Voluntary striated muscle attached to bones via tendons,Medical & Anatomy
+cardiac muscle,Involuntary striated muscle forming the heart wall,Medical & Anatomy
+smooth muscle,Involuntary non-striated muscle in internal organs and blood vessels,Medical & Anatomy
+muscle contraction,The shortening of muscle fibres to produce movement,Medical & Anatomy
+actin,A protein filament in muscle fibres that slides during contraction,Medical & Anatomy
+myosin,A protein filament that pulls actin during muscle contraction,Medical & Anatomy
+muscle fibre,An individual muscle cell,Medical & Anatomy
+motor unit,A motor neuron and all the muscle fibres it controls,Medical & Anatomy
+origin (muscle),The less mobile attachment point of a muscle,Medical & Anatomy
+insertion (muscle),The more mobile attachment point of a muscle,Medical & Anatomy
+agonist,The primary muscle producing a movement,Medical & Anatomy
+antagonist (muscle),A muscle opposing the movement of the agonist,Medical & Anatomy
+synergist,A muscle assisting the agonist to perform a movement,Medical & Anatomy
+trapezius,A large muscle of the upper back and neck moving the shoulder,Medical & Anatomy
+deltoid,The shoulder muscle producing arm abduction,Medical & Anatomy
+biceps brachii,The muscle on the front of the upper arm that flexes the elbow,Medical & Anatomy
+triceps brachii,The muscle on the back of the upper arm that extends the elbow,Medical & Anatomy
+pectoralis major,A large chest muscle moving the arm across the body,Medical & Anatomy
+latissimus dorsi,A large back muscle pulling the arm downward and backward,Medical & Anatomy
+rectus abdominis,The abdominal muscle forming the 'six-pack',Medical & Anatomy
+diaphragm (muscle),The dome-shaped muscle below the lungs driving breathing,Medical & Anatomy
+gluteus maximus,The largest muscle of the buttock extending the hip,Medical & Anatomy
+quadriceps,A group of four muscles on the front of the thigh extending the knee,Medical & Anatomy
+hamstrings,Muscles on the back of the thigh flexing the knee,Medical & Anatomy
+gastrocnemius,The large calf muscle plantarflexing the foot (pointing down),Medical & Anatomy
+Achilles tendon,The tendon connecting the calf muscles to the heel bone,Medical & Anatomy
+cardiovascular system,The heart and blood vessels transporting blood around the body,Medical & Anatomy
+heart,The muscular organ pumping blood through the circulatory system,Medical & Anatomy
+pericardium,The double-layered sac surrounding the heart,Medical & Anatomy
+myocardium,The muscular wall of the heart,Medical & Anatomy
+endocardium,The inner lining of the heart chambers,Medical & Anatomy
+right atrium,The chamber receiving deoxygenated blood from the body,Medical & Anatomy
+right ventricle,The chamber pumping deoxygenated blood to the lungs,Medical & Anatomy
+left atrium,The chamber receiving oxygenated blood from the lungs,Medical & Anatomy
+left ventricle,The chamber pumping oxygenated blood to the body — thickest wall,Medical & Anatomy
+aorta,"The largest artery, carrying oxygenated blood from the left ventricle",Medical & Anatomy
+pulmonary artery,Carries deoxygenated blood from the right ventricle to the lungs,Medical & Anatomy
+pulmonary vein,Carries oxygenated blood from the lungs to the left atrium,Medical & Anatomy
+superior vena cava,Returns deoxygenated blood from the upper body to the right atrium,Medical & Anatomy
+inferior vena cava,Returns deoxygenated blood from the lower body to the right atrium,Medical & Anatomy
+mitral valve,The valve between the left atrium and left ventricle,Medical & Anatomy
+tricuspid valve,The valve between the right atrium and right ventricle,Medical & Anatomy
+aortic valve,The valve between the left ventricle and the aorta,Medical & Anatomy
+pulmonary valve,The valve between the right ventricle and pulmonary artery,Medical & Anatomy
+sinoatrial (SA) node,The heart's natural pacemaker generating electrical impulses,Medical & Anatomy
+atrioventricular (AV) node,Relays impulses from the atria to the ventricles,Medical & Anatomy
+artery,A blood vessel carrying blood away from the heart,Medical & Anatomy
+arteriole,A small branch of an artery,Medical & Anatomy
+capillary,The smallest blood vessel where gas and nutrient exchange occurs,Medical & Anatomy
+venule,A small vessel collecting blood from capillaries,Medical & Anatomy
+vein,A blood vessel carrying blood toward the heart,Medical & Anatomy
+blood pressure,The pressure exerted by blood on the walls of arteries,Medical & Anatomy
+systolic pressure,Blood pressure when the heart contracts,Medical & Anatomy
+diastolic pressure,Blood pressure when the heart rests between beats,Medical & Anatomy
+heart rate,The number of heartbeats per minute,Medical & Anatomy
+cardiac output,The volume of blood pumped by the heart per minute,Medical & Anatomy
+stroke volume,The volume of blood pumped per beat,Medical & Anatomy
+red blood cells (erythrocytes),Cells carrying oxygen using haemoglobin,Medical & Anatomy
+white blood cells (leukocytes),Immune cells defending against infection,Medical & Anatomy
+platelets (thrombocytes),Cell fragments essential for blood clotting,Medical & Anatomy
+plasma,"The liquid component of blood carrying cells, proteins, and nutrients",Medical & Anatomy
+haemoglobin,The iron-containing protein in red blood cells binding oxygen,Medical & Anatomy
+blood type (ABO),"Classification of blood based on surface antigens: A, B, AB, or O",Medical & Anatomy
+Rhesus factor (Rh),A blood antigen — positive or negative,Medical & Anatomy
+coagulation / clotting,The process of blood solidifying at a wound to prevent bleeding,Medical & Anatomy
+lymphatic system,A network of vessels and nodes transporting lymph and supporting immunity,Medical & Anatomy
+lymph node,A small bean-shaped structure filtering lymph and housing immune cells,Medical & Anatomy
+spleen,An organ filtering blood and recycling old red blood cells,Medical & Anatomy
+thymus,A gland in the chest where T-cells mature,Medical & Anatomy
+respiratory system,The organs responsible for breathing and gas exchange,Medical & Anatomy
+nasal cavity,The air-filled space inside the nose warming and filtering inhaled air,Medical & Anatomy
+pharynx,The throat — shared passage for air and food,Medical & Anatomy
+larynx,The voice box — contains the vocal cords and protects the airway,Medical & Anatomy
+trachea,The windpipe — a cartilaginous tube carrying air to the bronchi,Medical & Anatomy
+bronchi,The two main branches of the trachea entering each lung,Medical & Anatomy
+bronchioles,Smaller branches of the bronchi within the lungs,Medical & Anatomy
+alveoli,Tiny air sacs where oxygen enters the blood and CO₂ leaves it,Medical & Anatomy
+pleura,The double membrane surrounding each lung,Medical & Anatomy
+pleural cavity,The space between the pleural layers containing a small amount of fluid,Medical & Anatomy
+diaphragm (breathing),The primary muscle of breathing contracting to expand the thoracic cavity,Medical & Anatomy
+inhalation,Drawing air into the lungs — the diaphragm contracts and lungs expand,Medical & Anatomy
+exhalation,Pushing air out — the diaphragm relaxes and lungs recoil,Medical & Anatomy
+gas exchange,Oxygen moving from alveoli into blood; CO₂ moving from blood into alveoli,Medical & Anatomy
+tidal volume,The amount of air inhaled or exhaled in a normal breath,Medical & Anatomy
+vital capacity,The maximum amount of air exhaled after a maximum inhalation,Medical & Anatomy
+spirometry,A test measuring lung volumes and flow rates,Medical & Anatomy
+oxygen saturation,The percentage of haemoglobin molecules carrying oxygen — measured by pulse oximeter,Medical & Anatomy
+digestive system,The organs breaking food into nutrients for absorption,Medical & Anatomy
+mouth,Where digestion begins — teeth grind food and saliva starts chemical breakdown,Medical & Anatomy
+saliva,A fluid from salivary glands beginning starch digestion and lubricating food,Medical & Anatomy
+oesophagus,The muscular tube carrying food from the throat to the stomach,Medical & Anatomy
+stomach,A muscular organ mixing food with acid and enzymes,Medical & Anatomy
+gastric acid,Hydrochloric acid secreted by the stomach to break down food,Medical & Anatomy
+pepsin,An enzyme in the stomach breaking down proteins,Medical & Anatomy
+pylorus,The valve regulating emptying of the stomach into the small intestine,Medical & Anatomy
+small intestine,The long tube where most nutrient absorption occurs,Medical & Anatomy
+duodenum,The first section of the small intestine receiving stomach contents,Medical & Anatomy
+jejunum,The middle section of the small intestine where most absorption occurs,Medical & Anatomy
+ileum,The final section of the small intestine absorbing remaining nutrients,Medical & Anatomy
+villi,Tiny finger-like projections lining the small intestine increasing surface area,Medical & Anatomy
+large intestine (colon),Absorbs water and forms faeces from undigested material,Medical & Anatomy
+caecum,"The first part of the large intestine, where the appendix attaches",Medical & Anatomy
+appendix,A small pouch attached to the caecum with a possible immune role,Medical & Anatomy
+rectum,The final section of the large intestine storing faeces before elimination,Medical & Anatomy
+anus,The opening through which faeces leave the body,Medical & Anatomy
+liver (anatomy),"The largest internal organ — processes nutrients, detoxifies, and produces bile",Medical & Anatomy
+hepatocyte,A liver cell performing the organ's metabolic functions,Medical & Anatomy
+gallbladder,Stores and concentrates bile between meals,Medical & Anatomy
+bile duct,The tube carrying bile from the liver and gallbladder to the small intestine,Medical & Anatomy
+bile,A digestive fluid emulsifying fats for absorption,Medical & Anatomy
+pancreas (anatomy),A gland producing digestive enzymes and hormones — both exocrine and endocrine,Medical & Anatomy
+pancreatic juice,A mixture of enzymes neutralising stomach acid and breaking down macronutrients,Medical & Anatomy
+peristalsis,Wave-like muscle contractions propelling food through the gut,Medical & Anatomy
+absorption (digestion),Nutrients passing from the gut into the bloodstream,Medical & Anatomy
+gut microbiome,The community of trillions of microorganisms living in the intestines,Medical & Anatomy
+nervous system,"The brain, spinal cord, and nerves controlling all body functions",Medical & Anatomy
+central nervous system (CNS),The brain and spinal cord,Medical & Anatomy
+peripheral nervous system (PNS),All nerves outside the brain and spinal cord,Medical & Anatomy
+somatic nervous system,Controls voluntary movements and relays sensory information,Medical & Anatomy
+autonomic nervous system,Controls involuntary functions like heart rate and digestion,Medical & Anatomy
+sympathetic nervous system,Activates the fight-or-flight response,Medical & Anatomy
+parasympathetic nervous system,Promotes rest-and-digest — calming the body after stress,Medical & Anatomy
+neuron,A nerve cell transmitting electrical signals,Medical & Anatomy
+axon,The long fibre of a neuron conducting impulses away from the cell body,Medical & Anatomy
+dendrite,Short branching projections receiving signals from other neurons,Medical & Anatomy
+myelin sheath,A fatty layer insulating axons and speeding up signal transmission,Medical & Anatomy
+action potential,An electrical impulse travelling along a neuron,Medical & Anatomy
+synapse,The junction between two neurons where signals are transmitted,Medical & Anatomy
+neurotransmitter,A chemical messenger released at a synapse to signal the next neuron,Medical & Anatomy
+acetylcholine,A neurotransmitter in muscles and the parasympathetic system,Medical & Anatomy
+dopamine,"A neurotransmitter linked to reward, motivation, and motor control",Medical & Anatomy
+serotonin,"A neurotransmitter influencing mood, sleep, and appetite",Medical & Anatomy
+noradrenaline / norepinephrine,A neurotransmitter activating alertness and the stress response,Medical & Anatomy
+GABA,The main inhibitory neurotransmitter in the brain — calms neural activity,Medical & Anatomy
+glutamate,The main excitatory neurotransmitter — activates other neurons,Medical & Anatomy
+brain,"The organ of thought, emotion, memory, and control of the body",Medical & Anatomy
+cerebrum,"The largest brain region responsible for thought, voluntary movement, and language",Medical & Anatomy
+cerebral cortex,The outer layer of the cerebrum responsible for higher cognitive functions,Medical & Anatomy
+grey matter,Brain tissue containing neuron cell bodies — the cerebral cortex,Medical & Anatomy
+white matter,Brain tissue containing myelinated axons — connects brain regions,Medical & Anatomy
+frontal lobe,"Controls executive function, personality, decision-making, and speech",Medical & Anatomy
+parietal lobe,"Processes touch, pain, temperature, and spatial awareness",Medical & Anatomy
+temporal lobe,"Involved in hearing, language comprehension, and memory",Medical & Anatomy
+occipital lobe,Primarily responsible for processing vision,Medical & Anatomy
+insula,"A brain region involved in emotion, pain perception, and interoception",Medical & Anatomy
+corpus callosum,The bundle of fibres connecting the two cerebral hemispheres,Medical & Anatomy
+cerebellum,"Coordinates movement, balance, and fine motor control",Medical & Anatomy
+brainstem,"Controls vital functions: breathing, heart rate, and consciousness",Medical & Anatomy
+midbrain,"Part of the brainstem involved in vision, hearing, and motor control",Medical & Anatomy
+pons,Part of the brainstem relaying signals and controlling sleep and breathing,Medical & Anatomy
+medulla oblongata,"The lowest brainstem region controlling heart rate, blood pressure, and breathing",Medical & Anatomy
+thalamus,A relay station routing sensory information to the appropriate cortex,Medical & Anatomy
+hypothalamus,"Regulates hunger, thirst, temperature, sleep, and hormones",Medical & Anatomy
+hippocampus,Critical for forming new memories and spatial navigation,Medical & Anatomy
+amygdala,"Processes emotions, especially fear and threat responses",Medical & Anatomy
+basal ganglia,Brain structures involved in voluntary motor control and habit formation,Medical & Anatomy
+spinal cord,The column of neural tissue relaying signals between brain and body,Medical & Anatomy
+reflex arc,A neural pathway for an automatic response without conscious brain involvement,Medical & Anatomy
+meninges,Three protective membranes covering the brain and spinal cord,Medical & Anatomy
+cerebrospinal fluid (CSF),Fluid cushioning and nourishing the brain and spinal cord,Medical & Anatomy
+blood-brain barrier,A selective barrier protecting the brain from harmful substances in the blood,Medical & Anatomy
+cranial nerves,12 pairs of nerves connecting the brain directly to the head and organs,Medical & Anatomy
+endocrine system,Glands secreting hormones directly into the bloodstream to regulate body functions,Medical & Anatomy
+hormone,A chemical messenger produced by a gland and carried in the blood,Medical & Anatomy
+target cell,A cell with receptors for a specific hormone,Medical & Anatomy
+negative feedback,A hormone's effect suppresses further hormone release — maintaining balance,Medical & Anatomy
+pituitary gland,The master gland at the base of the brain controlling other endocrine glands,Medical & Anatomy
+anterior pituitary,"Releases growth hormone, TSH, ACTH, FSH, LH, and prolactin",Medical & Anatomy
+posterior pituitary,Releases ADH and oxytocin,Medical & Anatomy
+growth hormone (GH),Stimulates growth and cell reproduction,Medical & Anatomy
+thyroid-stimulating hormone (TSH),Stimulates the thyroid gland to produce thyroid hormones,Medical & Anatomy
+thyroid gland,"Produces T3 and T4 regulating metabolism, growth, and development",Medical & Anatomy
+thyroxine (T4),The main thyroid hormone regulating metabolic rate,Medical & Anatomy
+parathyroid glands,Four tiny glands regulating blood calcium levels,Medical & Anatomy
+parathyroid hormone (PTH),"Raises blood calcium by acting on bone, kidneys, and intestine",Medical & Anatomy
+adrenal glands (endocrine),Sit above the kidneys — produce stress hormones and aldosterone,Medical & Anatomy
+adrenal cortex,"The outer part — produces cortisol, aldosterone, and androgens",Medical & Anatomy
+adrenal medulla,The inner part — produces adrenaline and noradrenaline,Medical & Anatomy
+cortisol (endocrine),A glucocorticoid regulating metabolism and the stress response,Medical & Anatomy
+aldosterone,A mineralocorticoid regulating blood pressure by controlling sodium and potassium,Medical & Anatomy
+adrenaline (epinephrine),"Released in stress — increases heart rate, dilates airways, raises blood sugar",Medical & Anatomy
+pancreas (endocrine),Islets of Langerhans produce insulin and glucagon,Medical & Anatomy
+insulin,Lowers blood glucose by promoting uptake into cells,Medical & Anatomy
+glucagon (endocrine),Raises blood glucose by stimulating glycogen breakdown in the liver,Medical & Anatomy
+gonads,The ovaries and testes — produce sex hormones and gametes,Medical & Anatomy
+oestrogen,Female sex hormone driving secondary sexual characteristics and the menstrual cycle,Medical & Anatomy
+progesterone,Female hormone maintaining pregnancy and regulating the uterus,Medical & Anatomy
+testosterone (anatomy),Male sex hormone driving secondary sexual characteristics and sperm production,Medical & Anatomy
+melatonin (anatomy),Produced by the pineal gland — regulates circadian rhythms and sleep,Medical & Anatomy
+oxytocin (anatomy),"Released by the posterior pituitary — promotes bonding, labour, and breastfeeding",Medical & Anatomy
+ADH / vasopressin,Antidiuretic hormone — promotes water retention in the kidneys,Medical & Anatomy
+prolactin,Stimulates milk production after childbirth,Medical & Anatomy
+leptin,A fat-cell hormone signalling satiety to the brain,Medical & Anatomy
+ghrelin,A stomach hormone stimulating hunger,Medical & Anatomy
+immune system,"The body's integrated defence network against infection, disease, and foreign substances",Medical & Anatomy
+innate immunity,The non-specific first line of defence present from birth,Medical & Anatomy
+adaptive immunity,"The specific, learned immune response generating memory after exposure",Medical & Anatomy
+antigen,Any substance triggering an immune response,Medical & Anatomy
+antibody,A Y-shaped protein produced by B-cells that binds to a specific antigen,Medical & Anatomy
+B-cell (B lymphocyte),An immune cell producing antibodies,Medical & Anatomy
+T-cell (T lymphocyte),An immune cell coordinating the immune response and killing infected cells,Medical & Anatomy
+cytotoxic T-cell,"Kills infected, cancerous, or foreign cells directly",Medical & Anatomy
+helper T-cell,Coordinates the immune response by signalling other immune cells,Medical & Anatomy
+regulatory T-cell,"Suppresses excessive immune responses, preventing autoimmunity",Medical & Anatomy
+natural killer (NK) cell,An innate immune cell destroying infected or tumour cells without prior sensitisation,Medical & Anatomy
+macrophage,A large innate immune cell engulfing pathogens and debris,Medical & Anatomy
+neutrophil,The most abundant white blood cell — first responder to bacterial infection,Medical & Anatomy
+dendritic cell,An immune cell presenting antigens to T-cells to activate adaptive immunity,Medical & Anatomy
+complement system,A cascade of proteins enhancing immune responses,Medical & Anatomy
+inflammation (immune),"The body's response to injury — redness, heat, swelling, and pain",Medical & Anatomy
+cytokine,A small protein coordinating communication between immune cells,Medical & Anatomy
+interferon,A cytokine released by virus-infected cells warning neighbouring cells,Medical & Anatomy
+interleukin,A cytokine regulating immune cell development and communication,Medical & Anatomy
+immunological memory,The ability of the immune system to respond faster and stronger after second exposure,Medical & Anatomy
+active immunity,Immunity developed after exposure to an antigen — natural infection or vaccination,Medical & Anatomy
+passive immunity,Immunity received from antibodies made by another individual (e.g. maternal antibodies),Medical & Anatomy
+vaccine (anatomy),A preparation stimulating the immune system without causing disease,Medical & Anatomy
+herd immunity,When enough people are immune that a disease cannot spread easily,Medical & Anatomy
+allergy (anatomy),An exaggerated immune response to a normally harmless substance,Medical & Anatomy
+anaphylaxis (anatomy),"A severe, rapid, life-threatening allergic reaction",Medical & Anatomy
+autoimmune disease (anatomy),The immune system mistakenly attacks the body's own tissues,Medical & Anatomy
+immunodeficiency,An inability to mount an adequate immune response,Medical & Anatomy
+HIV,Human Immunodeficiency Virus — progressively destroys helper T-cells,Medical & Anatomy
+AIDS,Acquired Immunodeficiency Syndrome — the final stage of HIV infection,Medical & Anatomy
+immunosuppression,Deliberately reducing immune activity — used after transplants,Medical & Anatomy
+urinary system,"Kidneys, ureters, bladder, and urethra — filters waste from blood",Medical & Anatomy
+kidney,A paired bean-shaped organ filtering blood and producing urine,Medical & Anatomy
+renal cortex,The outer region of the kidney containing nephrons,Medical & Anatomy
+renal medulla,The inner region of the kidney containing collecting ducts,Medical & Anatomy
+nephron,The functional unit of the kidney — each kidney has about 1 million,Medical & Anatomy
+glomerulus,A capillary knot in the nephron where filtration begins,Medical & Anatomy
+Bowman's capsule,The cup surrounding the glomerulus collecting the filtrate,Medical & Anatomy
+renal tubule,The tube in the nephron where filtered substances are selectively reabsorbed,Medical & Anatomy
+urine,"The waste fluid produced by the kidneys — water, urea, salts",Medical & Anatomy
+ureter,The tube carrying urine from the kidney to the bladder,Medical & Anatomy
+bladder,The muscular sac storing urine until it is expelled,Medical & Anatomy
+urethra,The tube carrying urine from the bladder to the outside of the body,Medical & Anatomy
+GFR (glomerular filtration rate),A measure of how well the kidneys filter blood — key for kidney health,Medical & Anatomy
+creatinine,A waste product filtered by kidneys — high levels indicate kidney problems,Medical & Anatomy
+urea,A waste product of protein metabolism excreted in urine,Medical & Anatomy
+reproductive system,The organs involved in producing offspring,Medical & Anatomy
+testes,Male gonads producing sperm and testosterone,Medical & Anatomy
+epididymis,A coiled tube where sperm mature and are stored,Medical & Anatomy
+vas deferens,The tube carrying sperm from the epididymis to the urethra,Medical & Anatomy
+seminal vesicles,Glands producing fluid that forms most of semen,Medical & Anatomy
+prostate gland,A gland producing fluid that protects and nourishes sperm,Medical & Anatomy
+sperm,Male reproductive cells carrying half the genetic information,Medical & Anatomy
+ovaries,Female gonads producing eggs and sex hormones,Medical & Anatomy
+follicle,A fluid-filled sac in the ovary containing a developing egg,Medical & Anatomy
+ovum / egg,The female reproductive cell,Medical & Anatomy
+fallopian tube,The tube carrying the egg from the ovary to the uterus,Medical & Anatomy
+uterus,The muscular organ where a fertilised egg implants and a fetus develops,Medical & Anatomy
+endometrium,The inner lining of the uterus shed during menstruation,Medical & Anatomy
+cervix,The lower narrow part of the uterus opening into the vagina,Medical & Anatomy
+vagina,The muscular canal connecting the uterus to the outside,Medical & Anatomy
+menstrual cycle,The monthly cycle preparing the uterus for possible pregnancy,Medical & Anatomy
+ovulation,The release of a mature egg from the ovary,Medical & Anatomy
+fertilisation,The fusion of sperm and egg forming a zygote,Medical & Anatomy
+implantation,A fertilised egg embedding itself in the uterine wall,Medical & Anatomy
+embryo,A developing organism in the first eight weeks after fertilisation,Medical & Anatomy
+fetus,A developing organism from eight weeks after fertilisation until birth,Medical & Anatomy
+placenta,The organ supplying the fetus with oxygen and nutrients from the mother's blood,Medical & Anatomy
+umbilical cord,The cord connecting the fetus to the placenta,Medical & Anatomy
+labour,The process of childbirth — contractions opening the cervix and delivering the baby,Medical & Anatomy
+integumentary system,"The skin, hair, nails, and associated glands — the body's outer covering",Medical & Anatomy
+epidermis,The outermost layer of skin,Medical & Anatomy
+dermis,"The middle layer of skin containing glands, hair follicles, and blood vessels",Medical & Anatomy
+hypodermis / subcutis,The deepest skin layer — mainly fat providing insulation and cushioning,Medical & Anatomy
+melanin,The pigment in skin determining colour and providing some UV protection,Medical & Anatomy
+melanocyte,A skin cell producing melanin,Medical & Anatomy
+keratin,"A tough protein forming the structure of skin, hair, and nails",Medical & Anatomy
+sebaceous gland,An oil-producing gland in the skin lubricating hair and skin,Medical & Anatomy
+sweat gland,A skin gland producing sweat for thermoregulation and waste removal,Medical & Anatomy
+hair follicle,A structure in the skin from which a hair grows,Medical & Anatomy
+nail,A hard keratin plate at the tip of each finger and toe,Medical & Anatomy
+collagen,The most abundant protein in the body — gives skin strength and elasticity,Medical & Anatomy
+elastin,A protein giving skin and other tissues their elastic recoil,Medical & Anatomy
+wound healing,"The process of skin repair after injury — haemostasis, inflammation, proliferation, remodelling",Medical & Anatomy
+hypertension (anatomy),Persistently elevated blood pressure increasing risk of heart disease and stroke,Medical & Anatomy
+hypotension (anatomy),Abnormally low blood pressure causing dizziness or fainting,Medical & Anatomy
+atherosclerosis,Build-up of fatty plaques inside artery walls narrowing them,Medical & Anatomy
+angina,Chest pain from reduced blood supply to the heart muscle,Medical & Anatomy
+myocardial infarction (MI),Heart attack — death of heart muscle from blocked coronary artery,Medical & Anatomy
+heart failure,The heart cannot pump enough blood to meet the body's needs,Medical & Anatomy
+arrhythmia (anatomy),An abnormal heart rhythm,Medical & Anatomy
+atrial fibrillation,"An irregular, rapid heart rhythm from chaotic atrial electrical activity",Medical & Anatomy
+stroke (anatomy),Brain damage from interrupted blood supply — ischaemic or haemorrhagic,Medical & Anatomy
+ischaemic stroke,Stroke caused by a blood clot blocking a brain artery,Medical & Anatomy
+haemorrhagic stroke,Stroke caused by a burst blood vessel bleeding into the brain,Medical & Anatomy
+TIA (transient ischaemic attack),A brief stroke-like episode with no lasting damage — a warning sign,Medical & Anatomy
+deep vein thrombosis (DVT),"A blood clot forming in a deep vein, usually the leg",Medical & Anatomy
+pulmonary embolism,A blood clot travelling to and blocking a pulmonary artery,Medical & Anatomy
+anaemia (anatomy),Insufficient red blood cells or haemoglobin — causing fatigue and pallor,Medical & Anatomy
+iron-deficiency anaemia,The most common type — caused by insufficient dietary iron,Medical & Anatomy
+asthma (anatomy),"A chronic condition with episodes of airway narrowing, wheezing, and breathlessness",Medical & Anatomy
+COPD (anatomy),Chronic lung disease — usually emphysema and/or chronic bronchitis from smoking,Medical & Anatomy
+pneumonia (anatomy),"Infection inflaming the alveoli — can be bacterial, viral, or fungal",Medical & Anatomy
+tuberculosis (TB),A bacterial infection primarily affecting the lungs,Medical & Anatomy
+lung cancer,Malignant tumour in the lung — strongly linked to smoking,Medical & Anatomy
+GERD / acid reflux,Stomach acid repeatedly leaking into the oesophagus,Medical & Anatomy
+peptic ulcer,A sore on the lining of the stomach or duodenum,Medical & Anatomy
+appendicitis,Inflammation of the appendix — requires emergency surgery,Medical & Anatomy
+Crohn's disease,An inflammatory bowel disease affecting any part of the digestive tract,Medical & Anatomy
+ulcerative colitis,Inflammatory bowel disease causing ulcers in the colon and rectum,Medical & Anatomy
+cirrhosis,Severe liver scarring replacing healthy tissue — usually from alcohol or hepatitis,Medical & Anatomy
+hepatitis,"Inflammation of the liver — various viral types (A, B, C, D, E)",Medical & Anatomy
+diabetes mellitus (anatomy),A metabolic disorder causing elevated blood glucose,Medical & Anatomy
+type 1 diabetes (anatomy),Autoimmune destruction of insulin-producing beta cells — requires insulin injection,Medical & Anatomy
+type 2 diabetes (anatomy),Insulin resistance — cells don't respond to insulin properly,Medical & Anatomy
+hypothyroidism,"Underactive thyroid — fatigue, weight gain, cold intolerance",Medical & Anatomy
+hyperthyroidism,"Overactive thyroid — weight loss, anxiety, rapid heart rate",Medical & Anatomy
+cancer (anatomy),Uncontrolled division of abnormal cells that can invade surrounding tissue,Medical & Anatomy
+benign tumour (anatomy),An abnormal growth that does not invade surrounding tissue,Medical & Anatomy
+malignant tumour (anatomy),A cancerous growth capable of invading tissue and spreading,Medical & Anatomy
+metastasis (anatomy),Spread of cancer cells from the primary site to other parts of the body,Medical & Anatomy
+carcinoma,Cancer arising from epithelial cells — the most common type,Medical & Anatomy
+sarcoma,Cancer arising from connective tissues like bone or muscle,Medical & Anatomy
+leukaemia,Cancer of blood-forming tissues causing overproduction of abnormal blood cells,Medical & Anatomy
+lymphoma,Cancer of the lymphatic system,Medical & Anatomy
+sepsis (anatomy),Life-threatening organ dysfunction from an excessive response to infection,Medical & Anatomy
+shock (medical),Life-threatening failure of the circulatory system to deliver enough blood,Medical & Anatomy
+fracture (anatomy),A break in a bone,Medical & Anatomy
+stress fracture,A small crack in bone from repeated loading,Medical & Anatomy
+dislocation,A joint being forced out of its normal position,Medical & Anatomy
+sprain (anatomy),Stretching or tearing of a ligament,Medical & Anatomy
+strain,Stretching or tearing of a muscle or tendon,Medical & Anatomy
+concussion (anatomy),A mild traumatic brain injury from a blow causing temporary cognitive disruption,Medical & Anatomy
+osteoarthritis,Degenerative joint disease — cartilage breaks down causing pain and stiffness,Medical & Anatomy
+rheumatoid arthritis,An autoimmune condition attacking the synovial membrane of joints,Medical & Anatomy
+osteoporosis (anatomy),Loss of bone density making bones brittle and fracture-prone,Medical & Anatomy
+Parkinson's disease (anatomy),Progressive degeneration of dopamine-producing neurons causing tremor and rigidity,Medical & Anatomy
+Alzheimer's disease (anatomy),Progressive dementia from accumulation of amyloid plaques and tau tangles,Medical & Anatomy
+multiple sclerosis (anatomy),Immune attack on the myelin sheath disrupting nerve signal transmission,Medical & Anatomy
+epilepsy (anatomy),A neurological condition causing recurrent seizures from abnormal brain activity,Medical & Anatomy
+migraine,A severe recurrent headache often with nausea and light sensitivity,Medical & Anatomy
+diagnosis (medical),"Identifying a disease or condition from signs, symptoms, and investigations",Medical & Anatomy
+differential diagnosis,A list of possible diagnoses being considered for a patient,Medical & Anatomy
+prognosis (medical),The expected outcome or course of a disease,Medical & Anatomy
+symptom (medical),"A subjective change noticed by the patient (e.g. pain, fatigue)",Medical & Anatomy
+sign (medical),"An objective, measurable indicator of disease found by a clinician",Medical & Anatomy
+syndrome (medical),A recognised pattern of signs and symptoms,Medical & Anatomy
+acute (medical),A condition with sudden onset and short duration,Medical & Anatomy
+chronic (medical),A condition lasting months or years,Medical & Anatomy
+benign (medical),Not harmful or cancerous,Medical & Anatomy
+malignant (medical),Cancerous; likely to invade and spread,Medical & Anatomy
+idiopathic,Having no known cause,Medical & Anatomy
+iatrogenic,Caused inadvertently by medical treatment,Medical & Anatomy
+aetiology,The cause or origin of a disease,Medical & Anatomy
+pathogenesis,The mechanism by which a disease develops,Medical & Anatomy
+morbidity,The state of being ill or having a disease,Medical & Anatomy
+mortality (medical),Death from a disease or condition,Medical & Anatomy
+incidence,The rate of new cases of a disease in a population over a time period,Medical & Anatomy
+prevalence,The proportion of a population with a disease at a given time,Medical & Anatomy
+vital signs (medical),"Key body measurements: temperature, pulse, blood pressure, respiratory rate",Medical & Anatomy
+blood test (medical),"Analysis of a blood sample for disease markers, counts, and chemistry",Medical & Anatomy
+full blood count (FBC),A blood test measuring cells and platelets,Medical & Anatomy
+biopsy (medical),Removing a tissue sample for microscopic examination,Medical & Anatomy
+X-ray (medical anatomy),Imaging using radiation — best for dense structures like bones,Medical & Anatomy
+CT scan (anatomy),Cross-sectional images created by X-rays from multiple angles,Medical & Anatomy
+MRI (anatomy),High-detail images using magnetic fields — best for soft tissue,Medical & Anatomy
+PET scan,Imaging using radioactive glucose to show metabolic activity,Medical & Anatomy
+ultrasound (anatomy),Sound-wave imaging — safe for pregnancy and soft tissues,Medical & Anatomy
+endoscopy (anatomy),A camera on a tube inserted into the body to view internal structures,Medical & Anatomy
+surgery (anatomy),Physical intervention cutting into the body to diagnose or treat disease,Medical & Anatomy
+laparoscopy,Keyhole surgery using a camera and small incisions,Medical & Anatomy
+general anaesthesia (anatomy),Drug-induced unconsciousness for surgery,Medical & Anatomy
+local anaesthesia (anatomy),Numbing a specific area for a minor procedure,Medical & Anatomy
+CPR (anatomy),Cardiopulmonary Resuscitation — chest compressions and rescue breaths,Medical & Anatomy
+defibrillation,An electric shock restoring normal heart rhythm,Medical & Anatomy
+intubation (anatomy),Inserting a tube into the trachea to maintain an open airway,Medical & Anatomy
+IV / intravenous,Into a vein — a route for fluids and drugs,Medical & Anatomy
+blood transfusion,Receiving donated blood or blood products,Medical & Anatomy
+organ transplant,Replacing a failing organ with a healthy one from a donor,Medical & Anatomy
+dialysis (anatomy),An artificial process filtering waste from the blood when the kidneys fail,Medical & Anatomy
+chemotherapy (anatomy),Drug treatment targeting rapidly dividing cancer cells,Medical & Anatomy
+radiotherapy (anatomy),Using ionising radiation to kill cancer cells,Medical & Anatomy
+immunotherapy,Using the immune system to treat cancer or other diseases,Medical & Anatomy
+prescription (medical),A written instruction from a doctor authorising a patient to receive medication,Medical & Anatomy
+dose (medical),The quantity of a drug taken at one time,Medical & Anatomy
+pharmacokinetics,"How the body absorbs, distributes, metabolises, and excretes a drug",Medical & Anatomy
+pharmacodynamics,How a drug acts on the body,Medical & Anatomy
+contraindication (medical),A reason a particular treatment should not be used,Medical & Anatomy
+side effect (medical),An unintended effect of a drug or treatment,Medical & Anatomy
+placebo (medical),An inactive treatment used in trials as a comparison,Medical & Anatomy
+clinical trial (anatomy),A research study testing safety and effectiveness of a new treatment,Medical & Anatomy
+triage (anatomy),Sorting patients by urgency of their medical need,Medical & Anatomy
+palliative care (anatomy),Care focused on comfort and quality of life rather than cure,Medical & Anatomy
+hospice (anatomy),Specialised care for those in the final stages of terminal illness,Medical & Anatomy
+BMI (anatomy),Body Mass Index — weight (kg) divided by height squared (m²),Medical & Anatomy
+informed consent (anatomy),A patient's agreement to treatment after being told the risks and alternatives,Medical & Anatomy
+general practitioner (GP anatomy),A doctor providing primary care across all health conditions,Medical & Anatomy
+specialist (anatomy),A doctor with advanced training in one area of medicine,Medical & Anatomy
+cardiologist,A doctor specialising in heart disease,Medical & Anatomy
+neurologist,A doctor specialising in the brain and nervous system,Medical & Anatomy
+oncologist,A doctor specialising in cancer,Medical & Anatomy
+orthopaedic surgeon,A surgeon specialising in the musculoskeletal system,Medical & Anatomy
+dermatologist,A doctor specialising in skin conditions,Medical & Anatomy
+endocrinologist,A doctor specialising in hormonal disorders,Medical & Anatomy
+gastroenterologist,A doctor specialising in the digestive system,Medical & Anatomy
+pulmonologist,A doctor specialising in lung and respiratory conditions,Medical & Anatomy
+nephrologist,A doctor specialising in kidney disease,Medical & Anatomy
+urologist,A doctor specialising in the urinary system and male reproductive health,Medical & Anatomy
+gynaecologist,A doctor specialising in female reproductive health,Medical & Anatomy
+obstetrician,"A doctor specialising in pregnancy, labour, and childbirth",Medical & Anatomy
+paediatrician,A doctor specialising in the health of children,Medical & Anatomy
+psychiatrist,A medical doctor specialising in mental health disorders,Medical & Anatomy
+haematologist,A doctor specialising in blood disorders,Medical & Anatomy
+radiologist,A doctor interpreting medical images,Medical & Anatomy
+pathologist,A doctor diagnosing disease through laboratory analysis of tissues and fluids,Medical & Anatomy
+anaesthetist,A doctor managing anaesthesia and pain during surgery,Medical & Anatomy
+emergency medicine,"Medical care for acute, life-threatening conditions",Medical & Anatomy
+intensive care unit (ICU),A specialist unit caring for critically ill patients requiring constant monitoring,Medical & Anatomy
+pharmacist (anatomy),A healthcare professional dispensing medications and advising on their use,Medical & Anatomy
+physiotherapist,A healthcare professional treating movement and physical function problems,Medical & Anatomy
+occupational therapist,Helps people regain independence in daily activities after illness or injury,Medical & Anatomy
+speech and language therapist,Treats communication disorders and swallowing difficulties,Medical & Anatomy
+nurse (anatomy),A healthcare professional providing direct patient care and coordinating treatment,Medical & Anatomy
+paramedic,An emergency healthcare professional treating patients before hospital arrival,Medical & Anatomy

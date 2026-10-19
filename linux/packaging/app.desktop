@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=komak
+Name[fa]=کمک
+Name[ja]=コマク
+Name[ru]=Комак
+Comment=psdk komak - learn small things, a little at a time.
+Exec=komak
+Icon=ir.psdkjoon.komak
+Terminal=false
+Categories=Utility;
+StartupWMClass=ir.psdkjoon.komak

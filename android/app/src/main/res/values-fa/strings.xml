@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کمک</string>
+    <string name="notification_channel">اعلان‌ها</string>
+    <string name="tile_off">خاموش</string>
+    <string name="tile_busy">در حال کار…</string>
+    <string name="tile_on">روشن</string>
+    <string name="reminder_channel">یادآورها</string>
+    <string name="service_channel">فعالیت پس‌زمینه</string>
+    <string name="service_running">در حال اجرا در پس‌زمینه</string>
+    <string name="service_stop">توقف</string>
+    <string name="copied">کپی شد</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="saved_to_downloads">در پوشهٔ دانلودها ذخیره شد</string>
+    <string name="biometric_title">باز کردن قفل</string>
+    <string name="biometric_cancel">لغو</string>
+    <string name="widget_description">میان‌بر برنامه روی صفحهٔ اصلی</string>
+    <string name="widget_open">برای باز کردن لمس کنید</string>
+</resources>

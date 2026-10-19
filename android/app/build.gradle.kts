@@ -28,6 +28,8 @@ android {
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
+        manifestPlaceholders["deepLinkScheme"] = "komak".replace('_', '-')
+        manifestPlaceholders["deepLinkHost"] = "example.com"
     }
 
     signingConfigs {
@@ -43,7 +45,6 @@ android {
 
     buildTypes {
         release {
-            // Falls back to the debug key when android/key.properties is absent (local builds, PRs).
             signingConfig = if (keystorePropertiesFile.exists()) {
                 signingConfigs.getByName("release")
             } else {
@@ -61,4 +62,8 @@ kotlin {
 
 flutter {
     source = "../.."
+}
+
+dependencies {
+    implementation("androidx.work:work-runtime:2.9.1")
 }

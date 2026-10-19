@@ -14,7 +14,11 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  FLUTTER_VERSION: "3.47.5"
+  ANDROID_HOME: /usr/local/lib/android/sdk
+  ANDROID_SDK_ROOT: /usr/local/lib/android/sdk
+  FLUTTER_VERSION: "3.47.3"
+  BUILD_TOOLS_VERSION: "37.0.0"
+  NDK_VERSION: "28.2.13676358"
 
 jobs:
   check:
@@ -25,18 +29,21 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
           cache: true
 
-      - name: Read version from pubspec.yaml
+      - name: Check VERSION matches the app
         run: |
-          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
-          echo "komak version: $version"
-          test -n "$version"
+          file_version="$(tr -d '[:space:]' < VERSION)"
+          app_version="$(grep -oP "version = '\K[^']+" lib/app_info.dart)"
+          pubspec_version="$(grep -oP '^version: \K[^+\s]+' pubspec.yaml)"
+          echo "VERSION=$file_version app_info=$app_version pubspec=$pubspec_version"
+          test -n "$file_version"
+          test "$file_version" = "$app_version"
+          test "$file_version" = "$pubspec_version"
 
       - run: flutter pub get
       - run: flutter analyze
-      - name: Test
-        run: if [ -d test ]; then flutter test; else echo "no test/ directory, skipping"; fi
 
   android:
     needs: check
@@ -44,9 +51,13 @@ jobs:
     timeout-minutes: 45
     env:
       HAS_KEYSTORE: ${{ secrets.ANDROID_KEYSTORE_BASE64 != '' }}
-
     steps:
       - uses: actions/checkout@v4
+
+      - name: Read app info
+        run: |
+          title="$(sed -n "s/.*static const String name = '\([^']*\)'.*/\1/p" lib/app_info.dart | head -1)"
+          echo "APP_FILE=${title// /-}" >> "$GITHUB_ENV"
 
       - uses: actions/setup-java@v4
         with:
@@ -57,16 +68,30 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
           cache: true
 
-      - name: Accept Android SDK licenses
-        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses >/dev/null || true
-
-      - name: Read version from pubspec.yaml
+      - name: Install Android build-tools & NDK
         run: |
-          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
-          test -n "$version"
-          echo "VERSION=$version" >> "$GITHUB_ENV"
+          SDKMANAGER="$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"
+          echo "Using sdkmanager: $SDKMANAGER"
+          yes | "$SDKMANAGER" --licenses >/dev/null || true
+          for attempt in 1 2 3; do
+            if "$SDKMANAGER" \
+                "build-tools;${{ env.BUILD_TOOLS_VERSION }}" \
+                "ndk;${{ env.NDK_VERSION }}"; then
+              break
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              echo "sdkmanager failed after $attempt attempts" >&2
+              exit 1
+            fi
+            echo "sdkmanager failed (attempt $attempt), retrying..." >&2
+            rm -rf "$ANDROID_HOME/ndk/${{ env.NDK_VERSION }}" \
+                   "$ANDROID_HOME/.temp" "$ANDROID_HOME/.downloadIntermediates"
+            sleep $((attempt * 15))
+          done
+          test -x "$ANDROID_HOME/ndk/${{ env.NDK_VERSION }}/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip"
 
       - name: Decode keystore
         if: env.HAS_KEYSTORE == 'true'
@@ -90,26 +115,57 @@ jobs:
 
       - run: flutter pub get
 
-      - name: Build universal release APK
+      - name: Compute versionCode
         run: |
-          flutter build apk --release --split-debug-info=build/symbols
-          mv build/app/outputs/flutter-apk/app-release.apk build/app/outputs/flutter-apk/komak-${VERSION}-universal.apk
+          version="$(tr -d '[:space:]' < VERSION)"
+          IFS=. read -r major minor patch <<<"$version"
+          echo "VERSION_CODE=$((major * 1000000 + minor * 1000 + patch))" >> "$GITHUB_ENV"
 
-      - name: Build split-per-ABI release APKs
+      - name: Build release APKs (universal + one per ABI)
         run: |
-          flutter build apk --release --split-per-abi --split-debug-info=build/symbols
-          cd build/app/outputs/flutter-apk
-          for f in app-*-release.apk; do
-            abi="${f#app-}"
-            abi="${abi%-release.apk}"
-            mv "$f" "komak-${VERSION}-${abi}.apk"
+          out=build/app/outputs/flutter-apk
+          flutter build apk --release --build-number="$VERSION_CODE" --split-debug-info=build/symbols
+          mv "$out/app-release.apk" "$out/app-universal-release.apk"
+          for pair in arm64-v8a:android-arm64 armeabi-v7a:android-arm x86_64:android-x64; do
+            abi="${pair%%:*}"
+            platform="${pair##*:}"
+            flutter build apk --release --build-number="$VERSION_CODE" \
+              --target-platform "$platform" --split-debug-info=build/symbols
+            mv "$out/app-release.apk" "$out/app-$abi-release.apk"
           done
-          ls -l komak-*.apk
+          ls -l "$out"
+
+      - name: Strip, zipalign & sign
+        if: env.HAS_KEYSTORE == 'true'
+        run: bash ./scripts/strip.sh
+        env:
+          APK_OUTPUT_DIR: build/app/outputs/flutter-apk
+          BUILD_TOOLS_DIR: ${{ env.ANDROID_HOME }}/build-tools/${{ env.BUILD_TOOLS_VERSION }}
+          STRIP_TOOL: ${{ env.ANDROID_HOME }}/ndk/${{ env.NDK_VERSION }}/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip
+          KEYSTORE_PATH: ${{ runner.temp }}/upload-keystore.jks
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+
+      - name: Verify APK native libs per ABI
+        if: env.HAS_KEYSTORE == 'true'
+        run: bash ./scripts/verify-apk.sh
+        env:
+          APK_OUTPUT_DIR: build/app/outputs/flutter-apk
+          BUILD_TOOLS_DIR: ${{ env.ANDROID_HOME }}/build-tools/${{ env.BUILD_TOOLS_VERSION }}
 
       - uses: actions/upload-artifact@v4
+        if: env.HAS_KEYSTORE == 'true'
         with:
-          name: android-apks
-          path: build/app/outputs/flutter-apk/komak-*.apk
+          name: android-signed-apks
+          path: build/app/outputs/flutter-apk/${{ env.APP_FILE }}-*.apk
+          if-no-files-found: error
+
+      - uses: actions/upload-artifact@v4
+        if: env.HAS_KEYSTORE != 'true'
+        with:
+          name: android-unsigned-apks
+          path: build/app/outputs/flutter-apk/app-*-release.apk
           if-no-files-found: error
 
       - uses: actions/upload-artifact@v4
@@ -122,7 +178,6 @@ jobs:
   linux:
     needs: check
     timeout-minutes: 45
-
     strategy:
       fail-fast: false
       matrix:
@@ -133,30 +188,26 @@ jobs:
           - arch: aarch64
             runner: ubuntu-22.04-arm
             bundle: arm64
-
     runs-on: ${{ matrix.runner }}
-
     steps:
       - uses: actions/checkout@v4
+
+      - name: Read app info
+        run: |
+          echo "APP_NAME=$(sed -n 's/^name: *//p' pubspec.yaml | head -1 | tr -d '[:space:]')" >> "$GITHUB_ENV"
 
       - name: Install Linux desktop build deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y \
-            clang cmake ninja-build pkg-config \
-            libgtk-3-dev liblzma-dev libstdc++-12-dev \
-            libasound2-dev libfuse2 \
-            libopus-dev libogg-dev libvorbis-dev libflac-dev patchelf
+          sudo apt-get install -y clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev libstdc++-12-dev libfuse2
 
-      # x86_64: use flutter-action
       - uses: subosito/flutter-action@v2
         if: matrix.arch == 'x86_64'
         with:
           flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
           cache: true
 
-      # ARM64: install Flutter directly because flutter-action
-      # cannot resolve stable Flutter versions for arm64.
       - name: Install Flutter (arm64)
         if: matrix.arch == 'aarch64'
         run: |
@@ -164,83 +215,20 @@ jobs:
           echo "$HOME/flutter/bin" >> "$GITHUB_PATH"
           "$HOME/flutter/bin/flutter" --version
 
-      - name: Read version from pubspec.yaml
-        run: |
-          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
-          test -n "$version"
-          echo "VERSION=$version" >> "$GITHUB_ENV"
-
       - run: flutter pub get
-
-      # flutter_soloud ships prebuilt x86_64-only codec libs in linux/libs.
-      # On arm64 the linker rejects them ("file in wrong format"), so replace
-      # them with the system arm64 libs, renaming sonames/needed entries to the
-      # unversioned names so they resolve from the bundle at runtime.
-      - name: Swap x86_64 prebuilt codec libs for arm64 (flutter_soloud)
-        if: matrix.arch == 'aarch64'
-        run: |
-          libs="$(find "$HOME/.pub-cache/hosted/pub.dev" -maxdepth 3 -type d -path '*/flutter_soloud-*/linux/libs' | head -n1)"
-          test -d "$libs"
-          echo "libs dir: $libs"
-          file "$libs"/*.so
-          sys=/usr/lib/aarch64-linux-gnu
-          for n in FLAC opus ogg vorbis vorbisfile; do
-            rm -f "$libs/lib$n.so"
-            cp -L "$sys/lib$n.so" "$libs/lib$n.so"
-            chmod u+w "$libs/lib$n.so"
-            patchelf --set-soname "lib$n.so" "$libs/lib$n.so"
-          done
-          for f in "$libs"/*.so; do
-            for need in $(patchelf --print-needed "$f" | grep -E '^lib(FLAC|opus|ogg|vorbis|vorbisfile)\.so\.[0-9]+' || true); do
-              patchelf --replace-needed "$need" "${need%%.so.*}.so" "$f"
-            done
-          done
-          file "$libs"/*.so
-
-      - name: Build Linux
-        shell: bash
-        run: |
-          set -o pipefail
-          flutter build linux --release -v 2>&1 | tee build.log
-
-      # Surfaces the real linker error hidden under the SoLoud warnings.
-      - name: Show build errors
-        if: failure()
-        run: grep -iE "error|undefined|cannot find|unable to find" -B3 build.log | tail -n 80 || true
+      - run: flutter build linux --release
 
       - name: Check the bundle
         run: |
-          bundle=build/linux/${{ matrix.bundle }}/release/bundle
-          test -x "$bundle/komak"
-          test -f "$bundle/data/icons/komak.png"
-          test -f "$bundle/data/flutter_assets/assets/sounds/tap.wav"
+          test -x "build/linux/${{ matrix.bundle }}/release/bundle/$APP_NAME"
+          test -f "build/linux/${{ matrix.bundle }}/release/bundle/lib/libapp.so"
 
       - name: Build AppImage
+        run: bash ./scripts/appimage.sh
         env:
           ARCH: ${{ matrix.arch }}
-        run: |
-          bundle=build/linux/${{ matrix.bundle }}/release/bundle
-
-          rm -rf AppDir && mkdir -p AppDir/usr/bin dist
-          cp -a "$bundle"/. AppDir/usr/bin/
-
-          cp linux/packaging/ir.psdkjoon.komak.desktop AppDir/ir.psdkjoon.komak.desktop
-          cp linux/icons/komak.png AppDir/komak.png
-          mkdir -p AppDir/usr/share/icons/hicolor/512x512/apps
-          cp linux/icons/komak.png AppDir/usr/share/icons/hicolor/512x512/apps/komak.png
-
-          cat > AppDir/AppRun <<'RUN'
-          #!/bin/sh
-          HERE="$(dirname "$(readlink -f "$0")")"
-          exec "$HERE/usr/bin/komak" "$@"
-          RUN
-
-          chmod +x AppDir/AppRun
-
-          curl -fsSL -o appimagetool \
-            "https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-${ARCH}.AppImage"
-          chmod +x appimagetool
-          ./appimagetool --appimage-extract-and-run AppDir "dist/komak-${VERSION}-${ARCH}.AppImage"
+          BUNDLE_DIR: build/linux/${{ matrix.bundle }}/release/bundle
+          OUTPUT_DIR: ${{ github.workspace }}/dist
 
       - uses: actions/upload-artifact@v4
         with:
@@ -248,20 +236,122 @@ jobs:
           path: dist/*.AppImage
           if-no-files-found: error
 
+  windows:
+    needs: check
+    runs-on: windows-latest
+    timeout-minutes: 45
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read app info
+        run: |
+          name="$(sed -n 's/^name: *//p' pubspec.yaml | head -1 | tr -d '[:space:]')"
+          title="$(sed -n "s/.*static const String name = '\([^']*\)'.*/\1/p" lib/app_info.dart | head -1)"
+          echo "APP_NAME=$name" >> "$GITHUB_ENV"
+          echo "APP_TITLE=$title" >> "$GITHUB_ENV"
+          echo "APP_FILE=${title// /-}" >> "$GITHUB_ENV"
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - run: flutter pub get
+      - run: flutter build windows --release
+
+      - name: Check the bundle
+        run: |
+          dir=build/windows/x64/runner/Release
+          test -f "$dir/$APP_NAME.exe"
+          test -f "$dir/flutter_windows.dll"
+          test -f "$dir/data/app.so"
+          test -f "$dir/data/icudtl.dat"
+
+      - name: Bundle the Visual C++ runtime
+        run: |
+          dir=build/windows/x64/runner/Release
+          for dll in msvcp140.dll vcruntime140.dll vcruntime140_1.dll; do
+            cp "/c/Windows/System32/$dll" "$dir/" || echo "warning: $dll not found"
+          done
+
+      - name: Build installer
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path dist | Out-Null
+          $version = (Get-Content VERSION -Raw).Trim()
+          $iscc = (Get-Command iscc -ErrorAction SilentlyContinue).Source
+          if (-not $iscc) {
+            $iscc = @(
+              "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe",
+              "$env:ProgramFiles\Inno Setup 6\ISCC.exe"
+            ) | Where-Object { Test-Path $_ } | Select-Object -First 1
+          }
+          if (-not $iscc) {
+            choco install innosetup -y --no-progress
+            $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+          }
+          $md5 = [System.Security.Cryptography.MD5]::Create()
+          $hash = $md5.ComputeHash([System.Text.Encoding]::UTF8.GetBytes("${{ github.repository }}"))
+          $guid = [System.Guid]::new($hash).ToString().ToUpper()
+          $setup = "$env:APP_FILE-windows-x64-setup"
+          & $iscc `
+            "/DAppName=$env:APP_TITLE" `
+            "/DAppExe=$env:APP_NAME.exe" `
+            "/DAppVersion=$version" `
+            "/DAppGuid=$guid" `
+            "/DAppPublisher=${{ github.repository_owner }}" `
+            "/DAppUrl=${{ github.server_url }}/${{ github.repository }}" `
+            "/DOutputBaseName=$setup" `
+            windows/installer/installer.iss
+          if ($LASTEXITCODE -ne 0) { throw "iscc failed ($LASTEXITCODE)" }
+          if (-not (Test-Path "dist/$setup.exe")) { throw "installer missing" }
+
+      - name: Test the installer (silent install, check, uninstall)
+        shell: pwsh
+        run: |
+          $dir = Join-Path $env:RUNNER_TEMP "app-install"
+          $p = Start-Process -FilePath "dist/$env:APP_FILE-windows-x64-setup.exe" `
+            -ArgumentList "/VERYSILENT","/SUPPRESSMSGBOXES","/NORESTART","/NOICONS","/DIR=$dir" `
+            -Wait -PassThru
+          if ($p.ExitCode -ne 0) { throw "installer exited with $($p.ExitCode)" }
+          foreach ($f in "$env:APP_NAME.exe","flutter_windows.dll","data\app.so","data\icudtl.dat","unins000.exe") {
+            if (-not (Test-Path (Join-Path $dir $f))) { throw "missing after install: $f" }
+          }
+          $app = Start-Process -FilePath (Join-Path $dir "$env:APP_NAME.exe") -PassThru
+          Start-Sleep -Seconds 8
+          if ($app.HasExited) {
+            Write-Host "::warning::$env:APP_NAME.exe exited right after launch (code $($app.ExitCode))"
+          } else {
+            Stop-Process -Id $app.Id -Force
+          }
+          $u = Start-Process -FilePath (Join-Path $dir "unins000.exe") `
+            -ArgumentList "/VERYSILENT","/SUPPRESSMSGBOXES","/NORESTART" -Wait -PassThru
+          if ($u.ExitCode -ne 0) { throw "uninstaller exited with $($u.ExitCode)" }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows-x64
+          path: dist/${{ env.APP_FILE }}-windows-x64-setup.exe
+          if-no-files-found: error
+
   release:
-    needs: [android, linux]
+    needs: [android, linux, windows]
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
 
-      - name: Read version from pubspec.yaml
+      - name: Read app info
         run: |
-          version="$(sed -n 's/^version:[[:space:]]*\([0-9][^+[:space:]]*\).*/\1/p' pubspec.yaml)"
-          test -n "$version"
+          title="$(sed -n "s/.*static const String name = '\([^']*\)'.*/\1/p" lib/app_info.dart | head -1)"
+          version="$(tr -d '[:space:]' < VERSION)"
+          echo "APP_TITLE=$title" >> "$GITHUB_ENV"
           echo "VERSION=$version" >> "$GITHUB_ENV"
           echo "TAG=v$version" >> "$GITHUB_ENV"
 
@@ -274,14 +364,22 @@ jobs:
         with:
           path: artifacts
 
+      - name: Require signed APKs
+        run: |
+          if ! ls artifacts/android-signed-apks/*.apk >/dev/null 2>&1; then
+            echo "::error::No signed APKs. Add ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS and ANDROID_KEY_PASSWORD to the repository secrets."
+            exit 1
+          fi
+
       - name: Publish to GitHub Releases
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.TAG }}
-          name: komak ${{ env.TAG }}
+          name: ${{ env.APP_TITLE }} ${{ env.TAG }}
           make_latest: true
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
-            artifacts/android-apks/*.apk
+            artifacts/android-signed-apks/*.apk
             artifacts/linux-appimage-*/*.AppImage
+            artifacts/windows-x64/*.exe

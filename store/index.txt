@@ -323,3 +323,16 @@ Markdown Syntax | Syntax and result. | decks/markdown-syntax.json
 tmux Shortcuts | After the Ctrl+b prefix. | decks/tmux-shortcuts.json
 SSH And Network Commands | Command and use. | decks/network-commands.json
 Boolean Logic | Gate and rule. | decks/boolean-logic.json
+
+# vocabulary decks (CSV with a Group column)
+Academic Writing Vocabulary | Essay, thesis and argument words for academic English. | decks/academic-writing.csv
+Economics & Finance Vocabulary | Core terms from economics, markets and money. | decks/economics-finance.csv
+Gen-Z Slang | Internet and Gen-Z vocabulary with plain meanings. | decks/genz-slang.csv
+Idioms & Phrases | English idioms and what they really mean. | decks/idioms-phrases.csv
+Legal Terms | Everyday legal vocabulary explained simply. | decks/legal-terms.csv
+Literary English Vocabulary | Literary verbs and descriptive words, grouped by type. | decks/literary-english.csv
+Loanwords From Other Languages | Words English borrowed, with their origins. | decks/loanwords.csv
+Medical & Anatomy Vocabulary | Anatomy and medical terms made clear. | decks/medical-anatomy.csv
+Philosophy Vocabulary | Branches, thinkers and big ideas in philosophy. | decks/philosophy.csv
+Psychology Vocabulary | Key psychology terms and concepts. | decks/psychology.csv
+Science Basics Vocabulary | Foundations of chemistry, physics and biology, in groups. | decks/science-basics.csv

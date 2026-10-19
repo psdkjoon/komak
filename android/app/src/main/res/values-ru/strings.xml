@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Комак</string>
+    <string name="notification_channel">Уведомления</string>
+    <string name="tile_off">Выкл.</string>
+    <string name="tile_busy">Работает…</string>
+    <string name="tile_on">Вкл.</string>
+    <string name="reminder_channel">Напоминания</string>
+    <string name="service_channel">Фоновая работа</string>
+    <string name="service_running">Работает в фоне</string>
+    <string name="service_stop">Стоп</string>
+    <string name="copied">Скопировано</string>
+    <string name="share">Поделиться</string>
+    <string name="saved_to_downloads">Сохранено в «Загрузки»</string>
+    <string name="biometric_title">Разблокировать</string>
+    <string name="biometric_cancel">Отмена</string>
+    <string name="widget_description">Быстрый доступ к приложению с главного экрана</string>
+    <string name="widget_open">Нажмите, чтобы открыть</string>
+</resources>

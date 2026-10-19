@@ -1,0 +1,36 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:komak/theme/catppuccin.dart';
+
+/// The app mark, drawn from the same vector as the launcher icon so it follows the
+/// current accent color and theme.
+class AppLogo extends StatelessWidget {
+  const AppLogo({required this.size, super.key});
+
+  final double size;
+
+  // How much of the accent is mixed into the neutral base to get the tile color.
+  static const double _darkMix = 0.12;
+  static const double _lightMix = 0.22;
+
+  static const String _glyph =
+      'M18.184 12.288c-1.256 -3.264 -5.728 -3.44 -4.648 -8.184 0.08 -0.352 -0.296 -0.624 -0.6 -0.44C10.032 5.376 7.944 8.808 9.696 13.304c0.144 0.368 -0.288 0.712 -0.6 0.472 -1.448 -1.096 -1.6 -2.672 -1.472 -3.8 0.048 -0.416 -0.496 -0.616 -0.728 -0.272C6.352 10.536 5.8 11.88 5.8 13.904c0.304 4.48 4.088 5.856 5.448 6.032 1.944 0.248 4.048 -0.112 5.56 -1.496 1.664 -1.544 2.272 -4.008 1.376 -6.152zm-7.424 4.024c1.152 -0.28 1.744 -1.112 1.904 -1.848 0.264 -1.144 -0.768 -2.264 -0.072 -4.072 0.264 1.496 2.616 2.432 2.616 4.064 0.064 2.024 -2.128 3.76 -4.448 1.856z';
+
+  static String _hex(Color c) =>
+      '#${(c.toARGB32() & 0xFFFFFF).toRadixString(16).padLeft(6, '0')}';
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    final dark = scheme.brightness == Brightness.dark;
+    final base =
+        (dark ? CatppuccinPalette.mocha : CatppuccinPalette.latte).base;
+    final tile = Color.lerp(base, scheme.primary, dark ? _darkMix : _lightMix)!;
+    final svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">'
+        '<rect width="24" height="24" rx="6.16" fill="${_hex(tile)}"/>'
+        '<path d="$_glyph" fill="${_hex(scheme.primary)}"/></svg>';
+    return ExcludeSemantics(
+      child: SvgPicture.string(svg, width: size, height: size),
+    );
+  }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">komak</string>
+    <string name="notification_channel">Notifications</string>
+    <string name="tile_off">Off</string>
+    <string name="tile_busy">Working…</string>
+    <string name="tile_on">On</string>
+    <string name="reminder_channel">Reminders</string>
+    <string name="service_channel">Background activity</string>
+    <string name="service_running">Running in the background</string>
+    <string name="service_stop">Stop</string>
+    <string name="copied">Copied</string>
+    <string name="share">Share</string>
+    <string name="saved_to_downloads">Saved to Downloads</string>
+    <string name="biometric_title">Unlock</string>
+    <string name="biometric_cancel">Cancel</string>
+    <string name="widget_description">Shortcut to the app on your home screen</string>
+    <string name="widget_open">Tap to open</string>
+</resources>

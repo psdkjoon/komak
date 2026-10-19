@@ -1,0 +1,44 @@
+import 'dart:async';
+import 'dart:io';
+
+import 'package:flutter/services.dart';
+import 'package:komak/settings/app_settings.dart';
+
+/// Tells Android which launcher icon to show: one per accent color and theme.
+///
+/// Dart only reports the user's choice. Android does the rest (see
+/// `LauncherIcon.kt`): it follows the OS theme on its own, also while the app is in
+/// the background, takes accent changes from other apps without Dart running, and
+/// waits for the user to leave the app before it swaps the icon.
+abstract class LauncherIconService {
+  static const _channel = MethodChannel('komak/launcher_icon');
+  static AppSettings? _settings;
+  static String? _sent;
+
+  static void init(AppSettings settings) {
+    if (!Platform.isAndroid || _settings != null) return;
+    _settings = settings;
+    settings.addListener(_push);
+    unawaited(_push());
+  }
+
+  static Future<void> _push() async {
+    final settings = _settings;
+    if (settings == null) return;
+    final mode = settings.themeMode.name;
+    final key = '$mode|${settings.accent}|${settings.appearanceUpdatedAt}';
+    if (key == _sent) return;
+    _sent = key;
+    try {
+      await _channel.invokeMethod<void>('configure', {
+        'mode': mode,
+        'accent': settings.accent,
+        'updatedAt': settings.appearanceUpdatedAt,
+      });
+    } on PlatformException {
+      _sent = null;
+    } on MissingPluginException {
+      _sent = null;
+    }
+  }
+}
