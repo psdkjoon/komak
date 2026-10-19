@@ -43,6 +43,7 @@ jobs:
           test "$file_version" = "$pubspec_version"
 
       - run: flutter pub get
+      - run: dart fix --apply
       - run: flutter analyze
 
   android:

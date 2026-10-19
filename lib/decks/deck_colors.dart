@@ -1,4 +1,3 @@
-import 'package:flutter/painting.dart';
 import 'package:komak/theme/catppuccin.dart';
 
 abstract class DeckColors {
